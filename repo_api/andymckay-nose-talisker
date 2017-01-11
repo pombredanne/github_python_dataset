@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+datetime
+datetime.datetime
+logging
+os
+tempfile
+nose.plugins
+nose.plugins.Plugin
+plugin
+plugin.Talisker

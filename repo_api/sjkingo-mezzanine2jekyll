@@ -1,0 +1,11 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+mezzanine2jekyll
+mezzanine2jekyll.__version__
+django.core.management.base
+django.core.management.base.BaseCommand
+mezzanine.blog.models
+mezzanine.blog.models.BlogPost
+os
+re

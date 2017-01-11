@@ -1,0 +1,8 @@
+functools
+functools.partial
+os
+setuptools
+setuptools.setup
+unittest
+simplecurry
+simplecurry.curried

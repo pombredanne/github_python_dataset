@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+json
+requests
+requests_auth_mashery
+requests_auth_mashery.MasheryAuth
+requests
+requests_auth_mashery.MasheryAuth
+sys
+os

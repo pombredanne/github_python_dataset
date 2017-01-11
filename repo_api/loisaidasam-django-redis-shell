@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+django.db
+django.db.models
+django.shortcuts
+django.shortcuts.render
+djangoredisshell.management.commands.redisshell
+djangoredisshell.management.commands.redisshell.Command
+optparse
+optparse.make_option
+subprocess
+urlparse
+django.conf
+django.conf.settings
+django.core.management.base
+django.core.management.base.BaseCommand

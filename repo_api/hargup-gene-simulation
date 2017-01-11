@@ -1,0 +1,9 @@
+numpy
+itertools
+matplotlib
+matplotlib.pyplot
+functools
+functools.reduce
+numpy
+matplotlib.pyplot
+seaborn

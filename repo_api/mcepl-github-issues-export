@@ -1,0 +1,16 @@
+argparse
+datetime
+getpass
+json
+logging
+os.path
+urllib2
+ConfigParser
+ConfigParser.SafeConfigParser
+xml.etree
+xml.etree.ElementTree
+dateutil.parser
+urllib2_prior_auth
+urllib2_prior_auth.HTTPBasicPriorAuthHandler
+setuptools
+setuptools.setup

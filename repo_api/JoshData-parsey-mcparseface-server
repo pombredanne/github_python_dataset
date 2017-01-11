@@ -1,0 +1,13 @@
+os
+flask
+flask.Flask
+flask.request
+flask.Response
+multiprocessing
+multiprocessing.Pool
+parser
+parser.parse_sentence
+json
+collections
+collections.OrderedDict
+subprocess

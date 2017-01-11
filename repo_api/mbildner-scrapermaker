@@ -1,0 +1,14 @@
+flask
+flask.Flask
+flask.url_for
+flask.render_template
+flask.request
+requests
+bs4
+bs4.BeautifulSoup
+bs4.Tag
+HTMLParser
+js_payload
+js_payload.payload
+sys
+bs4.BeautifulSoup

@@ -1,0 +1,13 @@
+desktop
+desktop._is_x11
+desktop._get_x11_vars
+desktop._readfrom
+desktop.use_desktop
+re
+os
+sys
+subprocess
+desktop.use_desktop
+desktop._run
+desktop._readfrom
+desktop._status

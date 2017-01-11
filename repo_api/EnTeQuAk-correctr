@@ -1,0 +1,17 @@
+os
+codecs
+setuptools
+setuptools.setup
+setuptools.find_packages
+random
+sys
+correctr
+correctr.correct
+os
+cmd
+re
+itertools
+pkg_resources
+unicodedata
+textblob
+textblob.Word

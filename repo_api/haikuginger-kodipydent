@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+beekeeper
+beekeeper.API
+beekeeper.VariableHandler
+beekeeper.render_variables
+kodipydent.rpctohive
+kodipydent.rpctohive.Hive
+json
+kodipydent.KodiClient
+kodipydent.KodiClient.Kodi
+kodipydent.rpctohive.Hive

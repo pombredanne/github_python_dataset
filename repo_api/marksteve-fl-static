@@ -1,0 +1,13 @@
+flask
+flask.Flask
+fl_static
+fl_static.Shock
+fl_static.Jinja2Magic
+setuptools
+setuptools.setup
+werkzeug.serving
+werkzeug.serving.run_simple
+werkzeug.wsgi
+werkzeug.wsgi.DispatcherMiddleware
+jinja2
+static

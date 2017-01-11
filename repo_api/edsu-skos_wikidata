@@ -1,0 +1,8 @@
+sys
+argparse
+rdflib
+rdflib.Graph
+rdflib.Namespace
+wikidata_suggest
+wikidata_suggest.suggest
+wikidata_suggest.Quit

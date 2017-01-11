@@ -1,0 +1,12 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+__future__
+__future__.print_function
+argparse
+os
+re
+sys
+time
+xml.sax.saxutils
+requests

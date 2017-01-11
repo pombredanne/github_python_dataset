@@ -1,0 +1,16 @@
+sys
+sys.argv
+codecs
+codecs.open
+re
+re.compile
+re.sub
+copy
+copy.copy
+os
+shutil
+optparse
+logging
+pygenstrings.genstring
+pygenstrings.genstring.LocalizedString
+pygenstrings.genstring.LocalizedFile

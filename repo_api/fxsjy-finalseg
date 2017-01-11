@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+finalseg
+re
+os
+sys

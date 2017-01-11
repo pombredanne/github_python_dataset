@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+sys
+socket
+logging
+BaseHTTPServer
+httplib2
+oauth2client
+oauth2client.client
+oauth2client.gce
+googledatastore
+googledatastore.connection

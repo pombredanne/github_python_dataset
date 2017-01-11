@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.setup
+sys
+six
+six.b
+unittest
+mock
+mock.Mock
+djangotestxmlrpc
+djangotestxmlrpc.DjangoTestClientXMLRPCTransport

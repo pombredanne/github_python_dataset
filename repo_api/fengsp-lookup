@@ -1,0 +1,7 @@
+sys
+random
+requests
+pyquery
+pyquery.PyQuery
+setuptools
+setuptools.setup

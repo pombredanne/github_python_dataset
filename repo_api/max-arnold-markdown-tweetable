@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+__future__
+__future__.print_function
+__future__.unicode_literals
+re
+markdown.extensions
+markdown.extensions.Extension
+markdown.inlinepatterns
+markdown.inlinepatterns.Pattern

@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+functools
+functools.wraps
+django.contrib
+django.contrib.messages

@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+configparser
+os
+sys
+xml.etree.cElementTree
+click
+requests

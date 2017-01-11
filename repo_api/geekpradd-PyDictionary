@@ -1,0 +1,10 @@
+unittest
+click
+__future__
+__future__.print_function
+sys
+re
+goslate
+requests
+bs4
+bs4.BeautifulSoup

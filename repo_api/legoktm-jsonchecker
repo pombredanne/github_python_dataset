@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+json
+os
+sys
+collections
+collections.defaultdict
+os
+unittest
+jsonchecker

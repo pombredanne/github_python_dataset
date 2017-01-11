@@ -1,0 +1,17 @@
+distutils.core
+distutils.core.setup
+djantimat
+django.db
+django.db.models
+pymorphy2
+re
+pymorphy2
+models
+models.Slang
+models.Slang
+django.contrib
+django.contrib.admin
+__future__
+__future__.unicode_literals
+django.db.models
+django.db.migrations

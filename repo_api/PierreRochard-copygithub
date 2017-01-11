@@ -1,0 +1,9 @@
+os
+subprocess
+subprocess
+subprocess.PIPE
+subprocess.STDOUT
+platform
+github3
+github3.login
+keyring

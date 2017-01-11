@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+sys
+types
+djmicro
+django.shortcuts
+django.shortcuts.render
+os
+sys
+types

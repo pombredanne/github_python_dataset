@@ -1,0 +1,15 @@
+urllib2
+HTMLParser
+re
+zlib
+threading
+time
+datetime
+HTMLParser#HTML解码&lt;
+json#在returnPostHeader中解析Post返回值
+os#打开更新页面
+urllib
+sys#修改默认编码
+socket#捕获TimeOut错误
+sqlite3#数据库！
+pickle

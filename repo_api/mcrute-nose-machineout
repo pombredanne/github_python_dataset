@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+os
+traceback
+nose.plugins
+nose.plugins.Plugin

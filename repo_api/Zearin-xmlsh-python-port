@@ -1,0 +1,17 @@
+os
+sys
+string
+unicodedata
+readline
+rlcompleter
+optparse
+optparse.make_option
+optparse
+subprocess
+xml
+decorator
+decorator.decorator
+cmd2
+cmd2.Cmd
+cmd2.options
+cmd2.__version__

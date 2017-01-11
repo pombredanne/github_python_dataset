@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+pandoc_opml
+pandoc_opml.__version__
+sys
+json
+time
+itertools
+subprocess
+datetime
+datetime.datetime
+xml.etree
+xml.etree.ElementTree

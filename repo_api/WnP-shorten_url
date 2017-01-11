@@ -1,0 +1,6 @@
+re
+weechat
+urllib
+urllib.urlencode
+urllib2
+urllib2.urlopen

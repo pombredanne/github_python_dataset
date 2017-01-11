@@ -1,0 +1,13 @@
+sys
+os
+docutils.nodes
+docutils.transforms
+sphinx
+sphinx.addnodes
+sphinx.directives
+sphinx.environment
+sys
+os
+re
+sys
+shelve

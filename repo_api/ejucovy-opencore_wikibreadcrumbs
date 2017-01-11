@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+opencore.nui.wiki.view
+opencore.nui.wiki.view.WikiEdit

@@ -1,0 +1,12 @@
+numpy
+numpy.loadtxt
+numpy.linspace
+numpy.sqrt
+scipy.interpolate
+scipy.interpolate.UnivariateSpline
+pylab
+numpy.loadtxt
+numpy.linspace
+numpy.sqrt
+scipy.interpolate.UnivariateSpline
+pylab

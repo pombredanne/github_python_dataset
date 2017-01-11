@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+subprocess
+helga.plugins
+helga.plugins.command

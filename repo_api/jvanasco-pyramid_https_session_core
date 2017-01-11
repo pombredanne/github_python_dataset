@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+pyramid.interfaces
+pyramid.interfaces.ISessionFactory
+pyramid.settings
+pyramid.settings.asbool

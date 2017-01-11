@@ -1,0 +1,6 @@
+optparse
+optparse.OptionParser
+smtplib
+urllib2
+email.mime.text
+email.mime.text.MIMEText

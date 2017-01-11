@@ -1,0 +1,9 @@
+ply
+ply.lex
+sys
+sys.stdin
+ply.lex
+ply.yacc
+sys.stdin
+ply.lex
+sys.stdin

@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+argh
+lxml.etree
+requests
+requests_ntlm
+getpass
+os
+argh
+lxml.etree
+requests
+requests_ntlm
+subprocess

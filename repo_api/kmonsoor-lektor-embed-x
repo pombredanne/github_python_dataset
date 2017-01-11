@@ -1,0 +1,12 @@
+codecs
+codecs.open
+os
+os.path
+setuptools
+setuptools.setup
+embedx
+embedx.OnlineContent
+lektor.pluginsystem
+lektor.pluginsystem.Plugin
+markupsafe
+markupsafe.Markup

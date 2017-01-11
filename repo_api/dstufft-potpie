@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+potpie
+argparse
+os
+polib
+pseudo
+pseudo.types
+random
+re
+import
+splitters
+re
+polib
+polib.unescape

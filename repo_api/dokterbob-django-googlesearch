@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.db
+django.db.models
+django.test
+django.test.TestCase
+urllib
+urllib2
+logging
+django.shortcuts
+django.shortcuts.render_to_response
+ajaxgoogle
+ajaxgoogle.search
+django.template
+django.template.RequestContext
+django.conf.urls.defaults

@@ -1,0 +1,4 @@
+numpy
+itertools
+itertools.chain
+itertools.combinations

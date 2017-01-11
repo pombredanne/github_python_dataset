@@ -1,0 +1,11 @@
+fib_iterative
+fib_recursive
+fib_recursive_tail
+fib_recursive_memoized
+functools
+sys
+StringIO
+texttable
+texttable.Texttable
+timeit
+timeit.timeit

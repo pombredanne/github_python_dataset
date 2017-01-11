@@ -1,0 +1,13 @@
+os
+re
+json
+lxml.html
+os
+requests
+lxml.html
+os
+json
+simplekml
+shapely.geometry
+shapely.geometry.mapping
+shapely.geometry.Point

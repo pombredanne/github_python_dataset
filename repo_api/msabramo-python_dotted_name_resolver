@@ -1,0 +1,15 @@
+os
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+imp
+os
+pkg_resources
+sys
+unittest
+os
+dotted_name_resolver
+dotted_name_resolver.PY3
+pytest
+pytest.importorskip

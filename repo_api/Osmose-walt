@@ -1,0 +1,12 @@
+codecs
+os
+re
+setuptools
+setuptools.setup
+setuptools.find_packages
+os.path
+docopt
+docopt.docopt
+PIL
+PIL.Image
+PIL.ImageChops

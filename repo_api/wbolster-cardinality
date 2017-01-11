@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+cardinality
+collections
+itertools
+cardinality
+pytest
+cardinality

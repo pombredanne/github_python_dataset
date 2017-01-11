@@ -1,0 +1,7 @@
+plot
+matplotlib.pyplot
+matplotlib.cm
+numpy
+numpy
+scipy.stats
+scipy.stats.t

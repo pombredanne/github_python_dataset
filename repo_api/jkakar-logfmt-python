@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+unittest
+unittest.TestSuite
+unittest.TestLoader
+logfmt
+logfmt.parse_line
+unittest.TestCase
+logfmt.parser
+logfmt.parser.parse_line

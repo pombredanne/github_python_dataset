@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+unittest
+playstore
+playstore.PlayStore
+re
+requests
+bs4
+bs4.BeautifulSoup

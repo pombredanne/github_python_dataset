@@ -1,0 +1,17 @@
+hashlib
+re
+logging
+sys
+textwrap
+requests
+imp
+io
+os
+tempfile
+mock
+vcr
+unittest2
+ghapt
+ghapt.GithubPackages
+ghapt.generate_package_info
+ghapt.\

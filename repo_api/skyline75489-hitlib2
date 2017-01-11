@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+argparse
+re
+sys
+requests
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

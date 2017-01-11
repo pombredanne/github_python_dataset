@@ -1,0 +1,10 @@
+pygame
+pprint
+os
+requests
+pygame.locals
+sys
+sys.exit
+sys.argv
+pygame
+pygame.sprite

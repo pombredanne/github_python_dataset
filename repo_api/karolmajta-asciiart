@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+sys
+asciiart
+asciiart.parsers
+asciiart.shortcuts
+bisect
+PIL
+PIL.Image
+StringIO
+PIL.Image
+requests

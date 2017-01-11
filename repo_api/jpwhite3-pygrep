@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+pygrep
+glob
+argparse
+__future__.print_function
+sys
+re
+unittest
+unittest.TestCase
+pygrep
+unittest.TestCase
+pygrep.command_line
+pygrep.command_line.main

@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+nose.plugins.errorclass
+nose.plugins.errorclass.ErrorClass
+nose.plugins.errorclass.ErrorClassPlugin
+nose.tools
+nose.tools.make_decorator

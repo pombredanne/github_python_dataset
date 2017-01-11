@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuputils
+setuputils.find_version
+__future__
+__future__.(
+io
+logging
+unittest
+pngcanvas
+codecs
+os.path
+re
+__future__.(
+struct
+sys
+zlib

@@ -1,0 +1,17 @@
+django.db
+django.db.models
+cte_tree.models
+cte_tree.models.CTENode
+django_hstore
+django_hstore.hstore
+salsa.utils
+salsa.utils.buffered_property
+django
+django.template
+django.conf.urls
+django.conf.urls.patterns
+django.conf.urls.url
+django.conf.urls.include
+properties
+functools
+functools.update_wrapper

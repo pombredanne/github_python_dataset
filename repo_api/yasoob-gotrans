@@ -1,0 +1,17 @@
+wx.lib.embeddedimage
+wx.lib.embeddedimage.PyEmbeddedImage
+urllib2
+wx
+goslate
+myIcon
+__future__
+__future__.print_function
+__future__.unicode_literals
+sys
+os
+json
+itertools
+functools
+time
+socket
+xml.etree.ElementTree

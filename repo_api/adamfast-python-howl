@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+celery.task
+celery.task.task
+howl
+optparse
+requests

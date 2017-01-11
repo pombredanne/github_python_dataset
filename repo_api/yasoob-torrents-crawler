@@ -1,0 +1,11 @@
+scrapy.item
+scrapy.item.Item
+scrapy.item.Field
+scrapy.spiders
+scrapy.spiders.BaseSpider
+scrapy
+scrapy.Selector
+urllib
+urlparse
+piratebay.items
+piratebay.items.UniversalItem

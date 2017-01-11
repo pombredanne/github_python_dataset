@@ -1,0 +1,12 @@
+fabric.api
+fabric.contrib.project
+os
+sys
+SimpleHTTPServer
+SocketServer
+__future__
+__future__.unicode_literals
+os
+sys
+pelicanconf
+__future__.unicode_literals

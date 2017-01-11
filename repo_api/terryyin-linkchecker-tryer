@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+re
+sys
+time
+os
+fileinput
+subprocess
+subprocess.call
+subprocess.STDOUT
+unittest
+linkchecker_tryer
+linkchecker_tryer.parse_linkchecker_output
+linkchecker_tryer.filter_out_good_links

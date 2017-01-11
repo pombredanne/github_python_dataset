@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+os
+re
+tempfile
+redbaron
+redbaron.RedBaron
+redflyingbaron
+redflyingbaron.RedFlyingBaron
+re
+sys
+collections
+collections.OrderedDict
+IPython.terminal.embed
+IPython.terminal.embed.InteractiveShellEmbed
+redbaron.RedBaron

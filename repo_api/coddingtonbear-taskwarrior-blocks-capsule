@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.command.test
+setuptools.command.test.test
+sys
+uuid
+taskwarrior_blocks_capsule
+taskwarrior_blocks_capsule.__version__
+datetime
+pytz
+taskwarrior_capsules.capsule
+taskwarrior_capsules.capsule.CommandCapsule
+taskwarrior_capsules.exceptions
+taskwarrior_capsules.exceptions.CapsuleError

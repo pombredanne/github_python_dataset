@@ -1,0 +1,10 @@
+colorama
+colorama.Fore
+colorama.Back
+colorama.Style
+socket
+socket.gethostname
+time
+time.strftime
+os
+subprocess

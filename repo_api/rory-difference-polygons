@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+sys
+fiona
+shapely.ops
+shapely.geometry
+shapely.geometry.shape
+shapely.geometry.mapping
+rtree
+rtree.index
+argparse

@@ -1,0 +1,13 @@
+time
+time.sleep
+sys
+sys.argv
+math
+math.sin
+math.pi
+multiprocessing
+multiprocessing.Process
+multiprocessing.Pipe
+curses
+pyaudio
+struct

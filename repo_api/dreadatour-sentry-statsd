@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.forms
+statsd
+sentry.plugins
+sentry.plugins.Plugin
+sentry_statsd
+sentry_statsd.forms
+sentry_statsd.forms.StatsdOptionsForm

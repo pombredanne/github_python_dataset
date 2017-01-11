@@ -1,0 +1,8 @@
+os
+keystoneclient.v2_0.client
+keystoneclient.apiclient.exceptions
+neutronclient.v2_0.client
+neutronclient.common.exceptions
+novaclient.v1_1.client
+argparse
+pdb

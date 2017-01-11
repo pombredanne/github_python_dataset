@@ -1,0 +1,10 @@
+django.conf.urls.defaults
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager
+settings
+django.db
+django.db.models
+django.contrib.admin
+import

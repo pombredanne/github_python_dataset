@@ -1,0 +1,12 @@
+argparse
+inspect
+sys
+re
+os
+os.path
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+bottle
+pytest

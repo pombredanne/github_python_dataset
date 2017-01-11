@@ -1,0 +1,10 @@
+pytest
+hypothesis
+hypothesis.given
+hypothesis.strategies
+hypothesis.strategies.text
+setuptools
+setuptools.setup
+pytest
+_pytest.python
+_pytest.python.Function

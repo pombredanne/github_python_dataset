@@ -1,0 +1,14 @@
+webapp2
+google.appengine.api
+google.appengine.api.mail
+google.appengine.ext
+google.appengine.ext.webapp
+google.appengine.ext.webapp.util
+google.appengine.ext.webapp.util.run_wsgi_app
+google.appengine.ext.webapp.mail_handlers
+google.appengine.ext.webapp.mail_handlers.InboundMailHandler
+google.appengine.ext.ndb
+google.appengine.ext.db
+google.appengine.ext.blobstore
+google.appengine.api.files
+google.appengine.api.users

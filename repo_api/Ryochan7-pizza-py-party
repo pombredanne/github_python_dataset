@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+pizza_py_party
+os
+sys
+optparse
+re
+urllib2
+cookielib
+xml.dom
+xml.dom.minidom
+htmllib_adapter
+formatter
+urllib
+urllib.urlencode
+getpass
+getpass.getpass

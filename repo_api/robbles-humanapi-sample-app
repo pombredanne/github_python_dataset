@@ -1,0 +1,17 @@
+rauth
+rauth.OAuth2Service
+json
+settings
+os
+os.environ
+flask
+flask.Flask
+flask.request
+flask.render_template
+flask.url_for
+flask.redirect
+flask.session
+humanapi
+humanapi.get_authorize_url
+humanapi.get_auth_session
+settings

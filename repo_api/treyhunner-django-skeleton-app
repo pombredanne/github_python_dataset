@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+packagename
+packagename.__version__
+sys
+os.path
+os.path.abspath
+os.path.dirname
+django.conf
+django.conf.settings
+sys
+os

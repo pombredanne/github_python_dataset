@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+Cython.Build
+Cython.Build.cythonize
+matplotlib
+numpy
+pymc
+pandas
+math
+math.factorial
+biv_pois

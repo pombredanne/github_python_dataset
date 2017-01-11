@@ -1,0 +1,8 @@
+argparse
+json
+logging
+requests
+smtplib
+sys
+email.mime.text
+email.mime.text.MIMEText

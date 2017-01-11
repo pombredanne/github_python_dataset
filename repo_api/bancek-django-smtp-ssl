@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+smtplib
+django.core.mail.utils
+django.core.mail.utils.DNS_NAME
+django.core.mail.backends.smtp
+django.core.mail.backends.smtp.EmailBackend

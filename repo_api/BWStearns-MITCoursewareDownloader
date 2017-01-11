@@ -1,0 +1,11 @@
+StringIO
+zipfile
+requests
+requests.Session
+os
+os.path
+os.rename
+urlparse
+urlparse.urljoin
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

@@ -1,0 +1,8 @@
+site
+os.path
+sys
+morepath
+webob.exc
+webob.exc.HTTPNotFound
+webob.exc.HTTPInternalServerError
+vendor

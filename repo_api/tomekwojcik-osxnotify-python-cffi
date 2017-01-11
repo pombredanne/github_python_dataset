@@ -1,0 +1,8 @@
+codecs
+setuptools
+setuptools.setup
+sys
+os
+cffi
+osxnotify_cffi
+osxnotify_cffi.notify

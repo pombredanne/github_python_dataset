@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.conf
+django.conf.settings
+django.core.files.storage
+django.core.files.storage.Storage
+django.utils.functional
+django.utils.functional.cached_property
+requests
+requests.exceptions
+requests.exceptions.RequestException
+urlparse
+urlparse.urljoin

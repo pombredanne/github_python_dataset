@@ -1,0 +1,7 @@
+collections
+collections.defaultdict
+google.appengine.api
+google.appengine.api.memcache
+google.appengine.ext
+google.appengine.ext.db
+webapp2

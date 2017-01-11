@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+fontawesome
+fontawesome.register
+__future__
+__future__.unicode_literals
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.roles

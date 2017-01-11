@@ -1,0 +1,15 @@
+__future__
+__future__.print_function
+getpass
+getpass.getpass
+os
+os.popen
+keyring
+keyring.get_password
+keyring.set_password
+re
+libcloud.dns.providers
+libcloud.dns.providers.get_driver
+libcloud.common.types
+libcloud.common.types.InvalidCredsError
+attr

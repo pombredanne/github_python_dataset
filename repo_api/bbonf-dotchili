@@ -1,0 +1,17 @@
+chili
+chili.command
+chili
+chili.keyboard
+chili.keyboard
+chili.keyboard.hotkey
+chili.ui
+chili.timer
+chili.timer.every
+chili.wm
+os
+time
+subprocess
+pytz
+datetime
+Cocoa
+Cocoa.NSApplication

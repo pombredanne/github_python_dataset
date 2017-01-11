@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+serial
+time
+serial.tools
+serial.tools.list_ports

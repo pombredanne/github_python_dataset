@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+logging
+sys
+pep8
+nose
+nose.plugins
+nose.util

@@ -1,0 +1,12 @@
+sys
+logging
+requests
+json
+openpyxl
+openpyxl.load_workbook
+urllib2
+urllib2.urlopen
+requests.exceptions
+requests.exceptions.RequestException
+bs4
+bs4.BeautifulSoup

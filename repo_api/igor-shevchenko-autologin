@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+py2exe
+ConfigParser
+ConfigParser.SafeConfigParser
+time
+time.sleep
+requests

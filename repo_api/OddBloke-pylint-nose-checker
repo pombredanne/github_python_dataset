@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+logilab.astng
+logilab.astng.MANAGER
+logilab.astng.builder
+logilab.astng.builder.ASTNGBuilder
+nose
+nose.tools
+logilab.astng.MANAGER

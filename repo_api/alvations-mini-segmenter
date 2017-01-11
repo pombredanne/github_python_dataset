@@ -1,0 +1,10 @@
+os
+codecs
+re
+math
+itertools
+itertools.izip
+minisegmenter
+sys;
+reload(sys);
+sys.setdefaultencoding('utf8')

@@ -1,0 +1,8 @@
+psycopg2
+argparse
+os
+sys
+tarfile
+getpass
+xml.dom
+xml.dom.pulldom

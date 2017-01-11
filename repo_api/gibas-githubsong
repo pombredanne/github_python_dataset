@@ -1,0 +1,13 @@
+os
+sys
+json
+scipy
+httplib
+scikits.audiolab
+scipy.io.wavfile
+scipy.io.wavfile.write
+numpy
+numpy.linspace
+numpy.sin
+numpy.pi
+numpy.int16

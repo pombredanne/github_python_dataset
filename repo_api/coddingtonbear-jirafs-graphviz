@@ -1,0 +1,14 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+jirafs_graphviz
+jirafs_graphviz.__version__
+hashlib
+os
+subprocess
+jirafs.plugin
+jirafs.plugin.Plugin
+jirafs.plugin.PluginOperationError
+jirafs.plugin.PluginValidationError

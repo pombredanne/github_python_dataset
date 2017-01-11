@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+ninethreesix
+ninethreesix.__version__
+argparse
+os
+random
+random.sample
+re
+re.sub
+re.findall
+nose.tools
+nose.tools.eq_
+password
+password.Password
+password.Password

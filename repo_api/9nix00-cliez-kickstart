@@ -1,0 +1,17 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+___pkg___
+os
+argparse
+cliez
+cliez.conf
+cliez.parser
+cliez.parser.parse
+___pkg___
+___pkg___.version
+cliez.component
+cliez.component.Component
+cliez.slot
+cliez.slot.SlotComponent
+threading

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+requests
+urllib
+urllib.quote
+urllib.urlencode
+urlparse
+urlparse.parse_qs
+linkedin_auth
+linkedin_auth.LinkedInAuth
+string
+random
+oauth2
+oauth2.OAuth2

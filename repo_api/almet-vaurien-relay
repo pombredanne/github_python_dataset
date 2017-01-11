@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+urlparse
+urlparse.urlparse
+time
+vaurien.client
+vaurien.client.Client
+zerorpc
+sys
+time
+unittest
+unittest.TestCase
+subprocess
+subprocess.Popen
+vaurienrelay
+vaurienrelay.RPCRelay

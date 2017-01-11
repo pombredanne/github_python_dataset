@@ -1,0 +1,12 @@
+__future__
+__future__.unicode_literals
+pywikibot
+pywikibot.family
+json
+os
+re
+pywikibot
+time
+urllib
+urllib.request
+urllib.parse

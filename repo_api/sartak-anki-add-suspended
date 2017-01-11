@@ -1,0 +1,8 @@
+ankiqt.ui.addcards
+ankiqt.ui.addcards.AddCards
+anki.hooks
+anki.hooks.wrap
+anki.utils
+anki.utils.stripHTML
+PyQt4.QtGui
+PyQt4.QtCore

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+argparse
+argparse.ArgumentParser
+json
+logging
+os
+pathlib
+pathlib.Path
+sqlite3
+librarylib.database
+librarylib.database.SCHEMA

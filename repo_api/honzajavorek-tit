@@ -1,0 +1,9 @@
+os
+re
+sh
+click
+requests
+lxml
+lxml.html
+setuptools
+setuptools.setup

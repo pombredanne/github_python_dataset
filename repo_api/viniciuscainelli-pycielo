@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+os
+requests
+modules
+BeautifulSoup
+BeautifulSoup.BeautifulStoneSoup
+datetime
+datetime.date
+BeautifulSoup.Tag
+BeautifulSoup.NavigableString

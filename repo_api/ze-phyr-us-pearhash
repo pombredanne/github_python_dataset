@@ -1,0 +1,7 @@
+unittest
+pearhash
+pearhash.PearsonHasher
+setuptools
+setuptools.setup
+random
+binascii

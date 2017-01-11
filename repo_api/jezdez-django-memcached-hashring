@@ -1,0 +1,12 @@
+__future__
+__future__.print_function
+ast
+os
+codecs
+setuptools
+setuptools.setup
+django.core.cache.backends.memcached
+django.core.cache.backends.memcached.MemcachedCache
+import
+hash_ring.memcache_ring
+hash_ring.memcache_ring.MemcacheRing

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os.path
+os.path.join
+os.path.dirname
+django_assets
+django_assets.Bundle
+__future__
+__future__.absolute_import
+django.conf
+django.conf.settings

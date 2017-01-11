@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+lektor.pluginsystem
+lektor.pluginsystem.Plugin
+lektor.markdown
+lektor.markdown.Markdown

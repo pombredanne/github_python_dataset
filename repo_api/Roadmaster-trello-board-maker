@@ -1,0 +1,17 @@
+argparse
+trello
+pprint
+sys
+launchpadlib.launchpad
+launchpadlib.launchpad.Launchpad
+argparse
+trello
+storyparser
+storyparser.parse_stories
+pprint
+sys
+time
+requests
+sys
+re
+pprint

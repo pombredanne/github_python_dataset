@@ -1,0 +1,10 @@
+requests
+setuptools
+setuptools.setup
+copy
+copy.deepcopy
+sys
+unittest
+json
+thriftdb
+thriftdb.ThriftDB

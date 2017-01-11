@@ -1,0 +1,10 @@
+__future__
+__future__.print_function
+sys
+os
+wand.color
+wand.color.Color
+wand.image
+wand.image.Image
+wand.drawing
+wand.drawing.Drawing

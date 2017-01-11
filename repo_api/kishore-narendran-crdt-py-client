@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+unittest.TestCase
+crdtpy
+tests.unit.tests
+tests.unit.tests.*Ifrom
+tests.unit.tests.credit
+tests.unit.tests.import
+tests.unit.tests.Credit
+warnings

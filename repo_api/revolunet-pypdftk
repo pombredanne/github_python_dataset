@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+os
+subprocess
+tempfile
+shutil

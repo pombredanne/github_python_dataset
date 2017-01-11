@@ -1,0 +1,11 @@
+os
+time
+requests
+bs4
+bs4.BeautifulSoup
+collections
+collections.namedtuple
+requests.auth
+requests.auth.HTTPBasicAuth
+jinja2
+jinja2.Template

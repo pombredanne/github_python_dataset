@@ -1,0 +1,8 @@
+argparse
+lib
+lib.Anagrammer
+itertools
+xml.etree
+xml.etree.ElementTree
+lib.anagram
+lib.anagram.Anagrammer

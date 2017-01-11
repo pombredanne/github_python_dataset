@@ -1,0 +1,7 @@
+os
+setuptools
+setuptools.setup
+ast
+inspect
+qualname
+qualname.qualname

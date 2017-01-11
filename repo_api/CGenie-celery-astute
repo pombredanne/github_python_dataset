@@ -1,0 +1,9 @@
+__future__
+__future__.absolute_import
+celery
+celery.Celery
+__future__.absolute_import
+celery
+time
+proj.celery
+proj.celery.app

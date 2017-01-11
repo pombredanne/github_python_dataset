@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+qbittorrentpy.Client
+qbittorrentpy.Client.Client
+requests
+requests.auth
+requests.auth.HTTPDigestAuth
+qbittorrentpy.Torrent
+qbittorrentpy.Torrent.Torrent

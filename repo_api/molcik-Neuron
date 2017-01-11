@@ -1,0 +1,15 @@
+pandas
+numpy
+Logging
+Logging.Log
+numpy
+numpy.eye
+numpy.zeros
+numpy.ones
+numpy.dot
+numpy.exp
+numpy.random
+numpy.random.rand
+numpy.random.randn
+numpy.linalg
+numpy.linalg.inv

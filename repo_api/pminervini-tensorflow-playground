@@ -1,0 +1,15 @@
+tensorflow
+numpy
+tensorflow.models.rnn
+tensorflow.models.rnn.rnn_cell
+tensorflow.models.rnn.rnn
+keras.preprocessing
+keras.preprocessing.sequence
+keras.preprocessing.text
+random
+sys
+tensorflow
+numpy
+tensorflow.models.rnn.rnn_cell
+tensorflow.models.rnn.rnn
+sys

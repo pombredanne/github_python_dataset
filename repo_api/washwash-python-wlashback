@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+wlashback
+os
+time
+tempfile
+tarfile
+shutil
+shutil.copyfile
+configparser
+configparser.ConfigParser
+os
+wlashback
+wlashback.wlashback

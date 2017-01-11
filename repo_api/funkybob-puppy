@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django_redis.cache
+django_redis.cache.RedisCache
+django.conf
+django.conf.settings
+time
+time.sleep
+logging
+django.core.cache.backend.memcached
+django.core.cache.backend.memcached.PyLibMCCache
+django.conf.settings
+time.sleep
+logging

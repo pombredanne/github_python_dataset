@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+textstat.textstat
+textstat.textstat.textstat
+__future__
+__future__.print_function
+pkg_resources
+string
+re
+math
+operator

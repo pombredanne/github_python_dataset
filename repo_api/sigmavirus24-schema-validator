@@ -1,0 +1,11 @@
+setuptools
+schema_validator
+schema_validator.metadata
+argparse
+import
+json
+re
+jsonschema
+netaddr
+rfc3986
+yaml

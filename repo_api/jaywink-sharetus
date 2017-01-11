@@ -1,0 +1,17 @@
+PySide
+PySide.QtCore
+tags
+targets
+PySide.QtCore
+PySide.QtGui
+PySide.QtDeclarative
+QtSparql
+urllib
+json
+re
+sys
+os
+traceback
+urllib2
+PySide.QtCore
+QtSparql

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+wrapper
+wrapper.read_pdf_table
+subprocess
+io
+shlex
+os
+pandas

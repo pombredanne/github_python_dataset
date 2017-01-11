@@ -1,0 +1,15 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+paste.script.templates
+paste.script.templates.Template
+fly.skels.base
+fly.skels.base.var
+fly.skels.base.BaseTemplate
+paste.script
+paste.script.templates
+paste.script.command
+paste.script.command.BadCommand
+paste.script.templates.BasicPackage

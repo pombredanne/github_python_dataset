@@ -1,0 +1,11 @@
+itertools
+sys
+collections
+collections.defaultdict
+pyparsing
+pyparsing.CharsNotIn
+pyparsing.Group
+pyparsing.Optional
+pyparsing.Word
+pyparsing.ZeroOrMore
+pyparsing.alphanums

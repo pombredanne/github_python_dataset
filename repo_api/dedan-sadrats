@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+os
+sys
+telnetlib
+Tkinter
+tkFileDialog
+tkMessageBox

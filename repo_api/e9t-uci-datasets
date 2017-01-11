@@ -1,0 +1,5 @@
+__future__
+__future__.unicode_literals
+html5lib
+json
+encoding

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+os
+re
+sys
+subprocess
+jinja2
+jinja2.Environment
+jinja2.FileSystemLoader
+jinja2.nodes
+jinja2.ext
+jinja2.ext.Extension
+hamlish_jinja
+hamlish_jinja.HamlishExtension
+hamlish_jinja.Hamlish

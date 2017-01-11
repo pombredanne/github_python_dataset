@@ -1,0 +1,9 @@
+edmc
+edmc.companion
+platform
+bs4
+bs4.BeautifulSoup
+re
+requests_cache
+requests_cache.core
+requests_cache.core.CachedSession

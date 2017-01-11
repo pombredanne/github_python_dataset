@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+pytest
+vrappa
+vrappa.misc
+pprint
+smtplib
+datetime
+traceback
+email.MIMEText
+email.MIMEText.MIMEText
+import
+functools

@@ -1,0 +1,11 @@
+__future__
+__future__.unicode_literals
+json
+sys
+urlparse
+webbrowser
+oauthlib.oauth1.rfc5849.utils
+oauthlib.oauth1.rfc5849.utils.escape
+requests
+requests_oauthlib
+requests_oauthlib.OAuth1

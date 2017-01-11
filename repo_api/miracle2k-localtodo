@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+sys
+glob
+os
+os.path
+json
+docopt
+#
+http://pypi.python.org/pypi/docopt/

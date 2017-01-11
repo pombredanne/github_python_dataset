@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+distutils
+distutils.log
+setuptools.Command
+subprocess
+subprocess.check_call
+shutil
+shutil.rmtree

@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.find_packages
+setuptools.setup
+sys
+os
+shlex
+inspect
+requests
+objects
+objects.Game
+methods
+methods.AppDetails
+methods.Genre
+methods.Top100In2Weeks
+methods.Top100Forever
+methods.\

@@ -1,0 +1,14 @@
+flask
+flask.Flask
+gunicorn_meat
+gunicorn_meat.Meat
+setuptools
+setuptools.setupfrom
+setuptools.core
+setuptools.import
+setuptools.Meatfrom
+setuptools.gunicorn
+setuptools.import
+setuptools.util
+gunicorn.app.base
+gunicorn.app.base.Application

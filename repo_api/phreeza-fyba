@@ -1,0 +1,11 @@
+fyba
+pymc
+pymc.Exponential
+pymc.deterministic
+pymc.Poisson
+pymc.Normal
+pymc.Deterministic
+pymc.Uniform
+numpy
+pymc
+pymc.gp

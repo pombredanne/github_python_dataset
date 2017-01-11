@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+codecs
+codecs.open
+os
+os.path
+collections
+configparser
+datetime
+os
+subprocess
+sys
+tempfile
+appdirs

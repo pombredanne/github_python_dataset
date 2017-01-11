@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+jinja2utils
+jinja2utils.matcher
+jinja2utils.Stack
+jinja2utils.Stack
+__future__
+__future__.absolute_import
+stack
+match

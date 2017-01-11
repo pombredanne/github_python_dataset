@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+sys
+os
+unittest
+mockie.test_case
+mockie.test_case.TestCase
+unittest
+test_case
+test_case.TestCase

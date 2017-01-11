@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.Extension
+Cython.Build
+Cython.Build.cythonize
+os
+imgui.core
+imgui.core.*
+imgui.core.#
+imgui.core.noqa
+imgui
+imgui.core
+glfw
+OpenGL.GL
+imgui
+ctypes

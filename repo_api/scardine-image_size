@@ -1,0 +1,10 @@
+codecs
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+collections
+json
+os
+struct
+unittest

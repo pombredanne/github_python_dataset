@@ -1,0 +1,17 @@
+docopt
+sys
+fractions
+fractions.Fraction
+newlinejson
+docopt
+sys
+newlinejson
+fractions.Fraction
+collections
+collections.defaultdict
+docopt
+sys
+collections.defaultdict
+fractions.Fraction
+newlinejson
+tablib

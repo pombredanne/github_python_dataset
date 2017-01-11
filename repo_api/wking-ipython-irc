@@ -1,0 +1,5 @@
+distutils.core
+distutils.core.setup
+ipythonirc
+ipythonirc.__version__
+IPython.display

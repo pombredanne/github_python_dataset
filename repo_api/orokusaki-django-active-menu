@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.conf
+django.conf.settings
+django.core.urlresolvers
+django.core.urlresolvers.resolve
+active_menu.utils
+active_menu.utils.isactive
+active_menu.utils.menu_item
+active_menu.menu
+active_menu.menu.MenuItem
+active_menu.menu.Menu
+django
+django.template
+active_menu.utils.isactive

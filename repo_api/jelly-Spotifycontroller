@@ -1,0 +1,8 @@
+web_api
+pyspotify
+pyspotify.SpotifyController
+requests
+json
+dbus
+dbus.exceptions
+dbus.exceptions.DBusException

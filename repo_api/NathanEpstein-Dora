@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+math
+pandas
+numpy
+matplotlib.pyplot
+sklearn
+sklearn.preprocessing
+sklearn.feature_extraction
+sklearn.feature_extraction.DictVectorizer
+main
+main.Doraimport
+main.unittest
+main.Dora
+pandas

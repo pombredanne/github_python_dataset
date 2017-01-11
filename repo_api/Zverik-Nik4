@@ -1,0 +1,9 @@
+mapnik
+sys
+os
+re
+argparse
+math
+tempfile
+distutils.core
+distutils.core.setup

@@ -1,0 +1,6 @@
+collections
+collections.defaultdict
+itertools
+re
+subprocess
+unicodedata

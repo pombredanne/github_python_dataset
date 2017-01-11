@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+re
+sys
+io
+io.BytesIO
+distutils
+distutils.log
+distutils.cmd
+distutils.cmd.Command
+subprocess
+subprocess.check_output
+distutils.errors
+distutils.errors.DistutilsError

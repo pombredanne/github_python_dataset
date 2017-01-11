@@ -1,0 +1,10 @@
+unittest
+selector
+selector.Selector
+selector.LabeledSelector
+setuptools
+setuptools.setup
+itertools
+itertools.cycle
+operator
+operator.itemgetter

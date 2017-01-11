@@ -1,0 +1,9 @@
+pyshtach
+pyshtach.parse
+pyshtach.Parser
+os
+sys
+subprocess
+rply
+rply.ParserGenerator
+rply.LexerGenerator

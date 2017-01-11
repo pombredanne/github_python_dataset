@@ -1,0 +1,10 @@
+string
+weakref
+weakref.ref
+copy
+sys
+warnings
+re
+sre_constants
+collections
+types

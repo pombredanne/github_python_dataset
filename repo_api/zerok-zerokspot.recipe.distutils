@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+sys
+site
+subprocess
+shutil
+tempfile
+urllib2
+logging
+string
+os.path
+zc.buildout
+setuptools.archive_util
+distutils.core

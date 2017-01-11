@@ -1,0 +1,15 @@
+distutils.util
+distutils.util.convert_path
+setuptools
+setuptools.find_packages
+setuptools.setup
+googleapiclient.discovery
+googleapiclient.discovery.build
+googleapiclient.discovery.DISCOVERY_URI
+googleapiclient.errors
+googleapiclient.errors.HttpError
+apiclient.http
+apiclient.http.MediaFileUpload
+httplib2
+httplib2.Http
+json

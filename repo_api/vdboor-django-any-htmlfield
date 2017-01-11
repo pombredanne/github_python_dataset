@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.forms
+widgets
+widgets.WygiwygEditorWidget
+django.db
+django.db.models
+widgets.WygiwygEditorWidget
+django.contrib.admin
+django.contrib.admin.options
+django.conf
+django.conf.settings

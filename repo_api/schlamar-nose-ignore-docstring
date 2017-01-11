@@ -1,0 +1,4 @@
+setuptools
+setuptools.setup
+nose.plugins.base
+nose.plugins.base.Plugin

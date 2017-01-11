@@ -1,0 +1,13 @@
+PIL
+PIL.Image
+__future__
+__future__.unicode_literals
+cStringIO
+cStringIO.StringIO
+baidupcsapi
+baidupcsapi.PCS
+wget
+os
+hashlib
+getpass
+platform

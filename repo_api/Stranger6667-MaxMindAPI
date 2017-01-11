@@ -1,0 +1,12 @@
+os
+sys
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+sys
+decimal
+decimal.Decimal
+hashlib
+hashlib.md5
+requests

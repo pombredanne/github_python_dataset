@@ -1,0 +1,9 @@
+webapp2
+json
+datetime
+lxml.etree
+urllib2
+HTMLParser
+urllib
+google.appengine.api
+google.appengine.api.memcache

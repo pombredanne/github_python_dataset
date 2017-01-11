@@ -1,0 +1,9 @@
+collections
+collections.Counter
+redis
+threading
+uwsgi
+wsgiref.simple_server
+wsgiref.simple_server.demo_app
+argparse
+redis

@@ -1,0 +1,12 @@
+random
+random.choice
+os
+os.environ
+time
+time.sleep
+twitter
+twitter.Twitter
+twitter.oauth
+twitter.oauth.OAuth
+tla_ound
+tla_ound.generator

@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+shutil
+better
+better.better_theme_path
+setuptools_scm
+setuptools_scm.get_version

@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+imhdsk
+requests
+time
+lxml
+lxml.html
+sys

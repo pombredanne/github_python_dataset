@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+api
+os
+requests
+simplejson
+oauth_hook
+oauth_hook.OAuthHook

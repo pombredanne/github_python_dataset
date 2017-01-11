@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+flask
+flask.current_app
+qwapp.plugin
+qwapp.plugin.Plugin
+leagueoflegends
+pkg_resources

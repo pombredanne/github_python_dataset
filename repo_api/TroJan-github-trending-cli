@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+sys
+click
+import
+os
+click
+requests
+webbrowser
+lxml
+lxml.etree
+unittest
+click.testing
+click.testing.CliRunner
+githubtrending
+githubtrending.trending

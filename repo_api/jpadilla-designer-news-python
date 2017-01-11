@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+re
+sys
+unittest
+mock
+designer_news
+designer_news.DesignerNews
+inspect
+requests

@@ -1,0 +1,15 @@
+__future__
+__future__.print_function
+argparse
+hashlib
+os
+subprocess
+sys
+binstar_client.utils
+binstar_client.utils.get_binstar
+binstar_client.errors
+conda.config
+conda_build.metadata
+conda_build.metadata.MetaData
+conda_build.build
+conda_build.build.bldpkg_path

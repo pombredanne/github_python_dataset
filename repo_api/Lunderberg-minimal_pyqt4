@@ -1,0 +1,5 @@
+sys
+PyQt4
+PyQt4.uic
+PyQt4.QtGui
+PyQt4.QtCore

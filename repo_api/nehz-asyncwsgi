@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+threading
+functools
+functools.wraps
+greenlet
+greenlet.greenlet
+greenlet.getcurrent

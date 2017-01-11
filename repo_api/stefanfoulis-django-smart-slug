@@ -1,0 +1,17 @@
+datetime
+django.db.models.fields
+django.db.models.fields.SlugField
+django.db
+django.db.models
+django.template.defaultfilters
+django.template.defaultfilters.slugify
+django.db.models
+smart_slug.fields
+smart_slug.fields.SmartSlugField
+datetime
+django.test
+django.test.TestCase
+smart_slug.tests.models
+smart_slug.tests.models.Simple
+smart_slug.tests.models.Complex
+smart_slug.tests.models.UnderscoresNumerals

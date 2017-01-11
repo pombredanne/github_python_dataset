@@ -1,0 +1,14 @@
+xbmcswift2
+xbmcswift2.Plugin
+xbmcswift2.xbmc
+xbmcswift2.xbmcgui
+resources.lib.client
+resources.lib.client.(
+imaplib
+re
+socket
+email.parser
+email.parser.HeaderParser
+email.parser.Parser
+email.Header
+email.Header.decode_header

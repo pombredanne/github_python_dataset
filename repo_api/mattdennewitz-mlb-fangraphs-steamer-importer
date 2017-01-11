@@ -1,0 +1,13 @@
+collections
+json
+click
+unicodecsv
+scrapy
+decimal
+os
+re
+unicodecsv
+urlparse
+scrapy
+items
+items.Projection

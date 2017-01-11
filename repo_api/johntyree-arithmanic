@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+__future__
+__future__.division
+__future__.print_function
+os
+math
+json
+random
+operator
+operator.add
+operator.mul
+operator.sub
+operator.truediv
+collections
+collections.namedtuple

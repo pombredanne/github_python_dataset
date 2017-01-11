@@ -1,0 +1,8 @@
+sys
+asyncore
+socket
+json
+bsddb
+urllib2
+getpass
+Growl

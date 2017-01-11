@@ -1,0 +1,9 @@
+sys
+setuptools
+setuptools.setup
+buffo
+email.utils
+email.utils.parseaddr
+os.path
+ftplib
+ftplib.FTP

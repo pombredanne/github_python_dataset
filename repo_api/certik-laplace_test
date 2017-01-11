@@ -1,0 +1,16 @@
+numpy
+numpy.zeros
+scipy
+scipy.weave
+timeit
+timeit.default_timer
+distutils.core
+distutils.core.setup
+distutils.extension
+distutils.extension.Extension
+Cython.Distutils
+Cython.Distutils.build_ext
+numpy
+numpy.zeros
+scipy.weave
+timeit.default_timer

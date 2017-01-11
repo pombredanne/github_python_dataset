@@ -1,0 +1,13 @@
+__future__
+__future__.unicode_literals
+flask
+flask.Flask
+flask.render_template
+arrow
+utils
+utils.get_issues
+__future__.unicode_literals
+__future__.unicode_literals
+flask.current_app
+redmine
+redmine.Redmine

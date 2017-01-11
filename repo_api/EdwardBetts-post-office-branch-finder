@@ -1,0 +1,16 @@
+mechanize
+string
+sys
+re
+os
+lxml.html
+lxml.html.parse
+lxml.html.tostring
+lxml.html.fromstring
+scraperwiki
+scraperwiki.metadata
+scraperwiki.sqlite
+scraperwiki.geo
+scraperwiki.geo.gb_postcode_to_latlng
+time
+time.sleep

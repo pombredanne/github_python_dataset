@@ -1,0 +1,17 @@
+codecs
+re
+os
+os.path
+setuptools
+setuptools.setup
+setuptools.find_packages
+json
+django.template.base
+django.template.base.TextNode
+django.template.loader_tags
+django.template.loader_tags.BlockNode
+django.template.loader_tags.ExtendsNode
+django.template.loader_tags.BLOCK_CONTEXT_KEY
+django.template.loader_tags.BlockContext
+django.template.response
+django.template.response.TemplateResponse

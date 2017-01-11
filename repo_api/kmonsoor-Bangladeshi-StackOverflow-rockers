@@ -1,0 +1,8 @@
+csv
+json
+requests
+tldextract
+bs4
+bs4.BeautifulSoup
+tabulate
+tabulate.tabulate

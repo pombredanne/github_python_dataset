@@ -1,0 +1,8 @@
+scipy.optimize
+numpy
+sympy.utilities.lambdify
+sympy.utilities.lambdify.lambdify
+sympy
+matplotlib.pyplot
+mpl_toolkits.mplot3d
+mpl_toolkits.mplot3d.Axes3D

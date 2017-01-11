@@ -1,0 +1,4 @@
+requests
+click
+lxml.html
+lxml.html.fromstring

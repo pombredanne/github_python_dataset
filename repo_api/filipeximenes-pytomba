@@ -1,0 +1,13 @@
+requests_oauthlib
+requests_oauthlib.OAuth2
+pytomba
+pytomba.ApiClient
+pytomba.BaseClientAdapter
+decouple
+decouple.config
+requests
+webbrowser
+requests_oauthlib.OAuth1
+pytomba.ApiClient
+pytomba.BaseClientAdapter
+decouple.config

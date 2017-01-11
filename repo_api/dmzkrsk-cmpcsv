@@ -1,0 +1,15 @@
+os
+sys
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+argparse
+csv
+csv.DictReader
+six
+six.moves
+six.PY3
+io
+re
+logging.config

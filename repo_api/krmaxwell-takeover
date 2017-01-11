@@ -1,0 +1,5 @@
+os
+pygame
+random
+sys
+pygame.locals

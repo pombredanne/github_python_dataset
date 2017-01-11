@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+os
+setuptools
+sys
+re

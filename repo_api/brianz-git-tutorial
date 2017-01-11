@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+pytest
+contrived.strings
+contrived.strings.(
+pytest
+decimal
+decimal.Decimal
+contrived.numbers
+contrived.numbers.(

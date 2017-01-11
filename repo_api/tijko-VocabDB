@@ -1,0 +1,15 @@
+sqlite3
+argparse
+lib.query
+lib.query.reference
+lib.storage
+lib.storage.WordLog
+mechanize
+storage
+storage.WordLog
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+sqlite3
+collections
+os
+os.environ

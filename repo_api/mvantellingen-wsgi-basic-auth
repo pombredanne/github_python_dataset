@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+pkg_resources
+webtest
+webtest.TestApp
+wsgi_basic_auth
+os
+base64
+base64.b64decode
+webob
+webob.Request
+webob.exc
+webob.exc.HTTPUnauthorized

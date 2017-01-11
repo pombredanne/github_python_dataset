@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+os
+subprocess
+subprocess.call
+tempfile
+click
+kazoo.client
+kazoo.client.KazooClient
+six

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+email.feedparser
+email.feedparser.BufferedSubFile
+re
+itertools
+itertools.zip_longest
+io
+io.StringIO
+email.parser
+email.parser.Parser

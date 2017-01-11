@@ -1,0 +1,15 @@
+distutils.core
+distutils.core.setup
+cStringIO
+cStringIO.StringIO
+re
+yaml
+networkx
+dameraulevenshtein
+dameraulevenshtein.dameraulevenshtein
+fuzzy_substring_match
+fuzzy_substring_match.fuzzy_substring
+re
+urllib2
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

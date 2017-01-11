@@ -1,0 +1,5 @@
+setuptools
+psycopg2.extensions
+psycopg2.extensions.register_adapter
+psycopg2.extensions.AsIs
+numpy

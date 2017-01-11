@@ -1,0 +1,14 @@
+speedcenter.settings
+speedcenter
+speedcenter.settings
+speedcenter
+os.path
+django.conf
+django.conf.settings
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.include
+django.conf.urls.defaults.handler404
+django.conf.urls.defaults.handler500
+django.core.management
+django.core.management.execute_manager

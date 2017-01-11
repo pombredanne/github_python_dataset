@@ -1,0 +1,12 @@
+flask
+flask.ext.cors
+flask.ext.cors.CORS
+flask.ext.cors.cross_origin
+hashlib
+os
+random
+requests
+time
+uuid
+werkzeug.contrib.cache
+werkzeug.contrib.cache.SimpleCache

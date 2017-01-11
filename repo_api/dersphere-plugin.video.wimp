@@ -1,0 +1,15 @@
+xbmcswift2
+xbmcswift2.Plugin
+resources.lib.api
+resources.lib.api.WimpApi
+resources.lib.api.NetworkError
+datetime
+datetime.date
+urllib
+urllib.urlencode
+urllib2
+urllib2.urlopen
+urllib2.Request
+urllib2.HTTPError
+urllib2.URLError
+simplejson

@@ -1,0 +1,4 @@
+pprint
+requests
+lxml
+lxml.etree

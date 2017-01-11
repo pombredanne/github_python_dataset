@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+sys
+pytest
+formatizer
+formatizer.f
+inspect
+sys

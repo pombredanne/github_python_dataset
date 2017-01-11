@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+logging
+os
+smtplib
+nose.plugins.base
+nose.plugins.base.Plugin
+blockage.plugins
+blockage.plugins.NoseBlockage

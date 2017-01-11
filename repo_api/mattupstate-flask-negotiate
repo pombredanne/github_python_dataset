@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+unittest
+flask
+flask.Flask
+flask_negotiate
+flask_negotiate.consumes
+flask_negotiate.produces
+functools
+functools.wraps
+flask.request
+werkzeug.exceptions
+werkzeug.exceptions.UnsupportedMediaType
+werkzeug.exceptions.NotAcceptable
+sys
+os

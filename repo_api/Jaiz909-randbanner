@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+randbanner
+randbanner.make_banner
+argparse
+os
+sys
+pyfiglet
+pyfiglet.Figlet
+clint.textui
+clint.textui.colored
+clint.textui.puts
+random
+random.choice

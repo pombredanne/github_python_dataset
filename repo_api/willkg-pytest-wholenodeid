@@ -1,0 +1,7 @@
+re
+setuptools
+setuptools.setup
+sys
+_pytest.terminal
+_pytest.terminal.TerminalReporter
+pytest

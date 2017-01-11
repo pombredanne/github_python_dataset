@@ -1,0 +1,9 @@
+datetime
+datetime.date
+datetime.timedelta
+json
+requests
+geoloqi.geoloqi
+geoloqi.geoloqi.Geoloqi
+dateutil
+dateutil.parser

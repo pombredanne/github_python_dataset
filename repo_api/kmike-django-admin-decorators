@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+__future__
+__future__.absolute_import
+functools
+functools.wraps
+django.utils.safestring
+django.utils.safestring.mark_safe
+django.template
+django.template.Template
+django.template.Context

@@ -1,0 +1,15 @@
+os
+vargas
+vargas.version
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+sure.old
+sure.old.that
+vargas.TempoRelativo
+datetime
+datetime.datetime
+datetime.timedelta
+__future__.unicode_literals
+datetime.datetime

@@ -1,0 +1,15 @@
+sympy
+sympy.matrices
+sympy
+scipy
+scipy.optimize
+scipy.linalg
+scipy.linalg.inv
+pylab
+numpy
+numpy.loadtxt
+scipy.optimize
+scipy
+pylab
+scipy
+scipy.linalg.inv

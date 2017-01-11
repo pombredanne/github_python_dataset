@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+werkzeug.routing
+werkzeug.routing.BaseConverter
+werkzeug.routing.ValidationError
+nose.tools
+nose.tools.raises
+flask
+flask.Flask
+flask_shorturl
+flask_shorturl.ShortUrl

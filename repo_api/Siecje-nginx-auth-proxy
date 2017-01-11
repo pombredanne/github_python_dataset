@@ -1,0 +1,17 @@
+flask
+flask.Flask
+flask.request
+base64
+flask.Flask
+flask.abort
+flask.make_response
+flask.render_template
+flask.request
+flask_wtf
+flask_wtf.Form
+wtforms
+wtforms.HiddenField
+wtforms.StringField
+wtforms.PasswordField
+wtforms.validators
+wtforms.validators.DataRequired

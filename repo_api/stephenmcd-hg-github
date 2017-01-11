@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+sphinx_me
+sphinx_me.setup_conf;
+sphinx_me.setup_conf(globals())

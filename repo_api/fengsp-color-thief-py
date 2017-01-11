@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+math
+PIL
+PIL.Image
+sys
+io
+colorthief
+colorthief.ColorThief

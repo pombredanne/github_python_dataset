@@ -1,0 +1,5 @@
+buildbot_travis
+buildbot_travis.TravisConfigurator
+buildbot.plugins
+buildbot.plugins.buildslave
+os

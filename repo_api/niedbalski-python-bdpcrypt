@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+optparse
+optparse.OptionParser
+bdpcrypt
+bdpcrypt.BDPCrypter
+struct
+os

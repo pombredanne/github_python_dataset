@@ -1,0 +1,6 @@
+sys
+time
+threading
+pyaudio
+numpy
+galry.pyplot

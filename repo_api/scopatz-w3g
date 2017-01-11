@@ -1,0 +1,10 @@
+__future__
+__future__.unicode_literals
+__future__.print_function
+io
+sys
+base64
+zlib
+struct
+collections
+collections.namedtuple

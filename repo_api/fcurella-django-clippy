@@ -1,0 +1,10 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+clippy
+clippy.VERSION
+django
+django.template
+django.conf
+django.conf.settings

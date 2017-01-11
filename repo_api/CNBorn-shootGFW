@@ -1,0 +1,12 @@
+pygame
+pygame.locals
+os
+sys
+random
+pygame
+pygame.locals
+pygame.rect
+pygame.rect.Rect
+libgame
+libutils
+pygame.joystick

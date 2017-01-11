@@ -1,0 +1,9 @@
+django.db
+django.db.models
+django.db.transaction
+django.conf
+django.conf.settings
+django.utils.functional
+django.utils.functional.cached_property
+django.utils
+django.utils.timezone

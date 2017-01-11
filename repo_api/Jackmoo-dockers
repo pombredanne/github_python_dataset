@@ -1,0 +1,9 @@
+subprocess
+os
+sys
+pty
+select
+signal
+getopt
+ConfigParser
+ConfigParser.ConfigParser

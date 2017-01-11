@@ -1,0 +1,9 @@
+sys
+gc
+getopt
+urllib
+re
+bz2
+os.path
+html.entities
+html.entities.name2codepoint

@@ -1,0 +1,15 @@
+kate
+re
+PyKDE4.ktexteditor
+PyKDE4.ktexteditor.KTextEditor
+zencoding
+zencoding.zen_core
+zen_settings
+zen_settings.zen_settings
+re
+stparser
+copy
+copy.deepcopy
+re
+types
+zen_settings.zen_settings

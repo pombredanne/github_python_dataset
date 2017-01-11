@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuputils
+setuputils.find_version
+codecs
+os.path
+re
+__future__
+__future__.print_function
+__future__.unicode_literals
+os
+os.path
+sys
+os.path
+sys
+setuputils

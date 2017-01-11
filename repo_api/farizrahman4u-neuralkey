@@ -1,0 +1,17 @@
+numpy
+machine
+machine.Machine
+numpy
+time
+sys
+matplotlib.pyplot
+machine.Machine
+numpy
+time
+sys
+matplotlib.pyplot
+update_rules
+update_rules.hebbian
+update_rules.anti_hebbian
+update_rules.random_walk
+numpy

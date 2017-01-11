@@ -1,0 +1,17 @@
+numpy
+numpy
+scipy.sparse
+scipy.sparse.dok_matrix
+util
+unittest
+numpy
+scipy.sparse.dok_matrix
+soinn
+soinn.Soinn
+soinn.soinn
+numpy
+soinn.Soinn
+sklearn.datasets
+sklearn.datasets.fetch_mldata
+collections
+collections.defaultdict

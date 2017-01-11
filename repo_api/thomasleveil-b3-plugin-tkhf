@@ -1,0 +1,4 @@
+b3.plugin
+b3.plugin.Plugin
+b3.events
+b3.events.EVT_CLIENT_KILL_TEAM

@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+api
+api.BingMaps
+urllib
+simplejson

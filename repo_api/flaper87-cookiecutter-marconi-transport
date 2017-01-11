@@ -1,0 +1,6 @@
+setuptools
+marconi
+marconi.tests
+marconi.openstack.common.log
+marconi.queues
+marconi.queues.transport

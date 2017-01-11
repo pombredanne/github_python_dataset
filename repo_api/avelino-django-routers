@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+random
+django.conf
+django.conf.settings
+settings
+settings.ROUTERS_READ
+settings.ROUTERS_WRITE
+settings.ROUTERS_ALLOW_RELATION
+pkg_resources

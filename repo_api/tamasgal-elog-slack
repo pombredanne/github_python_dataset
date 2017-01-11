@@ -1,0 +1,5 @@
+os
+re
+pyinotify
+pyslack
+pyslack.SlackClient

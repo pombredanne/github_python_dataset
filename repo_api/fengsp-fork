@@ -1,0 +1,8 @@
+sys
+shlex
+subprocess
+setuptools
+setuptools.setup
+sys
+os
+fork

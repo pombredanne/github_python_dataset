@@ -1,0 +1,14 @@
+__future__
+__future__.absolute_import
+time
+time.sleep
+itertools
+itertools.cycle
+pprint
+struct
+binascii
+requests
+xtermcolor
+xtermcolor.colorize
+morse
+morse.encode

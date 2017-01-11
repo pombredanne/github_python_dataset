@@ -1,0 +1,11 @@
+kivy
+kivy.app
+kivy.app.App
+kivy.uix.gridlayout
+kivy.uix.gridlayout.GridLayout
+kivy.uix.anchorlayout
+kivy.uix.anchorlayout.AnchorLayout
+kivy.uix.label
+kivy.uix.label.Label
+kivy.uix.textinput
+kivy.uix.textinput.TextInput

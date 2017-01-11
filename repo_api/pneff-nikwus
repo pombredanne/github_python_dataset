@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+glob
+os.path
+nikwus
+nikwus.sprite
+PIL
+PIL.Image
+cssutils
+logging
+os.path

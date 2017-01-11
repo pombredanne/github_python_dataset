@@ -1,0 +1,13 @@
+setuptools
+setuptools.Command
+setuptools.setup
+ConfigParser
+logging
+os
+sys
+unittest
+urlparse
+selenium
+selenium.webdriver
+selenium.common.exceptions
+selenium.common.exceptions.WebDriverException

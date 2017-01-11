@@ -1,0 +1,12 @@
+matplotlib.pyplot
+numpy
+random
+sys
+numpy
+pandas
+scipy
+scipy.stats
+sklearn
+sklearn.linear_model
+itertools
+itertools.combinations

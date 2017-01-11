@@ -1,0 +1,12 @@
+os
+sys
+djangofinance
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+sys
+os
+djangofinance
+djangofinance
+djangofinance.models

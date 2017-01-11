@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+os
+os.path
+__future__
+__future__.division
+__future__.print_function
+__future__.unicode_literals
+re

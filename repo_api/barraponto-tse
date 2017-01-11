@@ -1,0 +1,17 @@
+os.path
+scrapy
+os.path
+os.path.dirname
+os.path.join
+scrapy.contrib.pipeline.files
+scrapy.contrib.pipeline.files.FilesPipeline
+scrapy.http
+scrapy.http.Request
+scrapy
+scrapy.http.FormRequest
+urlparse
+urlparse.urljoin
+scrapy
+items
+items.StateItem
+items.ZoneItem

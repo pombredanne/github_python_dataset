@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+critical_difference.plot
+critical_difference.plot.merge_nonsignificant_cliques
+random
+random.shuffle
+itertools
+itertools.combinations
+math
+math.ceil
+matplotlib.pylab
+matplotlib.backends.backend_agg
+matplotlib.backends.backend_agg.FigureCanvasAgg
+matplotlib.lines
+matplotlib.lines.Line2D

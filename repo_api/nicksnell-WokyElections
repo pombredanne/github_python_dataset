@@ -1,0 +1,16 @@
+os.path
+math
+Image
+ImageDraw
+voting
+voting.get_results_for_party
+os.path
+json
+sys
+os.path
+json
+ptable
+ptable.Table
+pygooglechart
+pygooglechart.Chart
+pygooglechart.PieChart2D

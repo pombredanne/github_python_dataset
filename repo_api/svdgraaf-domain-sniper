@@ -1,0 +1,16 @@
+__future__
+__future__.unicode_literals
+random
+random.randint
+collections
+logging
+sys
+xml.dom.minidom
+xml.dom.minidom.parseString
+client
+client.OpenProviderClient
+dicttoxml
+dicttoxml.dicttoxml
+collections
+xmltodict
+requests

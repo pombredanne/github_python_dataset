@@ -1,0 +1,9 @@
+requests
+bs4
+bs4.BeautifulSoup
+StringIO
+StringIO.StringIO
+PIL
+PIL.Image
+os
+urlparse

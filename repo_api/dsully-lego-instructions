@@ -1,0 +1,13 @@
+os
+sys
+traceback
+click
+bs4
+bs4.BeautifulSoup
+clint.textui
+clint.textui.progress
+iniparse
+iniparse.INIConfig
+requests
+setuptools
+setuptools.setup

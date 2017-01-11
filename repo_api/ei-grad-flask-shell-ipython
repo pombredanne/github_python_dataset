@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+os
+sys
+click
+flask.cli
+flask.cli.with_appcontext

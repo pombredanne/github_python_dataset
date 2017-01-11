@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+doctest
+unittest
+stackpy
+httplib
+urllib
+StringIO
+StringIO.StringIO
+gzip

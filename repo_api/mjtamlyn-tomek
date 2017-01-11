@@ -1,0 +1,5 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+django.db.transaction
+django.db.transaction.atomic

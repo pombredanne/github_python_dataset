@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib.pyplot
+scipy.interpolate
+scipy.interpolate.interp1d
+pxl.styleplot
+pxl.styleplot.set_sns
+os

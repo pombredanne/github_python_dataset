@@ -1,0 +1,8 @@
+logging
+couchdb
+couchdb.Server
+couchdb.mapping
+couchdb.mapping.Document
+couchdb.mapping.TextField
+couchdb.mapping.DictField
+couchdb.mapping.ListField

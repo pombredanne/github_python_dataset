@@ -1,0 +1,17 @@
+_wvcsv
+distutils.core
+distutils.core.setup
+distutils.core.Extension
+subprocess
+subprocess.Popen
+subprocess.PIPE
+wvcsv
+traceback
+os
+re
+sys
+wvtest
+wvcsv
+wvcsv
+wvcsv._wvcsv
+sys

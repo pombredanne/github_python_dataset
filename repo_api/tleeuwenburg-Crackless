@@ -1,0 +1,17 @@
+django.db
+django.db.models
+django.test
+django.test.TestCase
+crackless.models
+crackless.models.MiniTask
+crackless.models.Responsibility
+crackless.models.Issue
+crackless.models.DueTask
+crackless.models.Person
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager
+django.conf.urls.defaults
+django.contrib.admin
+django.core.management.execute_manager

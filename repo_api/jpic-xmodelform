@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+sys
+os
+itertools
+itertools.chain
+django
+django.forms
+django.forms.models
+django.forms.models.ModelFormMetaclass
+django.utils
+django.utils.six

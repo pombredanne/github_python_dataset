@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+import
+os
+re
+sys
+RangeHTTPServer
+RangeHTTPServer.RangeRequestHandler
+nose.tools
+requests
+threading
+time
+sys
+RangeHTTPServer
+nose.tools
+io
+io.StringIO

@@ -1,0 +1,17 @@
+distutils.core
+distutils.core.setup
+justext.core
+justext.core.justext
+justext.core.get_stoplists
+justext.core.get_stoplist
+justext.core.main
+codecs
+os
+pkgutil
+re
+sys
+xml.sax.handler
+xml.sax.handler.ContentHandler
+lxml.etree
+lxml.html
+lxml.sax

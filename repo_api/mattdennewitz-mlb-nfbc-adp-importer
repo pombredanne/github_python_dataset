@@ -1,0 +1,13 @@
+scrapy
+scrapy.loader
+scrapy.loader.ItemLoader
+scrapy.loader.processors
+scrapy.loader.processors.TakeFirst
+re
+urlparse
+scrapy
+scrapy.exceptions
+scrapy.exceptions.CloseSpider
+items
+items.Loader
+items.Ranking

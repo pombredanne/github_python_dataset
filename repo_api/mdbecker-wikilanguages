@@ -1,0 +1,13 @@
+cPickle
+bz2
+sklearn.feature_extraction.text
+sklearn.feature_extraction.text.TfidfVectorizer
+sklearn.linear_model
+sklearn.linear_model.SGDClassifier
+sklearn.pipeline
+sklearn.pipeline.Pipeline
+sklearn.preprocessing
+sklearn.preprocessing.LabelEncoder
+sklearn.svm
+sklearn.svm.LinearSVC
+numpy

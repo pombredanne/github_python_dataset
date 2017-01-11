@@ -1,0 +1,8 @@
+shapely.geometry
+shapely.geometry.MultiPoint
+shapely.affinity
+shapely.affinity.rotate
+math
+unittest
+pyenvelope
+pyenvelope.get_minimum_bounding_rectangle

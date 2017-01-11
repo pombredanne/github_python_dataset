@@ -1,0 +1,16 @@
+os
+distutils.core
+__future__
+__future__.print_function
+sys
+sys.stderr
+urllib2
+urllib2.urlopen
+pprint
+pprint.pprint
+re
+elinks.mapping
+elinks.mapping.MAPPING
+codecs
+codecs.register_error
+elinks

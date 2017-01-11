@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+inifile
+inifile.IniFile
+os
+sys
+uuid
+errno
+tempfile
+collections
+collections.MutableMapping
+collections.OrderedDict

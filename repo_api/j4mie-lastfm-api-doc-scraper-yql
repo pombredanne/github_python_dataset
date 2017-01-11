@@ -1,0 +1,7 @@
+html5lib
+urllib
+django.template
+django.template.Template
+django.template.Context
+django.conf
+django.conf.settings

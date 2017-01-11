@@ -1,0 +1,11 @@
+django.db.models
+django.db.models.ImageField
+django.db.models.fields.files
+django.db.models.fields.files.ImageFieldFile
+PIL
+PIL.Image
+django.core.files.base
+django.core.files.base.ContentFile
+django.conf
+django.conf.settings
+cStringIO

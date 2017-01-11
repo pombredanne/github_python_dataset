@@ -1,0 +1,10 @@
+oauthenticator.github
+oauthenticator.github.GitHubOAuthenticator
+os
+sys
+netifaces
+nikespawner
+nikespawner.NikeSpawner
+os
+dockerspawner
+dockerspawner.DockerSpawner

@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+os
+urllib
+urllib2
+re
+xml.dom
+xml.dom.minidom
+correios
+correios
+unittest
+pycorreios.correios
+pycorreios.correios.Correios

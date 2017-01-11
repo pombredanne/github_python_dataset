@@ -1,0 +1,16 @@
+distutils.core
+distutils.core.setup
+json
+urllib
+twisted.internet
+twisted.internet.reactor
+twisted.internet.defer
+twisted.internet.defer
+twisted.internet.defer.Deferred
+twisted.internet.defer.succeed
+twisted.internet.defer.failure
+twisted.internet.defer.maybeDeferred
+twisted.internet.protocol
+twisted.internet.protocol.Protocol
+twisted.web.client
+twisted.web.client.getPage

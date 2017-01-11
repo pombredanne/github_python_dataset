@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+os
+irc
+codecs
+datetime
+os
+re
+socket
+subprocess
+urllib
+pyquery
+requests
+toastbot

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+binascii
+doctest
+os
+re
+sys
+time
+traceback
+unittest
+warnings
+nose.config
+nose.core
+nose.plugins
+nose.util

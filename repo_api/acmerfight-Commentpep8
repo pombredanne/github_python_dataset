@@ -1,0 +1,11 @@
+os
+sys
+re
+time
+inspect
+keyword
+tokenize
+optparse
+optparse.OptionParser
+fnmatch
+fnmatch.fnmatch

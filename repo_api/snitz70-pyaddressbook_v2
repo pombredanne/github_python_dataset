@@ -1,0 +1,8 @@
+peewee
+peewee.Model
+peewee.MySQLDatabase
+peewee.CharField
+peewee.ForeignKeyField
+models
+models.Addressbook
+pytest

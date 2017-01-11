@@ -1,0 +1,15 @@
+os
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+six
+six.BytesIO
+six.moves.urllib.request
+six.moves.urllib.request.urlopen
+PIL
+PIL.Image
+numpy
+matplotlib.pyplot
+IPython.display
+IPython.display.display_png

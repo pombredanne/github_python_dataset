@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+hgdistver
+os
+py
+pytest
+hgdistver
+hgdistver
+hgdistver.do
+hgdistver.do_ex
+hgdistver.\
+re
+os
+sys
+shlex
+subprocess

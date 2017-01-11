@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+sys
+calendar
+calendar.HTMLCalendar
+calendar.day_abbr
+calendar.month_name
+calendar.January
+django.template.loader
+django.template.loader.render_to_string
+calendar.TemplatedCalendar
+calendar.#
+calendar.noqa

@@ -1,0 +1,13 @@
+datetime
+datetime.datetime
+django.db
+django.db.models
+django.utils.encoding
+django.utils.encoding.smart_str
+django.utils.encoding.smart_unicode
+hpc.fields
+hpc.fields.UUIDField
+hpc.exceptions
+hpc.exceptions.HPCError
+django.db.models
+uuid

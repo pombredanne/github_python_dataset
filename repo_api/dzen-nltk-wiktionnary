@@ -1,0 +1,13 @@
+nltk.corpus.reader.tagged
+nltk.corpus.reader.tagged.TaggedCorpusReader
+nltk.tokenize
+nltk.tokenize.LineTokenizer
+ipdb
+;
+ipdb.set_trace()
+codecs
+collections
+sys
+xml.sax
+xml.sax.handler
+xml.sax.make_parser

@@ -1,0 +1,12 @@
+nose
+nose.with_setup
+domino
+domino.build_matrix
+domino.brute_force
+timeit
+timeit.default_timer
+domino.build_matrix
+domino.brute_force
+domino.constant
+nose.with_setup
+domino.constant

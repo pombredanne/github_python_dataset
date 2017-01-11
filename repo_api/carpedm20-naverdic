@@ -1,0 +1,11 @@
+os
+sys
+naverdic
+codecs
+codecs.open
+requests
+auth
+auth.login
+dictionary
+dictionary.Dictionary
+execjs

@@ -1,0 +1,16 @@
+sys
+codecs
+codecs.open
+codecs.#
+codecs.To
+codecs.use
+codecs.a
+codecs.consistent
+codecs.encoding
+os
+os.path
+setuptools
+setuptools.(setup
+setuptools.find_packages)
+about
+about.__version__

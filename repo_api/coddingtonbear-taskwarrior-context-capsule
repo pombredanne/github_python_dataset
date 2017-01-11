@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.command.test
+setuptools.command.test.test
+sys
+uuid
+taskwarrior_context_capsule
+taskwarrior_context_capsule.__version__
+taskwarrior_capsules.capsule
+taskwarrior_capsules.capsule.CommandCapsule
+taskwarrior_capsules.exceptions
+taskwarrior_capsules.exceptions.CapsuleError
+taskwarrior_capsules.data
+taskwarrior_capsules.data.BUILT_IN_COMMANDS

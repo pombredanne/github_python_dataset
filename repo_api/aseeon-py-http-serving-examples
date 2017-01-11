@@ -1,0 +1,13 @@
+time
+time.time
+wsgiref.simple_server
+wsgiref.simple_server.make_server
+wsgiref.util
+wsgiref.util.setup_testing_defaults
+wsgiref.simple_server.BaseHTTPRequestHandler
+wsgiref.simple_server.HTTPServer
+wsgiref.simple_server.make_server
+wsgiref.util.setup_testing_defaults
+time.time
+wsgiref.simple_server.BaseHTTPRequestHandler
+wsgiref.simple_server.HTTPServer

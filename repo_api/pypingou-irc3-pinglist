@@ -1,0 +1,13 @@
+logging
+urllib
+re
+textwrap
+datetime
+datetime.datetime
+irc3
+irc3d
+irc3d.IrcServer
+irc3.compat
+irc3.compat.asyncio
+irc3.plugins.command
+irc3.plugins.command.command

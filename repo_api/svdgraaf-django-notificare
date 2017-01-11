@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django_notificare
+django_notificare.settings
+requests

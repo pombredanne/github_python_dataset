@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+django.core.management.base
+django.core.management.base.(
+django.db
+django.db.models
+django.db.models
+django.db.models.Model
+django.core
+django.core.serializers
+importlib

@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+logging
+re
+requests
+slackbot.bot
+slackbot.bot.Bot
+slackbot.bot.respond_to
+slackbot_settings
+slackbot_settings.VSCALE_TOKEN

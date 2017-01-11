@@ -1,0 +1,16 @@
+__future__
+__future__.with_statement
+codecs
+setuptools
+setuptools.setup
+argparse
+ConfigParser
+flask
+flask.Flask
+flask.send_from_directory
+gevent.pywsgi
+gevent.pywsgi.WSGIServer
+werkzeug.contrib.fixers
+werkzeug.contrib.fixers.ProxyFix
+wsgioauth2
+wsgioauth2.GithubService

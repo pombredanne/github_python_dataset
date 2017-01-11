@@ -1,0 +1,5 @@
+glob
+eyed3
+urllib2
+bs4
+bs4.BeautifulSoup

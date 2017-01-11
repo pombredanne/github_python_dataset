@@ -1,0 +1,12 @@
+os
+django.conf.urls.defaults
+django.conf
+django.conf.settings
+django.contrib.staticfiles.urls
+django.contrib.staticfiles.urls.staticfiles_urlpatterns
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager
+imp
+settings

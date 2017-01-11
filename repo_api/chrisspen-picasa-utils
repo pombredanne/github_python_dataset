@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+picasa_utils
+os
+dircache
+sys
+time
+datetime
+gdata.photos.service
+gdata.media
+gdata.geo

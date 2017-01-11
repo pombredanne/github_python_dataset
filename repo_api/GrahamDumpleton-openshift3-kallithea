@@ -1,0 +1,12 @@
+__future__
+__future__.print_function
+os
+sys
+time
+psycopg2
+__future__.print_function
+json
+requests
+kallithea.model.db
+kallithea.model.db.Repository
+kallithea.model.db.User

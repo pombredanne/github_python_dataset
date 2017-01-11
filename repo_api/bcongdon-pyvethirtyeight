@@ -1,0 +1,15 @@
+pyvethirtyeight
+pyvethirtyeight.President
+pyvethirtyeight.Senate
+unittest
+requests
+bs4
+bs4.BeautifulSoup
+re
+json
+datetime
+datetime.timedelta
+datetime.datetime
+collections
+collections.namedtuple
+dateparser

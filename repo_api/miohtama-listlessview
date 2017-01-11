@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+zope.interface
+zope.interface.Interface
+five
+five.grok
+Products.CMFCore.interfaces
+Products.CMFCore.interfaces.IFolderish
+interfaces
+interfaces.IAddonSpecific

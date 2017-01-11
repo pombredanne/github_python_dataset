@@ -1,0 +1,8 @@
+sys
+distutils.core
+distutils.core.setup
+distutils.core.Extension
+unittest
+pugixmltodict
+pugixmltodict.parse
+pugixmltodict.unparse

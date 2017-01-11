@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+subprocess
+webassets.filter
+webassets.filter.Filter
+webassets.exceptions
+webassets.exceptions.FilterError

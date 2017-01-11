@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+archive_gopro_videos
+archive_gopro_videos.__version__
+os
+shutil
+import
+__future__
+__future__.print_function
+sys
+argparse
+six
+main
+main.copy_files_from_to

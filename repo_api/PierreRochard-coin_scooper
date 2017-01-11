@@ -1,0 +1,17 @@
+decimal
+decimal.Decimal
+pprint
+pprint.pformat
+requests
+config
+config.key
+config.passphrase
+config.secret
+utilities
+utilities.CoinbaseExchangeAuthentication
+base64
+hashlib
+hmac
+time
+requests.auth
+requests.auth.AuthBase

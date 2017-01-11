@@ -1,0 +1,17 @@
+django
+django.forms
+django.db
+django.db.models
+datetime
+urllib2
+decimal
+logging
+django.contrib
+django.contrib.admin
+currencies.models
+currencies.models.BaseCurrency
+currencies.models.ForeignCurrency
+django.template
+currencies.models.BaseCurrency
+currencies
+currencies.forms

@@ -1,0 +1,15 @@
+json
+scrapy.loader
+scrapy.loader.ItemLoader
+scrapy.loader.processors
+scrapy
+logging
+aduanas.items
+aduanas.items.AduanasItemLoader
+logging
+os
+signal
+shlex
+subprocess
+time
+scrapy

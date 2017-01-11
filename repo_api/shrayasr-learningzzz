@@ -1,0 +1,7 @@
+ConfigParser
+flask
+flask.Flask
+flask.render_template
+gspread
+ConfigParser
+os.path

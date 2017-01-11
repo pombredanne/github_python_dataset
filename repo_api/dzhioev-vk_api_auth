@@ -1,0 +1,15 @@
+vk_auth
+json
+urllib2
+urllib
+urllib.urlencode
+os
+getpass
+sys
+cookielib
+urllib2
+urllib
+urlparse
+urlparse.urlparse
+HTMLParser
+HTMLParser.HTMLParser

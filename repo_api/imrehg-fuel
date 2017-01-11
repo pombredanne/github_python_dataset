@@ -1,0 +1,5 @@
+codecs
+numpy
+pylab
+matplotlib.transforms
+matplotlib.transforms.offset_copy

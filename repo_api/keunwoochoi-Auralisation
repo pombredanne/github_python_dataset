@@ -1,0 +1,13 @@
+matplotlib
+cPickle
+numpy
+os
+sys
+librosa
+scipy.misc
+scipy.misc.imsave
+auralise
+numpy
+scipy
+scipy.signal
+scipy.ndimage

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+ctypes
+struct
+cStringIO
+cStringIO.StringIO
+objc
+Foundation
+xmltodict
+functools
+functools.partial
+rumps
+kizkiz
+kizkiz.bluetooth

@@ -1,0 +1,7 @@
+flask
+flask.Flask
+lxml.html
+BeautifulSoup
+BeautifulSoup.UnicodeDammit
+requests
+re

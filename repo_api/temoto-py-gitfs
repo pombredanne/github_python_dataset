@@ -1,0 +1,11 @@
+argparse
+collections
+collections.namedtuple
+errno
+os
+stat
+fuse
+logging
+pygit2
+signal
+sys

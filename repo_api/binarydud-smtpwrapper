@@ -1,0 +1,7 @@
+smtplib
+email.mime.text
+email.mime.text.MIMEText
+mail
+mail.Message
+mail.Connection
+mail.send_mail

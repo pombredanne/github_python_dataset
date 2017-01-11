@@ -1,0 +1,17 @@
+os.path
+base64
+base64.b64decode
+ConfigParser
+StringIO
+StringIO.StringIO
+web
+qwk
+qwk.QwkMessage
+qwk.QwkPacket
+sys
+sqlite3
+sqlite3.dbapi2
+struct
+zipfile
+zipfile.ZipFile
+StringIO.StringIO

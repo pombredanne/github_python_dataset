@@ -1,0 +1,8 @@
+ui
+sqlite3
+console
+feedparser
+clipboard
+urlparse
+dateutil.parser
+dateutil.parser.parse

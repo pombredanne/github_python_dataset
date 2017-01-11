@@ -1,0 +1,6 @@
+nltk
+nltk.FreqDist
+nltk.corpus
+nltk.corpus.inaugural
+nltk.corpus.stopwords
+pylab

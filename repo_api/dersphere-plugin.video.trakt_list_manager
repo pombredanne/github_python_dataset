@@ -1,0 +1,17 @@
+os
+xbmcswift2
+xbmcswift2.Plugin
+xbmcswift2.xbmc
+xbmcswift2.xbmcgui
+resources.lib.api
+resources.lib.api.TraktListApi
+resources.lib.api.AuthenticationError
+resources.lib.api.\
+json
+urllib
+urllib.urlencode
+urllib2
+urllib2.urlopen
+urllib2.Request
+urllib2.HTTPError
+urllib2.URLError

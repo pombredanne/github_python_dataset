@@ -1,0 +1,10 @@
+os
+shlex
+shutil
+argparse
+tempfile
+textwrap
+subprocess
+collections
+mutagen.easyid3
+mutagen.easymp4

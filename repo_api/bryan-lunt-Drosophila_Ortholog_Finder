@@ -1,0 +1,11 @@
+__future__
+__future__.print_function
+urllib2
+BeautifulSoup
+itertools
+itertools.count
+re
+argparse
+Bio.SeqIO
+Bio.pairwise2
+argparse

@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+pystache
+yaml
+uuid
+copy
+os

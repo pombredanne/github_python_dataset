@@ -1,0 +1,5 @@
+optparse
+subprocess
+sys
+tempfile
+os.path

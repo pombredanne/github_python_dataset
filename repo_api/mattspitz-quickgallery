@@ -1,0 +1,10 @@
+optparse
+os
+Queue
+sys
+traceback
+mako.template
+mako.template.Template
+PIL
+PIL.ExifTags
+PIL.Image

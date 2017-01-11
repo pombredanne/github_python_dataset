@@ -1,0 +1,9 @@
+os
+sys
+copy
+pygame
+PyQt4
+PyQt4.QtGui
+PyQt4.QtCore
+PyQt4.QtXml
+ankiqt

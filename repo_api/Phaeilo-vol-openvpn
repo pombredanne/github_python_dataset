@@ -1,0 +1,8 @@
+struct
+string
+volatility.plugins.common
+volatility.obj
+volatility.utils
+volatility.win32.tasks
+volatility.plugins.common
+volatility.utils

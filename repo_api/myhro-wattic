@@ -1,0 +1,6 @@
+datetime
+datetime.datetime
+difflib
+subprocess
+docopt
+termcolor

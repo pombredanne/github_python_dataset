@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+memoizer
+memoizer.__version__
+functools
+nose.tools
+nose.tools.assert_equal
+memoizer.memoize

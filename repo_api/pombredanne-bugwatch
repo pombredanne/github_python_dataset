@@ -1,0 +1,13 @@
+os.path
+django.conf
+django.conf.settings
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.include
+django.conf.urls.defaults.url
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager
+imp
+settings

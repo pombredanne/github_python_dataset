@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+logging
+unittest
+mock
+mozilla_logger
+mozilla_logger.log
+logging
+logging.handlers
+socket
+sys
+traceback

@@ -1,0 +1,17 @@
+io
+sys
+setuptools
+setuptools_scm
+__future__
+__future__.division
+__future__.unicode_literals
+argparse
+io
+struct
+operator
+collections
+collections.namedtuple
+PIL.Image
+six
+pkg_resources
+jaraco.windows.clipboard

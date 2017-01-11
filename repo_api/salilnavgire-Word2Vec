@@ -1,0 +1,8 @@
+csv
+re
+gensim.models
+gensim.models.Word2Vec
+nltk.corpus
+nltk.corpus.stopwords
+collections
+collections.defaultdict

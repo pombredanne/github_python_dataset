@@ -1,0 +1,5 @@
+mnemosyne.libmnemosyne.plugin
+mnemosyne.libmnemosyne.plugin.Plugin
+mnemosyne.pyqt_ui.review_wdgt
+mnemosyne.pyqt_ui.review_wdgt.ReviewWdgt
+mnemosyne.libmnemosyne.plugin.register_user_plugin

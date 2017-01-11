@@ -1,0 +1,8 @@
+distutils.cmd
+distutils.cmd.Command
+distutils.command.install
+distutils.command.install.install
+distutils.command.install_scripts
+distutils.command.install_scripts.install_scripts
+os
+sys

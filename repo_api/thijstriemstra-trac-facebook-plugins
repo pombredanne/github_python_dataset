@@ -1,0 +1,17 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+os
+docutils.core
+docutils.core.publish_parts
+sys
+os
+time
+util
+util.rst2html
+genshi.builder
+genshi.builder.tag
+trac.wiki.macros
+trac.wiki.macros.WikiMacroBase
+trac.resource
+trac.resource.get_resource_url

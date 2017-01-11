@@ -1,0 +1,10 @@
+core
+render
+pygame
+sys
+obj
+pygame.locals
+consts
+pygame
+core
+consts

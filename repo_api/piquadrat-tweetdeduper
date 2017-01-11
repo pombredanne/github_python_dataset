@@ -1,0 +1,12 @@
+datetime
+json
+os
+logging
+opbeat.base
+opbeat.base.Client
+opbeat.handlers.logging
+opbeat.handlers.logging.OpbeatHandler
+pymongo
+requests
+requests_oauthlib
+requests_oauthlib.OAuth1

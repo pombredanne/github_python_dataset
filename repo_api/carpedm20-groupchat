@@ -1,0 +1,16 @@
+groupchat
+groupchat.app
+gevent
+gevent.monkey
+socketio.server
+socketio.server.SocketIOServer
+gevent.monkey
+flask
+flask.Flask
+flask.Response
+flask.render_template
+flask.request
+socketio
+socketio.socketio_manage
+socketio.namespace
+socketio.namespace.BaseNamespace

@@ -1,0 +1,12 @@
+csv
+scipy
+scipy.stats
+scipy.mgrid
+scipy.c_
+scipy.reshape
+scipy.rot90
+numpy
+matplotlib.pyplot
+matplotlib.cm
+colorsys
+colorsys.hsv_to_rgb

@@ -1,0 +1,10 @@
+datetime
+dictshield.document
+dictshield.document.Document
+dictshield.fields
+dictshield.fields.StringField
+dictshield.fields.DateTimeField
+dictshield.views
+dictshield.views.WhitelistView
+pkgutil
+pkgutil.extend_path

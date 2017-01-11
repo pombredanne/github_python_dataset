@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+os
+sys
+json
+functools
+functools.wraps
+requests
+flask.ext.fas_openid
+flask.ext.fas_openid.FAS
+flask
+flask
+flask.request

@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+six
+pkg_resources

@@ -1,0 +1,11 @@
+json
+requests
+mock
+mock.Mock
+mock.patch
+nose.tools
+nose.tools.assert_raises
+nose.tools.eq_
+nose.tools.ok_
+elasticdict
+elasticdict.ElasticDict

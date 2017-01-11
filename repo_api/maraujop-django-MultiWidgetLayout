@@ -1,0 +1,6 @@
+django.forms.widgets
+django.forms.widgets.Widget
+django.forms.widgets.Media
+django.utils.safestring
+django.utils.safestring.mark_safe
+django.utils.copycompat

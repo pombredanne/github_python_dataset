@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+dulwich.porcelain
+dulwich.errors
+dulwich.errors.NotGitRepository
+IPython.utils.traitlets
+IPython.utils.traitlets.Unicode
+IPython.html.services.contents.filemanager
+IPython.html.services.contents.filemanager.FileContentsManager
+os
+ipylogue.gitmanager
+ipylogue.gitmanager.GitNotebookManager

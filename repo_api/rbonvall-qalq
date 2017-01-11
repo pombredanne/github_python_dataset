@@ -1,0 +1,7 @@
+PyQt4
+PyQt4.QtCore
+PyQt4.QtGui
+qalq
+qalq.Ui_MainWindow
+operator
+sys

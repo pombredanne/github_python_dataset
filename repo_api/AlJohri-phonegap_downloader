@@ -1,0 +1,9 @@
+requests
+lxml.html
+urllib.error
+urllib.error.HTTPError
+urllib.request
+urllib.request.urlretrieve
+urllib.parse
+urllib.parse.urlparse
+urllib.parse.parse_qs

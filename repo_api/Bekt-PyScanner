@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+io
+re
+sys
+scanner

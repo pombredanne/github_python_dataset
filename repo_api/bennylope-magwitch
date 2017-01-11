@@ -1,0 +1,12 @@
+os
+sys
+magwitch
+sys
+click
+pip._vendor
+pip._vendor.pkg_resources
+magwitch.environ
+magwitch.environ.Environment
+sys
+magwitch
+magwitch.commands

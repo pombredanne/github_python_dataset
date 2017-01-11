@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+urllib
+urllib2
+sys

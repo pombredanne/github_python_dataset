@@ -1,0 +1,9 @@
+string
+string.ascii_uppercase
+os
+datetime
+datetime.datetime
+datetime.timedelta
+logging
+sublime
+sublime_plugin

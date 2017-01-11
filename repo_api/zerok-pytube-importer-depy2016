@@ -1,0 +1,8 @@
+collections
+json
+pathlib
+shutil
+urllib.request
+urllib.request.urlopen
+slugify
+slugify.slugify

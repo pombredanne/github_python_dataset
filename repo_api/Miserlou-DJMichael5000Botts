@@ -1,0 +1,11 @@
+optparse
+optparse.OptionParser
+numpy
+os
+random
+sys
+time
+soundtouch
+echonest
+echonest.audio
+echonest.modify

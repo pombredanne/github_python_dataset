@@ -1,0 +1,16 @@
+distutils.core
+distutils.core.setup
+distutils.core.Command
+distutils.core.Extension
+os
+sys
+subprocess
+subprocess.call
+libthai
+re
+unittest
+pythai
+pythai
+pythai.contains_thai
+pythai.word_count
+pythai.split

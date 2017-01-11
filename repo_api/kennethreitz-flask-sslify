@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+flask
+flask.request
+flask.redirect
+flask.current_app

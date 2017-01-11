@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+hmac
+hashlib
+struct
+struct.Struct
+operator
+operator.xor
+itertools
+itertools.izip
+itertools.starmap

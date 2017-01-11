@@ -1,0 +1,13 @@
+__future__
+__future__.print_function
+argparse
+os
+shutil
+subprocess
+setuptools
+StringIO
+StringIO.StringIO
+pprint
+pprint.pprint
+setuptools
+pipo

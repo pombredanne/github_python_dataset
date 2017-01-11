@@ -1,0 +1,15 @@
+base64
+django.conf
+django.conf.settings
+django.contrib.sessions.backends.db
+django.contrib.sessions.backends.db.SessionStore
+django.contrib.sessions.backends.base
+django.contrib.sessions.backends.base.SessionBase
+django.core.exceptions
+django.core.exceptions.SuspiciousOperation
+django.core.cache
+django.core.cache.cache
+django.utils.simplejson
+django.utils.simplejson.simplejson
+django.utils.crypto
+django.utils.crypto.constant_time_compare

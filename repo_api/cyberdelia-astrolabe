@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+astrolabe.exceptions
+astrolabe.exceptions.IntervalException
+astrolabe.interval
+astrolabe.interval.Interval
+astrolabe.exceptions
+time
+unittest
+unittest.TestCase
+astrolabe
+astrolabe.Interval

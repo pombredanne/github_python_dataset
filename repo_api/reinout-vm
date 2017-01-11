@@ -1,0 +1,12 @@
+fabric.context_managers
+fabric.context_managers.cd
+fabric.contrib.files
+fabric.contrib.files.exists
+fabric.decorators
+fabric.decorators.hosts
+fabric.decorators.task
+fabric.operations
+fabric.operations.run
+fabric.operations.sudo
+glob
+os

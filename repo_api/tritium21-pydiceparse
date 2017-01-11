@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+collections
+collections.Counter
+heapq
+math
+operator
+re
+random
+random.SystemRandom

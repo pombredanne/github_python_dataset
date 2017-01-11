@@ -1,0 +1,16 @@
+troposphere
+troposphere.Template
+troposphere.Parameter
+troposphere.Ref
+troposphere.FindInMap
+troposphere.Output
+troposphere.GetAtt
+troposphere.\
+template_utils
+csv
+os
+requests
+boto
+troposphere.Ref
+troposphere.Tags
+troposphere.ec2

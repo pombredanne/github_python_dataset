@@ -1,0 +1,8 @@
+hashlib
+requests
+ftplib
+paramiko.client
+paramiko.client.SSHClient
+paramiko.client.AutoAddPolicy
+six
+six.StringIO

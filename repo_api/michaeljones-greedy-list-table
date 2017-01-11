@@ -1,0 +1,14 @@
+docutils
+docutils.io
+docutils.nodes
+docutils.statemachine
+docutils.utils
+docutils.utils
+docutils.utils.SystemMessagePropagation
+docutils.parsers.rst
+docutils.parsers.rst.Directive
+docutils.parsers.rst.directives
+docutils.parsers.rst.directives.tables
+docutils.parsers.rst.directives.tables.Table
+sys
+os

@@ -1,0 +1,17 @@
+django.db
+django.db.models
+django.test
+django.test.TestCase
+django.utils
+django.utils.timezone
+freezegun.api
+freezegun.api.freeze_time
+fields
+fields.DateTimeBooleanField
+django.utils.timezone
+fields.DateTimeBooleanFieldfrom
+fields.django.db
+fields.import
+fields.models
+descriptors
+descriptors.DateTimeBooleanDescriptor

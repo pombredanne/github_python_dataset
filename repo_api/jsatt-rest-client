@@ -1,0 +1,17 @@
+datetime
+datetime.datetime
+unittest
+unittest.TestCase
+fudge
+sync_client.translators
+sync_client.translators.BaseAPITranslator
+sync_client.translators.APITranslator
+decimal
+decimal.Decimal
+urllib.parse
+urllib.parse.parse_qs
+urllib.parse.urlparse
+json
+logging
+requests
+import

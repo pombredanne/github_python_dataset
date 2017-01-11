@@ -1,0 +1,17 @@
+os
+sys
+re
+pty
+signal
+tty
+array
+termios
+fcntl
+select
+subprocess
+math
+random
+code
+code.InteractiveConsole
+time
+time.time

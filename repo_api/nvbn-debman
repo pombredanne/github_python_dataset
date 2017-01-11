@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+functools
+functools.partial
+sys
+os
+json
+functools.partial
+debman
+debman.Debman
+debman.DebmanPlugins
+sys

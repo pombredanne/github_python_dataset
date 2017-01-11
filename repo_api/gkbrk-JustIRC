@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+socket
+time
+JustIRC
+JustIRC
+random
+JustIRC
+requests
+re
+JustIRC
+requests

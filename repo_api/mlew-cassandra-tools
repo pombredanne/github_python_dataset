@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+itertools
+unicodecsv
+pycassa.pool
+pycassa.pool.ConnectionPool
+pycassa.columnfamily
+pycassa.columnfamily.ColumnFamily

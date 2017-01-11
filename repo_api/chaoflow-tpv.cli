@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+plumbum.cli
+pkg_resources
+sys
+metachao
+metachao.aspect
+metachao.classtree

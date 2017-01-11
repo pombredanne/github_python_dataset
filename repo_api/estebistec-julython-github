@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+argparse
+github
+github.Github

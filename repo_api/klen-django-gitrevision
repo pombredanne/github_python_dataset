@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+gitrevision
+gitrevision.version
+gitrevision.PROJECT
+gitrevision.LICENSE
+django.conf
+django.conf.settings
+gitrevision.utils
+gitrevision.utils.GIT_REVISION
+gitrevision.utils.GIT_REVISION
+git
+git.Repo
+git.InvalidGitRepositoryError
+gitrevision.settings

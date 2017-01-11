@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+pyglet
+click
+soundcloud
+os
+json

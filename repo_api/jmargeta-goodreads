@@ -1,0 +1,16 @@
+distutils.core
+distutils.core.setup
+os
+nose.tools
+nose.tools.assert_equals
+goodreads
+goodreads.GoodreadsClient
+requests
+json
+os
+posixpath
+posixpath.join
+requests_oauthlib
+requests_oauthlib.OAuth1Session
+xmltodict
+goodreads.GoodreadsClient

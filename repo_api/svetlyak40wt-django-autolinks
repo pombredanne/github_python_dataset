@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.db
+django.db.models
+django.utils.translation
+django.utils.translation.ugettext_lazy
+django.test
+django.test.TestCase
+django_autolinks.utils
+django_autolinks.models
+django_autolinks.models.Link
+re
+models
+models.Link

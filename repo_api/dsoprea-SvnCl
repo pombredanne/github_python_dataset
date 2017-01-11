@@ -1,0 +1,7 @@
+setuptools
+os.path
+svncl
+datetime
+svn
+svn.local
+svn.remote

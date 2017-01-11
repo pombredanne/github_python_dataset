@@ -1,0 +1,17 @@
+__future__
+__future__.print_function
+__future__.unicode_literals
+lxml
+lxml.etree
+urlparse
+urlparse.urljoin
+operator
+operator.attrgetter
+datetime
+datetime.datetime
+itertools
+itertools.imap
+itertools.ifilter
+collections
+collections.namedtuple
+requests

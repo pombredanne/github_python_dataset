@@ -1,0 +1,14 @@
+bootstrap_lexer
+sys
+bootstrap_parser
+bootstrap_parser.parse
+bootstrap_lexer
+bootstrap_lexer.lex
+bootstrap_lexer.Variable
+unittest
+unittest
+unittest.TestCase
+bootstrap_compiler
+bootstrap_compiler.lython_compile
+bootstrap_parser.ParsingError
+re

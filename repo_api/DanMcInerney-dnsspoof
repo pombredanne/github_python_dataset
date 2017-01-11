@@ -1,0 +1,10 @@
+twisted.internet
+twisted.internet.reactor
+twisted.internet.interfaces
+twisted.internet.interfaces.IReadDescriptor
+os
+nfqueue
+scapy.all
+argparse
+threading
+signal

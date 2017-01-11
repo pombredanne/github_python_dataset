@@ -1,0 +1,12 @@
+cffi
+cffi.FFI
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+codecs.open
+os
+os.path
+_cffiex
+_cffiex.ffi
+_cffiex.lib

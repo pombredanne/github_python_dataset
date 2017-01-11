@@ -1,0 +1,16 @@
+json
+re
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.command.test
+setuptools.command.test.test
+argparse
+json
+re
+os.path
+subprocess
+pytest
+comic_downloader
+comic_downloader.informationextractor

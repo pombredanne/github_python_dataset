@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+httplib
+json
+logging
+elasticsearch
+elasticsearch.Elasticsearch
+multicorn
+multicorn.ForeignDataWrapper
+multicorn.utils
+multicorn.utils.log_to_postgres

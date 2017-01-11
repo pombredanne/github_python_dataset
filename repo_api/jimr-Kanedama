@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+argparse
+os
+smtplib
+datetime
+datetime.datetime
+email.mime.image
+email.mime.image.MIMEImage
+email.mime.multipart
+email.mime.multipart.MIMEMultipart
+ghost
+ghost.Ghost

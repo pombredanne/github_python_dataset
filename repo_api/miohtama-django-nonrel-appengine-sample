@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+dbindexer
+dbindexer.autodiscover
+os
+sys
+logging
+os
+djangoappengine.settings_base
+django.conf.urls.defaults
+django.core.management
+django.core.management.execute_manager

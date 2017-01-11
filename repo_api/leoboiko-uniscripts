@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+codecs.open
+os
+os.path
+uniscripts.unidata
+uniscripts.unidata.RANGES
+uniscripts.unidata.SCRIPT_ABBREVS
+sys
+fileinput

@@ -1,0 +1,9 @@
+copy
+curses
+curses.ascii
+enum
+enum.Enum
+locale
+math
+sys
+signal

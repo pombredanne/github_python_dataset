@@ -1,0 +1,13 @@
+difflib
+errno
+errno.ENOENT
+gzip
+gzip.GzipFile
+sys
+os
+yaml
+collections
+collections.defaultdict
+re
+logging
+subprocess

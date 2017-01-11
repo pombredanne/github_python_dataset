@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.Extension
+sys
+collections
+collections.namedtuple
+numpy
+ops
+ops.each

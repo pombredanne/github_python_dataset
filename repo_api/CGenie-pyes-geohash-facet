@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+pyes
+pyes.facets
+facet
+facet.GeohashFacet

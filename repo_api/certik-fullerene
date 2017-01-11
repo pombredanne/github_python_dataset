@@ -1,0 +1,8 @@
+pylab
+pylab.plot
+pylab.show
+numpy
+numpy.arange
+sympy
+sympy.integrate
+sympy.Symbol

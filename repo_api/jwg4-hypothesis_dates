@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+datetime
+hypothesis.strategies
+hypothesis.strategies.defines_strategy
+hypothesis.searchstrategy.strategies
+hypothesis.searchstrategy.strategies.SearchStrategy
+hypothesis
+hypothesis.given
+hypothesis_dates
+hypothesis_dates.dates
+datetime
+unittest

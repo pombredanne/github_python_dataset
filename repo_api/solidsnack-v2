@@ -1,0 +1,17 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+v2
+v2.v2
+pkg_resources
+magiclog
+magiclog.log
+contextlib
+contextlib.contextmanager
+errno
+inspect
+os
+pkg_resources
+subprocess
+subprocess.check_output
+subprocess.CalledProcessError

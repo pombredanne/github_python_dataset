@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+uvent
+uvent.__version__
+os
+pyuv
+atexit
+functools
+os
+traceback
+pyuv
+signal
+sys
+util
+util.set_nonblocking
+util.close_fd
+util.SharedPoll

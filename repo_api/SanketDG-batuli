@@ -1,0 +1,10 @@
+argparse
+textwrap
+time
+urllib2
+twisted.internet
+twisted.internet.reactor
+twisted.internet.protocol
+twisted.words.protocols
+twisted.words.protocols.irc
+wikipedia

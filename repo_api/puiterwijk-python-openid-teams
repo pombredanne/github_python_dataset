@@ -1,0 +1,11 @@
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+openid.message
+openid.message.registerNamespaceAlias
+openid.message.\
+openid.extension
+openid.extension.Extension
+six

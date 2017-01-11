@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+pytest
+random
+numpy
+numpy.percentile
+numpy.round
+numpy.average

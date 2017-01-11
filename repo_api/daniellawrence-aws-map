@@ -1,0 +1,12 @@
+boto.ec2
+boto.vpc
+local_settings
+local_settings.AWS_ACCESS_KEY_ID
+local_settings.AWS_SECRET_ACCESS_KEY
+pprint
+argparse
+time
+os
+sys
+boto
+netaddr

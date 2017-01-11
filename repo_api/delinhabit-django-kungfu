@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+configurator
+configurator.Configurator
+imp
+errno
+os

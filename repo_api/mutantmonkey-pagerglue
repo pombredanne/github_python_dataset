@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+kombu
+kombu.mixins
+ssl
+amqp.transport
+amqp.transport.SSLTransport
+twilio.rest
+pagerglue.methods.base
+pagerglue.methods.base.PageMethod
+logging
+sleekxmpp
+pagerglue.methods.base.PageMethod
+logging
+pagerglue.methods.base.PageMethod
+pagerglue.methods.base.PageMethod

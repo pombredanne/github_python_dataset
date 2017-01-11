@@ -1,0 +1,9 @@
+bugspots
+__future__
+__future__.division
+subprocess
+itertools
+collections
+os
+math
+operator

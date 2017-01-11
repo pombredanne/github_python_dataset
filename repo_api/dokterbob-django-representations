@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+django.template
+django.template.loader
+django.template.Node
+django.template.TemplateSyntaxError
+django
+django.template
+django.template.context
+django.template.context.Context

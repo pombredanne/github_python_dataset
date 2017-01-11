@@ -1,0 +1,12 @@
+re
+subprocess
+sys
+redis
+functools
+xml.parsers.expat
+Bio
+Bio.pairwise2
+mwmatching
+mwmatching.maxWeightMatching
+reactions
+reactions.react2enz

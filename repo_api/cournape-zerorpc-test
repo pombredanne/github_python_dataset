@@ -1,0 +1,8 @@
+argparse
+hashlib
+random
+string
+sys
+cStringIO
+cStringIO.StringIO
+zerorpc

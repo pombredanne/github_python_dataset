@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+tip.algorithms.sorting.mergesort
+tip.algorithms.sorting.mergesort.mergesort
+tip.algorithms.sorting.quicksort
+tip.algorithms.sorting.quicksort.quicksort
+tip.algorithms.sorting.insertion
+tip.algorithms.sorting.insertion.insertionsort

@@ -1,0 +1,17 @@
+Zeroconf
+Zeroconf.*
+socket
+signal
+sys
+Rendezvous
+unittest
+string
+time
+struct
+socket
+threading
+select
+traceback
+Rendezvous
+Rendezvous.*
+socket

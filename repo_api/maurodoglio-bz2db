@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+datetime
+datetime.date
+datetime.timedelta
+bz2db.update_bugs
+bz2db.update_bugs.(
+re
+time
+datetime.date
+datetime.datetime
+requests
+decouple
+decouple.config
+sqlalchemy
+sqlalchemy.(

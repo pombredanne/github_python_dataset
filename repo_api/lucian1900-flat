@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+collections
+collections.defaultdict
+flat
+flat.NestedDict
+flat.unflatten
+flat.flatten

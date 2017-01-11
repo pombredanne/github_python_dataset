@@ -1,0 +1,17 @@
+os
+distutils.core
+distutils.core.setup
+django.http
+django.http.HttpResponse
+django.http.Http404
+django.conf
+django.conf.settings
+PIL
+PIL.Image
+PIL.ImageFont
+PIL.ImageDraw
+django.conf.urls.defaults
+django
+django.template
+django.core.urlresolvers
+django.core.urlresolvers.reverse

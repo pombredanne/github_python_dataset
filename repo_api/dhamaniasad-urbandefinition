@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+requests
+bs4
+bs4.BeautifulSoup
+argparse

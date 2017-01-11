@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+compiler
+glob
+os
+pkgutil
+re
+sys
+pysmell.codefinder
+pysmell.codefinder.CodeFinder
+pysmell.codefinder.ModuleDict

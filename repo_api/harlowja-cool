@@ -1,0 +1,12 @@
+setuptools
+cool
+cool.utils
+six
+voluptuous
+voluptuous.Schema
+voluptuous.Required
+voluptuous.All
+voluptuous.Length
+voluptuous.Range
+voluptuous.Optional
+yaml

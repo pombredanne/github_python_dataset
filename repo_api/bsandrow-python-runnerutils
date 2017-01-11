@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+optparse
+optparse.OptionParser
+sys
+sys.argv
+sys.exit

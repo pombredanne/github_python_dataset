@@ -1,0 +1,7 @@
+os
+cffi
+cffi.FFI
+pysophia._ffi
+pysophia._ffi.ffi
+pysophia._ffi.lib
+pysophia._ffi.libc

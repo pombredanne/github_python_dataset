@@ -1,0 +1,9 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+tagcloud
+tagcloud.__version__
+django
+django.template
+math
+math.log10

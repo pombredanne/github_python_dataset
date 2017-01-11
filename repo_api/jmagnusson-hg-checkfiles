@@ -1,0 +1,9 @@
+re
+mercurial.i18n
+mercurial.i18n._
+mercurial
+mercurial.patch
+mercurial.util
+mercurial.scmutil
+mercurial.scmutil.match
+mercurial.scmutil.revrange

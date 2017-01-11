@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+os
+pytest
+confiskus
+ConfigParser
+os
+ConfigParser

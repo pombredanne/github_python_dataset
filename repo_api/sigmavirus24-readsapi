@@ -1,0 +1,15 @@
+readsapi
+readsapi.app
+setuptools
+setuptools.setup
+os
+readsapi
+unittest
+tempfile
+readsapi.app
+flask
+flask.Flask
+flask.ext.sqlalchemy
+flask.ext.sqlalchemy.SQLAlchemy
+os
+readsapi.routes

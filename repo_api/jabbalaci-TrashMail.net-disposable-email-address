@@ -1,0 +1,15 @@
+subprocess
+utils
+random
+random.randint
+shlex
+subprocess
+subprocess.Popen
+subprocess.PIPE
+subprocess.STDOUT
+re
+json
+requests
+utils
+clipboard
+clipboard.text_to_clipboards

@@ -1,0 +1,12 @@
+os
+shutil
+sys
+tempfile
+optparse
+optparse.OptionParser
+setuptools
+pkg_resources
+subprocess
+zc.buildout.buildout
+sys
+os

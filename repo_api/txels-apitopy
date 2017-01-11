@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+mock
+mock.Mock
+mock.patch
+nose.tools
+nose.tools.assert_equal
+apitopy
+apitopy.Api
+functools
+functools.partial
+urllib
+urllib.urlencode
+requests
+supermutes.dot
+supermutes.dot.dotify

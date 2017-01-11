@@ -1,0 +1,6 @@
+itertools
+numpy
+numpy
+sklearn
+sklearn.cluster
+sklearn.datasets

@@ -1,0 +1,6 @@
+requests
+bs4
+bs4.BeautifulSoup
+json
+re
+shutil

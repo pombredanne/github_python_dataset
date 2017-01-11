@@ -1,0 +1,8 @@
+django.contrib.auth.models
+django.contrib.auth.models.User
+django.conf
+django.conf.settings
+django.contrib.auth.models.User
+django.contrib.auth.models.check_password
+models
+models.ExternalUser

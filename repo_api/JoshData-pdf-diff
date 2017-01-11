@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+json
+subprocess
+io
+os
+lxml
+lxml.etree
+PIL
+PIL.Image
+PIL.ImageDraw
+PIL.ImageOps

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+pprint
+pprint.pprint
+pytest
+haags
+collections
+itertools
+re
+attr
+pyphen

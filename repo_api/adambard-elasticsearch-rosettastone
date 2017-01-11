@@ -1,0 +1,5 @@
+unittest
+unittest.TestCase
+unittest.main
+elasticsearch
+elasticsearch.Elasticsearch

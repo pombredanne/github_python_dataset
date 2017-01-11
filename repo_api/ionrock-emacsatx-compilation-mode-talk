@@ -1,0 +1,7 @@
+os
+cherrypy
+cherrypy.lib.static
+cherrypy.lib.static.serve_file
+foo
+foo.hello
+foo.rhello

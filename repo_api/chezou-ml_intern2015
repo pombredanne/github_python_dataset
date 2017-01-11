@@ -1,0 +1,8 @@
+gensim.models
+gensim.models.word2vec
+sklearn.decomposition
+sklearn.decomposition.PCA
+itertools
+itertools.chain
+matplotlib.pyplot
+matplotlib.font_manager

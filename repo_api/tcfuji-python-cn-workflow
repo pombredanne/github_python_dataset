@@ -1,0 +1,7 @@
+pandas
+pandas.Series
+igraph
+numba
+numba.jit
+numpy
+os

@@ -1,0 +1,8 @@
+threading
+coinbase.wallet.client
+coinbase.wallet.client.Client
+money
+money.Money
+secrets
+secrets.api_key
+secrets.api_secret

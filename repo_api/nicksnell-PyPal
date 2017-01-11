@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+urllib
+urllib2
+string
+exceptions
+paymentrequest
+request
+response
+settings
+urllib
+socket
+socket.gethostname
+cgi
+cgi.parse_qs

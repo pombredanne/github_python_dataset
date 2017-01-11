@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+argparse
+ast
+imp
+inspect
+json
+os
+shutil
+sys
+tempfile
+glob
+glob.glob
+subprocess
+subprocess.PIPE
+subprocess.Popen

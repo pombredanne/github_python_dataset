@@ -1,0 +1,16 @@
+scrapy
+scrapy.loader
+scrapy.loader.ItemLoader
+scrapylib.processors
+scrapylib.processors.default_input_processor
+scrapylib.processors.default_output_processor
+json
+scrapy
+scrapy.linkextractors
+scrapy.linkextractors.LinkExtractor
+scrapy.spiders
+scrapy.spiders.CrawlSpider
+scrapy.spiders.Rule
+fosshackers.items
+fosshackers.items.FosshackersItemLoader
+scrapy

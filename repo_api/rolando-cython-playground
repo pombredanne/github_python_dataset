@@ -1,0 +1,17 @@
+glob
+os
+pkgutil
+pkgutil.walk_packages
+setuptools
+setuptools.setup
+setuptools.extension
+setuptools.extension.Extension
+setuptools.command.build_ext
+setuptools.command.build_ext.build_ext
+__future__
+__future__.absolute_import
+sys
+os
+cython_playground
+pytest
+cython_playground

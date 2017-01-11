@@ -1,0 +1,8 @@
+flask
+flask.Flask
+flask.Blueprint
+flask.render_template
+flask_appconfig
+flask_appconfig.AppConfig
+flask_bootstrap
+flask_bootstrap.Bootstrap

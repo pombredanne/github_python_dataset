@@ -1,0 +1,7 @@
+requests
+json
+bs4
+flask
+flask.Flask
+flask.jsonify
+flask.make_response

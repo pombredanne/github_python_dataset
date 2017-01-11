@@ -1,0 +1,12 @@
+io
+io.open
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+re
+zhon
+zhon.cedict
+__future__.unicode_literals
+unittest
+hanzidentifier

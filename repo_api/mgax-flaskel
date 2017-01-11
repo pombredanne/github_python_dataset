@@ -1,0 +1,7 @@
+flask
+os
+flask
+flask.ext.script
+flask.ext.script.Manager
+flask
+unittest

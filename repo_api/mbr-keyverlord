@@ -1,0 +1,17 @@
+random
+pyevolve.G1DList
+pyevolve.G1DList.G1DList
+pyevolve.GSimpleGA
+pyevolve.GSimpleGA.GSimpleGA
+pyevolve
+pyevolve.Mutators
+sys
+PySide
+PySide.QtGui
+PySide.QtCore
+datafiles
+datafiles.PhysicalKeyboard
+sys
+xml.etree
+xml.etree.cElementTree
+PySide.QtCore

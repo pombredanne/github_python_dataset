@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+mongobit
+mongobit
+mongobit.Model
+mongobit.fields

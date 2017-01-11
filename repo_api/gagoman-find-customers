@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+sys
+math
+operator
+functools
+collections
+click
+simplejson
+pytest
+find_customers
+find_customers.great_circle_distance
+pytest
+click.testing
+find_customers.cli

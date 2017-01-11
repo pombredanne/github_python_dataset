@@ -1,0 +1,12 @@
+logging
+flask.ext.nsq
+flask.ext.nsq.Consumer
+msgpack
+setuptools
+setuptools.setup
+flask
+flask.Flask
+flask.ext.nsq.NSQ
+requests
+msgpack
+nsq

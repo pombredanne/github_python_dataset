@@ -1,0 +1,14 @@
+os
+urllib2
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+__future__
+__future__.generators
+sgmllib
+sgmllib.SGMLParser
+sgmllib.SGMLParseError
+codecs
+markupbase
+types
+re
+sgmllib

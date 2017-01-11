@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.unicode_literals
+django.db
+django.db.models
+itertools
+django.test
+django.test.TestCase
+django.db.models
+django.db.connection
+django_musicbrainz
+django_musicbrainz.models
+django.test.runner

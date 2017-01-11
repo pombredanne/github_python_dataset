@@ -1,0 +1,11 @@
+django.http
+django.http.HttpResponse
+django.core.handlers
+django.core.handlers.wsgi
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.url
+django.core.management
+django.core.management.execute_manager
+imp
+settings

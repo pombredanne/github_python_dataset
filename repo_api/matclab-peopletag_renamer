@@ -1,0 +1,14 @@
+gi.repository
+gi.repository.GExiv2
+gi.repository.GLib
+sys
+os
+os.path
+yaml
+logging
+platform
+argparse
+argparse.ArgumentParser
+argparse.Namespace
+collections
+collections.defaultdict

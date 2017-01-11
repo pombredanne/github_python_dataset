@@ -1,0 +1,14 @@
+hrf_estimation
+distutils.core
+distutils.core.setup
+numpy
+scipy
+scipy.sparse
+scipy.linalg
+scipy.optimize
+scipy.sparse
+scipy.sparse.linalg
+numpy
+scipy.linalg
+scipy.optimize
+scipy.sparse.linalg

@@ -1,0 +1,14 @@
+re
+os
+functools
+functools.partial
+urllib
+urllib.unquote
+urlparse
+urlparse.urlparse
+tornado.httpclient
+import
+thumbor.utils
+thumbor.utils.logger
+tornado.concurrent
+tornado.concurrent.return_future

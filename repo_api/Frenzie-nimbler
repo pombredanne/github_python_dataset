@@ -1,0 +1,15 @@
+gi
+gi.repository
+gi.repository.Gtk
+gi.repository.GdkPixbuf
+gi.repository.Wnck
+gi.repository.Keybinder
+gi.repository.Gdk
+gi.repository.GdkX11
+gi.repository.Pango
+re
+os
+signal
+string
+xml.sax.saxutils
+xml.sax.saxutils.escape

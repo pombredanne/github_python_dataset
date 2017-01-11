@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+magicle.magicle
+nose.tools
+nose.tools.eq_
+magicle
+magicle.magicle
+magicle.functions
+collections
+re
+sys
+pycommand
+magicle.functions
+collections
+datetime
+textwrap

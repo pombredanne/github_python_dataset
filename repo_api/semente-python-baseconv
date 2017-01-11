@@ -1,0 +1,8 @@
+codecs
+os
+sys
+os.path
+os.path.join
+os.path.dirname
+setuptools
+setuptools.setup

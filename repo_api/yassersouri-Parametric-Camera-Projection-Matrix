@@ -1,0 +1,6 @@
+sympy
+sympy.Matrix
+sympy.lambdify
+sympy.cos
+sympy.sin
+sympy.symbols

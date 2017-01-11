@@ -1,0 +1,7 @@
+cv2
+numpy
+os
+sklearn
+sklearn.svm
+sklearn.externals
+sklearn.externals.joblib

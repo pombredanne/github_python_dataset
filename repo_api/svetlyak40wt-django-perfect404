@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.db
+django.db.models
+logging
+django
+django.http
+django.conf
+django.conf.settings
+django.template
+django.template.RequestContext
+django.template.loader
+django.contrib.sites.models
+django.contrib.sites.models.Site

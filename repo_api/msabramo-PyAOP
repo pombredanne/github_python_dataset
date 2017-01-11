@@ -1,0 +1,7 @@
+contextlib
+StringIO
+StringIO.StringIO
+sys
+unittest
+pyaop
+pyaop.AOP

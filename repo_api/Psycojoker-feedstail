@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+re
+feedparser
+feedparser.parse
+config
+config.Config
+feedstail
+feedstail.feedGenerator
+feedstail.FeedKeyError
+logging
+logging.basicConfig
+sys
+sys.version_info
+utils
+utils.Storage

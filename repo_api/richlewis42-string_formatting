@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+string_formatting
+string_formatting.camel2snail
+string_formatting.camel2snail

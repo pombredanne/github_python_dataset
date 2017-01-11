@@ -1,0 +1,15 @@
+numpy
+pygame
+pygame.camera
+pygame.image
+vispy
+vispy.app
+vispy.gloo
+eyetracker
+eyetracker.EyeTracker
+numpy
+cv2
+numpy
+math
+math
+math.fabs

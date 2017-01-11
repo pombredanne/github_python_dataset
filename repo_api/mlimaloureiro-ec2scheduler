@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+docopt
+docopt.docopt
+ConfigParser
+ConfigParser.SafeConfigParser
+boto.ec2
+boto.ec2.elb
+sys
+os
+json
+datetime
+time

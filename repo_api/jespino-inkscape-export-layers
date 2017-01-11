@@ -1,0 +1,7 @@
+sys
+inkex
+os
+subprocess
+tempfile
+shutil
+copy

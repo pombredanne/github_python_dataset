@@ -1,0 +1,9 @@
+json
+staticjinja
+staticjinja.make_renderer
+bs4
+bs4.BeautifulSoup
+json
+requests
+re
+logging

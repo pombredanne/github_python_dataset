@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+xml.sax.saxutils
+xml.sax.saxutils.escape
+xml.sax.saxutils.unescape
+unicodedata

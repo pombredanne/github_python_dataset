@@ -1,0 +1,10 @@
+django.http
+django.http.HttpResponse
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.include
+django.conf.urls.defaults.url
+django.core.management
+django.core.management.execute_manager
+imp
+settings

@@ -1,0 +1,17 @@
+logging
+cStringIO
+cStringIO.StringIO
+urllib
+urllib.unquote
+zipfile
+zipfile.ZipFile
+zipfile.ZIP_DEFLATED
+flask
+flask.Flask
+flask.Response
+flask.request
+PIL
+PIL.ImageDraw
+qrcode
+qrcode.QRCode
+qrcode.ERROR_CORRECT_H

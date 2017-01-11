@@ -1,0 +1,13 @@
+__future__
+__future__.division
+os
+requests
+gzip
+math
+math.sin
+math.cos
+math.pi
+numpy
+matplotlib.pylab
+mpl_toolkits.mplot3d
+mpl_toolkits.mplot3d.Axes3D

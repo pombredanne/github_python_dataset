@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.forms
+sentry.plugins
+sentry.plugins.Plugin
+sentry_geo
+sentry.interfaces
+sentry.interfaces.Interface
+sentry.web.helpers
+sentry.web.helpers.render_to_string

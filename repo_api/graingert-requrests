@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+requrests
+unittest
+unittest.TestCase
+six.moves
+six.moves.http_server

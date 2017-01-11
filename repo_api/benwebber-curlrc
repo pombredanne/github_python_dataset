@@ -1,0 +1,17 @@
+setuptools
+__future__
+__future__.print_function
+argparse
+collections
+glob
+json
+os
+os.path
+re
+sys
+__future__.print_function
+collections
+json
+os
+pytest
+curlrc

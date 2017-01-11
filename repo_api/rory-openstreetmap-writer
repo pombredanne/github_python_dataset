@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+unittest
+osmwriter
+osmwriter.OSMWriter
+six
+six.StringIO
+xml.etree.ElementTree
+xml.sax.saxutils
+xml.sax.saxutils.XMLGenerator
+six.text_type

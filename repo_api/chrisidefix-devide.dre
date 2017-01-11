@@ -1,0 +1,13 @@
+os
+platform
+re
+sys
+IPython.Shell
+os
+IPython.gui.wx
+IPython.gui.wx.wxIPython
+ConfigParser
+copy
+os
+subprocess
+sys

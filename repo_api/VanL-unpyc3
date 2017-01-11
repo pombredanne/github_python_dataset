@@ -1,0 +1,10 @@
+dis
+array
+array.array
+opcode
+opcode.opname
+opcode.opmap
+opcode.HAVE_ARGUMENT
+opcode.cmp_op
+imp
+inspect

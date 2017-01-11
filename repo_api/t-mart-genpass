@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+genpass
+sys
+string
+itertools
+random
+enum
+click
+import

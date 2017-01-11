@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.core.files.base
+django.core.files.base.ContentFile
+filebrowser_safe.storage
+filebrowser_safe.storage.StorageMixin

@@ -1,0 +1,5 @@
+subprocess
+munin.mongodb
+munin.mongodb.MuninMongoDBPlugin
+setuptools
+setuptools.setup

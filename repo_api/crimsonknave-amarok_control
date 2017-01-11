@@ -1,0 +1,7 @@
+atexit
+gobject
+dbus
+dbus.glib
+glib
+os
+math

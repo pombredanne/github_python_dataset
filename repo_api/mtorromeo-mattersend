@@ -1,0 +1,17 @@
+os
+mattersend
+setuptools
+setuptools.setup
+sys
+os
+argparse
+json
+csv
+mimetypes
+io
+io.StringIO
+requests
+re
+mattersend
+pyfakefs
+pyfakefs.fake_filesystem_unittest

@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+__future__
+__future__.absolute_import
+inspect
+sys
+types
+warnings
+fabric.tasks
+fabric.tasks.WrappedCallableTask

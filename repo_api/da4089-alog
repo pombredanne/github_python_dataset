@@ -1,0 +1,15 @@
+time
+Tkinter
+Tkinter.BOTH
+Tkinter.RIGHT
+Tkinter.LEFT
+Tkinter.StringVar
+Tkinter.Text
+Tkinter.TOP
+Tkinter.Tk
+Tkinter.X
+ttk
+ttk.Button
+ttk.Combobox
+ttk.Frame
+ttk.Style

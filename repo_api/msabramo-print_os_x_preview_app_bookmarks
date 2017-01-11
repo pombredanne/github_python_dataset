@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+os
+shutil
+sys
+tempfile
+urllib2
+optparse
+optparse.OptionParser
+zc.buildout.buildout
+os
+json
+Cocoa

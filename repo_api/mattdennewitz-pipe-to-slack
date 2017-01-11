@@ -1,0 +1,7 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+pip.download
+pip.req
+pip.req.parse_requirements

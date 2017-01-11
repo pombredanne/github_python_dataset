@@ -1,0 +1,5 @@
+pyxul.widget
+pyxul.widget.Widget
+pyxul.widget.NS_MAP
+xml.sax.saxutils
+xml.sax.saxutils.escape

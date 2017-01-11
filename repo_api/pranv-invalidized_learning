@@ -1,0 +1,17 @@
+numpy
+os
+sys
+cPickle
+invalidizer.invalidizer
+matplotlib.pyplot
+numpy
+copy
+copy.deepcopy
+scipy.ndimage.interpolation
+scipy.ndimage.interpolation.rotate
+numpy
+matplotlib.pyplot
+PIL
+PIL.Image
+image
+image.invalidizer

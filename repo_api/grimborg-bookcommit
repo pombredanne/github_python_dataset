@@ -1,0 +1,6 @@
+mercurial
+mercurial.commands
+mercurial.extensions
+setuptools
+setuptools.setup
+os

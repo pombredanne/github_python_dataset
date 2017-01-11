@@ -1,0 +1,16 @@
+pivotalcli
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+json
+pivotalcli
+pivotalcli.__version__
+docopt
+docopt.docopt
+pivotalcli.helpers
+json
+os
+requests
+urllib
+sys

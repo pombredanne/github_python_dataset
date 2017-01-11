@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+argparse
+itertools
+re
+sys
+__future__
+__future__.print_function
+glob
+os.path
+unittest
+sys
+sortcss
+sortcss.make_parser
+sortcss.sort_properties

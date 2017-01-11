@@ -1,0 +1,4 @@
+some_module
+nose.tools
+nose.tools.eq_
+some_module

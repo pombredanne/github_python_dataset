@@ -1,0 +1,11 @@
+os
+sys
+time
+socket
+string
+urlparse
+datetime
+threading
+pycurl
+yum.plugins
+yum.plugins.TYPE_CORE

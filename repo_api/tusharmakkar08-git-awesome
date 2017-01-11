@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+os
+sys
+subprocess
+subprocess.Popen
+subprocess.PIPE
+colorama
+six.moves
+six.moves.input

@@ -1,0 +1,15 @@
+webapp2
+jinja2
+os
+sys
+logging
+gwscrape
+gwscrape.GwUtil
+google.appengine.ext
+google.appengine.ext.ndb
+urllib2
+bs4
+bs4.BeautifulSoup
+bs4.Comment
+re
+google.appengine.ext.vendor

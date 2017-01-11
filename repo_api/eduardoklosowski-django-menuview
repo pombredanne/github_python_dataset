@@ -1,0 +1,13 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+django.conf
+django.conf.settings
+django.core.exceptions
+django.core.exceptions.ImproperlyConfigured
+django.core.urlresolvers
+django.core.urlresolvers.reverse_lazy
+django.utils
+django.utils.six
+functools
+functools.total_ordering

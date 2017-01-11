@@ -1,0 +1,13 @@
+__future__
+__future__.division
+__future__.print_function
+numpy
+matplotlib
+matplotlib.pyplot
+pandas
+scipy.interpolate
+scipy.interpolate.interp1d
+seaborn
+pxl.styleplot
+pxl.styleplot.set_sns
+os

@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+jirafs_pandoc
+jirafs_pandoc.__version__
+datetime
+os
+shutil
+subprocess
+tempfile
+six
+jirafs.plugin
+jirafs.plugin.Plugin
+jirafs.plugin.PluginOperationError
+jirafs.plugin.PluginValidationError

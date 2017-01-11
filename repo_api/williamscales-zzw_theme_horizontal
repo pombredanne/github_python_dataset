@@ -1,0 +1,8 @@
+django.db
+django.db.models
+django.test
+django.test.TestCase
+django.shortcuts
+django.shortcuts.render
+django.contrib
+django.contrib.admin

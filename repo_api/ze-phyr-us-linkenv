@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+os
+shutil
+sys
+optparse
+optparse.OptionParser

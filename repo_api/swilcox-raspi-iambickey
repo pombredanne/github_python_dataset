@@ -1,0 +1,9 @@
+RPi
+RPi.GPIO
+time
+time.time
+numpy
+pygame
+pygame.mixer
+pygame.sndarray
+math

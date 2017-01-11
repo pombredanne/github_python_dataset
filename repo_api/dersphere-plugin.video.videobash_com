@@ -1,0 +1,13 @@
+xbmcswift2
+xbmcswift2.Plugin
+resources.lib.videobash_scraper
+resources.lib.videobash_scraper.Scraper
+resources.lib.videobash_scraper.NetworkError
+urllib2
+urllib2.urlopen
+urllib2.HTTPError
+urllib2.URLError
+urllib2.unquote
+re
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

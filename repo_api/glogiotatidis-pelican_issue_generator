@@ -1,0 +1,14 @@
+shutil
+os
+subprocess
+logging
+collections
+collections.namedtuple
+pelican
+pelican.signals
+pelican.generators
+pelican.generators.Generator
+issue_generator
+issue_generator.*
+issue_generator.#
+issue_generator.noqa

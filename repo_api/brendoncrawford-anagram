@@ -1,0 +1,14 @@
+os
+sys
+re
+random
+multiprocessing
+optparse
+optparse.OptionParser
+os
+sys
+unittest
+unittest
+anagram
+anagram.solve
+test__solve

@@ -1,0 +1,7 @@
+requests
+json
+pprint
+textwrap
+colorama
+colorama.Fore
+colorama.init

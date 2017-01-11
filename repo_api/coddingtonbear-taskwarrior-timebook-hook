@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+json
+logging
+os
+sys
+subprocess32
+tempfile

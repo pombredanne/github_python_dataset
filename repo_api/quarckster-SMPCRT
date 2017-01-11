@@ -1,0 +1,15 @@
+smpcrt
+os
+threading
+ScrolledText
+tkFileDialog
+tkMessageBox
+ttk
+sys
+Tkinter
+csv
+sys
+argparse
+piplapis.search
+piplapis.search.SearchAPIRequest
+piplapis.search.SearchAPIError

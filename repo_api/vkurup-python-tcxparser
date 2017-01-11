@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+StringIO
+StringIO.StringIO
+unittest
+tcxparser
+tcxparser.TCXParser
+time
+lxml
+lxml.objectify

@@ -1,0 +1,7 @@
+webmap.mapper
+requests
+lxml.html
+textblob
+textblob.TextBlob
+cgi
+cgitb

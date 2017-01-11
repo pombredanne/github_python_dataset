@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+io
+os
+__future__
+__future__.absolute_import
+os
+os.getenv
+os.urandom
+base64
+base64.urlsafe_b64decode
+base64.urlsafe_b64encode
+hashlib
+hashlib.sha256

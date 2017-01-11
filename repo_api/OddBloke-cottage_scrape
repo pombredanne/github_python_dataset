@@ -1,0 +1,7 @@
+argparse
+logging
+re
+sys
+requests
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

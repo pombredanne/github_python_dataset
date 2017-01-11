@@ -1,0 +1,11 @@
+pandas
+sklearn.linear_model
+sklearn.linear_model.LogisticRegression
+sklearn.feature_extraction.text
+sklearn.feature_extraction.text.CountVectorizer
+sklearn.naive_bayes
+sklearn.naive_bayes.MultinomialNB
+sklearn.cross_validation
+sklearn.cross_validation.cross_val_score
+sklearn.ensemble
+sklearn.ensemble.RandomForestClassifier

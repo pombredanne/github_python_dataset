@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+lettuce
+lettuce.step
+lettuce.world
+nose.tools
+nose.tools.assert_true
+os
+unittest
+lettuce.world
+lettuce.core
+lettuce.core.Feature
+os
+lettuce.world

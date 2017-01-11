@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.conf
+django.conf.settings
+django.contrib.auth.models
+django.contrib.auth.models.User
+django.contrib.auth.middleware
+django.contrib.auth.middleware.RemoteUserMiddleware
+django.contrib
+django.contrib.auth

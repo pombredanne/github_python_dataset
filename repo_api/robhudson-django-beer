@@ -1,0 +1,12 @@
+django.db
+django.db.models
+django.contrib
+django.contrib.admin
+django_beer.models
+django_beer.models.Fermentable
+django_beer.models.Hop
+django_beer.models.Yeast
+django_beer.models.Misc
+django_beer.models.Water
+django_beer.models.Equipment
+django_beer.models.\

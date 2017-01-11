@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+unittest
+unittest.TestCase
+unittest.main
+mock
+mock.Mock
+mock.MagicMock
+dribbble
+api
+requests
+lxml.cssselect
+lxml.cssselect.CSSSelector
+lxml.html
+lxml.html.fromstring
+requests

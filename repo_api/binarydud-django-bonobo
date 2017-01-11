@@ -1,0 +1,13 @@
+django.db
+django.db.models
+django.test
+django.test.TestCase
+bonobo.core
+bonobo.core
+bonobo.core.__version__
+requests
+omnijson
+django.core.mail.backends.base
+django.core.mail.backends.base.BaseEmailBackend
+django.conf
+django.conf.settings

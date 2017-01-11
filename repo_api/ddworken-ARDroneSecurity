@@ -1,0 +1,11 @@
+flask
+flask.Flask
+flask.request
+flask.g
+flask.redirect
+flask.url_for
+flaskext.auth
+flaskext.auth.Auth
+flaskext.auth.AuthUser
+flaskext.auth.login_required
+flaskext.auth.logout

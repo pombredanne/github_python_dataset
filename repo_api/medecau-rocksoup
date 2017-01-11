@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+requests
+requests
+requests.models
+bs4
+bs4.BeautifulSoup
+urlparse
+urlparse.urlparse
+urlparse.parse_qs

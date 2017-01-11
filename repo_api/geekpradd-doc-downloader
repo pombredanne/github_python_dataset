@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+downloader
+downloader.DocDownloader
+downloader.__version__from
+downloader.bs4
+downloader.import
+downloader.BeautifulSoup
+requests
+wget
+os
+zipfile
+sys
+argparse

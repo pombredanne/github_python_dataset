@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+unittest
+collections
+collections.namedtuple
+mock
+kuyruk
+kuyruk_sentry
+os
+sys
+socket
+datetime
+datetime.datetime
+blinker
+raven
+kuyruk
+kuyruk.signals

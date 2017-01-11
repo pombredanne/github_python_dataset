@@ -1,0 +1,8 @@
+deploy
+sys
+jinja2
+jinja2.Template
+fabric.api
+fabric.contrib.files
+fabric.operations
+config

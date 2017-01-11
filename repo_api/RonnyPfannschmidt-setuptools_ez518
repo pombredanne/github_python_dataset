@@ -1,0 +1,10 @@
+sys
+ez_518_pip;
+ez_518_pip.setup(__file__)
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+sys
+subprocess
+logging

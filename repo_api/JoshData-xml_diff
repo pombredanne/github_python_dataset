@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+lxml.etree
+xml_diff
+xml_diff.compare
+re
+lxml.etree
+io
+io.StringIO
+copy
+copy.deepcopy
+sys

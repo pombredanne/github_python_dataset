@@ -1,0 +1,7 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+eventlite.utils.local
+eventlite.utils.local.LocalStack
+eventlite

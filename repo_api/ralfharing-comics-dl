@@ -1,0 +1,15 @@
+bs4
+bs4.BeautifulSoup
+requests
+os
+argparse
+bs4.BeautifulSoup
+requests
+os
+bs4.BeautifulSoup
+requests
+os
+progressbar
+progressbar.AnimatedProgressBar
+random
+random.shuffle

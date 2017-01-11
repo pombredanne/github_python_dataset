@@ -1,0 +1,12 @@
+atexit
+itertools
+multiprocessing
+os.path
+time
+urllib
+pymysql
+yaml
+RPi.GPIO
+spidev
+lib_nrf24
+lib_nrf24.NRF24

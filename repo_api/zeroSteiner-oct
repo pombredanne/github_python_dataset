@@ -1,0 +1,11 @@
+argparse
+os
+requests
+oct
+datetime
+re
+flask
+flask.ext.sqlalchemy
+requests
+sqlalchemy.dialects.postgresql
+twitter

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+os
+subprocess
+sys
+nose.tools
+nose.tools.raises
+os
+sys
+ihooks
+warnings
+imp

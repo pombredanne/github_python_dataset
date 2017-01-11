@@ -1,0 +1,9 @@
+__future__
+__future__.unicode_literals
+unittest
+contextlib
+contextlib.contextmanager
+mock
+cloudping
+__future__.unicode_literals
+requests

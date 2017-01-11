@@ -1,0 +1,11 @@
+urllib2
+xml.dom
+xml.dom.minidom
+simplejson
+pygame
+pygame.locals
+random
+time
+datetime
+pyowm
+wap

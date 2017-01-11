@@ -1,0 +1,6 @@
+argparse
+argparse.ArgumentParser
+PIL
+PIL.Image
+os
+subprocess

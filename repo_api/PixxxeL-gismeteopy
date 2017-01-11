@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+gismeteo
+gismeteo.parser
+gismeteo.parser.GisMeteoParser
+gismeteo.parser._Forecast
+xml.dom
+xml.dom.minidom
+urllib2
+datetime
+os
+time
+conditions

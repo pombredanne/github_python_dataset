@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+re
+functools
+functools.wraps

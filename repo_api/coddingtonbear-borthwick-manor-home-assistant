@@ -1,0 +1,8 @@
+logging
+requests
+voluptuous
+homeassistant.components.notify
+homeassistant.components.notify.(
+homeassistant.const
+homeassistant.const.CONF_RESOURCE
+homeassistant.helpers.config_validation

@@ -1,0 +1,11 @@
+pygame
+os
+glob
+time
+HTMLParser
+HTMLParser.HTMLParser
+urllib2
+urllib
+re
+os
+glob

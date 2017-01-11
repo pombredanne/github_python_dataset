@@ -1,0 +1,13 @@
+codecs
+datetime
+hashlib
+os
+re
+shutil
+subprocess
+cssmin
+jsmin
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages

@@ -1,0 +1,7 @@
+numpy
+h5py
+fuel.datasets.hdf5
+fuel.datasets.hdf5.H5PYDataset
+numpy
+h5py
+fuel.datasets.hdf5.H5PYDataset

@@ -1,0 +1,11 @@
+requests
+lxml
+lxml.etree
+datetime
+requests
+lxml.etree
+requests
+lxml.etree
+requests
+lxml.etree
+pdb;pdb.set_trace()

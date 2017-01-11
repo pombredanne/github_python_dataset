@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+unittest.TestCase
+phone
+phone.Phone
+phone.Phone
+os
+struct
+sys
+phone.Phone

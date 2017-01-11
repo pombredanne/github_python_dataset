@@ -1,0 +1,12 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+django.conf
+django.conf.settings
+django.conf.urls
+django.conf.urls.include
+django.conf.urls.url
+django.core.exceptions
+django.core.exceptions.ImproperlyConfigured
+importlib
+importlib.import_module

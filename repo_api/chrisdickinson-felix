@@ -1,0 +1,8 @@
+optparse
+simplejson
+os
+sys
+nappingcat.auth
+nappingcat.auth.AuthBackend
+simplejson
+os

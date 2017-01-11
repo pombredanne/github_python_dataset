@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+werkzeug.routing
+werkzeug.routing.Map
+werkzeug.routing.Rule
+werkzeug.exceptions
+werkzeug.exceptions.NotFound

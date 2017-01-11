@@ -1,0 +1,16 @@
+cragislist_cars
+unittest
+os
+argparse
+sys
+requests
+bs4
+bs4.BeautifulSoup
+urlparse
+collections
+collections.defaultdict
+dateutil.parser
+dateutil.relativedelta
+dateutil.relativedelta.relativedelta
+datetime
+datetime.datetime

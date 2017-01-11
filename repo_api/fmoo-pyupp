@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+io
+io.BytesIO
+binascii
+argparse
+logging
+six
+struct
+sys

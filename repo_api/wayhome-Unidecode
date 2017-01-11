@@ -1,0 +1,11 @@
+setuptools
+setuptools.Command
+setuptools.setup
+unittest
+unittest
+unidecode
+unidecode.unidecode
+unittest
+unidecode.unidecode
+sys
+sys.version_info

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+base64
+hashlib
+hmac
+time
+datetime
+datetime.datetime
+requests.auth
+requests.auth.AuthBase

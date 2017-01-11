@@ -1,0 +1,16 @@
+crawler.util.calc
+crawler.util.calc.calc_time
+time
+time.sleep
+unittest
+unittest
+crawler.crawler
+crawler.crawler.Crawler
+urllib2
+re
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+util.calc
+util.calc.calc_time
+timeit
+timeit.time

@@ -1,0 +1,7 @@
+os
+urllib2
+getpass
+getpass.getpass
+ConfigParser
+ConfigParser.SafeConfigParser
+ConfigParser.NoOptionError

@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+os
+urllib
+bs4
+bs4.BeautifulSoup
+re
+argparse

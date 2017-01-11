@@ -1,0 +1,14 @@
+setuptools
+urllib.request
+io
+PIL
+PIL.Image
+PIL.ImageDraw
+http.client
+io
+json
+sens.application
+argparse
+sys
+sens.image
+sens.status

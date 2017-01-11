@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+fassembler
+fassembler.tasks
+fassembler.project
+fassembler.project.Project
+fassembler.project.Setting
+fassembler.tasks
+fassembler.project.Project
+fassembler.project.Setting

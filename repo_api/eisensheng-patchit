@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+unittest
+patchit
+bisect
+re
+collections
+collections.namedtuple
+sys
+os

@@ -1,0 +1,7 @@
+os
+scrapy
+scrapy.pipelines.images
+scrapy.pipelines.images.ImagesPipeline
+w3lib.url
+w3lib.url.add_or_replace_parameter
+w3lib.url.url_query_parameter

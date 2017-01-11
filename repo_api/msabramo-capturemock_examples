@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+capturemock
+capturemock.capturemock
+capturemock.RECORD
+capturemock.REPLAY
+capturemock.capturemock
+capturemock.RECORD
+capturemock.REPLAY
+capturemock.capturemock
+capturemock.REPLAY

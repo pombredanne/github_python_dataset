@@ -1,0 +1,10 @@
+pygeoprocessing
+hashlib
+os
+platform
+sys
+osgeo
+osgeo.gdal
+numpy
+scipy
+pygeoprocessing

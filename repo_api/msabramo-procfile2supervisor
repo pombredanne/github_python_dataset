@@ -1,0 +1,7 @@
+os
+sys
+setuptools
+setuptools.setup
+pkg_resources
+subprocess
+click

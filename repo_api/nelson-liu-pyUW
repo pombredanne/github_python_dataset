@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+sys
+pyUW
+argparse
+selenium
+selenium.webdriver
+selenium.webdriver.support.ui
+selenium.webdriver.support
+selenium.webdriver.support.expected_conditions
+selenium.common.exceptions
+selenium.common.exceptions.TimeoutException
+itertools
+re

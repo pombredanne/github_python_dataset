@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+psycopg2
+json
+pprint
+pprint.pprint
+argparse
+sys
+re

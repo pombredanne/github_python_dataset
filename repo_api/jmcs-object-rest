@@ -1,0 +1,16 @@
+__future__
+__future__.print_function
+object_rest
+flask
+collections
+collections.defaultdict
+copy
+fnmatch
+json
+requests
+json
+object_rest.documentation
+object_rest.documentation.Documentation
+object_rest.service
+object_rest.service.Service
+object_rest.documentation.help

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+argparse
+os
+subprocess
+subprocess.check_output
+sys
+six

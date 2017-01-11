@@ -1,0 +1,14 @@
+sys
+requests
+bs4
+bs4.BeautifulSoup
+os
+os.path
+datetime
+datetime.datetime
+config
+config.EMAIL
+config.PASSWORD
+config.DEVICE
+logging
+sqlite3

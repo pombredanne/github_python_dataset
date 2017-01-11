@@ -1,0 +1,12 @@
+re
+pathlib
+pathlib.Path
+setuptools
+setuptools.setup
+inspect
+pytest
+hybrid_attributes
+hybrid_attributes.hybrid_method
+hybrid_attributes.hybrid_property
+hybrid_attributes.__version__
+hybrid_attributes.__version_info__

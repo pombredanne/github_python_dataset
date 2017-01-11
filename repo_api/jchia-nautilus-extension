@@ -1,0 +1,14 @@
+gobject
+gst
+gst.extend
+gst.extend.discoverer
+os
+urllib
+gi.repository
+gi.repository.GObject
+gi.repository.Nautilus
+gobject
+gst
+gst.extend.discoverer
+os
+sys

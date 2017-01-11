@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+gitwarrior
+gitwarrior.__version__
+os
+tempfile
+subprocess
+subprocess.call
+operator
+operator.attrgetter
+github2.client
+github2.client.Github
+ConfigParser
+ConfigParser.ConfigParser

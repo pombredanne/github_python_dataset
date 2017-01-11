@@ -1,0 +1,9 @@
+flickrapi
+#
+easy_install
+flickrapi
+yaml
+#
+easy_install
+pyyaml
+sys

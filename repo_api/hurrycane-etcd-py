@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+client
+client.Client
+grequests
+requests

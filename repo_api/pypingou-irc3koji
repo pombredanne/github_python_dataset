@@ -1,0 +1,12 @@
+logging
+urllib
+datetime
+datetime.datetime
+irc3
+koji
+irc3d
+irc3d.IrcServer
+irc3.compat
+irc3.compat.asyncio
+irc3.plugins.command
+irc3.plugins.command.command

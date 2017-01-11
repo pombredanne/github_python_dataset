@@ -1,0 +1,8 @@
+os
+sys
+django.conf.urls
+django.conf.urls.patterns
+django.conf.urls.include
+django.conf.urls.url
+os
+sys

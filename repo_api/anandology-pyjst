@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+compiler
+cStringIO
+cStringIO.StringIO
+os.path
+sys
+pyjs.translator_proto
+pyjs.translator_proto.Translator

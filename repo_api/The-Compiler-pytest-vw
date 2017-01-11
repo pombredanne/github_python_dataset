@@ -1,0 +1,7 @@
+os
+codecs
+setuptools
+setuptools.setup
+os
+pytest
+pytest_vw

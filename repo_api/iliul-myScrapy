@@ -1,0 +1,12 @@
+scrapy
+pymongo
+requests
+sys
+scrapy
+guazi.items
+guazi.items.GuaziItem
+scrapy.selector
+scrapy.selector.Selector
+scrapy.loader
+scrapy.loader.ItemLoader
+scrapy.loader.Identity

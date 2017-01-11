@@ -1,0 +1,6 @@
+urllib2
+json
+collections
+collections.namedtuple
+mercurial.cmdutil
+mercurial.cmdutil.show_changeset

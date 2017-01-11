@@ -1,0 +1,13 @@
+sys
+termcolor
+termcolor.colored
+optparse
+optparse.OptionParser
+os
+os.path
+time
+time.sleep
+IOBluetooth
+IOBluetoothUI
+objc
+objc

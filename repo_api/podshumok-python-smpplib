@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+struct
+import
+binascii
+random
+struct
+logging
+ptypes
+ptypes.ostr
+ptypes.flag
+socket
+struct
+binascii
+logging

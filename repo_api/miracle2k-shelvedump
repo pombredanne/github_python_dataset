@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+sys
+os.path
+os.path.basename
+os.path.exists
+shelve
+json
+jsonpickle.pickler
+jsonpickle.pickler.Pickler

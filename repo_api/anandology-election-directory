@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+election_directory
+election_directory.__version__
+os

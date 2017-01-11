@@ -1,0 +1,5 @@
+requests
+urllib
+bs4
+bs4.BeautifulSoup
+re

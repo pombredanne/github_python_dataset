@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+collections
+collections.MutableMapping
+collections.Mapping
+collections.KeysView
+collections.ItemsView
+collections.ValuesView
+lru_dict
+lru_dict.lru_dict
+lru_dict.lru_dict

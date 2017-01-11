@@ -1,0 +1,17 @@
+supybot.utils
+supybot.commands
+supybot.plugins
+supybot.ircutils
+supybot.callbacks
+urllib2
+re
+random
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+supybot.test
+supybot
+supybot.world
+config
+plugin
+supybot.conf
+supybot.registry

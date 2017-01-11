@@ -1,0 +1,16 @@
+mercurial
+mercurial.commands
+re
+mercurial.commands
+mercurial.util
+random
+random.random
+os
+mercurial.hg
+mercurial.commands
+mercurial.util
+hgext
+hgext.mq
+os
+re
+mercurial.commands

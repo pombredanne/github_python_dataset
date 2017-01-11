@@ -1,0 +1,17 @@
+xbmcswift2
+xbmcswift2.Plugin
+xbmcswift2.actions
+xbmcvfs
+os
+json
+dabdate
+urllib
+urllib2
+cookielib
+os
+re
+bs4
+bs4.BeautifulSoup
+json
+base64
+time

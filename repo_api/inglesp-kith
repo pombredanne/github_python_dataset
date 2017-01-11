@@ -1,0 +1,10 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+os
+re
+json
+unittest
+kith
+collections
+collections.defaultdict

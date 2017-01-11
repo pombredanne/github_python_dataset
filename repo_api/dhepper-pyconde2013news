@@ -1,0 +1,5 @@
+distutils.core
+distutils.core.setup
+requests
+bs4
+bs4.BeautifulSoup

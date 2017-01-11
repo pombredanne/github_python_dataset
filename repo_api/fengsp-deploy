@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+fabric.api
+sys
+os
+yourapp
+yourapp.app
+multiprocessing
+os
+yourapp.app
+flask
+flask.Flask
+yourapp.settings
+yourapp.views

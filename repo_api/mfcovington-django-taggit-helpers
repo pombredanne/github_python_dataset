@@ -1,0 +1,17 @@
+os
+sys
+setuptools
+setuptools.setup
+django.apps
+django.apps.AppConfig
+django
+django.contrib
+django.contrib.admin
+django.contrib.contenttypes.admin
+django.contrib.contenttypes.admin.(GenericStackedInline
+django.contrib.contenttypes.admin.from
+django.contrib.contenttypes.admin.django.db.models
+django.contrib.contenttypes.admin.import
+django.contrib.contenttypes.admin.Count
+taggit.models
+taggit.models.TaggedItem

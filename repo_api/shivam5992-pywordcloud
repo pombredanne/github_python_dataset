@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+pywordcloud
+pywordcloud.*import
+pywordcloud.random
+pywordcloud.re
+pywordcloud.string
+pywordcloud.stopwords
+pywordcloud.sys
+pywordcloud.pywordcloud

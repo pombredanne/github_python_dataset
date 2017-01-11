@@ -1,0 +1,7 @@
+argparse
+hashlib
+itertools
+re
+urllib
+urllib2
+BeautifulSoup

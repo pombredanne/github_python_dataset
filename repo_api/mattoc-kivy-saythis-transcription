@@ -1,0 +1,11 @@
+kivy
+kivy.app
+kivy.app.App
+kivy.properties
+kivy.properties.ObjectProperty
+kivy.uix.boxlayout
+kivy.uix.boxlayout.BoxLayout
+kivy.uix.popup
+kivy.uix.popup.Popup
+plyer
+plyer.tts

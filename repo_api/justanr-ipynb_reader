@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+docutils
+docutils.io
+docutils.core
+io
+io.StringIO
+pelican
+pelican.signals
+pelican.readers
+pelican.readers.BaseReader
+pelican.readers.PelicanHTMLTranslator
+pelican.readers.RstReader
+ipynb_reader
+ipynb_reader.IPyNBReader
+ipynb_reader.register

@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+distutils.core.Extension
+xmlrpclib
+logging
+os.path
+httplib
+configobj
+configobj.ConfigObj

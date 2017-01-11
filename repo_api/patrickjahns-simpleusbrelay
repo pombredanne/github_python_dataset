@@ -1,0 +1,6 @@
+time
+simpleusbrelay
+distutils.core
+distutils.core.setup
+usb.core
+usb.util

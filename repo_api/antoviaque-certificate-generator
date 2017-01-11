@@ -1,0 +1,9 @@
+codecs
+qrcode
+sh
+StringIO
+sys
+jinja2
+jinja2.Template
+urlparse
+urlparse.urljoin

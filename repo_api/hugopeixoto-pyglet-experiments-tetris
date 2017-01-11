@@ -1,0 +1,7 @@
+pyglet
+random
+copy
+pyglet.gl
+pyglet.window
+pyglet.window.key
+pyglet.window.mouse

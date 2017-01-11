@@ -1,0 +1,4 @@
+dbus
+dbus.glib
+dbus.decorators
+gobject

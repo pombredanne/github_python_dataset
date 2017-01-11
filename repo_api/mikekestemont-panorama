@@ -1,0 +1,11 @@
+glob
+nltk.data
+nltk.tokenize
+nltk.tokenize.TreebankWordTokenizer
+gensim
+os
+lxml
+lxml.etree
+lxml.etree
+lxml.etree.fromstring
+PyPDF2

@@ -1,0 +1,6 @@
+os
+setuptools
+setuptools.setup
+unittest
+phpserialize
+codecs

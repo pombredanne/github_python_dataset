@@ -1,0 +1,10 @@
+urllib
+simplejson
+pagerator
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+pagerator
+pagerator.IterableQuery
+math

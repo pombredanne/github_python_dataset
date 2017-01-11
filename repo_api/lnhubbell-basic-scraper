@@ -1,0 +1,11 @@
+scraper
+os
+requests
+sys
+bs4
+bs4.BeautifulSoup
+json
+bs4.BeautifulSoup
+json
+requests
+sys

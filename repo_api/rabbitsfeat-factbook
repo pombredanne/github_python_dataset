@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+factbook.api
+factbook.api.extract
+factbook.api.extract_all
+factbook.api.get
+json
+pkg_resources
+requests

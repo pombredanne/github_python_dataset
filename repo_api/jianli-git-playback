@@ -1,0 +1,9 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+curses
+difflib
+git
+os
+sys
+time

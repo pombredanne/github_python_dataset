@@ -1,0 +1,7 @@
+urllib
+json
+argparse
+setuptools
+setuptools.setup
+pymovieinfo
+os

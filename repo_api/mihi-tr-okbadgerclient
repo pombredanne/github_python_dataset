@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+urllib2
+json
+hashlib
+urllib
+urllib.quote

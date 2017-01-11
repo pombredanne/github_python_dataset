@@ -1,0 +1,16 @@
+fileinput
+dlx
+dlx.DLX
+numpy
+numpy.array
+numpy.unique
+optparse
+optparse.OptionParser
+numpy.inf
+unittest
+dlx.DLX
+numpy.array
+unittest
+sudoku
+sudoku.Sudoku
+sudoku.SudokuError

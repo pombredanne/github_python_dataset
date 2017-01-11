@@ -1,0 +1,10 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+import
+pylons
+pylons.c
+pyramid.threadlocal
+pyramid.threadlocal.get_current_request
+types

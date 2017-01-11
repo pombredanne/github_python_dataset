@@ -1,0 +1,11 @@
+kivy.app
+kivy.app.App
+control
+control.RemoteControl
+kivy.clock
+kivy.clock.Clock
+serial
+kivy.uix.widget
+kivy.uix.widget.Widget
+kivy.properties
+kivy.properties.ObjectProperty

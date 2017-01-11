@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+rauth
+rauth.OAuth2Service
+webbrowser
+urllib2
+time
+time.sleep
+json
+requests
+logging

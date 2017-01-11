@@ -1,0 +1,12 @@
+os
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+mimetypes
+sys
+urlparse
+StringIO
+StringIO.StringIO

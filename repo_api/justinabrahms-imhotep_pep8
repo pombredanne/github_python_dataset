@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+imhotep.tools
+imhotep.tools.Tool
+collections
+collections.defaultdict
+re

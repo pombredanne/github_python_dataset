@@ -1,0 +1,14 @@
+__future__
+__future__.division
+__future__.with_statement
+numpy
+matplotlib
+matplotlib.pyplot
+__future__.print_function
+IPython.parallel
+IPython.parallel.Client
+matplotlib.pyplot
+numpy
+pidigits
+timeit
+timeit.default_timer

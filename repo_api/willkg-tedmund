@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+os
+sys
+tty
+termios
+blessings
+blessings.Terminal
+tedmund._version
+tedmund._version.__version__
+tedmund._version.__releasedate__

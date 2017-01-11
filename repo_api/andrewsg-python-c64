@@ -1,0 +1,6 @@
+enum
+enum.Enum
+functools
+functools.partial
+c64
+pytest

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+os
+__future__
+__future__.absolute_import
+__future__.with_statement
+elasticsearch
+flask.ext.sqlalchemy
+heapq
+flask
+flask._app_ctx_stack
+flask.current_app

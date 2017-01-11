@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.db
+django.db.models
+mptt.models
+mptt.models.MPTTModel
+mptt.models.TreeForeignKey
+annoying.fields
+annoying.fields.AutoOneToOneField

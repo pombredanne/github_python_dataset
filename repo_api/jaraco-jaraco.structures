@@ -1,0 +1,10 @@
+io
+sys
+setuptools
+setuptools_scm
+__future__
+__future__.absolute_import
+__future__.unicode_literals
+numbers
+functools
+functools.reduce

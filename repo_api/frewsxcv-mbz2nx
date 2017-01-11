@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+mbz2nx
+mbz2nx.__version__
+networkx
+mbz2nx.mbz
+mbz2nx.mbz.MusicBrainz
+mbz2nx.nx
+mbz2nx.nx.Graph
+mbz2nx.mbz2nx
+mbz2nx.mbz2nx.label_graph
+psycopg2

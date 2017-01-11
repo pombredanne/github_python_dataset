@@ -1,0 +1,5 @@
+webapp2
+google.appengine.api
+google.appengine.api.urlfetch
+httplib
+urlparse

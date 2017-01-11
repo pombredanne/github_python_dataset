@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+sys
+socket
+time
+os
+re
+umemcache
+binascii
+binascii.crc32
+binascii.#
+binascii.zlib
+binascii.version
+binascii.is
+binascii.not
+binascii.cross-platform

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+lookingglass
+lookingglass.__version__
+os.path
+datetime
+time
+yaml
+sys
+os.path
+datetime
+unittest
+lookingglass.TimesheetManager

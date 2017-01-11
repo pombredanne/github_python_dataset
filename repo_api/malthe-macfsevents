@@ -1,0 +1,14 @@
+os
+setuptools.extension
+setuptools.extension.Extension
+setuptools.command.build_ext
+setuptools.command.build_ext.build_ext
+setuptools
+setuptools.setup
+unittest
+os
+sys
+threading
+unicodedata
+_fsevents
+_fsevents.(

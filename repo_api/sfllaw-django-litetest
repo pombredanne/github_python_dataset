@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+django_litetest
+__future__
+__future__.absolute_import
+django.core.management
+django.core.management.get_commands
+django.utils.importlib
+django.utils.importlib.import_module
+__future__.absolute_import
+textwrap
+django.conf
+django.conf.settings
+import

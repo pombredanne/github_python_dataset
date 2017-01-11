@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+math
+pyglet
+game_window
+pyglet
+pyglet.window
+pyglet.window.key
+pyglet.window.mouse
+pyglet.window.#
+pyglet.window.Handle
+pyglet.window.window
+pyglet.window.interaction

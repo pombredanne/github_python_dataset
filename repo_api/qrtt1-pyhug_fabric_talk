@@ -1,0 +1,9 @@
+os.path
+fabric.api
+urllib2
+boto.ec2
+os.path
+fabric.api
+flaskr
+flaskr.init_db;
+flaskr.init_db()

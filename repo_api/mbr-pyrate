@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+collections
+collections.defaultdict
+itertools
+itertools.combinations
+itertools.permutations
+math
+math.sqrt
+math.log
+math.pi
+unittest2
+pyrate.rating

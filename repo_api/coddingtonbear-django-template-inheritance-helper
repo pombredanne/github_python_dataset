@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+template_inheritance_helper
+template_inheritance_helper.__version__
+django.template
+django.template.Template
+import
+os.path
+django.core.management.base
+django.core.management.base.BaseCommand
+django.template.Template

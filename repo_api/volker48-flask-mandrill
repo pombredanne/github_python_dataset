@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+unittest
+mock
+mock.patch
+mock.MagicMock
+flask_mandrill
+flask_mandrill.Mandrill
+json
+requests
+json

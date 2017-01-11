@@ -1,0 +1,12 @@
+boto3
+hashlib
+logging
+time
+botocore.exceptions
+botocore.exceptions.ClientError
+cfn_resource
+boto3
+logging
+botocore.exceptions.ClientError
+botocore.exceptions.ParamValidationError
+cfn_resource

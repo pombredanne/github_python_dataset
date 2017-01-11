@@ -1,0 +1,17 @@
+pylast
+eventful
+django.conf.urls.defaults
+lastfm.findshows.views
+django.core.management
+django.core.management.execute_manager
+django.db
+django.db.models
+django.shortcuts
+django.shortcuts.render_to_response
+lastfm.findshows.forms.forms
+lastfm.findshows.forms.forms.ShowsForm
+datetime
+pylast
+eventful
+django
+django.forms

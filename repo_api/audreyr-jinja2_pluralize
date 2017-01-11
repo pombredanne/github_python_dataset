@@ -1,0 +1,12 @@
+os
+sys
+sys
+os
+jinja2_pluralize
+unittest
+jinja2
+jinja2.Environment
+jinja2_pluralize
+jinja2_pluralize.pluralize
+jinja2_pluralize.pluralize_dj
+inflect

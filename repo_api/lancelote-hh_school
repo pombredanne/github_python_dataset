@@ -1,0 +1,16 @@
+paver.tasks
+paver.tasks.task
+paver.tasks.needs
+paver.easy
+paver.easy.sh
+unittest
+math
+math.factorial
+argparse
+re
+itertools
+itertools.permutations
+string
+string.ascii_uppercase
+argparse
+argparse

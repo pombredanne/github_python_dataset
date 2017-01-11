@@ -1,0 +1,12 @@
+unittest
+xmltodict
+nose.tools
+nose.tools.assert_equal
+nose.tools.assert_is_instance
+nose.tools.assert_is_none
+TRX
+TRX.TRX
+collections
+collections.namedtuple
+xml.dom
+xml.dom.minidom

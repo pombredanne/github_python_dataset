@@ -1,0 +1,9 @@
+setuptools
+{{cookiecutter.package_name}}
+{{cookiecutter.package_name}}.__version__
+unittest
+alabaster
+{{cookiecutter.package_name}}.__version__
+{{cookiecutter.package_name}}.version_info
+signal
+sys

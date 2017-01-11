@@ -1,0 +1,14 @@
+sys
+os
+os.path
+docopt
+requests
+json
+pandas
+jinja2
+pprint
+pprint.pprint
+distutils.core
+distutils.core.setup
+mgcli
+mgcli.__version__

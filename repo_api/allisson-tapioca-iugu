@@ -1,0 +1,16 @@
+os
+re
+sys
+pytest
+os
+tapioca_iugu
+tapioca_iugu.Iugu
+tapioca_iugu.Iugu
+tapioca_iugu.#
+tapioca_iugu.noqa
+tapioca
+tapioca.(
+requests.auth
+requests.auth.HTTPBasicAuth
+resource_mapping
+resource_mapping.RESOURCE_MAPPING

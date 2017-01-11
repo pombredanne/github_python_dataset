@@ -1,0 +1,15 @@
+logging
+logging
+sys
+maincode
+maincode.fn1
+maincode.Cl1
+maincode.fn2
+nose.plugins.attrib
+nose.plugins.attrib.attr
+argparse
+argparse
+argparse
+textblob
+textblob.TextBlob
+re

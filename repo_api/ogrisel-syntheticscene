@@ -1,0 +1,14 @@
+bpy
+bpy_extras.object_utils
+bpy_extras.object_utils.world_to_camera_view
+mathutils
+mathutils.Vector
+numpy
+math
+math.pi
+colorsys
+colorsys.hsv_to_rgb
+hashlib
+hashlib.sha256
+json
+os.path

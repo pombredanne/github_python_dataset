@@ -1,0 +1,10 @@
+sphinx.util.compat
+sphinx.util.compat.Directive
+docutils
+docutils.nodes
+sys
+sys
+os
+jinja2
+jinja2.Markup
+sphinx_rtd_theme

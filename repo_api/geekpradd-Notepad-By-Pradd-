@@ -1,0 +1,12 @@
+sys
+json
+time
+mistune
+os
+pypdflite
+pypdflite.PDFLite
+PySide
+PySide.QtGui
+PySide.QtCore
+syntaxclasses
+cPickle

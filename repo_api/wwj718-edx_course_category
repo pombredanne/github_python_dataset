@@ -1,0 +1,12 @@
+django.db
+django.db.models
+django.contrib.auth.models
+django.contrib.auth.models.User
+django.conf.urls
+django.conf.urls.patterns
+django.conf.urls.url
+django.contrib
+django.contrib.admin
+models
+models.HomeCourse
+models.HomeCourseCategory

@@ -1,0 +1,13 @@
+time
+time.sleep
+datetime
+datetime.datetime
+urllib
+urllib.urlencode
+optparse
+optparse.OptionParser
+anydbm
+lxml
+lxml.etree
+xmpp
+httplib2

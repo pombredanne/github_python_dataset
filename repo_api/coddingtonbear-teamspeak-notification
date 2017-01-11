@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+teamspeaknotifier
+teamspeaknotifier.get_version
+logging
+re
+time
+subprocess
+subprocess.Popen
+subprocess.PIPE
+pynotify
+teamspeak3

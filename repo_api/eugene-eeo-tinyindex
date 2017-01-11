@@ -1,0 +1,12 @@
+tinyindex
+tinyindex.Index
+random
+random.shuffle
+tinydb
+tinydb.TinyDB
+tinydb.storages
+tinydb.storages.MemoryStorage
+pytest
+pytest.fixture
+tinyindex.index
+tinyindex.index.Index

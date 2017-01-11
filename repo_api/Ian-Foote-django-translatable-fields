@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+colour_runner.django_runner
+colour_runner.django_runner.ColourRunnerMixin
+django
+django.conf
+django.conf.settings
+django.test.runner
+django.test.runner.DiscoverRunner
+dj_database_url

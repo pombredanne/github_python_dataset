@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+core
+core.ZohoDocs
+core.\
+re
+uuid
+os.path

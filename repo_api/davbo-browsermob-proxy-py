@@ -1,0 +1,5 @@
+json
+httplib
+urllib
+distutils.core
+distutils.core.setup

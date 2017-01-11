@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+cgi
+cgi.parse_header
+json
+django.http
+django.http.HttpResponse
+django.core.handlers.wsgi
+django.core.handlers.wsgi.ISO_8859_1
+django.core.serializers.json
+django.core.serializers.json.DjangoJSONEncoder
+django.views.generic
+django.views.generic.View

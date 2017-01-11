@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+gevent
+gevent.monkey
+sys
+os
+traceback
+optparse
+optparse.OptionParser
+gevent.pywsgi
+gevent.pywsgi.WSGIServer
+sys
+os

@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+matplotlib
+nose
+statsmodels.api
+bokeh
+ggplot
+csvlit
+tables
+mdp
+bimdp
+IPython

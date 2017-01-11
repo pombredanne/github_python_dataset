@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.find_packages
+setuptools.setup
+fanstatic
+fanstatic.Library
+fanstatic.Resource
+kotti.fanstatic
+kotti.fanstatic.NeededGroup
+kotti.fanstatic.edit_needed_js
+kotti.fanstatic.view_needed_js

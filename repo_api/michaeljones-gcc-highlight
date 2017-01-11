@@ -1,0 +1,17 @@
+pygments.formatters
+pygments.formatters.TerminalFormatter
+pygments.lexer
+pygments.lexer.RegexLexer
+pygments.lexer.bygroups
+pygments.token
+pygments.token.Generic
+pygments.token.Text
+pygments.token.Name
+pygments.token.Number
+pygments.style
+pygments.style.Style
+pygments
+pygments.highlight
+sys
+os
+subprocess

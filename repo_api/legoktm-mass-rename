@@ -1,0 +1,14 @@
+cgitb
+cgi
+os
+requests
+subprocess
+hashlib
+__future__
+__future__.unicode_literals
+sys
+pywikibot
+os
+pywikibot
+pywikibot.data
+pywikibot.data.api

@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+urllib.parse
+os
+argparse
+logging
+hvac

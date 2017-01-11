@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+requests
+smokesignal
+twisted.internet
+twisted.internet.reactor
+helga
+helga.settings
+helga.plugins
+helga.plugins.command

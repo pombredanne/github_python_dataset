@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+unittest
+redis
+pywikibot
+sys
+wdapi
+ast
+hashlib
+mwparserfromhell
+pywikibot
+pywikibot.data
+pywikibot.data.api
+re
+redis
+sys
+main

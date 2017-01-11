@@ -1,0 +1,17 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+os
+nose
+sentry.plugins
+sentry.plugins.Plugin
+unittest
+hamcrest
+hamcrest.assert_that
+hamcrest.equal_to
+sentry.plugins
+tests.matchers
+tests.matchers.subclass_of
+sentry_nagios
+hamcrest.core.base_matcher
+hamcrest.core.base_matcher.BaseMatcher

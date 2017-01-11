@@ -1,0 +1,4 @@
+weakref
+weakref.WeakKeyDictionary
+pygame
+pygame.locals

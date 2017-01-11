@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+rply
+rply.LexerGenerator
+os
+parser
+parser.parser
+lexer
+lexer.lexer
+rply.token
+rply.token.BaseBox
+divspl
+rply.ParserGenerator
+boxes
+boxes.(

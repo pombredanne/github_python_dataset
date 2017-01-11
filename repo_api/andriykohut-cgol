@@ -1,0 +1,7 @@
+argparse
+curses
+itertools
+random
+time
+io
+io.StringIO

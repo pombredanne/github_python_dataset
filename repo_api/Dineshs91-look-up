@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+lookup
+os
+argparse
+look
+look.Look
+look.word_of_day
+click
+wordnik

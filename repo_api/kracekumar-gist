@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+fabric.api
+fabric.api.local
+requests
+gist.endpoints
+gist.endpoints.endpoints
+sys
+requests
+gist.endpoints.endpoints

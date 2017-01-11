@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+jirafs_latex
+jirafs_latex.__version__
+hashlib
+os
+subprocess
+six
+jirafs.plugin
+jirafs.plugin.(

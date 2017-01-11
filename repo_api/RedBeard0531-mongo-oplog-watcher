@@ -1,0 +1,10 @@
+pymongo
+re
+time
+pprint
+pprint.pprint
+pprint.#
+pprint.pretty
+pprint.printer
+pymongo.errors
+pymongo.errors.AutoReconnect

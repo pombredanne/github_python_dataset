@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+json
+gerrit
+gerrit.ssh
+gerrit.filters
+os
+paramiko

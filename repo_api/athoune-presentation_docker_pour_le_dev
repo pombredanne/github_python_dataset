@@ -1,0 +1,10 @@
+gevent
+gevent.monkey
+urllib2
+feedparser
+statsd.defaults.env
+statsd.defaults.env.statsd
+contextlib
+contextlib.closing
+requests
+statsd.defaults.env.statsd

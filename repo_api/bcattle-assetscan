@@ -1,0 +1,8 @@
+argparse
+os
+itertools
+collections
+bs4
+bs4.BeautifulSoup
+pprint
+pprint.pprint

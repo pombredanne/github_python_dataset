@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+flask
+flask.Flask
+flask_sqlalchemy
+flask_sqlalchemy.SQLAlchemy
+myapp
+myapp.User
+flask.ctx
+myapp.app
+pytest

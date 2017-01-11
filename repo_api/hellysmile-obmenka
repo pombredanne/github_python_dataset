@@ -1,0 +1,9 @@
+logging
+time
+requests
+lxml.html
+lxml.html.fromstring
+pync
+pync.Notifier
+setuptools
+setuptools.setup

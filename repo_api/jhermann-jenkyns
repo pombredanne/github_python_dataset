@@ -1,0 +1,12 @@
+os
+re
+sys
+paver.easy
+paver.setuputils
+paver.setuputils.setup
+setuptools
+setuptools.find_packages
+sys
+os
+re
+pavement

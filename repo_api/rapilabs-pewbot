@@ -1,0 +1,16 @@
+datetime
+datetime.date
+time
+time.sleep
+sys
+os
+importlib
+importlib.import_module
+campsettings
+pinder
+pinder.Campfire
+pewbot.commands.base
+pewbot.commands.base.PewbotCommand
+requests
+json
+pewbot.commands.base.PewbotCommand

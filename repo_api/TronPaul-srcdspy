@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+socket
+srcdspy.util
+struct
+query
+query.SourceQuery
+rcon
+rcon.SourceRcon
+socket
+re
+srcdspy.util

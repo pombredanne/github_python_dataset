@@ -1,0 +1,8 @@
+pelican
+pelican.signals
+re
+html5lib
+unittest
+simple_footnotes
+simple_footnotes.parse_for_footnotes
+simple_footnotes

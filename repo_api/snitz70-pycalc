@@ -1,0 +1,14 @@
+PyQt5
+PyQt5.QtWidgets
+PyQt5.QtCore
+PyQt5.QtCore.pyqtSlot
+ui
+ui.ui_tempcalc
+PyQt5.QtCore
+PyQt5.QtGui
+PyQt5.QtWidgets
+pytest
+calctemp
+calctemp.Temp
+calctemp.CalcTempDlg
+PyQt5.QtCore

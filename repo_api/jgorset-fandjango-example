@@ -1,0 +1,16 @@
+os
+sys
+django.http
+django.http.HttpResponse
+fandjango.decorators
+fandjango.decorators.facebook_authorization_required
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.include
+django.conf.urls.defaults.url
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager
+imp
+settings

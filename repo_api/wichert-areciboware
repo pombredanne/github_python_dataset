@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+logging
+traceback
+textwrap
+arecibo
+weberror.errormiddleware
+weberror.errormiddleware.ErrorMiddleware
+weberror.errormiddleware.Supplement

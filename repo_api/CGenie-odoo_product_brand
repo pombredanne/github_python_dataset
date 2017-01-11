@@ -1,0 +1,5 @@
+import
+openerp
+openerp.models
+openerp.fields
+openerp.api

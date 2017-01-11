@@ -1,0 +1,13 @@
+unittest
+marvel
+requests
+import
+api
+api.Cerebro
+models
+models.Character
+resources
+resources.CharacterResource
+logging
+hashlib
+time

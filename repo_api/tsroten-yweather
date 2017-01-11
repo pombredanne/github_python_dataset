@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+contextlib
+re
+xml.etree.ElementTree
+sys
+os
+os
+unittest
+xml.etree.ElementTree
+yweather

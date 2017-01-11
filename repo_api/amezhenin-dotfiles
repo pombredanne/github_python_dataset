@@ -1,0 +1,13 @@
+os
+sys
+copy
+ConfigParser
+mercurial
+mercurial
+mercurial.util
+mercurial.extensions
+mercurial.error
+mercurial.node
+mercurial.node.short
+mercurial.i18n
+mercurial.i18n._

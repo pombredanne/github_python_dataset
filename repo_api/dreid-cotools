@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+twisted.internet.task
+twisted.internet.task.coiterate
+twisted.internet.defer
+twisted.internet.defer.maybeDeferred
+twisted.internet.defer.succeed
+twisted.trial
+twisted.trial.unittest

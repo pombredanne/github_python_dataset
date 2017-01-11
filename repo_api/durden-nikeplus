@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+io
+nikeplusapi
+export
+export.get_activities
+argparse
+collections
+collections.namedtuple
+csv
+datetime
+datetime.datetime
+json
+os.path
+sys
+time
+urllib2

@@ -1,0 +1,16 @@
+mc
+rfc822
+datetime
+datetime.datetime
+BeautifulSoup
+BeautifulSoup.BeautifulStoneSoup
+__future__
+__future__.generators
+sgmllib
+sgmllib.SGMLParser
+sgmllib.SGMLParseError
+codecs
+markupbase
+types
+re
+sgmllib

@@ -1,0 +1,5 @@
+sys
+requests
+json
+colorama
+colorama.Fore

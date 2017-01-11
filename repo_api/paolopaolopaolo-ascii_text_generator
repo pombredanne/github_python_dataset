@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+word_renderer
+word_renderer.WordRenderer
+click
+letter_profiles
+letter_profiles.Letter
+json
+word_creator
+word_creator.Word
+re
+re.sub

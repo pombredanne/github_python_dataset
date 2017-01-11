@@ -1,0 +1,9 @@
+os
+os.path
+decimal
+decimal.Decimal
+simplejson
+re
+unicodedata
+collections
+collections.defaultdict

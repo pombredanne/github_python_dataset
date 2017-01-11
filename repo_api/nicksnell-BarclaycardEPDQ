@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+barclaycard
+barclaycard.__version__
+re
+urlparse
+requests

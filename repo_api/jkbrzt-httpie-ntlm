@@ -1,0 +1,6 @@
+httpie.plugins
+httpie.plugins.AuthPlugin
+requests_ntlm
+requests_ntlm.HttpNtlmAuth
+setuptools
+setuptools.setup

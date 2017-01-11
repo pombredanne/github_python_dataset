@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+contextlib
+datetime
+importlib
+logging
+os
+hubstorage
+argparse
+json
+os
+hubstorage
+scrapy

@@ -1,0 +1,15 @@
+main
+os
+urlparse
+requests
+subprocess
+os
+Queue
+stations
+sys
+threading
+time
+bs4
+requests
+song
+song.Song

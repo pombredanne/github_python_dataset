@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+collections
+aggregate
+unittest
+nose.tools
+nose.tools.eq_

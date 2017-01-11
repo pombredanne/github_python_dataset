@@ -1,0 +1,10 @@
+codecs
+nltk
+os
+os.path
+nltk.corpus
+nltk.corpus.floresta
+json
+requests
+sys
+urllib

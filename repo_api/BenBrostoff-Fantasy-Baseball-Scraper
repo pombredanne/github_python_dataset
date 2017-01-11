@@ -1,0 +1,16 @@
+IPython
+IPython.embed
+collections
+csv
+os
+os.environ
+datetime
+datetime.datetime
+collections
+collections.namedtuple
+unicodedata
+logging
+requests
+bs4
+bs4.BeautifulSoup
+sendgrid

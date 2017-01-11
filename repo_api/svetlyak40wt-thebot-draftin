@@ -1,0 +1,11 @@
+anyjson
+times
+subprocess
+os.path
+thebot
+thebot.Plugin
+thebot.on_command
+pytils.translit
+pytils.translit.slugify
+setuptools
+setuptools.setup

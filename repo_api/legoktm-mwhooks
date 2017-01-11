@@ -1,0 +1,16 @@
+os
+sys
+pywikibot
+requests
+create_onwiki
+json
+gerrit
+logging
+pipes
+redis
+subprocess
+yaml
+os
+base64
+json
+requests

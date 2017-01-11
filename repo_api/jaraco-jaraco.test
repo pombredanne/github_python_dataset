@@ -1,0 +1,13 @@
+io
+sys
+setuptools
+setuptools_scm
+jaraco.services.paths
+jaraco.services.paths.PathFinder
+jaraco.mongodb.service
+jaraco.mongodb.service.(
+jaraco.services
+jaraco.services.(
+copy
+mock
+mock.patch

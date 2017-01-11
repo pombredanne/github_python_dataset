@@ -1,0 +1,8 @@
+sys
+sys.argv
+xml.etree.ElementTree
+xml.etree.ElementTree.ElementTree
+numpy
+itertools
+warnings
+warnings.warn

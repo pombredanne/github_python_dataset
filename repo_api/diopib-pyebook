@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+zipfile
+os
+bs4
+bs4.BeautifulSoup

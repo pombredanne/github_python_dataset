@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+random
+random.randint
+sys
+nose.tools
+nose.tools.ok_
+nose.tools.eq_

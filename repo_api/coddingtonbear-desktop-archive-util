@@ -1,0 +1,12 @@
+argparse
+datetime
+logging
+os.path
+subprocess
+tarfile
+tempfile
+time
+boto.s3.connection
+boto.s3.connection.S3Connection
+boto.s3.key
+boto.s3.key.Key

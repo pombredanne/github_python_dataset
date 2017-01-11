@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+os
+sys
+textwrap
+textwrap.dedent
+magneturi
+magneturi.from_torrent_file
+magneturi.from_torrent_data
+os
+magneturi.bencode
+hashlib
+base64

@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+unittest
+beatport
+requests
+json

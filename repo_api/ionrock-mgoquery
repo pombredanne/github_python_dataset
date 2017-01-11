@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+pyparsing
+pyparsing.(Word
+pyparsing.alphanums
+pyparsing.Suppress
+pyparsing.import
+pyparsing.pytest
+mgoquery
+mgoquery.Parser

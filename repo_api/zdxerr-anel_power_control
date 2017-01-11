@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+socket
+collections
+collections.OrderedDict
+logging

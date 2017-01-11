@@ -1,0 +1,9 @@
+argparse
+argparse.ArgumentParser
+timeit
+numpy
+timeit
+numpy
+scipy.linalg
+scipy.linalg.lu_factor
+scipy.linalg.lu_solve

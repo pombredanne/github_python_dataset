@@ -1,0 +1,15 @@
+useragents
+useragents.search_strings
+os.path
+unittest
+unittest.TestSuite
+unittest.TestCase
+unittest.TextTestRunner
+unittest.TestLoader
+minidetector
+os.path
+__future__
+__future__.with_statement
+re
+timeit
+time

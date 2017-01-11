@@ -1,0 +1,5 @@
+numpy
+loopy
+pyopencl
+pyopencl.array
+pyopencl.clrandom

@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+sphinx.application
+sphinx.application.Sphinx
+sphinx_epytext.process_docstring
+sphinx_epytext.process_docstring.process_docstring

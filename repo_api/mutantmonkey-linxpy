@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+linx
+linx.__version__
+argparse
+json
+os.path
+requests
+sys
+urllib.parse

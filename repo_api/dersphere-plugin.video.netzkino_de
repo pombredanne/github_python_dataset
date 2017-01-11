@@ -1,0 +1,12 @@
+xbmcswift2
+xbmcswift2.Plugin
+resources.lib.api
+resources.lib.api.NetzkinoApi
+resources.lib.api.NetworkError
+re
+simplejson
+urllib2
+urllib2.urlopen
+urllib2.Request
+urllib2.HTTPError
+urllib2.URLError

@@ -1,0 +1,15 @@
+PyQt5
+PyQt5.QtSql
+peewee
+peewee.SqliteDatabase
+peewee.Model
+peewee.CharField
+addressbook
+mock
+addressbook
+addressbook.Addressbook
+behave
+behave.given
+behave.when
+behave.then
+mock

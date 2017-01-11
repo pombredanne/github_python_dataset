@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+mongoobject
+mongoobject.MongoObject
+pymongo
+unittest
+mongoobject.MongoObject
+pymongo
+gridfs
+pymongo
+pymongo.Connection
+pymongo.objectid
+pymongo.objectid.ObjectId

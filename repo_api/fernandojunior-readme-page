@@ -1,0 +1,15 @@
+os
+shutil
+setuptools
+setuptools.setup
+pip.req
+pip.req.parse_requirements
+os
+re
+yaml
+subprocess
+six.moves.urllib.request
+six.moves.urllib.request.urlopen
+six.moves.urllib.request.urlretrieve
+bs4
+bs4.BeautifulSoup

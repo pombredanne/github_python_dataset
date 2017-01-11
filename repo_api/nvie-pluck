@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+pluck
+sys
+itertools
+itertools.tee
+operator
+unittest
+datetime
+datetime.datetime
+pluck
+pluck.pluck

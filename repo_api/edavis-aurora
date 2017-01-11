@@ -1,0 +1,9 @@
+re
+tablib
+argparse
+requests
+requests_cache
+decimal
+decimal.Decimal
+lxml.html
+lxml.html.document_fromstring

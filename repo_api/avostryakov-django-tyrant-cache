@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+pytyrant
+time
+django.core.cache.backends.base
+django.core.cache.backends.base.BaseCache
+django.utils.encoding
+django.utils.encoding.smart_unicode
+django.utils.encoding.smart_str

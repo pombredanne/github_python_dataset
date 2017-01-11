@@ -1,0 +1,16 @@
+os
+sys
+foodlist
+distutils.core
+distutils.core.setup
+sys
+foodlist
+os.path
+os.path.expanduser
+optparse
+optparse.OptionParser
+foodlist
+foodlist.FoodList
+json
+urllib
+urllib.quote

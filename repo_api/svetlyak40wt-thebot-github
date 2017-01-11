@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+__future__.unicode_literals
+anyjson
+requests
+threading
+time
+thebot
+thebot.Plugin
+thebot.on_command

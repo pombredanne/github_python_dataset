@@ -1,0 +1,5 @@
+re
+unittest
+nose.plugins.base
+nose.plugins.base.Plugin
+nose.tools

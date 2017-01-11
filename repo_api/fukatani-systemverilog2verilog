@@ -1,0 +1,15 @@
+optparse
+optparse.OptionParser
+os
+copy
+re
+systemverilog2verilog.src
+systemverilog2verilog.src.util
+collections
+collections.OrderedDict
+re
+sys
+os
+unittest
+systemverilog2verilog.src.sv2v
+filecmp

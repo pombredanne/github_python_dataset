@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+distutils.command.install
+distutils.command.install.INSTALL_SCHEMES
+awis
+awis.__version__
+awis.__maintainer__
+awis.__email__
+base64
+datetime
+hashlib
+hmac

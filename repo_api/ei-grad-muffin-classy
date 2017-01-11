@@ -1,0 +1,17 @@
+muffin
+muffin.Application
+muffin_classy
+muffin_classy.MuffinView
+muffin_classy.route
+functools
+functools.wraps
+setuptools
+setuptools.setup
+functools
+inspect
+logging
+aiohttp.hdrs
+aiohttp.hdrs.METH_ANY
+muffin.pytest
+sys
+os

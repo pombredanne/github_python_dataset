@@ -1,0 +1,8 @@
+cStringIO
+urllib
+web
+qrcode
+lib.mime
+lib.mime.ImageMIME
+lib
+lib.charset

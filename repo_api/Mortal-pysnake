@@ -1,0 +1,15 @@
+curses
+random
+asyncio
+asyncsnake
+asyncsnake.LockstepConsumers
+asyncsnake.run_coroutines
+asyncsnake.WaitMap
+cursessnake
+cursessnake.CursesCharacters
+cursessnake.wrapper
+sys
+curses
+asyncio
+functools
+asyncio

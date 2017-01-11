@@ -1,0 +1,6 @@
+argparse
+argparse.ArgumentParser
+cStringIO
+cStringIO.StringIO
+requests
+tweepy

@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+subprocess
+subprocess.call
+lirc
+lirc.Lirc

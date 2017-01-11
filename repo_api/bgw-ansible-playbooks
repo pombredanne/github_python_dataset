@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+jinja2
+jinja2.contextfunction
+jinja2.ext
+jinja2.ext.Extension
+jinja2.ext.Extension
+hashlib
+hashlib.sha256
+openttd
+openttd.openttd
+znc
+znc.znc

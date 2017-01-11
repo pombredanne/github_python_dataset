@@ -1,0 +1,8 @@
+__future__
+__future__.print_function
+logging
+uwsgi
+gevent
+flask
+flask_sqlalchemy
+flask_sqlalchemy.SQLAlchemy

@@ -1,0 +1,16 @@
+xbmcswift2
+xbmcswift2.Plugin
+xbmcswift2.xbmcgui
+resources.lib.api
+resources.lib.api.\
+base64
+json
+urllib
+urllib.urlencode
+urllib2
+urllib2.urlopen
+urllib2.Request
+urllib2.HTTPError
+urllib2.URLError
+hashlib
+hashlib.md5

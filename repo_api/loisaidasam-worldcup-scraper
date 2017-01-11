@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+scraper
+scraper.__version__
+json
+bs4
+bs4.BeautifulSoup
+requests

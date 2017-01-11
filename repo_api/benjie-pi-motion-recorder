@@ -1,0 +1,7 @@
+os
+signal
+subprocess
+wiringpi2
+time
+time.time
+time.sleep

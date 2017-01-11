@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+django
+django.forms
+django.utils.html
+django.utils.html.escape
+django.utils.safestring
+django.utils.safestring.mark_safe
+django.utils.encoding
+django.utils.encoding.force_unicode
+django.test
+django.test.TestCase
+django.forms
+forms

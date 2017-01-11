@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+pytabwriter.tab_writer
+pytabwriter.tab_writer.TabWriter
+unittest
+pytabwriter
+pytabwriter.TabWriter

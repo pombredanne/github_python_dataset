@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+sys
+os
+__future__
+__future__.absolute_import
+pymysql

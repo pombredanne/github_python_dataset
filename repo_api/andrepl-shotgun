@@ -1,0 +1,5 @@
+subprocess
+sys
+optparse
+optparse.OptionParser
+fileinput

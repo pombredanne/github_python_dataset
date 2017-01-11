@@ -1,0 +1,17 @@
+__future__
+__future__.print_function
+sys
+tempfile
+os
+posixpath
+#
+for
+URL
+manipulation
+time
+subprocess
+pkg_resources
+pkg_resources.parse_version
+gobject
+pygst
+gst

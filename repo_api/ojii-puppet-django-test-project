@@ -1,0 +1,9 @@
+os
+django.core.management
+django.core.management.ManagementUtility
+os
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.url
+django.views.generic.base
+django.views.generic.base.TemplateView

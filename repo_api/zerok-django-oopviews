@@ -1,0 +1,13 @@
+ez_setup
+ez_setup.use_setuptools
+setuptools
+setuptools.setup
+setuptools.find_packages
+django_oopviews
+sys
+sys
+os
+django.http
+django.http.HttpResponse
+base
+base.BaseView

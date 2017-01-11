@@ -1,0 +1,5 @@
+ast
+setuptools
+setuptools.setup
+setuptools.find_packages
+click

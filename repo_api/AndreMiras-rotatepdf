@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+argparse
+PyPDF2
+PyPDF2.PdfFileWriter
+PyPDF2.PdfFileReader

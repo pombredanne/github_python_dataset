@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+sayhi
+sayhi.__version__
+sys
+getpass
+optparse
+optparse.OptionParser
+termcolor
+termcolor.cprint
+import

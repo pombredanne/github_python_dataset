@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+codecs
+codecs.open
+os
+os.path
+collections
+collections.defaultdict
+itertools
+itertools.cycle
+re
+dateutil
+matplotlib
+matplotlib.cm
+random
+random.random

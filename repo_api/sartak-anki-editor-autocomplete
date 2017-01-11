@@ -1,0 +1,12 @@
+aqt
+aqt.mw
+aqt.editor
+aqt.fields
+aqt.fields.FieldDialog
+anki.hooks
+anki.hooks.wrap
+anki.utils
+anki.utils.splitFields
+anki.utils.stripHTMLMedia
+anki.utils.json
+urllib2

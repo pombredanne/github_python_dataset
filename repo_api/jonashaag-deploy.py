@@ -1,0 +1,17 @@
+deploy
+os
+os.getcwd
+os.path
+os.path.join
+os.path.dirname
+os.path.realpath
+os.path.basename
+fabric.api
+fabric.api.env
+fabric.api.task
+fabric.api.run
+fabric.api.cd
+fabric.api.sudo
+fabric.contrib.files
+fabric.contrib.files.upload_template
+fabric.contrib.files.exists

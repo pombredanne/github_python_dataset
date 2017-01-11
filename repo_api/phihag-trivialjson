@@ -1,0 +1,7 @@
+__future__
+__future__.with_statement
+codecs
+contextlib
+unittest
+os
+imp

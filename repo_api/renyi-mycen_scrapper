@@ -1,0 +1,8 @@
+logging
+json
+re
+requests
+bs4
+bs4.BeautifulSoup
+pprint
+pprint.pprint

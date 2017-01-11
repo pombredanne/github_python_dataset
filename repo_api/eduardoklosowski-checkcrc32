@@ -1,0 +1,13 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+import
+__future__
+__future__.unicode_literals
+__future__.print_function
+binascii
+binascii.crc32
+os
+re
+re.compile
+sys

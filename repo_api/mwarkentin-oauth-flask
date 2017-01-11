@@ -1,0 +1,12 @@
+json
+os
+flask
+flask.Flask
+flask.flash
+flask.request
+flask.redirect
+flask.render_template
+flask.session
+flask.url_for
+rauth.service
+rauth.service.OAuth2Service

@@ -1,0 +1,3 @@
+re
+salt.exceptions
+salt.exceptions.CommandExecutionError

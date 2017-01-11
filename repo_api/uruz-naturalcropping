@@ -1,0 +1,7 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+naturalcropping
+sorl.thumbnail.engines.pil_engine
+sorl.thumbnail.engines.pil_engine.Engine

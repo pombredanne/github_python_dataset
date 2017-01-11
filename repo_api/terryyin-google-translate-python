@@ -1,0 +1,16 @@
+translate
+distutils.core
+distutils.core.setup
+json
+textwrap
+textwrap.wrap
+unittest
+unittest.TestCase
+subprocess
+subprocess.Popen
+subprocess.PIPE
+subprocess.check_output
+translate
+translate.Translator
+sys
+testTranslate

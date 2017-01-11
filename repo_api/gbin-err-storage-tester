@@ -1,0 +1,5 @@
+errbot.backends.test
+errbot.backends.test.testbot
+errbot
+errbot.BotPlugin
+errbot.botcmd

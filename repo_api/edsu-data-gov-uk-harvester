@@ -1,0 +1,13 @@
+rdflib.graph
+rdflib.graph.ConjunctiveGraph
+rdflib.namespace
+rdflib.namespace.Namespace
+sys
+socket
+httplib
+urllib2
+traceback
+rdflib
+re
+urllib
+rdflib

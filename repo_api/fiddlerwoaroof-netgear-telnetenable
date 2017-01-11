@@ -1,0 +1,9 @@
+sys
+socket
+array
+optparse
+optparse.OptionParser
+Crypto.Cipher
+Crypto.Cipher.Blowfish
+Crypto.Hash
+Crypto.Hash.MD5

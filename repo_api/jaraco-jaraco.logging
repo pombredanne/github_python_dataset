@@ -1,0 +1,15 @@
+io
+sys
+setuptools
+setuptools_scm
+__future__
+__future__.absolute_import
+__future__.unicode_literals
+os
+logging
+time
+datetime
+string
+six.moves
+six.moves.http_client
+tempora

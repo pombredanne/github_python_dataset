@@ -1,0 +1,14 @@
+nosewatch
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+nose.plugins
+nose.plugins.Plugin
+subprocess
+subprocess.Popen
+unittest
+mock
+mock.Mock
+plugin
+plugin.WatchPlugin

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+io
+os
+re
+sys
+functools
+functools.partial
+functools.reduce
+operator
+operator.add
+dateutil
+dateutil.tz
+icalendar

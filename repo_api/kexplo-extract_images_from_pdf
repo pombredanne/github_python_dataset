@@ -1,0 +1,14 @@
+pdfminer.pdfparser
+pdfminer.pdfparser.PDFParser
+pdfminer.pdfdocument
+pdfminer.pdfdocument.PDFDocument
+pdfminer.psparser
+pdfminer.psparser.PSKeyword
+pdfminer.psparser.PSLiteral
+pdfminer.pdftypes
+pdfminer.pdftypes.PDFStream
+pdfminer.pdftypes.PDFObjRef
+pdfminer.utils
+pdfminer.utils.isnumber
+os
+sys

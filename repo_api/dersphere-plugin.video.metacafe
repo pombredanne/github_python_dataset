@@ -1,0 +1,14 @@
+xbmcswift2
+xbmcswift2.Plugin
+xbmcswift2.xbmcgui
+resources.lib
+resources.lib.scraper
+json
+re
+urllib2
+urllib
+urllib.quote
+urllib.unquote
+urllib.urlencode
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

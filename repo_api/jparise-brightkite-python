@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+sys
+base64
+httplib
+json
+urllib
+unittest
+brightkite
+oauth.oauth
+unittest
+brightkite

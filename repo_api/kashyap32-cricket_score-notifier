@@ -1,0 +1,16 @@
+os
+sys
+time
+time.sleep
+requests
+bs4
+bs4.BeautifulSoup
+gi.repository
+gi.repository.Notify
+os
+sys
+time
+requests
+bs4.BeautifulSoup
+pync
+pync.Notifier

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+codecs.open
+os
+os.path
+requests
+sys
+luis
+pytest
+collections
+logging
+pkg_resources
+requests

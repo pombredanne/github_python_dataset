@@ -1,0 +1,5 @@
+__future__
+__future__.absolute_import
+boto
+setuptools
+setuptools.setup

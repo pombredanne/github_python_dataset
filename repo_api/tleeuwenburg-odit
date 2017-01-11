@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+copy
+sys
+odit.api
+odit.commandline
+odit.argparser
+odit.fetch
+os
+json
+import

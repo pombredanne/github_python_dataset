@@ -1,0 +1,16 @@
+sys
+xml.etree
+xml.etree.ElementTree
+django.utils.translation
+django.utils.translation.ugettext_lazy
+xml.etree.ElementTree
+django.utils.translation.ugettext_lazy
+django.conf
+django.conf.settings
+django.db
+django.db.models
+django.utils.functional
+django.utils.functional.curry
+django.utils.translation.ugettext_lazy
+cldr_countries
+cldr_countries.data

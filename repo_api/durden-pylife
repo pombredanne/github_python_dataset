@@ -1,0 +1,6 @@
+sys
+time
+Numeric
+pygame
+pygame.locals
+pygame.locals.QUIT

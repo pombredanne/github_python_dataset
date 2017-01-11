@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+django.db.models
+django.db.models.Count
+django.views.generic
+django.views.generic.ListView
+collections
+collections.OrderedDict
+django
+django.template
+django.utils.http
+django.utils.http.urlencode

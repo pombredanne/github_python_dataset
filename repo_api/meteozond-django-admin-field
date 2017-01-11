@@ -1,0 +1,4 @@
+distutils.core
+distutils.core.setup
+django.utils.translation
+django.utils.translation.gettext_lazy

@@ -1,0 +1,11 @@
+chump
+chump.RegionParser
+setuptools
+setuptools.setup
+setuptools.find_packages
+chump.__version__
+re
+hashlib
+chump.fsm
+chump.fsm.FSM
+chump.fsm.FSMTransitionError

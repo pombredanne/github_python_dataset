@@ -1,0 +1,12 @@
+json
+logging
+os
+sys
+requests
+docopt
+docopt.docopt
+screeps.screeps
+screeps.screeps.Connection
+pprint
+pprint.pprint
+threading

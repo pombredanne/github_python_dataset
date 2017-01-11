@@ -1,0 +1,16 @@
+shell
+shell.interactor
+core
+core.core
+sanitizer
+sanitizer.IntInputSanitizer
+sanitizer.StrInputSanitizer
+getpass
+getpass.getpass
+string
+string.ascii_lowercase
+string.ascii_uppercase
+string.digits
+itertools
+hashlib
+hashlib.sha512

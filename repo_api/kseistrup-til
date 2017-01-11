@@ -1,0 +1,8 @@
+sys
+os
+fcntl
+fcntl.ioctl
+termios
+termios.TIOCGWINSZ
+struct
+struct.unpack

@@ -1,0 +1,8 @@
+logging
+homeassistant.helpers.entity
+homeassistant.helpers.entity.ToggleEntity
+homeassistant.const
+homeassistant.const.DEVICE_DEFAULT_NAME
+homeassistant.const.CONF_HOST
+homeassistant.const.CONF_PORT
+homeassistant.const.CONF_FILENAME

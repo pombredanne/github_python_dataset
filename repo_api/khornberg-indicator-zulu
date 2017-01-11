@@ -1,0 +1,5 @@
+gtk
+appindicator
+gobject
+datetime
+tempfile

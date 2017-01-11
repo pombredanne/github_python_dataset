@@ -1,0 +1,12 @@
+__future__
+__future__.unicode_literals
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__.print_function
+github3
+github3.login
+getpass
+getpass.getpass
+getpass.getuser
+sys

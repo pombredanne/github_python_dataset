@@ -1,0 +1,17 @@
+os
+ConfigParser
+logging
+fabric.api
+fabric.api.task
+fabric.api.run
+fabric.api.sudo
+fabric.api.settings
+fabric.api.put
+fabric.context_managers
+fabric.context_managers.shell_env
+awsfabrictasks.decorators
+awsfabrictasks.decorators.ec2instance
+os
+awsfabrictasks.ec2.tasks
+awsfabrictasks.regions
+awsfabrictasks.conf

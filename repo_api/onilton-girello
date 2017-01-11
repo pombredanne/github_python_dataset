@@ -1,0 +1,9 @@
+github3
+github3.login
+configobj
+configobj.ConfigObj
+trello
+trello.TrelloClient
+collections
+collections.namedtuple
+pprint

@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+mezzanine.generic.forms
+mezzanine.generic.forms.ThreadedCommentForm
+mezzanine.accounts.forms
+mezzanine.accounts.forms.ProfileForm
+captcha.fields
+captcha.fields.CaptchaField

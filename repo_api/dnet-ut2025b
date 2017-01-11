@@ -1,0 +1,9 @@
+__future__
+__future__.with_statement
+__future__.division
+PIL
+PIL.Image
+sys
+os
+usb.core
+sys

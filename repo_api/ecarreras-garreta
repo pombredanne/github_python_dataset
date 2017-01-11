@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+re
+garreta
+garreta.*from
+garreta.trytond.model
+garreta.import
+garreta.ModelView
+garreta.ModelSQL
+garreta.fields

@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+os
+os.path
+socket
+subprocess
+zlib
+sys;
+socket
+sys

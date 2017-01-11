@@ -1,0 +1,8 @@
+json
+re
+requests
+configparser
+itertools
+os
+time
+beeminder

@@ -1,0 +1,14 @@
+os
+sys
+math
+glob
+struct
+shutil
+subprocess
+shapely.geometry
+shapely.geometry.mapping
+shapely.geometry.Polygon
+shapely.geometry.LineString
+osgeo
+osgeo.ogr
+fnmatch

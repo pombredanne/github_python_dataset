@@ -1,0 +1,7 @@
+subprocess
+subprocess.check_output
+tempfile
+tempfile.NamedTemporaryFile
+unittest
+python.eval
+python.eval.get_output

@@ -1,0 +1,6 @@
+mechanize
+mechanize.Browser
+webbrowser
+sys
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

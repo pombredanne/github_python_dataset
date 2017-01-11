@@ -1,0 +1,7 @@
+logging
+optparse
+optparse.OptionParser
+os
+sys
+distutils.core
+distutils.core.setup

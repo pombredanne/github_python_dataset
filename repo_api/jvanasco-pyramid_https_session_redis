@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+pyramid.settings
+pyramid.settings.asbool
+pyramid_https_session_core
+pyramid_redis_sessions

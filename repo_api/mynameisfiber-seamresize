@@ -1,0 +1,6 @@
+numpy
+scipy.ndimage.filters
+scipy.ndimage.filters.laplace
+PIL
+PIL.Image
+sys

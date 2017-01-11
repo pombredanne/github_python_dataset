@@ -1,0 +1,12 @@
+os
+multiprocessing
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+time
+Adafruit_DHT
+flask
+flask.Flask
+flask.jsonify
+RPIO

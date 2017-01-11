@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+hmac
+urllib
+httplib
+hashlib
+hashlib.sha1
+random
+random.getrandbits
+time
+time.time
+cgi
+cgi.escape

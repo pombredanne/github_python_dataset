@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+ng.core
+ng.core.ngram
+ng.ranking
+ng.ranking.NGramRatio
+pytest
+pytest.fixture
+ng
+ng.ratio
+ng.ranking.NGramRatio
+ng.core.ngram
+ng.core.pad_string

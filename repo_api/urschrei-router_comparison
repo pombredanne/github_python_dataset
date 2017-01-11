@@ -1,0 +1,11 @@
+__future__
+__future__.division
+requests
+json
+pandas
+numpy
+itertools
+itertools.chain
+shapely.geometry
+shapely.geometry.LineString
+shapely.geometry.Point

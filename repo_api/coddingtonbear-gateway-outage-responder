@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+logging
+subprocess
+time
+urllib2

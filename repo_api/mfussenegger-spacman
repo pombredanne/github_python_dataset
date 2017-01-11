@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+sys
+os
+re
+logging
+subprocess
+subprocess.Popen
+subprocess.PIPE
+subprocess.call
+types
+Spacman
+unittest
+unittest.TestCase

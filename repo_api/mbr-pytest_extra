@@ -1,0 +1,5 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+pytest

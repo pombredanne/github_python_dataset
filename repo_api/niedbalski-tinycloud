@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+jinja2
+jinja2.Environment
+jinja2.PackageLoader
+xml.etree
+xml.etree.ElementTree
+logging
+libvirt
+logging
+tinycloud.template
+tinycloud.template.load
+tinycloud.instance
+tinycloud.instance.Instance
+tinycloud.instance.InstanceNotFound

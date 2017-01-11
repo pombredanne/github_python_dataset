@@ -1,0 +1,15 @@
+collections
+collections.namedtuple
+patterns
+patterns.HSPatterns
+noisetypes
+noisetypes.empty
+error
+error.HandshakeError
+collections.namedtuple
+error.HashError
+pysodium
+pysodium.\
+libnacl
+libnacl
+libnacl.\

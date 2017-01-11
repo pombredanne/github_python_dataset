@@ -1,0 +1,8 @@
+argparse
+pyWMATA
+sys
+distutils.core
+distutils.core.setup
+urllib2
+xml.dom.minidom
+xml.dom.minidom.parseString

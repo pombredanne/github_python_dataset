@@ -1,0 +1,16 @@
+distutils.core
+distutils.core.setup
+memcache
+sys
+socket
+time
+os
+re
+binascii
+binascii.crc32
+binascii.#
+binascii.zlib
+binascii.version
+binascii.is
+binascii.not
+binascii.cross-platform

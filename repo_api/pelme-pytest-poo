@@ -1,0 +1,7 @@
+pytest
+pytest
+os
+codecs
+setuptools
+setuptools.setup
+pytest

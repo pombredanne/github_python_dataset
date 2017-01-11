@@ -1,0 +1,14 @@
+fetch_news
+termMatrix
+alchemyApi
+sklearn
+sklearn.linear_model
+numpy
+json
+re
+textmining
+nltk.corpus
+nltk.corpus.stopwords
+numpy
+pymongo
+pymongo.MongoClient

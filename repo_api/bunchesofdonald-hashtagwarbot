@@ -1,0 +1,15 @@
+__future__
+__future__.unicode_literals
+random
+collections
+collections.defaultdict
+random
+fuzzy
+time
+collections.defaultdict
+logging
+PyDictionary
+PyDictionary.PyDictionary
+markov
+markov.markov
+markov.generate_text

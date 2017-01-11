@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+httpie.plugins
+httpie.plugins.TransportPlugin
+requests_unixsocket
+requests_unixsocket.UnixAdapter
+requests_unixsocket.DEFAULT_SCHEME

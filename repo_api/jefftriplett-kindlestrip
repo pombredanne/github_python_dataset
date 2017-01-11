@@ -1,0 +1,12 @@
+codecs
+getopt
+locale
+os
+struct
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+invoke
+invoke.run
+invoke.task

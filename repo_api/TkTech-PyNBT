@@ -1,0 +1,16 @@
+pynbt.nbt
+pynbt.nbt.(
+struct
+struct.unpack
+struct.pack
+gzip
+array
+unittest
+pynbt
+pynbt.NBTFile
+unittest
+pynbt
+unittest
+pynbt
+sys
+pynbt.NBTFile

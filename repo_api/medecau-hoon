@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+six
+functools
+unittest
+hashlib
+difflib
+hoon

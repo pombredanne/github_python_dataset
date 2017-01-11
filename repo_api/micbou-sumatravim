@@ -1,0 +1,14 @@
+codecs
+os
+re
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.absolute_import
+__future__.division
+__future__.print_function
+argparse
+subprocess
+distutils.spawn
+distutils.spawn.find_executable

@@ -1,0 +1,14 @@
+os
+sys
+django.db
+django.db.models
+simple_history.models
+simple_history.models.HistoricalRecords
+import
+django.test.simple
+django.test.simple.DjangoTestSuiteRunner
+nose.core
+nose.core.TestProgram
+mixins.base
+app2.models
+app2.models.Model1

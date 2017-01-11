@@ -1,0 +1,7 @@
+theano
+theano.tensor
+numpy
+sympy
+theano
+theano.tensor
+graph_translation

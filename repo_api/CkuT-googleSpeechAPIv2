@@ -1,0 +1,7 @@
+requests
+json
+subprocess
+os
+time
+docopt
+docopt.docopt

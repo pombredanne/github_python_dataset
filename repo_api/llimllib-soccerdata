@@ -1,0 +1,5 @@
+codecs
+requests
+time
+bs4
+bs4.BeautifulSoup

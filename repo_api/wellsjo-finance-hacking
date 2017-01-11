@@ -1,0 +1,5 @@
+matplotlib
+matplotlib.pyplot
+matplotlib.ticker
+matplotlib.dates
+numpy

@@ -1,0 +1,14 @@
+logging
+datetime
+datetime.datetime
+requests
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+sqlalchemy
+sqlalchemy.create_engine
+sqlalchemy.(
+sqlalchemy.ext.declarative
+sqlalchemy.ext.declarative.declarative_base
+sqlalchemy.orm
+sqlalchemy.orm.relationship
+sqlalchemy.orm.sessionmaker

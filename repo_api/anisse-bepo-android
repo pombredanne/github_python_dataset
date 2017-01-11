@@ -1,0 +1,7 @@
+defaults
+sys
+xkb
+dead_keys
+codecs
+terminators
+terminators.terminators

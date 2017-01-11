@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+doit
+random
+random.choice
+textwrap
+clint
+clint.textui
+clint.textui.colored
+clint.textui.indent
+clint.textui.puts
+storage
+storage.DataStore
+json
+os

@@ -1,0 +1,14 @@
+__future__
+__future__.unicode_literals
+itertools
+struct
+__future__.unicode_literals
+contextlib
+operator
+pickle
+re
+sys
+unittest
+weakref
+ipaddress
+binascii

@@ -1,0 +1,8 @@
+os
+sys
+gtk
+glib
+gobject
+geany
+ConfigParser
+re

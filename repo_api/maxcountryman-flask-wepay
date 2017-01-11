@@ -1,0 +1,11 @@
+unittest
+flask
+flaskext.wepay
+flaskext.wepay.WePay
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+urllib
+urllib2
+json

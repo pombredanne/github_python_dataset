@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+os
+os.path
+logging
+json
+requests

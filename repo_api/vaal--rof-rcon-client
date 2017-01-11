@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+functools
+logging
+select
+six
+socket
+struct
+time

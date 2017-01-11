@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+re
+sys
+werkzeug.exceptions
+werkzeug.exceptions.HTTPException
+werkzeug.exceptions.abort
+werkzeug.http
+pytest
+werkzeug_rfc7xx
+werkzeug.exceptions.HTTPException
+werkzeug.exceptions.abort

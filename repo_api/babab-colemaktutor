@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+colemaktutor.colemaktutor
+colemaktutor
+colemaktutor.colemaktutor
+getch
+os
+random
+sys
+textwrap
+colemaktutor.colemaktutor
+colemaktutor.keymapper
+colemaktutor.lessons

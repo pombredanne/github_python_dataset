@@ -1,0 +1,16 @@
+os.path
+sys
+sys.stdout
+sys.stderr
+itertools
+itertools.zip_longest
+collections
+collections.OrderedDict
+operator
+operator.itemgetter
+requests
+pandas
+pandas.tseries.frequencies
+pandas.tseries.frequencies.to_offset
+docopt
+docopt.docopt

@@ -1,0 +1,7 @@
+asyncio
+aiokafka
+aiokafka.AIOKafkaConsumer
+kafka.common
+kafka.common.NoBrokersAvailable
+logging
+time

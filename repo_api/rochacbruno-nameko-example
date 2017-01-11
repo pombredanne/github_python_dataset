@@ -1,0 +1,14 @@
+yagmail
+nameko.rpc
+nameko.rpc.rpc
+nameko.rpc.RpcProxy
+dynaconf
+dynaconf.settings
+flask
+flask.Flask
+flask.request
+flasgger
+flasgger.Swagger
+flasgger.swag_from
+nameko.standalone.rpc
+nameko.standalone.rpc.ClusterRpcProxy

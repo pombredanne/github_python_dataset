@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+urllib2
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+re
+numpy
+matplotlib.pyplot

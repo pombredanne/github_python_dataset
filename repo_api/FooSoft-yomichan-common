@@ -1,0 +1,6 @@
+codecs
+sqlite3
+json
+optparse
+os.path
+re

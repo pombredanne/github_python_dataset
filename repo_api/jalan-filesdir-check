@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+codecs
+optparse
+os
+re
+sys
+portage

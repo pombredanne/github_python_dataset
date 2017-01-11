@@ -1,0 +1,15 @@
+supybot.callbacks
+supybot.ircmsgs
+supybot.ircutils
+time
+urllib
+xml.dom.minidom
+xml.dom.minidom.parse
+collections
+collections.deque
+supybot
+supybot.world
+config
+plugin
+supybot.conf
+supybot.registry

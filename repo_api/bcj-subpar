@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+subpar.components
+subpar.components.(
+subpar.parsers
+subpar.parsers.parse
+collections
+collections.namedtuple
+subpar.structs
+subpar.structs.Node
+nose.tools
+nose.tools.assert_equals
+nose.tools.assert_is_none
+nose.tools.assert_equals
+nose.tools.assert_is_none
+nose.tools.assert_equals
+nose.tools.assert_raises

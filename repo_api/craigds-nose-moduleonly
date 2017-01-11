@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+nose.plugins
+nose.plugins.Plugin

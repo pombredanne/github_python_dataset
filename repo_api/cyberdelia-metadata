@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+hachoir_core.cmd_line
+hachoir_core.cmd_line.unicodeFilename
+hachoir_core.error
+hachoir_core.error.HachoirError
+hachoir_core.stream
+hachoir_core.stream.InputIOStream
+hachoir_metadata
+hachoir_metadata.config
+hachoir_metadata.extractMetadata
+hachoir_parser
+hachoir_parser.guessParser

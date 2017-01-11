@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+codecs.open
+os
+os.path
+__future__
+__future__.print_function
+termios
+os
+sys
+time
+getopt
+arduinoserial
+pytest

@@ -1,0 +1,12 @@
+pandas
+os
+matplotlib.pyplot
+mpl_toolkits.mplot3d
+mpl_toolkits.mplot3d.Axes3D
+scipy.spatial.distance
+scipy.spatial.distance.pdist
+scipy.spatial.distance.squareform
+sklearn.decomposition
+sklearn.decomposition.PCA
+numpy
+scipy.stats

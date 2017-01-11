@@ -1,0 +1,15 @@
+distutils.core
+distutils.core.setup
+djsphinx
+sys
+select
+socket
+re
+struct
+django.db
+django.db.models
+django.conf
+django.conf.settings
+django.db.models.query
+django.db.models.query.QuerySet
+sphinxapi

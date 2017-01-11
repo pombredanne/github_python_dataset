@@ -1,0 +1,10 @@
+scrapy.item
+scrapy.item.Item
+scrapy.item.Field
+urllib
+scrapy.spider
+scrapy.spider.BaseSpider
+scrapy.selector
+scrapy.selector.HtmlXPathSelector
+docspedition.items
+docspedition.items.DocspeditionItem

@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+re
+lektor.pluginsystem
+lektor.pluginsystem.Plugin
+extract_video_id
+extract_video_id.MdxVideo

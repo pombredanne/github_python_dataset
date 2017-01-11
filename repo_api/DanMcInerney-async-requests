@@ -1,0 +1,7 @@
+gevent
+gevent.monkey
+gevent.pool
+gevent.pool.Pool
+gevent.joinall
+requests
+argparse

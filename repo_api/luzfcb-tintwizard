@@ -1,0 +1,8 @@
+pygtk
+gtk
+os
+sys
+signal
+webbrowser
+math
+shutil

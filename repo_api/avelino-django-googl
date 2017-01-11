@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+urllib
+urllib2
+json
+django.core.validators
+django.core.validators.URLValidator
+django.core.validators.ValidationError
+django
+django.template
+django.core.cache
+django.core.cache.cache
+googl.short
+googl.short.GooglUrlShort
+uuid

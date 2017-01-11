@@ -1,0 +1,12 @@
+random
+math
+sys
+gibbs
+gibbs.Gibbs
+gibbs.GibbsError
+optparse
+optparse.OptionParser
+Bio
+Bio.Fasta
+random
+random.choice

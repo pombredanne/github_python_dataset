@@ -1,0 +1,11 @@
+sys
+sys.exc_clear
+gevent.socket
+gevent.socket.wait_read
+gevent.socket.wait_write
+OpenSSL.SSL
+OpenSSL.SSL
+OpenSSL.SSL.WantReadError
+OpenSSL.SSL.WantWriteError
+OpenSSL.SSL.ZeroReturnError
+OpenSSL.SSL.Connection

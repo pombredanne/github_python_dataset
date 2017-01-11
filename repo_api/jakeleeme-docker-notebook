@@ -1,0 +1,9 @@
+sys
+IPython
+IPython.get_ipython
+jupyter_core.paths
+jupyter_core.paths.jupyter_data_dir
+subprocess
+os
+errno
+stat

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+ghp
+__future__
+__future__.absolute_import
+__future__.unicode_literals
+sys
+os
+click
+sh
+sh
+sh.git
+ghp
+ghp.__version__

@@ -1,0 +1,10 @@
+sys
+distutils.core
+distutils.core.setup
+sys
+setup
+argparse
+os.path
+sys
+warnings
+webbrowser

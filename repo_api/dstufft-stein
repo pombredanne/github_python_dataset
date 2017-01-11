@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+asyncio
+stein.protocol
+stein.protocol.HTTPServer
+asyncio
+asyncio.streams
+asyncio.streams.FlowControlMixin

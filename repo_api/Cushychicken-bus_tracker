@@ -1,0 +1,14 @@
+requests
+logging
+logging.handlers
+logging.handlers.TimedRotatingFileHandler
+time
+RPi.GPIO
+bs4
+bs4.BeautifulSoup
+math
+math.radians
+math.cos
+math.sin
+math.asin
+math.sqrt

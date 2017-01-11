@@ -1,0 +1,5 @@
+bpy
+bpy_extras.io_utils
+io
+math
+struct

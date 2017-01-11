@@ -1,0 +1,7 @@
+sys
+os
+subprocess
+nose.plugins
+nose.plugins.Plugin
+plugin
+plugin.NoseAudioPlugin

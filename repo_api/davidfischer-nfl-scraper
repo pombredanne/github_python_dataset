@@ -1,0 +1,16 @@
+scrapy.selector
+scrapy.selector.Selector
+scrapy.http
+scrapy.http.Request
+scrapy
+scrapy.log
+nfl_spider
+nfl_spider.NflScheduleSpider
+re
+scrapy.spider
+scrapy.spider.BaseSpider
+scrapy.selector.Selector
+scrapy.http.Request
+re
+os
+json

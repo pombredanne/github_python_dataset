@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+hashlib
+minfraud.creditcard
+minfraud.creditcard.CreditCard
+minfraud.telephone
+minfraud.telephone.Telephone
+minfraud.location
+minfraud.location.Location
+minfraud.httpbase
+minfraud.httpbase.HTTPBase
+minfraud.httpbase.HTTPBase
+urllib
+urllib2
+hashlib
+minfraud.httpbase.HTTPBase

@@ -1,0 +1,14 @@
+argparse
+operator
+sys
+urllib2
+praw
+praw
+re
+time
+reddit
+os
+praw
+authentication
+authentication.USERNAME
+authentication.PASSWORD

@@ -1,0 +1,11 @@
+numpy
+scipy.optimize
+scipy.optimize.minimize
+scipy.io
+scipy.io.loadmat
+math
+math.sqrt
+itertools
+itertools.izip
+time
+pickle

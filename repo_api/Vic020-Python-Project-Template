@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+os
+logging
+logging.config
+json
+click
+__future__
+__future__.unicode_literals
+__future__.absolute_import
+Project.libs.common
+Project.libs.common.Base
+logging

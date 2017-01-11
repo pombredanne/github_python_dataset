@@ -1,0 +1,11 @@
+os
+feedparser
+anydbm
+argparse
+ConfigParser
+sys
+bitcoinrpc.authproxy
+bitcoinrpc.authproxy.AuthServiceProxy
+xdg.BaseDirectory
+xdg.BaseDirectory.xdg_config_home
+logging

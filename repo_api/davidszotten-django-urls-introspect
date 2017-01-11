@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+collections
+inspect
+re
+django.core.management.base
+django.core.management.base.BaseCommand
+urls

@@ -1,0 +1,14 @@
+os
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+os.path
+os.path.join
+pyjavapropertiesu
+pyjavapropertiesu.encode_unicode
+pyjavapropertiesu.decode_unicode
+pyjavapropertiesu.Properties
+__future__.unicode_literals
+codecs
+pyjavaproperties

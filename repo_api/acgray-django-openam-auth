@@ -1,0 +1,15 @@
+distutils.core
+distutils.core.setup
+distutils.core.Command
+os
+django_openam_auth
+django_openam_auth.__version__
+django_openam_auth.__author_name__
+django_openam_auth.__author_email__
+django.conf
+django.conf.settings
+django.contrib.auth
+django.contrib.auth.get_user_model
+django.core.exceptions
+django.core.exceptions.ImproperlyConfigured
+openam

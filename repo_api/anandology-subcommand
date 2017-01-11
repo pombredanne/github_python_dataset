@@ -1,0 +1,7 @@
+subcommand
+distutils.core
+distutils.core.setup
+optparse
+re
+sys
+itertools

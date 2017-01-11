@@ -1,0 +1,12 @@
+peewee
+PyQt5
+PyQt5.QtGui
+PyQt5.QtWidgets
+PyQt5.QtCore
+pyaddressbook.ui_addressbook
+behave
+hamcrest
+pyaddressbook
+pyaddressbook.addressbook
+peewee
+mock

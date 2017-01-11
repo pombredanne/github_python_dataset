@@ -1,0 +1,9 @@
+functools
+functools.update_wrapper
+metalib.cached
+metalib.cached.attrcache
+metalib.cached.cached_on
+metalib.lookup
+metalib.lookup.resolve
+metalib.lookup.getchain
+metalib.lookup.delegates_to

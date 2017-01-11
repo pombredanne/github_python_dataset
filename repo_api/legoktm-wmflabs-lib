@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+sys
+import
+os
+pipes
+re
+subprocess
+os
+requests
+sys
+unittest
+sys
+wmflabs

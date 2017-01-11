@@ -1,0 +1,14 @@
+io
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+io
+subprocess
+tempfile
+django.core.files.base
+django.core.files.base.ContentFile
+django.db
+django.db.models
+django.utils.translation
+django.utils.translation.ugettext_lazy

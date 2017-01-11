@@ -1,0 +1,9 @@
+surfstick.user
+sys
+optparse
+optparse.OptionParser
+gtk
+surfstick.user
+serial
+import
+serial

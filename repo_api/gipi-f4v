@@ -1,0 +1,8 @@
+lxml
+lxml.etree
+base64
+logging
+struct
+sys
+os
+requests

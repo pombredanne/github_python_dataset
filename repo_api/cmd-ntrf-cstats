@@ -1,0 +1,6 @@
+numpy
+setuptools
+setuptools.setup
+setuptools.Extension
+Cython.Distutils
+Cython.Distutils.build_ext

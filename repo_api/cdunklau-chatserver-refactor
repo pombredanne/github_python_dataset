@@ -1,0 +1,17 @@
+subprocess
+re
+collections
+collections.namedtuple
+twisted.internet
+twisted.internet.reactor
+twisted.internet.defer
+twisted.internet.protocol
+twisted.internet.protocol.Factory
+twisted.internet.endpoints
+twisted.internet.endpoints.TCP4ClientEndpoint
+twisted.internet.task
+twisted.internet.task.deferLater
+twisted.protocols.basic
+twisted.protocols.basic.LineReceiver
+twisted.trial.unittest
+twisted.trial.unittest.TestCase

@@ -1,0 +1,7 @@
+openerp
+openerp.models
+openerp.fields
+openerp.api
+import
+openerp.tests.common
+openerp.tests.common.TransactionCase

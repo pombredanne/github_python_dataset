@@ -1,0 +1,9 @@
+pip.req
+pip.req.InstallRequirement
+pip.req.parse_requirements
+pip.download
+pip.download._get_used_vcs_backend
+pip.index
+pip.index.Link
+pip.vcs
+pip.vcs.VersionControl

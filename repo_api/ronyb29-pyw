@@ -1,0 +1,8 @@
+cStringIO
+lxml
+lxml.html
+requests
+PIL
+PIL.ImageFont
+PIL.Image
+PIL.ImageDraw

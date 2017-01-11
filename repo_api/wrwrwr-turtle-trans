@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+translate
+translate.translate_methods
+translate.turtle_subclass
+translate.translate_methods
+translate.turtle_subclass
+turtle
+turtle.Turtle
+turtle.Turtle
+turtletrans.translate
+turtletrans.translate.translate_methods
+turtletrans.translate.turtle_subclass

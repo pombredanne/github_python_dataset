@@ -1,0 +1,16 @@
+sys
+io
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+sys
+os
+os
+sys
+upass
+urwid
+pyperclip
+subprocess
+os
+pkg_resources

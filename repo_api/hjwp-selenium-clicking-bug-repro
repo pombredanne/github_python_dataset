@@ -1,0 +1,14 @@
+unittest
+selenium
+selenium.webdriver
+subprocess
+selenium.webdriver.common.by
+selenium.webdriver.common.by.By
+selenium.webdriver.support.wait
+selenium.webdriver.support.wait.WebDriverWait
+selenium.webdriver.support.expected_conditions
+selenium.webdriver.support.expected_conditions.text_to_be_present_in_element
+selenium.webdriver.common.desired_capabilities
+selenium.webdriver.common.desired_capabilities.DesiredCapabilities
+selenium.webdriver.firefox.firefox_binary
+selenium.webdriver.firefox.firefox_binary.FirefoxBinary

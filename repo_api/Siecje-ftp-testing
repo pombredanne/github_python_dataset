@@ -1,0 +1,11 @@
+multiprocessing
+pytest
+FTP
+FTP.server
+os
+pyftpdlib.authorizers
+pyftpdlib.authorizers.DummyAuthorizer
+pyftpdlib.handlers
+pyftpdlib.handlers.FTPHandler
+pyftpdlib.servers
+pyftpdlib.servers.FTPServer

@@ -1,0 +1,6 @@
+cv2
+cv_bridge
+rospy
+jsk_perception.srv
+jsk_perception.srv.SetTemplate
+jsk_perception.srv.SetTemplateRequest

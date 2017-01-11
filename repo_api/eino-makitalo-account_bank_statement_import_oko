@@ -1,0 +1,17 @@
+base64
+openerp
+openerp.api
+openerp.fields
+openerp.models
+openerp._
+openerp.exceptions
+openerp.exceptions.UserError
+openerp.addons.base.res.res_bank
+openerp.addons.base.res.res_bank.sanitize_account_number
+decimal
+decimal.Decimal
+openerp.addons.decimal_precision
+hashlib
+sys
+logging
+account_bank_statement_import

@@ -1,0 +1,11 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+os
+click
+click
+pytest
+click.testing
+click.testing.CliRunner
+remove_quotes
+remove_quotes.cli

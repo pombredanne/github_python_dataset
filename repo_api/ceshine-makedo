@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+pprint
+click
+core
+core.Core
+poseidon

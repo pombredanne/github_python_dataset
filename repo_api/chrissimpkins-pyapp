@@ -1,0 +1,15 @@
+os
+re
+setuptools
+setuptools.setup
+setuptools.find_packages
+commandlines
+commandlines.Command
+standardstreams
+standardstreams.stdout
+standardstreams.stderr
+sys
+pytest
+cProfile
+pstats
+StringIO

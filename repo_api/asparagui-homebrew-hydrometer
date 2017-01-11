@@ -1,0 +1,16 @@
+bs4
+bs4.BeautifulSoup
+urllib.request
+urllib.request.Request
+urllib.request.urlopen
+urllib.error
+urllib.error.URLError
+urllib.error.HTTPError
+sys
+string
+re
+subprocess
+subprocess.Popen
+subprocess.PIPE
+subprocess
+argparse

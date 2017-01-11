@@ -1,0 +1,10 @@
+flask
+flask.Flask
+flask.Session
+html5lib
+html5lib.HTMLParser
+html5lib.serialize
+html5lib.treebuilders.simpletree
+html5lib.treebuilders.simpletree.Element
+werkzeug
+werkzeug.url_quote_plus

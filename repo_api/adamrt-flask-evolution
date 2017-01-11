@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+datetime
+os
+re
+sqlalchemy
+sqlalchemy.desc
+datetime
+flask
+flask.current_app
+flask.ext.evolution
+flask.ext.evolution.BaseMigration
+flask.ext.sqlalchemy
+flask.ext.sqlalchemy.SQLAlchemy

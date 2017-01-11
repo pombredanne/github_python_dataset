@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+re
+pygments.lexer
+pygments.lexer.Lexer
+pygments.lexer.DelegatingLexer
+pygments.lexer.RegexLexer
+pygments.lexer.bygroups
+pygments.lexer.\
+pygments.lexer.RegexLexer
+pygments.token

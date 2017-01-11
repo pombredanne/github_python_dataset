@@ -1,0 +1,16 @@
+os
+distutils.core
+distutils.core.setup
+unittest
+inmemorystorage
+inmemorystorage.InMemoryStorage
+inmemorystorage.storage
+inmemorystorage.storage.InMemoryDir
+inmemorystorage.storage.InMemoryFile
+django.core.files.base
+django.core.files.base.ContentFile
+storage
+storage.InMemoryStorage
+django.core.files.storage
+django.core.files.storage.Storage
+django.core.files.base.ContentFile

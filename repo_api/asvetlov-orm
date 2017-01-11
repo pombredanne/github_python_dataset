@@ -1,0 +1,6 @@
+os
+re
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages

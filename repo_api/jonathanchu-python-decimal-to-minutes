@@ -1,0 +1,15 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+click
+pytest
+click.testing
+click.testing.CliRunner
+decimal_to_minutes
+decimal_to_minutes.cli
+decimal
+decimal.Decimal
+math
+math.floor
+sys
+click

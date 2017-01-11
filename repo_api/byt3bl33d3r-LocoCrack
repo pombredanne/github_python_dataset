@@ -1,0 +1,14 @@
+gevent
+gevent.monkey
+gevent.pool
+gevent.pool.Pool
+gevent.joinall
+lxml.html
+re
+hashlib
+argparse
+requests
+sys
+random
+csv
+os

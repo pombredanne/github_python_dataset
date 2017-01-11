@@ -1,0 +1,14 @@
+optparse
+optparse.OptionParser
+pygame
+pygame.locals
+time
+urllib2
+re
+config
+config.SIZES
+colors
+colors.Color
+unittest
+cli
+cli.Cli

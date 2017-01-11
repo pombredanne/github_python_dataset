@@ -1,0 +1,7 @@
+re
+sys
+argparse
+decimal
+decimal.Decimal
+numpy
+scipy.misc

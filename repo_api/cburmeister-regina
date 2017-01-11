@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+os
+re
+csv
+time
+click
+shutil
+requests
+bs4
+bs4.BeautifulSoup
+itertools
+itertools.izip_longest

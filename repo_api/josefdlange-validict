@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.unicode_literals
+unittest
+validict
+validict.deep_merge
+validict.validate
+validict.FailedValidationError
+validict.is_python2

@@ -1,0 +1,15 @@
+distutils.core
+distutils.core.setup
+urllib
+django
+django.template
+django.conf
+django.conf.settings
+django.contrib.auth.models
+django.contrib.auth.models.User
+django.utils.hashcompat
+django.utils.hashcompat.md5_constructor
+django.utils.html
+django.utils.html.escape
+django.utils
+django.utils.simplejson

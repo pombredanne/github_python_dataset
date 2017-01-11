@@ -1,0 +1,4 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals

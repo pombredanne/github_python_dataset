@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+json
+urllib
+urllib.urlencode
+httplib2
+unittest
+twitterator
+sys
+twitterator
+sys
+twitterator

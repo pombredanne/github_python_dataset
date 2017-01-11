@@ -1,0 +1,5 @@
+requests
+collections
+collections.defaultdict
+docopt
+docopt.docopt

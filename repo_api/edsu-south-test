@@ -1,0 +1,13 @@
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.include
+django.conf.urls.defaults.url
+django.core.management
+django.core.management.execute_manager
+imp
+settings
+django.db
+django.db.models
+django.db.IntegrityError
+foo.bar.models
+foo.bar.models.Bar

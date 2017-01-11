@@ -1,0 +1,10 @@
+numpy
+matplotlib.pyplot
+itertools
+itertools.islice
+keras.models
+keras.models.Sequential
+keras.layers.core
+keras.layers.core.Dense
+keras.regularizers
+keras.regularizers.l2

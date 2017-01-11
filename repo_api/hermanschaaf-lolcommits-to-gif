@@ -1,0 +1,12 @@
+os.path
+time
+datetime
+argparse
+shutil
+subprocess
+PIL
+PIL.Image
+PIL.ImageChops
+PIL.GifImagePlugin
+PIL.GifImagePlugin.getheader
+PIL.GifImagePlugin.getdata

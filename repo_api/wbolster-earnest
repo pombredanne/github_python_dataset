@@ -1,0 +1,10 @@
+pytest
+earnest
+setuptools
+setuptools.setup
+earnest
+earnest.(
+earnest.#
+earnest.noqa:
+earnest.unused
+earnest.imports

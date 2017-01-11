@@ -1,0 +1,16 @@
+pygame
+pylirc
+select
+functions
+threading
+threading.Thread
+os
+subprocess
+subprocess.Popen
+subprocess.PIPE
+subprocess.Popen
+subprocess.PIPE
+subprocess.call
+players
+players.Mplayer
+players.Pianobar

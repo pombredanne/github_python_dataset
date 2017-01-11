@@ -1,0 +1,13 @@
+os
+scrapy
+scrapy
+scrapy.contrib.pipeline.files
+scrapy.contrib.pipeline.files.FilesPipeline
+scrapy.exceptions
+scrapy.exceptions.DropItem
+re
+scrapy
+bs4
+bs4.BeautifulSoup
+jandan_ooxx.items
+jandan_ooxx.items.OoxxItem

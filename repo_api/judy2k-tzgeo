@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+__future__.print_function
+argparse
+sys
+tzgeo
+__future__.absolute_import
+__future__.print_function
+itertools
+itertools.ifilter
+os.path
+import
+__future__.absolute_import
+__future__.print_function
+pyspatialite.dbapi2

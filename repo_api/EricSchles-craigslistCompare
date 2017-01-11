@@ -1,0 +1,11 @@
+requests
+lxml.html
+pickle
+grequests
+pandas
+time
+os
+unidecode
+unidecode.unidecode
+grab
+grab.Scraper

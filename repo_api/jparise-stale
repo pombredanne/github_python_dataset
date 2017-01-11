@@ -1,0 +1,11 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+stale
+stale.__version__
+json
+re
+sys
+urllib
+urllib2
+urlparse

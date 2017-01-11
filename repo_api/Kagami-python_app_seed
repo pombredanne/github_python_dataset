@@ -1,0 +1,10 @@
+os
+os.path
+fnmatch
+itertools
+itertools.chain
+setuptools
+setuptools.setup
+setuptools.find_packages
+python_app_seed.config
+yaml

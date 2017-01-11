@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+time
+hashlib
+urlparse
+django.core.files.storage
+django.core.files.storage.FileSystemStorage
+django.core.files.storage.filepath_to_uri
+django.conf
+django.conf.settings
+django.core.exceptions
+django.core.exceptions.ImproperlyConfigured

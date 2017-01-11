@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+smileys
+django.db
+django.db.models
+django.contrib
+django.contrib.admin
+smileys.models
+smileys.models.Smiley
+django
+django.template
+smileys.models.Smiley
+re

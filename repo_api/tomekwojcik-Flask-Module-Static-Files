@@ -1,0 +1,8 @@
+stest
+stest.make_app
+flask
+flask.Flask
+flask.Module
+flask.render_template
+flask.Module
+flask.render_template

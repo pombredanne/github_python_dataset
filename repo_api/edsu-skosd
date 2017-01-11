@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+unittest
+skosd
+sys
+json
+rdflib
+rdflib.Graph
+rdflib.RDF
+rdflib.Namespace
+sys
+json
+skosd

@@ -1,0 +1,9 @@
+sys
+math
+math.cos
+math.e
+math.pi
+math.sin
+math.tan
+optparse
+optparse.OptionParser

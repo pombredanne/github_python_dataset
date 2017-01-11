@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+parsec
+string
+logging
+functools
+unittest
+import
+logging

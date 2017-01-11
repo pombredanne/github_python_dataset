@@ -1,0 +1,14 @@
+ply.lex
+textwrap
+workflow_parser
+pytest
+workflow_parser
+pprint
+pprint.pprint
+pprint.pprint
+lxml
+lxml
+lxml.etree
+pytest
+workflow_lexer
+ply.yacc

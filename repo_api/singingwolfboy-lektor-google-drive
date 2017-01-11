@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+sys
+requests
+urllib
+functools
+functools.partial
+webbrowser
+lektor.pluginsystem
+lektor.pluginsystem.Plugin
+lektor.types
+lektor.types.Type

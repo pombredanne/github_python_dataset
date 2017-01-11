@@ -1,0 +1,15 @@
+feedparser
+os
+re
+sys
+twitter
+urllib
+urllib2
+application.configuration
+application.configuration.ConfigSection
+application
+application.log
+optparse
+optparse.OptionParser
+pysqlite2
+pysqlite2.dbapi2

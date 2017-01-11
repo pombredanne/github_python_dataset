@@ -1,0 +1,5 @@
+requests
+scrapy
+scrapy
+scrapyzce.items
+scrapyzce.items.ScrapyZceItem

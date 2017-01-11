@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+fabric.api
+fabric.operations
+fabric.operations._shell_escape
+cuisine
+cuisine
+cuisine.run

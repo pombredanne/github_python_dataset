@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+json
+os
+os
+ispformat.schema
+jsonschema
+jsonschema.Draft4Validator
+jsonschema.RefResolver
+jsonschema.draft4_format_checker
+jsonschema.exceptions
+jsonschema.exceptions.RefResolutionError
+jsonschema.exceptions.ValidationError
+urlparse
+urlparse.urlsplit
+ispformat.validator.schemavalidator

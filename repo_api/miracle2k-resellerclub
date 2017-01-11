@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+sys
+os
+textwrap
+json
+collections
+collections.namedtuple
+functools
+functools.wraps
+docopt
+docopt.docopt
+requests

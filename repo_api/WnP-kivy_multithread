@@ -1,0 +1,10 @@
+kivy.app
+kivy.app.App
+kivy.uix.boxlayout
+kivy.uix.boxlayout.BoxLayout
+kivy.clock
+kivy.clock.Clock
+threading
+threading.Thread
+time
+time.sleep

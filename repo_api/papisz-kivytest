@@ -1,0 +1,14 @@
+kivy.clock
+kivy.clock.Clock
+random
+random.randint
+kivy.app
+kivy.app.App
+kivy.uix.widget
+kivy.uix.widget.Widget
+kivy.vector
+kivy.vector.Vector
+kivy.properties
+kivy.properties.NumericProperty
+kivy.properties.ReferenceListProperty
+kivy.properties.ObjectProperty

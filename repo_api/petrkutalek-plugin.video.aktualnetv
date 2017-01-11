@@ -1,0 +1,12 @@
+xbmcswift2
+xbmcswift2.Plugin
+xbmcswift2.xbmc
+xbmcswift2.actions
+urllib
+urllib.urlencode
+gzip
+io
+json
+re
+sys
+urllib2

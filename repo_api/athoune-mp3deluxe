@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+subprocess
+re
+os
+os.path
+time
+mutagen.mp3
+mutagen.mp3.EasyMP3

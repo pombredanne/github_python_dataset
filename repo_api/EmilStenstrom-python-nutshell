@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+requests
+six
+uuid
+uuid.uuid4
+unittest
+uuid.uuid4
+six
+flake8.engine
+flake8.engine.get_style_guide
+nutshell

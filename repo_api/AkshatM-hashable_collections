@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+codecs.open
+os
+os.path

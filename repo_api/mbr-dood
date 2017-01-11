@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+lxml
+lxml.etree
+lxml.builder
+lxml.builder.ElementMaker
+rauth
+requests
+xmltodict

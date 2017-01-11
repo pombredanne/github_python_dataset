@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+os
+unittest
+unittest.main
+unittest.TestCase
+mock
+mock.Mock
+smsified
+api
+os
+requests
+simplejson

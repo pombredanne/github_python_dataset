@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+argparse
+smtplib
+email.mime.text
+email.mime.text.MIMEText
+jinja2
+jinja2.FileSystemLoader
+jinja2.Environment
+tablib
+tablib.Dataset

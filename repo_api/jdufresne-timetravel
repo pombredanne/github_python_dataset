@@ -1,0 +1,6 @@
+mercurial
+mercurial.context
+mercurial.copies
+mercurial.repair
+mercurial.util
+mercurial.hg

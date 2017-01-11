@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+pytest
+trustpaylib
+sys
+hmac
+hashlib
+collections
+sys
+os
+site

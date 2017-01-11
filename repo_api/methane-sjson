@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+distutils.core
+distutils.core.Extension
+timeit
+sjson
+sjson.sjson_pyx
+sjson.sjson_py

@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+re
+httpauth
+httpauth.DictHttpAuthMiddleware
+httpauth.DigestFileHttpAuthMiddleware
+httpauth.md5_str
+nose.tools
+nose.tools.raises
+os
+re
+time
+hashlib

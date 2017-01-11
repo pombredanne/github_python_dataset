@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+json
+unittest
+simplecpreprocessor
+os.path
+logging
+collections
+collections.OrderedDict
+os.path
+platform
+errno

@@ -1,0 +1,12 @@
+cgi
+os
+gnupg
+tempfile
+tempfile.mkdtemp
+StringIO
+StringIO.StringIO
+BaseHTTPServer
+BaseHTTPServer.BaseHTTPRequestHandler
+BaseHTTPServer.HTTPServer
+SocketServer
+SocketServer.ThreadingMixIn

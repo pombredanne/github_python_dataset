@@ -1,0 +1,12 @@
+__future__
+__future__.unicode_literals
+copy
+io
+os
+subprocess
+tempfile
+pytest
+py.path
+bs4
+requests
+textwrap

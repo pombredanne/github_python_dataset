@@ -1,0 +1,15 @@
+distutils.core
+distutils.core.setup
+django.conf
+django.conf.settings
+django.core.mail
+django.core.mail.EmailMultiAlternatives
+django.core.urlresolvers
+django.core.urlresolvers.NoReverseMatch
+django.template.loader
+django.template.loader.get_template
+django.template
+django.template.Context
+django.core
+django.core.urlresolvers
+difflib

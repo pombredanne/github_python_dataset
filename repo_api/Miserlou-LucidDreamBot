@@ -1,0 +1,14 @@
+sys
+sys.exit
+tweepy
+settings
+urllib2
+urllib2.HTTPError
+random
+random.choice
+random
+sys.exit
+tweepy
+settings
+urllib2.HTTPError
+random.choice

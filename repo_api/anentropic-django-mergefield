@@ -1,0 +1,10 @@
+bzrlib.patiencediff
+os
+sys
+time
+difflib
+bzrlib._patiencediff_py
+bzrlib._patiencediff_py.(
+bisect
+bisect.bisect
+difflib

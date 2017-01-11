@@ -1,0 +1,8 @@
+argparse
+getpass
+json
+unittest
+urllib
+urllib2
+pycurl
+StringIO

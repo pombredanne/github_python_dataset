@@ -1,0 +1,12 @@
+fabric.api
+nose.tools
+email
+trac_cop
+re
+sys
+email
+argparse
+trac.ticket
+trac.ticket.Ticket
+trac.env
+trac.env.open_environment

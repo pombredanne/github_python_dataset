@@ -1,0 +1,16 @@
+sys
+setuptools
+setuptools.setup
+setuptools.__version__
+pkg_resources
+pkg_resources.parse_version
+pkg_resources
+os
+subprocess
+os
+sys
+re
+py
+tox
+tox.config
+tox.config._split_env

@@ -1,0 +1,17 @@
+this
+in
+ipython
+and
+use
+pip
+magically
+without
+!
+and
+correct
+version
+!
+IPython.core.magic
+IPython.core.magic.register_line_magic
+pip
+shlex

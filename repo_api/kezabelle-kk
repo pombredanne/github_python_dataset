@@ -1,0 +1,10 @@
+__future__
+__future__.absolute_import
+os
+sys
+django.conf
+django.conf.settings
+django.utils.functional
+django.utils.functional.SimpleLazyObject
+django.core.wsgi
+django.core.wsgi.get_wsgi_application

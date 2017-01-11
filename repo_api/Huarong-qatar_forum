@@ -1,0 +1,17 @@
+os
+json
+codecs
+requests
+re
+os
+logging
+codecs
+scrapy
+os
+scrapy
+scrapy.signals
+scrapy.contrib.exporter
+scrapy.contrib.exporter.JsonLinesItemExporter
+scrapy
+qatarliving.items
+qatarliving.items.QatarlivingItem

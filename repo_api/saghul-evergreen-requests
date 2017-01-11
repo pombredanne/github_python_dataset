@@ -1,0 +1,14 @@
+re
+functools
+functools.partial
+operator
+operator.methodcaller
+evergreen
+evergreen.futures
+evergreen.patcher
+os
+sys
+time
+unittest
+evergreen.ext
+evergreen.ext.requests

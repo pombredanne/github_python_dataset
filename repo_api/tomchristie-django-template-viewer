@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+re
+os
+sys
+os
+sys
+django.template.loader
+django.template.loader.BaseLoader
+django.template.loader.find_template_loader
+os
+debug_toolbar.panels
+debug_toolbar.panels.DebugPanel
+django.utils.translation
+django.utils.translation.ugettext_lazy

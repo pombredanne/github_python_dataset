@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+re
+termcolor
+termcolor.colored
+termcolor.COLORS
+itertools
+itertools.starmap

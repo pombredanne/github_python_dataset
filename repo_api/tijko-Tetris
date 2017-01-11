@@ -1,0 +1,17 @@
+pygame
+sys
+os
+time
+random
+itertools
+collections
+lib.tetri_shapes
+lib.game_screen
+lib.game_screen.GameScreen
+pygame
+collections
+os
+pygame
+collections
+os
+sys

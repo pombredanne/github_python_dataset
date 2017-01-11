@@ -1,0 +1,7 @@
+__future__
+__future__.generator_stop
+setuptools
+setuptools.find_packages
+setuptools.setup
+io
+sys

@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+tornado.httpserver
+tornado.websocket
+tornado.ioloop
+tornado.web
+sys
+select
+os
+signal
+optparse
+optparse.OptionParser

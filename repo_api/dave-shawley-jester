@@ -1,0 +1,8 @@
+codecs
+setuptools
+sys
+jester
+jester.__version__
+sphinx_rtd_theme
+jester.__version__
+jester.version_info

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+argparse
+collections
+collections.namedtuple
+glob
+glob.glob
+itertools
+itertools.chain
+re

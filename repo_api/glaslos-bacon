@@ -1,0 +1,14 @@
+poplib
+ConfigParser
+re
+smtplib
+sqlite3
+hashlib
+sys
+email.mime.text
+email.mime.text.MIMEText
+email.parser
+email.parser.Parser
+email.Utils
+email.Utils.formatdate
+chardet

@@ -1,0 +1,16 @@
+sys
+PyQt4.QtCore
+PyQt4.QtCore.pyqtSignature
+PyQt4.QtCore.SIGNAL
+PyQt4.QtCore.QSettings
+PyQt4.QtCore.QVariant
+PyQt4.QtGui
+PyQt4.QtGui.(QDialog
+PyQt4.QtGui.QApplication
+PyQt4.QtGui.QSpinBox
+PyQt4.QtGui.QLabel
+PyQt4.QtGui.QPushButton
+PyQt4.QtGui.from
+PyQt4.QtGui.calculos
+PyQt4.QtGui.import
+PyQt4.QtGui.importe

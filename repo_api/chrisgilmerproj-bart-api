@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+datetime
+urlparse
+requests
+xmltodict
+constants

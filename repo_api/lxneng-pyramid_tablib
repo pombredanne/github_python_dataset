@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+shutil
+sys
+tempfile
+urllib
+urllib2
+subprocess
+optparse
+optparse.OptionParser
+site
+zc.buildout.buildout
+pyramid_tablib.renderer
+pyramid_tablib.renderer.(
+tablib

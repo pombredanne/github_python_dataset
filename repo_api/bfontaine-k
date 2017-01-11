@@ -1,0 +1,11 @@
+setuptools
+distutils.core
+distutils.core.setup
+re
+platform
+k
+sys
+platform
+os.path
+os.path.dirname
+k

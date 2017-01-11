@@ -1,0 +1,14 @@
+config
+config.baseurl
+config.opener
+hudsonbranches
+os.path
+os.path.dirname
+mako.template
+mako.template.Template
+urllib2
+config.baseurl
+config.opener
+hudsonbranches
+pprint
+pprint.pprint

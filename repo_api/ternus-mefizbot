@@ -1,0 +1,8 @@
+requests
+textwrap
+textwrap.fill
+zephyr
+time
+time.sleep
+bs4
+bs4.BeautifulSoup

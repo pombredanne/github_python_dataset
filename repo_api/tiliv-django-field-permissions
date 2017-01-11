@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.forms
+django.db
+django.db.models
+rest_framework
+rest_framework.serializers

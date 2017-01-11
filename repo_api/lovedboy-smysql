@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+MySQLdb
+simple_mysql
+simple_mysql.DB
+simple_mysql.DBConfig

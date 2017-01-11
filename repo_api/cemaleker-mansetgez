@@ -1,0 +1,10 @@
+scrapy
+scrapy.exceptions
+scrapy.exceptions.DropItem
+logging
+scrapy
+scraper.items
+scraper.items.Manset
+urlparse
+urlparse.urljoin
+logging

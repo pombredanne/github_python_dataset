@@ -1,0 +1,9 @@
+negar_cli.version
+negar_cli.version.__version__
+sys
+docopt
+docopt.docopt
+negar
+negar.virastar
+version
+version.__version__

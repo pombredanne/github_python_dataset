@@ -1,0 +1,6 @@
+click
+stripe
+local_settings
+shelve
+passlib.hash
+passlib.hash.sha256_crypt

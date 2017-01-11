@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+base64
+argparse
+xerox

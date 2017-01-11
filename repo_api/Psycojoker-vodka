@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+os
+json
+vodka
+vodka.get_classes_from_config_file
+os
+_ast
+ast
+subprocess
+ConfigParser
+ConfigParser.ConfigParser
+path
+path.path
+bs4
+bs4.BeautifulSoup

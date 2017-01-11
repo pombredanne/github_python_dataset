@@ -1,0 +1,14 @@
+os
+sys
+shutil
+esky
+esky.bdist_esky
+distutils.core
+distutils.core.setup
+os
+sys
+socket
+threading
+PySide
+PySide.QtCore
+PySide.QtGui

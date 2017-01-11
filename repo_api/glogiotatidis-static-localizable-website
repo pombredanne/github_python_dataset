@@ -1,0 +1,7 @@
+os
+whitenoise
+whitenoise.WhiteNoise
+settings
+settings.BUILD_DIRECTORY
+settings.DEFAULT_LANGUAGE
+settings.LANGUAGE_NAMES

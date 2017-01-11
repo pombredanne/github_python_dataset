@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+unittest
+ganglia
+ganglia.GMetric
+ganglia.GMetric
+__future__
+__future__.unicode_literals
+socket
+xdrlib
+xdrlib.Packer

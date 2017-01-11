@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+random
+time
+re
+functools
+genname.words
+genname.words.adjectives
+genname.words.nouns

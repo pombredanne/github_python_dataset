@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+__future__.absolute_import
+collections
+ipaddress
+textwrap
+dateutil.parser
+__future__.print_function
+__future__.absolute_import
+json

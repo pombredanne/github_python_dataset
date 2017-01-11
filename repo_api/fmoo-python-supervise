@@ -1,0 +1,7 @@
+os
+time
+struct
+setuptools
+setuptools.setup
+os.path
+imp

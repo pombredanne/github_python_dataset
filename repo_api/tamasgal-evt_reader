@@ -1,0 +1,17 @@
+os
+unittest
+icecube
+icecube.icetray
+icecube.dataclasses
+evt_reader
+evt_reader.EventGenerator
+docopt
+docopt.docopt
+os.path
+os.path.expandvars
+I3Tray
+icecube.dataclasses
+icecube.dataio
+icecube.phys_services
+icecube.evt_reader
+icecube.evt_reader.EventGenerator

@@ -1,0 +1,14 @@
+sys
+os
+chatscript
+socket
+cmd
+sys
+argparse
+six
+server
+server.ChatScriptServer
+server
+interactivesession
+unittest
+chatscript

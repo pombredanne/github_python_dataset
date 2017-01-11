@@ -1,0 +1,13 @@
+nltk
+re
+os
+flask
+flask.Flask
+flask.render_template
+nltk.tag.simplify
+nltk.tag.simplify.simplify_brown_tag
+random
+random.randint
+random.choice
+pprint
+pprint.pprint

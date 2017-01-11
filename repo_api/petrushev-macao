@@ -1,0 +1,15 @@
+macao.strategies
+macao.strategies.Human
+macao.strategies.RandomAi
+macao
+macao.Game
+random
+random.choice
+random.random
+macao.can_play
+macao.SUITES
+random.shuffle
+itertools
+itertools.groupby
+collections
+collections.deque

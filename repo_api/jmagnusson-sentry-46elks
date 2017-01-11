@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+re
+requests
+sentry_46elks
+django
+django.forms
+django.utils.translation
+django.utils.translation.ugettext_lazy
+sentry.conf
+sentry.conf.settings
+sentry.plugins.bases.notify
+sentry.plugins.bases.notify.NotificationPlugin

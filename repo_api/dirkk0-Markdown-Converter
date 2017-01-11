@@ -1,0 +1,5 @@
+re
+os
+sys
+optparse
+optparse.OptionParser

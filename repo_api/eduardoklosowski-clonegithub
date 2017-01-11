@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+argparse
+json
+os
+subprocess
+subprocess.DEVNULL
+subprocess.Popen
+urllib.request
+urllib.request.urlopen

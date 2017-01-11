@@ -1,0 +1,6 @@
+boto3
+datetime
+json
+logging
+socket
+ssl

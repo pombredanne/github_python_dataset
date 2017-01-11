@@ -1,0 +1,11 @@
+codecs
+os
+unittest
+urllib
+lxml
+lxml.html
+mock
+mock.patch
+mock.Mock
+StringIO
+StringIO.StringIO

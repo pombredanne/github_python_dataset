@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+act_as_executable
+act_as_executable.act_as_executable
+string
+string.Template
+envoy

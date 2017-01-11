@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+optparse
+sys
+string
+subprocess
+subprocess.call
+mercurial
+mercurial.hg
+mercurial.ui
+mercurial.error
+mercurial.error.RepoError

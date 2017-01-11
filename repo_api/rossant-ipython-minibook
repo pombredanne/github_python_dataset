@@ -1,0 +1,13 @@
+IPython.core.magic
+os
+numpy
+matplotlib.pyplot
+mpi4py
+mpi4py.MPI
+numpy
+PyQt4
+PyQt4.QtGui
+sys
+os
+networkx
+networkx

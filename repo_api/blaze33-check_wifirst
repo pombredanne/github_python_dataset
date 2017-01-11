@@ -1,0 +1,8 @@
+requests
+pprint
+HTMLParser
+HTMLParser.HTMLParser
+subprocess
+subprocess.call
+datetime
+pytz

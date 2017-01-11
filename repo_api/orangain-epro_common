@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+traceback
+logging
+json
+datetime
+datetime.datetime
+pika
+re
+pymongo

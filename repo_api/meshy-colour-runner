@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+unittest.runner
+result
+result.ColourTextTestResult
+unittest.result
+unittest.util
+unittest.util.strclass
+blessings
+blessings.Terminal
+pygments
+pygments.formatters
+pygments.highlight
+runner
+runner.ColourTextTestRunner

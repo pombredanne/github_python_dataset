@@ -1,0 +1,10 @@
+os
+io
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+__future__
+__future__.unicode_literals
+os.path
+re

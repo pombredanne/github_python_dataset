@@ -1,0 +1,11 @@
+datetime
+datetime.datetime
+datetime.timedelta
+kivy.app
+kivy.app.App
+kivy.clock
+kivy.clock.Clock
+kivy.properties
+kivy.properties.ObjectProperty
+kivy.uix.widget
+kivy.uix.widget.Widget

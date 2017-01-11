@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+sys
+re
+subprocess
+subprocess.Popen
+subprocess.PIPE

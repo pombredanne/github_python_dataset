@@ -1,0 +1,15 @@
+shlex
+pytest
+aaargh
+os.path
+os.path.join
+os.path.dirname
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+argparse.ArgumentParser
+sys
+sys.version_info
+app
+app.App

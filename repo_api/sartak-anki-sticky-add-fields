@@ -1,0 +1,10 @@
+ankiqt.ui.addcards
+ankiqt.ui.addcards.AddCards
+ankiqt.ui.facteditor
+ankiqt.ui.facteditor.FactEditor
+anki.hooks
+anki.hooks.wrap
+anki.utils
+anki.utils.tidyHTML
+PyQt4.QtGui
+PyQt4.QtCore

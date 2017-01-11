@@ -1,0 +1,17 @@
+sys
+distutils.core
+distutils.core.setup
+setuptools
+setuptools.find_packages
+re
+unicodedata
+mechanize
+mechanize.urlopen
+mechanize.ParseResponse
+mechanize.TextControl
+unittest
+time
+spa_api
+spa_api.read
+spa_api.write
+spa_phone

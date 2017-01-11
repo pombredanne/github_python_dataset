@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+django.test
+django.test.TestCase
+django.contrib.auth.models
+django.contrib.auth.models.User
+django.contrib.auth.models.User
+pytest
+os
+sys

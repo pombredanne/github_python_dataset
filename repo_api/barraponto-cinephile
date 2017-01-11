@@ -1,0 +1,10 @@
+cinephile.cinephile
+os
+argparse
+argparse.ArgumentParser
+guessit
+guessit.guess_file_info
+sources.imdb
+sources.imdb.ImdbSource
+imdbpie.imdbpie
+imdbpie.imdbpie.Imdb

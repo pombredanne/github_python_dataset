@@ -1,0 +1,7 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+urllib.request
+urllib.request.urlopen
+import
+serial

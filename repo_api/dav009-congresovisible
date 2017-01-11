@@ -1,0 +1,17 @@
+codecs
+datetime
+json
+os
+congresovisible
+congresovisible.VoteScraper
+congresovisible.Votaciones
+congresovisible.Votacion
+codecs
+json
+requests
+json
+codecs
+lxml
+lxml.html
+lxml.cssselect
+lxml.cssselect.CSSSelector

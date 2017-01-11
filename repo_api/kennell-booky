@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+click
+requests
+json
+webbrowser
+tabulate
+tabulate.tabulate
+config
+config.BookyConfig
+utils
+utils.bookmark_not_found
+utils.build_headers
+json
+os.path
+click

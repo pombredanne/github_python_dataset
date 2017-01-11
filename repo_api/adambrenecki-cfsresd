@@ -1,0 +1,11 @@
+requests
+lxml.html
+sys
+time
+clint.textui
+clint.textui.puts
+clint.textui.colored
+scraper
+scraper.Scraper
+sys
+requests

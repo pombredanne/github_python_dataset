@@ -1,0 +1,4 @@
+genzshcomp
+genzshcomp.ZshCompletionGenerator
+optparse
+optparse.OptionParser

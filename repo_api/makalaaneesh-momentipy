@@ -1,0 +1,13 @@
+PIL
+PIL.Image
+PIL.ExifTags
+dateutil
+dateutil.parser
+config
+_os
+os
+dateutil.parser
+_exif
+PIL.Image
+PIL.ExifTags
+os

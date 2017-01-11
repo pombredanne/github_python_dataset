@@ -1,0 +1,13 @@
+setuptools
+setuptools.(
+weechat_relay_parser
+weechat_relay_parser.(
+typing
+typing.(
+bitstring
+logging
+typing.(
+zlib
+bitstring
+weechat_relay_parser.types
+weechat_relay_parser.types.(

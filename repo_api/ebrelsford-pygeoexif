@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+PIL.ExifTags
+PIL.ExifTags.TAGS
+PIL.ExifTags.GPSTAGS
+get
+get.get_exif_data
+get.get_lat_lon

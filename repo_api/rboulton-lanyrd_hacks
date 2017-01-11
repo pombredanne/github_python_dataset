@@ -1,0 +1,9 @@
+lxml
+lxml.etree
+lxml.cssselect
+hashlib
+os
+re
+sys
+urllib
+urllib2

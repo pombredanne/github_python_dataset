@@ -1,0 +1,15 @@
+os.path
+os.path.dirname
+os.path.abspath
+os.path.join
+os.path.exists
+setuptools
+setuptools.setup
+pandas
+numpy
+pytest
+sandals
+sqlparse
+numpy
+sandals
+sandals.sql

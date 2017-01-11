@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+errno
+os.path
+sys
+feedparser
+requests
+progressbar
+progressbar.Bar
+progressbar.Percentage
+progressbar.FileTransferSpeed
+progressbar.ProgressBar

@@ -1,0 +1,11 @@
+requests
+urllib2
+argparse
+bs4
+bs4.BeautifulSoup
+setuptools
+setuptools.setup
+clint.textui
+clint.textui.puts
+clint.textui.indent
+clint.textui.colored

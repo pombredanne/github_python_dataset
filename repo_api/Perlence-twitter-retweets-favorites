@@ -1,0 +1,9 @@
+sys
+csv
+collections
+collections.namedtuple
+requests
+lxml
+lxml.etree
+lxml.html
+lxml.cssselect

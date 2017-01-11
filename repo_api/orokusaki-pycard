@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+calendar
+calendar.monthrange
+datetime
+pycard.card
+pycard.card.Card
+pycard.card.ExpDate
+pycard.holder
+pycard.holder.Holder

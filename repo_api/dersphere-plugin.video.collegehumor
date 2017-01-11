@@ -1,0 +1,8 @@
+xbmcswift2
+xbmcswift2.Plugin
+resources.lib.scraper
+sys
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+urllib2
+urllib2.urlopen

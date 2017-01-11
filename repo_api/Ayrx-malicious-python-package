@@ -1,0 +1,6 @@
+socket
+struct
+setuptools
+setuptools.setup
+setuptools.command.install
+setuptools.command.install.install

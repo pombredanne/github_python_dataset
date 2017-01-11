@@ -1,0 +1,4 @@
+setuptools
+setuptools.setup
+trac.wiki.macros
+trac.wiki.macros.WikiMacroBase

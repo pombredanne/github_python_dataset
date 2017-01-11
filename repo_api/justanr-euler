@@ -1,0 +1,10 @@
+functools
+functools.reduce
+collections
+collections.deque
+functools.reduce
+itertools
+itertools.islice
+operator
+operator.mul
+itertools.takewhile

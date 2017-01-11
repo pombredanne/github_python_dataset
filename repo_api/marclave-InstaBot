@@ -1,0 +1,10 @@
+mechanize
+yaml
+re
+time
+sys
+pycurl
+hmac
+urllib
+hashlib
+hashlib.sha256

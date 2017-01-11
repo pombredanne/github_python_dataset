@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+os
+sys
+requests
+bs4
+bs4.BeautifulSoup

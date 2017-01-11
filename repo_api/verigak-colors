@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+colors
+__future__
+__future__.print_function
+colors
+colors.color
+colors.COLORS
+colors.STYLES
+re
+functools
+functools.partial

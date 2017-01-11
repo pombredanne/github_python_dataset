@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+distutils.spawn
+distutils.spawn.find_executable
+logging
+os
+sys
+builtins
+builtins.input
+builtins.#
+builtins.pylint:
+builtins.disable=redefined-builtin
+click
+requests
+simp_le

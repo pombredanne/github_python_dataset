@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+beanstalkc
+beanstalkc.__version__
+errno
+select
+socket
+yaml

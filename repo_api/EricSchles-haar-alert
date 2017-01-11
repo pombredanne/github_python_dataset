@@ -1,0 +1,11 @@
+cv
+argparse
+os
+glob
+smtplib
+time
+time.sleep
+email.mime.image
+email.mime.image.MIMEImage
+email.mime.multipart
+email.mime.multipart.MIMEMultipart

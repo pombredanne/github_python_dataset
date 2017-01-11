@@ -1,0 +1,11 @@
+os
+re
+setuptools
+setuptools.setup
+pprint
+urlparse
+json
+os
+tempfile
+subprocess
+requests

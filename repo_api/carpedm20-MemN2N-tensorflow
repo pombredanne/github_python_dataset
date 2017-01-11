@@ -1,0 +1,17 @@
+os
+pprint
+tensorflow
+data
+data.read_data
+model
+model.MemN2N
+os
+math
+random
+numpy
+tensorflow
+os
+collections
+collections.Counter
+progress.bar
+progress.bar.Bar

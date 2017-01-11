@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+codecs
+codecs.open
+os
+os.path
+disposable_email_domains
+disposable_email_domains.blacklist
+disposable_email_domains.whitelist

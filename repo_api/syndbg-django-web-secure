@@ -1,0 +1,10 @@
+os
+setuptools
+setuptools.setup
+django.test
+django.test.TestCase
+re
+django.conf
+django.conf.settings
+django.http
+django.http.HttpResponsePermanentRedirect

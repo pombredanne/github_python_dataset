@@ -1,0 +1,15 @@
+sys
+itertools
+string
+re
+codecs
+sys
+os
+os.path
+codecs
+re
+xml.etree.ElementTree
+HTMLParser
+HTMLParser.HTMLParser
+htmlentitydefs
+htmlentitydefs.name2codepoint

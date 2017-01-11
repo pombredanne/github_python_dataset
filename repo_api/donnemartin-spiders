@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+scrapy.item
+scrapy.item.Item
+scrapy.item.Field
+scrapy
+scrapy.signals
+os
+scrapy.spiders
+scrapy.spiders.Spider
+scrapy.selector
+scrapy.selector.Selector
+spiders.items
+spiders.items.Website

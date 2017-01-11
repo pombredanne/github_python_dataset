@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+cPickle
+sys
+pymongo.database
+pymongo.database.Database

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+wx
+image_merger
+image_merger.convert
+os
+re
+glob
+sys
+math
+Image

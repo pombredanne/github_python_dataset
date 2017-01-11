@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+requests
+dsb.exceptions
+dsb.exceptions.InvalidLogin
+dsb.dsb
+dsb.dsb.DSB
+collections
+collections.namedtuple
+bs4
+bs4.BeautifulSoup
+dsb.exceptions.InvalidPlan
+requests
+dsb.network
+dsb.network.available_plans
+dsb.parser
+dsb.parser.parse_plan

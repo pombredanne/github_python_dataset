@@ -1,0 +1,10 @@
+urlparse
+urlparse.parse_qsl
+struct
+struct.pack
+struct.unpack
+socket
+importlib
+settings
+collections
+collections.defaultdict

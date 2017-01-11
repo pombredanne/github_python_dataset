@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.unicode_literals
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.directives
+docutils.parsers.rst.Directive
+pelican_vimeo.vimeo
+pelican_vimeo.vimeo.register

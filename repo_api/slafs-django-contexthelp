@@ -1,0 +1,17 @@
+os
+django.conf.urls.defaults
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager
+sys
+os
+django.db
+django.db.models
+django.views.generic.simple
+django.views.generic.simple.direct_to_template
+foo.models
+foo.models.Bar
+django.conf.urls.defaults
+django.contrib.admin
+foo.models.Bar

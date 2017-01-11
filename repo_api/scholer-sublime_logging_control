@@ -1,0 +1,15 @@
+__future__
+__future__.print_function
+sublime
+#
+pylint:
+disable=F0401
+sublime_plugin
+#
+pylint:
+disable=F0401
+os
+functools
+functools.partial
+logging
+logging.handlers

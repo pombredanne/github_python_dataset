@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+brutius_slurmimus
+os
+jobs
+jobs

@@ -1,0 +1,9 @@
+sys
+os
+docutils.parsers.rst
+docutils.parsers.rst.Directive
+docutils.parsers.rst.directives
+docutils
+docutils.nodes
+string
+string.upper

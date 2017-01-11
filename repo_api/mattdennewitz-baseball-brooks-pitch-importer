@@ -1,0 +1,14 @@
+datetime
+scrapy
+datetime
+six
+scrapy
+scrapy.exceptions
+scrapy.exceptions.CloseSpider
+items
+items.Pitch
+const
+const.*
+const.#
+const.fight
+const.me

@@ -1,0 +1,16 @@
+travian
+time
+os
+sys
+getopt
+sets
+sets.Set
+socket
+mechanize
+httplib
+urllib2
+random
+twill.commands
+re
+urlparse
+time

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+werkzeug.urls
+werkzeug.urls.url_quote_plus
+gevent.pool
+gevent.pool.Pool
+bs4
+re
+requests
+math

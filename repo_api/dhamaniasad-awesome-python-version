@@ -1,0 +1,8 @@
+urllib2
+textract
+random
+string
+sys
+bs4
+bs4.BeautifulSoup
+unicodedata

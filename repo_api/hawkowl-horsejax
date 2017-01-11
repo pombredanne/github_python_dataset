@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+haddock.api
+haddock.api.API
+haddock.api.DefaultServiceClass
+twisted.application
+twisted.application.strports
+twisted.python
+twisted.python.usage
+twisted.web
+twisted.web.server
+pkg_resources
+pkg_resources.resource_string
+horsephrase
+json
+twisted.application.service
+twisted.application.service.ServiceMaker

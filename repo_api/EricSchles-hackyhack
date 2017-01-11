@@ -1,0 +1,17 @@
+requests
+lxml.html
+pickle
+grequests
+os
+pandas
+time
+hashlib
+sys
+PhoneGrab
+PhoneGrab.grabber
+subprocess
+subprocess.call
+sys
+flask
+flask.Flask
+flask.render_template

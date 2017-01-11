@@ -1,0 +1,16 @@
+argparse
+mailcrop.imap
+mailcrop.imap.connect
+mailcrop.rules
+mailcrop.rules.MailingList
+setuptools
+setuptools.setup
+import
+abc
+abc.ABCMeta
+abc.abstractmethod
+reprtools
+reprtools.FormatRepr
+imaplib
+collections
+collections.namedtuple

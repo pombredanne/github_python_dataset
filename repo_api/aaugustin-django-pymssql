@@ -1,0 +1,15 @@
+__future__
+__future__.unicode_literals
+codecs
+os.path
+setuptools
+sqlserver_ado.compiler
+sqlserver_ado.compiler.*
+sqlserver_ado.compiler.#
+sqlserver_ado.compiler.noqa
+datetime
+django.utils
+django.utils.timezone
+pymssql
+sqlserver_ado.base
+sqlserver_ado.base.(

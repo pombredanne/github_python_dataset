@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+re
+unittest
+clj
+clj.fns
+unittest
+clj.seqs
+sys
+unittest
+os.path
+os.path.dirname
+clj
+random
+collections

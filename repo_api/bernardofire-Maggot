@@ -1,0 +1,11 @@
+sys
+os
+doctest
+unittest
+splinter.browser
+splinter.browser.Browser
+maggot
+maggot.start
+maggot.stop
+socket
+socket.socket

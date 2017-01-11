@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+adict
+adict.adict
+boto.dynamodb.layer2
+boto.dynamodb.layer2.Layer2
+boto.dynamodb.table
+boto.dynamodb.table.Table

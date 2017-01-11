@@ -1,0 +1,6 @@
+sys
+multiprocessing
+multiprocessing.Pool
+requests
+bs4
+bs4.BeautifulSoup

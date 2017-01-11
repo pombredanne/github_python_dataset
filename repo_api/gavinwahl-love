@@ -1,0 +1,10 @@
+urlparse
+urlparse.urlparse
+urlparse.ParseResult
+httplib
+httplib.HTTPConnection
+httplib.HTTPSConnection
+urllib
+re
+lxml
+lxml.etree

@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+os.path
+subprocess
+click
+MySQLdb

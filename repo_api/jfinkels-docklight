@@ -1,0 +1,8 @@
+math
+math.sqrt
+os.path
+re
+sys
+sys.argv
+sys.exit
+sys.stderr

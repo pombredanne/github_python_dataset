@@ -1,0 +1,9 @@
+selenium
+selenium.webdriver
+selenium.webdriver.support.ui
+selenium.webdriver.support.ui.WebDriverWait
+textract
+random
+string
+os
+re

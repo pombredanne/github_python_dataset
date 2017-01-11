@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+functools
+functools.wraps
+unittest
+robot_detection
+__future__
+__future__.print_function
+sys
+os.path
+codecs
+re
+six

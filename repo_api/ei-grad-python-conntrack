@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+sys
+logging
+ctypes
+ctypes.util
+ctypes.util.find_library
+threading
+threading.Thread
+socket
+socket.AF_INET
+socket.AF_INET6
+socket.IPPROTO_TCP
+socket.IPPROTO_UDP

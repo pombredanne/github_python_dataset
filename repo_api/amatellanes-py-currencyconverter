@@ -1,0 +1,13 @@
+unittest
+mock
+mock.call
+mock.patch
+currency_converter
+currency_converter.convert
+currency_converter.get_rate
+currency_converter.parse_response
+bs4
+requests
+sys
+os
+pkg_resources

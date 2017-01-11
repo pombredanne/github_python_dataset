@@ -1,0 +1,6 @@
+scrapy
+scrapy
+feedscraper.items
+feedscraper.items.Feed
+scrapy
+feedscraper.items.ReutersFeed

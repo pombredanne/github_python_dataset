@@ -1,0 +1,6 @@
+os
+tempfile
+sys
+errno
+time
+random

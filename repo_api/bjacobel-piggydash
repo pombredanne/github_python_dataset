@@ -1,0 +1,12 @@
+instapush
+yaml
+yaml.load
+os
+os.path
+addict
+addict.Dict
+simple
+notifications
+bs4
+bs4.BeautifulSoup
+requests

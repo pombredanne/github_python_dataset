@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+io
+os
+__future__
+__future__.absolute_import
+enum
+enum.Enum

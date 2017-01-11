@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+yaml
+metachao
+metachao.aspect
+metachao.aspect
+metachao.aspect.Aspect
+dicttree.yaml.log
+dicttree.yaml.log.logger
+dicttree.log
+dicttree.log.getLogger

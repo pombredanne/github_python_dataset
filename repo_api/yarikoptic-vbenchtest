@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+numpy
+numpy.arange
+numpy.float
+numpy.sin

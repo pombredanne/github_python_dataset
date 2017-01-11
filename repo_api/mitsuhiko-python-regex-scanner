@@ -1,0 +1,12 @@
+sre_parse
+sre_parse.Pattern
+sre_parse.SubPattern
+sre_parse.parse
+sre_compile
+sre_compile.compile
+sre_constants
+sre_constants.BRANCH
+sre_constants.SUBPATTERN
+re_scan
+re_scan.Scanner
+re_scan.Scanner

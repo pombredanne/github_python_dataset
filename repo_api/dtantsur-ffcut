@@ -1,0 +1,15 @@
+setuptools
+__future__
+__future__.print_function
+argparse
+logging
+os
+sys
+ffcut
+unittest
+ffcut
+collections
+logging
+os
+shutil
+subprocess

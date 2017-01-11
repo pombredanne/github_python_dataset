@@ -1,0 +1,10 @@
+rb
+gi
+gi.repository
+gi.repository.Gio
+gi.repository.GLib
+gi.repository.GObject
+gi.repository.Peas
+gi.repository.RB
+pycurl
+gettext

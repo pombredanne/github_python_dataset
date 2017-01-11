@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+docutils.parsers.rst
+docutils.parsers.rst.Directive
+pkg_resources
+docutils
+docutils.nodes
+ramlfications
+os
+sphinx_testing
+sphinx_testing.with_app
+sys
+os

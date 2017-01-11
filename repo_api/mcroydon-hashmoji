@@ -1,0 +1,14 @@
+hashmoji
+hashmoji.get_version
+binascii
+sys
+io
+io.BytesIO
+optparse
+optparse.OptionParser
+optparse.OptionGroup
+hashmoji.hashmoji
+hashmoji.IncompatibleDigest
+hashmoji.InvalidByteLength
+hashlib
+unittest

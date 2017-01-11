@@ -1,0 +1,6 @@
+argparse
+argparse.ArgumentParser
+requests
+requests.Session
+requests_foauth
+requests_foauth.Foauth

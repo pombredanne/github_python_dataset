@@ -1,0 +1,17 @@
+django.db
+django.db.models
+django.db.models
+django.utils.translation
+django.utils.translation.ugettext_lazy
+django.utils
+django.utils.timezone
+apps.my_model.managers
+apps.my_model.managers.MyModelManager
+django.test
+django.test.TestCase
+django.shortcuts
+django.shortcuts.render
+django.contrib
+django.contrib.admin
+apps.my_model.models
+apps.my_model.models.MyModel

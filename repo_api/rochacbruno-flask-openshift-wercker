@@ -1,0 +1,13 @@
+pytest
+flask
+flask.jsonify
+api
+api.calc
+api.api
+api.api
+shiftpy.wsgi_utils
+shiftpy.wsgi_utils.envify
+flask.Flask
+flask.jsonify
+flasgger
+flasgger.Swagger

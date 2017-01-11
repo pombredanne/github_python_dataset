@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+sys
+os
+json
+copy
+shutil
+subprocess
+tempfile
+zipfile

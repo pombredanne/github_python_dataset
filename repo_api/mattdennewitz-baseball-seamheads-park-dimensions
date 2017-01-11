@@ -1,0 +1,7 @@
+scrapy
+copy
+urllib.parse
+urllib.parse.urljoin
+scrapy
+items
+items.Ballpark

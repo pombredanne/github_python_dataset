@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+pysolr
+sys
+abc
+abc.ABCMeta
+datetime
+datetime.datetime
+dateutil.parser
+dateutil.parser.parse
+dateutil.tz
+dateutil.tz.tzutc

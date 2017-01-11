@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+django.template
+django.template.TemplateDoesNotExist
+django.template.TemplateSyntaxError
+django.template.backends.base
+django.template.backends.base.BaseEngine
+django.template.backends.utils
+django.template.backends.utils.csrf_input_lazy
+django.template.backends.utils.csrf_token_lazy
+pystache
+pystache.common
+pystache.common.TemplateNotFoundError

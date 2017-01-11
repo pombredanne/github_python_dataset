@@ -1,0 +1,7 @@
+requests
+bs4
+bs4.BeautifulSoup
+re
+scraper
+scraper.parse_season_log
+scraper.COL_NAMES

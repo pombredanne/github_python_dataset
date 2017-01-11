@@ -1,0 +1,17 @@
+__future__
+__future__.with_statement
+setuptools
+setuptools.setup
+__future__.with_statement
+operator
+operator.itemgetter
+collections
+json
+optparse
+sys
+collections
+collections.OrderedDict
+unittest
+sys
+jones_complexity
+jones_complexity.get_code_complexity

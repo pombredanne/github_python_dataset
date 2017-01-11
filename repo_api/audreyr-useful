@@ -1,0 +1,15 @@
+argparse
+time
+time.sleep
+pyttsx
+site
+distutils.sysconfig
+distutils.sysconfig.get_python_lib
+pyttsx
+parawrap
+jinja2
+jinja2.FileSystemLoader
+jinja2.environment
+jinja2.environment.Environment
+sys
+os

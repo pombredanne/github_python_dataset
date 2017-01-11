@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+decimal
+decimal.Decimal
+django.utils.translation
+django.utils.translation.ugettext
+shipping.modules.base
+shipping.modules.base.BaseShipper
+logging
+math
+shipper
+livesettings
+livesettings.config_choice_values
+django.utils.translation.ugettext_lazy
+livesettings

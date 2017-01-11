@@ -1,0 +1,8 @@
+argparse
+execnet
+socketpool.pool
+socketpool_execnetbackend
+couchdbkit
+select
+socket
+threading

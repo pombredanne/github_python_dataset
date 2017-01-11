@@ -1,0 +1,12 @@
+os.path
+pkgutil
+shutil
+sys
+struct
+tempfile
+here:
+sys
+subprocess
+subprocess
+socket
+os

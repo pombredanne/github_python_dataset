@@ -1,0 +1,13 @@
+os
+sys
+django.conf
+django.conf.settings
+django.conf.urls
+django.conf.urls.include
+django.conf.urls.patterns
+django.core.management
+django.core.management.execute_from_command_line
+django.contrib
+django.contrib.admin
+django.shortcuts
+django.shortcuts.render

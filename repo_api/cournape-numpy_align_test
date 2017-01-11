@@ -1,0 +1,7 @@
+numpy.distutils.core
+numpy.distutils.core.setup
+numpy.distutils.misc_util
+numpy.distutils.misc_util.Configuration
+sys
+numpy
+_dummy

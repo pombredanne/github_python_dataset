@@ -1,0 +1,17 @@
+__future__
+__future__.unicode_literals
+__future__.print_function
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__.unicode_literals
+__future__.print_function
+contextlib
+contextlib.contextmanager
+xml.etree
+xml.etree.ElementTree
+xml.sax.saxutils
+xml.sax.saxutils.quoteattr
+six
+xmerge

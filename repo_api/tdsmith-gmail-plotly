@@ -1,0 +1,17 @@
+argparse
+datetime
+os
+httplib2
+retrying
+retrying.retry
+decorator
+decorator.decorator
+apiclient.discovery
+apiclient.discovery.build
+oauth2client
+oauth2client.client
+oauth2client.file
+oauth2client.tools
+plotly
+plotly.plotly
+plotly.graph_objs

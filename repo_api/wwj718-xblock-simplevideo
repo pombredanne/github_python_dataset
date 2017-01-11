@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+pkg_resources
+requests
+urlparse
+urlparse.urlparse
+xblock.core
+xblock.core.XBlock
+xblock.fields
+xblock.fields.Scope
+xblock.fields.Integer
+xblock.fields.String
+xblock.fragment
+xblock.fragment.Fragment

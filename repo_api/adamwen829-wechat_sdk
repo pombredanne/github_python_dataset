@@ -1,0 +1,10 @@
+django.http
+django.http.HttpResponse
+wechat
+hashlib
+hashlib.sha1
+settings
+settings.TOKEN
+xml.etree.ElementTree
+wechat_xml
+time

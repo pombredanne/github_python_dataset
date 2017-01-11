@@ -1,0 +1,10 @@
+re
+json
+urllib.parse
+urllib.parse.urlparse
+urllib.parse.parse_qs
+docopt
+docopt.docopt
+requests
+pyquery
+pyquery.PyQuery

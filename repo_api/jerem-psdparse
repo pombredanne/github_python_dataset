@@ -1,0 +1,16 @@
+distutils.core
+distutils.core.setup
+__future__
+__future__.absolute_import
+sys
+logging
+psdparse
+psdparse.psdparser
+logging
+sys
+struct
+struct.unpack
+struct.calcsize
+PIL
+PIL.Image
+psdparser

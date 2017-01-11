@@ -1,0 +1,8 @@
+sys
+json
+jubatus.classifier.client
+jubatus.classifier.client.Classifier
+jubatus.classifier.types
+jubatus.classifier.types.LabeledDatum
+jubatus.common
+jubatus.common.Datum

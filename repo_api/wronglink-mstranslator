@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+requests
+datetime
+json
+__future__.unicode_literals
+os
+mstranslator
+mstranslator.AccessToken
+mstranslator.AccessError
+mstranslator.Translator
+mstranslator.ArgumentOutOfRangeException
+requests

@@ -1,0 +1,15 @@
+PyQt4
+PyQt4.QtCore
+PyQt4.QtGui
+PyQt4.QtCore
+PyQt4.QtGui
+ui_studio3d
+core
+math
+math.cos
+math.sin
+math.radians
+math.pi
+matrix
+matrix.matrix
+transform

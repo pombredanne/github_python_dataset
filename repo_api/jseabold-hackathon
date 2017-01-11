@@ -1,0 +1,10 @@
+pandas
+statmodels.api
+urllib2
+urllib2.urlopen
+os
+zipfile
+numpy
+pandas
+matplotlib.pyplot
+statsmodels.api

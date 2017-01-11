@@ -1,0 +1,13 @@
+re
+sys
+logging
+time
+codecs
+urllib
+urllib2
+simplejson
+cookielib
+cookielib.CookieJar
+mwclient
+mwtemplates
+mwtemplates.TemplateEditor

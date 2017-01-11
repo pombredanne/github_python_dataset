@@ -1,0 +1,6 @@
+argparse
+re
+imgurpython
+imgurpython.ImgurClient
+imgurpython.helpers.error
+imgurpython.helpers.error.ImgurClientError

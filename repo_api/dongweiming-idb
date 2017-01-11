@@ -1,0 +1,14 @@
+__future__
+__future__.print_function
+os.path
+functools
+functools.wraps
+operator
+operator.attrgetter
+db
+db.DB
+IPython.core.magic
+IPython.core.magic.Magics
+IPython.core.magic.magics_class
+IPython.core.magic.line_magic
+os

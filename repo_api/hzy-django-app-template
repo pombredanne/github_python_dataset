@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+django.conf
+django.conf.settings
+django.core.management
+django.core.management.execute_from_command_line
+django.db
+django.db.models
+django.db.models
+django.test
+django.test.TestCase

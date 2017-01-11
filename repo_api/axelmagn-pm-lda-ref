@@ -1,0 +1,8 @@
+docopt
+docopt.docopt
+numpy
+pickle
+pymc3
+scipy
+scipy
+scipy.sparse

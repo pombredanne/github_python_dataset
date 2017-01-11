@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+requests
+json
+urllib
+textwrap
+pyquery
+pyquery.PyQuery

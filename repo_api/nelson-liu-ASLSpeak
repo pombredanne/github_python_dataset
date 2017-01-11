@@ -1,0 +1,17 @@
+sys
+sys.version_info
+subprocess
+urllib2
+Leap
+json
+GenerateTrainingSet
+GenerateTrainingSet.GenerateTrainingSet
+Leap
+sys
+thread
+time
+Leap
+Leap.CircleGesture
+Leap.KeyTapGesture
+Leap.ScreenTapGesture
+Leap.SwipeGesture

@@ -1,0 +1,14 @@
+sys
+io
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+sys
+os
+{{
+cookiecutter.repo_name
+}}
+{{
+cookiecutter.repo_name
+}}.template

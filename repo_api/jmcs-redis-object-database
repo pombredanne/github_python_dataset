@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+logging
+redis
+collections
+logging
+pickle
+uuid
+rod.connection
+rod.errors

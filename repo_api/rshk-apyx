@@ -1,0 +1,15 @@
+os
+apyx.templates
+apyx.templates.twoparts_even
+apyx.templates.twoparts_even_altcolor
+apyx.templates.\
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.print_function
+copy
+PIL
+PIL.Image
+PIL.ImageFont
+PIL.ImageDraw

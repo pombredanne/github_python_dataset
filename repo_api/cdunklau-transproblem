@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+pyramid.config
+pyramid.config.Configurator
+pyramid.response
+pyramid.response.Response
+pyramid.i18n
+pyramid.i18n.TranslationStringFactory
+pyramid.i18n.get_localizer
+pyramid.threadlocal
+pyramid.threadlocal.get_current_request
+pkg_resources
+pkg_resources.resource_filename
+deform.widget
+colander

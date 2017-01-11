@@ -1,0 +1,15 @@
+pathlib
+pathlib.Path
+importlib.machinery
+importlib.machinery.SourceFileLoader
+setuptools
+setuptools.setup
+re
+pathlib.Path
+click
+main
+main.execute
+version
+version.VERSION
+distutils.version
+distutils.version.StrictVersion

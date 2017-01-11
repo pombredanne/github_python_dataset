@@ -1,0 +1,12 @@
+re
+os
+magic
+glob
+argparse
+mutagen.easyid3
+mutagen.easyid3.EasyID3
+mutagen.easymp4
+mutagen.easymp4.EasyMP4
+mutagen
+shutil
+pprint

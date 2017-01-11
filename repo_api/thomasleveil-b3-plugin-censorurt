@@ -1,0 +1,10 @@
+b3
+re
+traceback
+sys
+threading
+b3.plugin
+b3.plugins.censor
+b3.plugins.censor.CensorPlugin
+b3
+b3.functions

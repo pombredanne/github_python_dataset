@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+flask.ext.script
+flask.ext.script.Manager
+noodlephotos
+noodlephotos.app
+os
+flask
+flask.helpers
+flask.helpers.send_from_directory

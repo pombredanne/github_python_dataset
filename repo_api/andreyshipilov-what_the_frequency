@@ -1,0 +1,16 @@
+__future__
+__future__.print_function
+datetime
+datetime.datetime
+os.path
+os.path.abspath
+os.path.join
+os.path.dirname
+sys
+pyaudio
+colorama
+colorama.Fore
+colorama.init
+secrets
+secrets.SOUND_CLOUD
+secrets.TWITTER

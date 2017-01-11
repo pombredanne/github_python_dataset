@@ -1,0 +1,10 @@
+xlrd
+xlrd.open_workbook
+xlrd.sheet
+xlrd.sheet.Sheet
+sys
+os
+sys
+cx_Freeze
+cx_Freeze.setup
+cx_Freeze.Executable

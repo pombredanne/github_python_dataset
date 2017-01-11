@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+os
+shutil
+sys
+tempfile
+urllib2
+pkg_resources
+zc.buildout.buildout
+chaoflow.testing.crawler
+chaoflow.testing.crawler.create_test_suite
+sys
+IPython.Shell
+IPython.Shell.IPShellEmbed

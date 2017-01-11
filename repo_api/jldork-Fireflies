@@ -1,0 +1,11 @@
+pyaudio
+#
+from
+http://people.csail.mit.edu/hubert/pyaudio/
+serial
+#
+from
+http://pyserial.sourceforge.net/
+audioop
+sys
+math

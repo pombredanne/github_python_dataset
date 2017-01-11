@@ -1,0 +1,10 @@
+io
+sys
+setuptools
+setuptools_scm
+jaraco
+jaraco.apt
+__future__
+__future__.unicode_literals
+re
+six

@@ -1,0 +1,15 @@
+os
+os.path
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.shortcuts
+django.shortcuts.render
+mezzanine.conf
+mezzanine.conf.settings
+django.conf.urls
+django.conf.urls.url
+import
+django.utils.translation
+django.utils.translation.ugettext_lazy
+mezzanine.conf.register_setting

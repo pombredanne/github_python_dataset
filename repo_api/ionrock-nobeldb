@@ -1,0 +1,9 @@
+csv
+pkg_resources
+textwrap
+click
+tabulate
+tabulate.tabulate
+sys
+os
+nobeldb

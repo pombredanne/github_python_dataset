@@ -1,0 +1,16 @@
+re
+sys
+tempfile
+mimetypes
+subprocess
+clint.textui
+clint.textui.progress
+clint.textui.colored
+clint.textui.core
+clint.textui.core.puts
+clint.textui.core.puts_err
+requests
+requests.compat
+requests.compat.urlparse
+rfc6266
+rfc6266.parse_requests_response

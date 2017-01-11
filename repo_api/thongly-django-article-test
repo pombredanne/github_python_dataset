@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+django.db
+django.db.models
+django.test
+django.test.TestCase
+django.shortcuts
+django.shortcuts.render
+django.contrib
+django.contrib.admin
+models
+models.Article
+__future__
+__future__.unicode_literals
+django.db.models
+django.db.migrations

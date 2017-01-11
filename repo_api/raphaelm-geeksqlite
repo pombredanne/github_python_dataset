@@ -1,0 +1,14 @@
+os
+os.path
+sys
+sys
+dist
+filedialog
+os
+ConfigParser
+locale
+re
+math
+optparse
+optparse.OptionParser
+gtk

@@ -1,0 +1,17 @@
+os
+subprocess
+sys
+re
+distutils.errors
+distutils.errors.(DistutilsExecError
+distutils.errors.DistutilsPlatformError
+distutils.errors.from
+distutils.errors.distutils.ccompiler
+distutils.errors.import
+distutils.errors.CCompiler
+distutils.errors.gen_lib_options
+distutils
+distutils.log
+distutils.util
+distutils.util.get_platform
+_winreg

@@ -1,0 +1,17 @@
+__future__
+__future__.unicode_literals
+__future__.print_function
+getopt
+inspect
+re
+string
+sys
+setuptools
+setuptools.setup
+jtextfsm
+__future__.print_function
+__future__.unicode_literals
+six
+six.StringIO
+unittest
+jtextfsm

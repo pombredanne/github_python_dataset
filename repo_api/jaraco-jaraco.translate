@@ -1,0 +1,15 @@
+io
+sys
+setuptools
+sys
+setuptools_scm
+sys
+os
+import
+os
+pytest
+__future__
+__future__.absolute_import
+logging
+pmxbot.core
+requests

@@ -1,0 +1,17 @@
+json
+flask
+flask.Flask
+flask.render_template
+flask.request
+package.database.data_adjust_fave
+package.database.data_adjust_fave.Adjust_Fave
+package.database.data_retriever
+package.database.data_retriever.Get_Fave
+datetime
+datetime.datetime
+package.database.db_query
+package.database.db_query.SQL
+package.database.db_query.SQL
+MySQLdb
+package.database.db_settings
+package.database.db_settings.Database

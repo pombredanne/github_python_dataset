@@ -1,0 +1,15 @@
+twisted.words.protocols.jabber.jid
+twisted.words.protocols.jabber.jid.JID
+twisted.words.xish
+twisted.words.xish.domish
+wokkel.xmppim
+wokkel.xmppim.MessageProtocol
+wokkel.xmppim.AvailablePresence
+wokkel
+wokkel.client
+wokkel.xmppim
+twisted.internet.protocol
+twisted.internet.protocol.Protocol
+twisted.internet.protocol.ReconnectingClientFactory
+json
+xml.etree.ElementTree

@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+os.path
+os.path.abspath
+os.path.dirname
+os.path.join
+nicedecorator
+nicedecorator.NiceDecorator
+unittest
+functools
+sys

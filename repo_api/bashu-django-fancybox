@@ -1,0 +1,14 @@
+os
+re
+sys
+codecs
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+django.conf.urls
+django.conf.urls.url
+django.views.generic
+django.views.generic.TemplateView
+os
+sys

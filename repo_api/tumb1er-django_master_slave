@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+functools
+django.db
+django.db.connections
+django.conf
+django.conf.settings

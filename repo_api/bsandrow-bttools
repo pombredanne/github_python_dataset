@@ -1,0 +1,10 @@
+glob
+glob.glob
+core
+core.BitTorrentFile
+magnet
+magnet.MagnetURI
+bencode
+collections
+collections.namedtuple
+collections.defaultdict

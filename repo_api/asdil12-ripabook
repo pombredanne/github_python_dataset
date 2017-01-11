@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+distutils.core.setup
+os
+popen2
+string
+re
+sys
+fcntl
+fcntl.ioctl
+CDROM

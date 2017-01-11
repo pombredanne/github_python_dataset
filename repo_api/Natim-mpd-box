@@ -1,0 +1,10 @@
+hashlib
+os
+sys
+uuid
+uuid.UUID
+mpd
+mpd.MPDClient
+zbar
+kintoclient
+kintoclient.Collection

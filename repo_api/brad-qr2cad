@@ -1,0 +1,9 @@
+os
+qrcode
+subprocess
+argparse
+argparse.ArgumentParser
+PIL
+PIL.Image
+StringIO
+StringIO.StringIO

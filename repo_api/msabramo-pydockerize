@@ -1,0 +1,10 @@
+os
+sys
+setuptools
+setuptools.setup
+os
+re
+shlex
+subprocess
+textwrap
+click

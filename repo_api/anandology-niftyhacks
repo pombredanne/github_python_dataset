@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+logging
+json
+os
+functools
+inspect
+csv
+io
+io.BytesIO
+bs4
+bs4.BeautifulSoup
+requests
+logging

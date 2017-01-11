@@ -1,0 +1,8 @@
+__future__
+__future__.unicode_literals
+re
+os
+codecs
+math
+jieba
+resource_loader

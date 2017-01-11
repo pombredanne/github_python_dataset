@@ -1,0 +1,12 @@
+os
+re
+setuptools
+setuptools.setup
+datetime
+gntplib
+gntplib.Publisher
+gntplib.Resource
+nose.plugins
+nose.plugins.Plugin
+pkg_resources
+pkg_resources.resource_stream

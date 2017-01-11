@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+platform
+platform.system
+PyWallpaper
+PyWallpaper.change_wallpaper

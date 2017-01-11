@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+os
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.directives
+sphinx.util.compat
+sphinx.util.compat.Directive
+subprocess
+subprocess.call
+os
+sys
+os

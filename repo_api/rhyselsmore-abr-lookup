@@ -1,0 +1,15 @@
+os
+abr.core
+abr.core.appfrom
+abr.core.flask
+abr.core.import
+abr.core.Flask
+abr.core.jsonify
+abr.core.render_template
+abr.core.abort
+abr.core.request
+abr.core.current_app
+suds.client
+suds.client.Client
+functools
+functools.wraps

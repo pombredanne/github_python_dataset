@@ -1,0 +1,12 @@
+unittest
+bs4
+mock
+rss
+rss.MontesClarosComRSS
+datetime
+datetime.datetime
+re
+urllib2
+bs4
+PyRSS2Gen
+pytz

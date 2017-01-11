@@ -1,0 +1,14 @@
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+quickssh.main
+quickssh.main.VERSION
+sys
+os
+json
+Tkinter
+ttk
+subprocess
+subprocess.Popen
+subprocess.PIPE

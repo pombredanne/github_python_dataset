@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+unittest
+tempfile
+tempfile.mkdtemp
+fsstore.core
+fsstore.core.Store
+fsstore.core.Store
+os
+shutil

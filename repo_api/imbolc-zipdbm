@@ -1,0 +1,8 @@
+os
+sys
+doctest
+zipdbm
+zipfile
+zipfile.ZipFile
+UserDict
+UserDict.DictMixin

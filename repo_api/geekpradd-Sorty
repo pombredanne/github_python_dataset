@@ -1,0 +1,17 @@
+distutils.core
+distutils.core.setup
+py2exe
+setuptools
+setuptools.setup
+os
+pythoncom
+win32com.shell
+win32com.shell.shell
+win32com.shell.shellcon
+win32gui
+win32con
+win32api
+shutil
+os
+argparse
+sys

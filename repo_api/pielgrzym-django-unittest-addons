@@ -1,0 +1,12 @@
+django.test
+django.test.TestCase
+django.core.urlresolvers
+django.core.urlresolvers.reverse
+django.forms.models
+django.forms.models.ModelChoiceField
+datetime
+datetime.datetime
+datetime.date
+datetime.time
+django.contrib.auth.models
+django.contrib.auth.models.User

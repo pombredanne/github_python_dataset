@@ -1,0 +1,9 @@
+mpd
+socket
+logging
+sys
+time
+os
+re
+subprocess
+subprocess.Popen

@@ -1,0 +1,5 @@
+numpy
+theano
+theano.tensor
+six.moves
+six.moves.zip

@@ -1,0 +1,10 @@
+io
+sys
+setuptools
+setuptools_scm
+os
+keyring
+cherrypy
+urllib.parse
+keyring.backend
+requests_unixsocket

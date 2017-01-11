@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+subprocess
+json
+os
+yaml
+re
+sys
+time
+sh
+sh.git
+requests
+github
+github.Github

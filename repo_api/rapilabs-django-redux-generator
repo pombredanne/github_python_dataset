@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.apps
+django.apps.AppConfig
+django
+django.template
+inflection
+inflection.camelize
+inflection.underscore
+django.core.management.base
+django.core.management.base.BaseCommand
+django.template.loader
+django.template.loader.render_to_string

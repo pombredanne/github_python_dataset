@@ -1,0 +1,10 @@
+sys
+os
+re
+reposync.backends
+reposync.backends.get_backend
+os
+os.path
+subprocess
+reposync.backends.git
+reposync.backends.git.GitBackend

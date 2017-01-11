@@ -1,0 +1,12 @@
+deuces
+deuces.Evaluator
+pack
+pack.WHOLE_PACK
+random
+deuces.Card
+unittest
+deuces.Card
+holdem
+holdem.count_outs
+unittest
+pack.Pack

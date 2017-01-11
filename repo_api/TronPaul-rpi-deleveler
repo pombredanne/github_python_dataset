@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+subprocess
+sys
+pathlib
+pathlib.Path
+os
+argparse
+subprocess
+os
+re
+xml.etree.ElementTree
+xml.etree.ElementTree.parse

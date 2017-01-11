@@ -1,0 +1,9 @@
+flask
+functools
+functools.wraps
+pymongo
+pymongo.MongoClient
+random
+datetime
+pymongo.MongoClient
+codecs

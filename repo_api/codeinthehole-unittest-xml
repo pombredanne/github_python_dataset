@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+xmltest.mixin
+xmltest.mixin.XMLAssertions
+xml.dom.minidom
+xml.dom.minidom.parseString
+xml.parsers.expat
+xml.parsers.expat.ExpatError
+xml.etree
+xml.etree.ElementTree
+unittest
+mock
+mock.Mock
+xmltest
+xmltest.XMLAssertions

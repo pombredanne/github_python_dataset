@@ -1,0 +1,5 @@
+os
+sys
+time
+pygments.lexers._mapping
+pygments.lexers._mapping.LEXERS

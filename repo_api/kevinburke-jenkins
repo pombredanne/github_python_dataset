@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+ConfigParser
+json
+os
+re
+subprocess
+sys
+webbrowser
+clint.textui
+clint.textui.colored
+requests

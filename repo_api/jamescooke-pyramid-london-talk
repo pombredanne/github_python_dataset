@@ -1,0 +1,15 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+pyramid
+pyramid.testing
+pyramid.view
+pyramid.view.view_config
+import
+pyramid.config
+pyramid.config.Configurator
+models
+models.User
+models.Page

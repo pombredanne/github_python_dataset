@@ -1,0 +1,11 @@
+__future__
+__future__.division
+pdb
+re
+lxml.etree
+lxml.etree.ElementTree
+lxml.etree.Element
+lxml.etree.XPath
+midiutil.MidiFile
+midiutil.MidiFile.MIDIFile
+midiutil.MidiFile.Events

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+socket
+os
+boto
+boto.s3.connection
+argparse
+json
+boto.s3.key
+boto.s3.key.Key

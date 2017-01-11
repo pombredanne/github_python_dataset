@@ -1,0 +1,12 @@
+random
+string
+os
+selenium
+selenium.webdriver
+selenium.webdriver.support.ui
+selenium.webdriver.support.ui.WebDriverWait
+bs4
+bs4.BeautifulSoup
+urlparse
+urllib2
+codecs

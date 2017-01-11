@@ -1,0 +1,16 @@
+setuptools
+os.path
+add
+requests
+logging
+boto.route53.connection
+boto.route53.record
+add.config.aws
+add.config.general
+logging
+os
+add.config.aws
+add.config.general
+os
+os
+logging

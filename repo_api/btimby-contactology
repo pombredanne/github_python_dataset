@@ -1,0 +1,15 @@
+os
+distutils.core
+distutils.core.setup
+unittest
+functools
+functools.wraps
+httpretty
+httpretty.HTTPretty
+httpretty.httprettified
+contactology
+contactology.Contactology
+httplib
+urllib
+urllib.quote
+functools.wraps

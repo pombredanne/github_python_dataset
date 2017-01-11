@@ -1,0 +1,4 @@
+django.db
+django.db.models
+django.test
+django.test.TestCase

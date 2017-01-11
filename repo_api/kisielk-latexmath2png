@@ -1,0 +1,13 @@
+__future__
+__future__.with_statement
+__future__.#
+__future__.Until
+__future__.Python
+__future__.2.6
+optparse
+optparse.OptionParser
+os
+sys
+tempfile
+getopt
+latexmath2png

@@ -1,0 +1,6 @@
+argparse
+os
+webbrowser
+boto
+boto.s3.key
+boto.s3.key.Key

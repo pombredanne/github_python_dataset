@@ -1,0 +1,6 @@
+__future__
+__future__.division
+numpy
+matplotlib.dates
+matplotlib.dates.strpdate2num
+pylab

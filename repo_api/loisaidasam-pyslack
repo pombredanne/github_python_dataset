@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+datetime
+logging
+requests
+unittest
+logging
+mock
+mock.Mock
+mock.patch
+mock.ANY
+pyslack
+datetime
+unittest
+mock.Mock
+mock.patch
+pyslack

@@ -1,0 +1,7 @@
+requests
+bs4
+bs4.BeautifulSoup
+os
+errno
+sys
+re

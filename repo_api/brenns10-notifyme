@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+contextlib
+contextlib.contextmanager
+os.path
+os.path.expanduser
+os.path.expandvars
+smtplib
+smtplib.SMTP
+smtplib.SMTP_SSL
+configparser
+configparser.ConfigParser
+timeit
+timeit.default_timer
+sys
+socket
+subprocess

@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+random
+re
+requests
+lxml.html
+lxml.html.soupparser

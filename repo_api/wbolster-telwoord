@@ -1,0 +1,16 @@
+__future__
+__future__.unicode_literals
+pytest
+telwoord
+telwoord.cardinal
+telwoord.ordinal
+setuptools
+setuptools.setup
+telwoord.cardinal
+telwoord.ordinal
+telwoord.#
+telwoord.noqa:
+telwoord.unused
+telwoord.imports
+__future__.unicode_literals
+re

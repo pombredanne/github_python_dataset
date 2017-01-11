@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+pyfeedClass
+pyfeedClass.CategorySubCat
+pyfeedClass.ArticleItem
+pyfeedClass.Article
+utilities
+simplejson
+urllib2
+urllib2.urlopen
+sys
+sys.exit
+pyfeed
+pyfeed.FeedzillaApi
+pyfeed.*import
+pyfeed.constants
+utilities

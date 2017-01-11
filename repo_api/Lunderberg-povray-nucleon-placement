@@ -1,0 +1,16 @@
+math
+numpy
+os
+random
+sys
+moviepy.editor
+moviepy.editor.VideoClip
+vapory
+os
+moviepy.editor.VideoClip
+vapory
+ptpython.repl;
+ptpython.repl.embed(globals()
+locals())
+moviepy.editor.VideoClip
+numpy

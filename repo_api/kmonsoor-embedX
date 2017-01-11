@@ -1,0 +1,11 @@
+codecs
+codecs.open
+os
+os.path
+setuptools
+setuptools.setup
+setuptools.find_packages
+embedx
+embedx.OnlineContent
+version
+version.__version__

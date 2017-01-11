@@ -1,0 +1,16 @@
+nltk
+nltk
+nltk.word_tokenize
+nltk.corpus
+nltk.corpus.stopwords
+nltk.tag.stanford
+nltk.tag.stanford.StanfordNERTagger
+gensim
+gensim.corpora
+gensim.models
+gensim.similarities
+string
+string.punctuation
+collections
+collections.defaultdict
+collections.Counter

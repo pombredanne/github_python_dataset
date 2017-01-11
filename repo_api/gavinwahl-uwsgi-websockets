@@ -1,0 +1,10 @@
+os
+re
+setuptools
+setuptools.setup
+socket
+geventwebsocket.handler
+geventwebsocket.handler.WebSocketHandler
+geventwebsocket.python_fixes
+geventwebsocket.python_fixes.makefile
+uwsgi

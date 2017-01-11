@@ -1,0 +1,8 @@
+argparse
+glob
+os
+psycopg2
+pymarc
+pymarc.MARCReader
+gender_detector
+gender_detector.GenderDetector

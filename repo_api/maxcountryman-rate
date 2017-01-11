@@ -1,0 +1,14 @@
+rate.app
+rate.app.create_app
+flask
+flask.Flask
+api
+api.api
+frontend
+frontend.frontend
+flask.Blueprint
+flask.render_template
+flask.Blueprint
+flask.jsonify
+flask.request
+requests

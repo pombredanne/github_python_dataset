@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+argparse
+re
+sys
+unittest
+six
+shlex
+fromto

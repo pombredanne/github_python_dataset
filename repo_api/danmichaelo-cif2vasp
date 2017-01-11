@@ -1,0 +1,6 @@
+sys
+os
+re
+subprocess
+optparse
+optparse.OptionParser

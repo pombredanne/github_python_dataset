@@ -1,0 +1,12 @@
+argparse
+re
+shutil
+subprocess
+os
+requests
+uritemplate
+uritemplate.expand
+re
+bs4
+bs4.BeautifulSoup
+requests

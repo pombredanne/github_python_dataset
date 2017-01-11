@@ -1,0 +1,13 @@
+requests
+json
+bs4
+bs4.BeautifulSoup
+requests
+requests
+time
+bs4.BeautifulSoup
+flask
+flask.Flask
+flask.render_template
+curlers
+curlers.curlers

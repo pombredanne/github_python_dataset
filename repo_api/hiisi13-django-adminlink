@@ -1,0 +1,10 @@
+os
+sys
+django
+django.template
+django.contrib.admin
+django.contrib.admin.site
+django.contrib.admin.sites
+django.contrib.admin.sites.AlreadyRegistered
+django.core.urlresolvers
+django.core.urlresolvers.reverse

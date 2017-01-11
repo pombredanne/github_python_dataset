@@ -1,0 +1,16 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+ply
+ply.lex
+ply.yacc
+lexer
+lexer.FeatureLexer
+collections
+collections.namedtuple
+unittest
+unittest.TestCase
+minilanguage.lexer
+minilanguage.lexer.FeatureLexer
+minilanguage.grammar
+minilanguage.grammar.FeatureParser

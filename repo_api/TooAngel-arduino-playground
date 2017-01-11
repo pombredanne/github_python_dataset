@@ -1,0 +1,6 @@
+serial
+serial.serialutil
+serial.serialutil.SerialException
+json
+time
+logging

@@ -1,0 +1,12 @@
+pygit2
+argparse
+base58
+collections
+ecdsa
+hashlib
+json
+os.path
+sys
+tree
+tree.tree_changes
+tree.discover_head

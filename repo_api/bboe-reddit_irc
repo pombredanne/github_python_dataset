@@ -1,0 +1,15 @@
+os
+re
+setuptools
+setuptools.setup
+asyncore
+re
+praw
+sys
+time
+ircutils
+ircutils.bot
+six
+six.text_type
+six.moves
+six.moves.configparser

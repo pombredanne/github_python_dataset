@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.setup
+six
+eco
+execjs
+re
+os
+six
+execjs
+coffeescript

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+hashlib
+functools
+functools.wraps
+django.core.cache
+django.core.cache.cache
+django.db.models
+django.db.models.Model

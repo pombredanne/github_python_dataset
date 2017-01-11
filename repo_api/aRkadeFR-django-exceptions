@@ -1,0 +1,14 @@
+setuptools
+setuptools.(
+sys
+os
+django.conf
+django.conf.settings
+django.test
+django.test.TestCase
+django.core.urlresolvers
+django.core.urlresolvers.reverse
+django.http
+django.http.(
+exceptions
+exceptions.RedirectException

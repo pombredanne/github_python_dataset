@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+os
+tempfile
+unittest
+docverter
+__future__
+__future__.with_statement
+tempfile
+tempfile.NamedTemporaryFile
+os
+requests

@@ -1,0 +1,17 @@
+__future__
+__future__.absolute_import
+__future__.print_function
+__future__.unicode_literals
+os
+subprocess
+sys
+sys
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+os
+patches
+patches.Entry
+typing
+typing.List

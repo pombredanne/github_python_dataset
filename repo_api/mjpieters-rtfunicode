@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+string
+sys
+unittest
+codecs
+re
+sys
+struct
+struct.unpack

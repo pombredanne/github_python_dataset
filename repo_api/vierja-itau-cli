@@ -1,0 +1,16 @@
+click
+logging
+client
+client.ItauClient
+aiohttp
+asyncio
+csv
+datetime
+json
+logging
+re
+requests
+dateutil.relativedelta
+dateutil.relativedelta.relativedelta
+lxml
+lxml.html

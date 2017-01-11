@@ -1,0 +1,9 @@
+os
+sys
+django.conf.urls
+django.conf.urls.patterns
+django.conf.urls.url
+django.core.paginator
+django.core.paginator.Paginator
+faker
+faker.Faker

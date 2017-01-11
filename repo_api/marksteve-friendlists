@@ -1,0 +1,13 @@
+friendlists
+friendlists.app
+setuptools
+setuptools.setup
+fboauth2
+fboauth2.FBClient
+flask
+flask.Flask
+flask.redirect
+flask.url_for
+flask.request
+flask.session
+flask.render_template

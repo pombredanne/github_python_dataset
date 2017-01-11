@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+re
+os
+sys
+os
+sys
+django.conf
+django.conf.settings
+django.core.files.storage
+django.core.files.storage.Storage
+django.utils.module_loading
+django.utils.module_loading.import_string
+django.test
+django.test.TestCase

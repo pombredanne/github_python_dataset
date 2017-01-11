@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+inspect
+inspect.getargspec
+functools
+functools.partial
+functools.wraps
+django.template
+django.template.Node
+django.template.base
+django.template.base.parse_bits

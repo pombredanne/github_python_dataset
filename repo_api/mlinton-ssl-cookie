@@ -1,0 +1,7 @@
+sys
+struct
+socket
+time
+select
+optparse
+optparse.OptionParser

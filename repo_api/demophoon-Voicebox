@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+urllib
+urllib2
+json
+flask
+flask.Flask
+flask.jsonify
+flask.request
+voicebox
+json

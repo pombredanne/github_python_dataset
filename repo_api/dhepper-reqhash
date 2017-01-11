@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+sys
+json
+os
+unittest
+reqhash
+reqhash.parser
+hashlib
+reqhash.parser
+reqhash.parser.parse_requirements
+os.path

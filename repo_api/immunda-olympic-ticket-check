@@ -1,0 +1,11 @@
+requests
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+sqlite3
+smtplib
+email.mime.text
+email.mime.text.MIMEText
+os
+time
+local_settings
+sqlite3

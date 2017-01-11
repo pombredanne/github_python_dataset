@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+inspect
+os
+logging
+pypandoc
+setuptools.setup

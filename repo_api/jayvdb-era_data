@@ -1,0 +1,11 @@
+__future__
+__future__.unicode_literals
+sqlalchemy
+sqlalchemy.Table
+sqlalchemy.MetaData
+sqlalchemy.sql
+sqlalchemy.sql.select
+sqlalchemy.Table
+sqlalchemy.MetaData
+sqlalchemy.func
+sqlalchemy.sql.select

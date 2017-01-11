@@ -1,0 +1,7 @@
+gtk
+gobject
+time
+math
+xml.sax.saxutils
+xml.sax.saxutils.escape
+optparse

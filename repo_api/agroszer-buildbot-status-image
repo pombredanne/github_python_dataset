@@ -1,0 +1,5 @@
+os
+buildbot.status
+buildbot.status.html
+buildbot.status.web.base
+buildbot.status.web.base.HtmlResource

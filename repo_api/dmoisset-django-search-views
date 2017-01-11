@@ -1,0 +1,16 @@
+django
+django.forms
+functools
+operator
+django.template.response
+django.template.response.TemplateResponse
+django.db.models
+django.db.models.Q
+django.db.models.options
+django.db.models.options.get_verbose_name
+django_search_views.forms
+django_search_views.forms.SearchForm
+django_search_views.forms.CategorySearchForm
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.url

@@ -1,0 +1,9 @@
+flask
+flask.Flask
+flask.render_template
+flask.redirect
+pypuppetdb
+datetime
+settings
+settings.FACT_PREFIX
+settings.PUPPETDB_SERVER

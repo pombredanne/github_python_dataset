@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+os.path
+re
+sys
+CommonMark
+CommonMark.render.html
+CommonMarkPlainText
+re
+CommonMark.render.renderer

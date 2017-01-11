@@ -1,0 +1,16 @@
+api
+api.BlackboardMobileApi
+credentials
+credentials.username
+credentials.password
+os
+re
+json
+sys
+urllib.request
+urllib.parse
+urllib.error
+sys
+urllib.parse
+urllib.parse.urlparse
+xml.etree.ElementTree

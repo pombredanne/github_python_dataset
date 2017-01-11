@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+unpyc
+unpyc.decompile
+functools
+functools.reduce
+doctest

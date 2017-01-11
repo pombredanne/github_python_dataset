@@ -1,0 +1,8 @@
+django.conf
+django.conf.settings
+django.db
+django.db.models
+django.utils.translation
+django.utils.translation.ugettext_lazy
+constants
+constants.DEFAULT_TAGS

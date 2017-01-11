@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+re
+os
+sys
+itypes
+pytest
+collections
+collections.Mapping
+collections.Sequence

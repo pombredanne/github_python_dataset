@@ -1,0 +1,15 @@
+setuptools
+re
+json
+pprint
+functools
+trolly
+trac.web
+trac.web.IRequestHandler
+trac.ticket.api
+trac.ticket.api.ITicketChangeListener
+trac.ticket
+trac.ticket.Ticket
+trac
+trac.core
+trac.config

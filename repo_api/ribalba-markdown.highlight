@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+markdown.inlinepatterns
+markdown.inlinepatterns.SimpleTagPattern
+markdown.extensions
+markdown.extensions.Extension

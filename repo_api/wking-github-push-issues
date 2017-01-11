@@ -1,0 +1,16 @@
+codecs
+distutils.core
+distutils.core.setup
+os.path
+base64
+codecs
+contextlib
+functools
+getpass
+io
+json
+logging
+os
+sys
+tarfile
+zipfile

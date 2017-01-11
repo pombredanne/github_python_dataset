@@ -1,0 +1,11 @@
+numpy
+task1
+task1.outer
+task2
+task2.affine
+math
+math.sqrt
+random
+task2.affine
+task3
+task3.train_on_batch

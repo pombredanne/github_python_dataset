@@ -1,0 +1,11 @@
+sys
+xbmc
+xbmcaddon
+xbmcgui
+xbmcplugin
+urllib
+urllib2
+urlparse
+urlparse.urlparse
+BeautifulSoup
+BeautifulSoup.BeautifulStoneSoup

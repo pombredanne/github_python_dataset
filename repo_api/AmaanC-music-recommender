@@ -1,0 +1,12 @@
+pandas
+scipy.spatial.distance
+scipy.spatial.distance.cosine
+sqlalchemy
+sqlalchemy.create_engine
+sqlalchemy.Table
+sqlalchemy.MetaData
+flask
+flask.Flask
+flask.jsonify
+flask.make_response
+flask.request

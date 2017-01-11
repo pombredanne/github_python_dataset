@@ -1,0 +1,14 @@
+os
+setuptools
+setuptools.setup
+sympy
+sympy.interactive.printing
+sympy.interactive.printing.init_printing
+sympa
+sympa.domath
+pandas
+sympa.core
+sympa.core.domathfrom
+sympa.core.sympy
+sympa.core.import
+sympa.core.lambdify

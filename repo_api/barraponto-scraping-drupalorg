@@ -1,0 +1,17 @@
+scrapy
+delorean
+scrapy.loader
+scrapy.loader.ItemLoader
+scrapy.loader.processors
+scrapy.loader.processors.MapCompose
+scrapylib.processors
+scrapylib.processors.default_input_processor
+scrapylib.processors.default_output_processor
+scrapy
+scrapy.linkextractors
+scrapy.linkextractors.LinkExtractor
+scrapy.spiders
+scrapy.spiders.CrawlSpider
+scrapy.spiders.Rule
+drupalcontrib.items
+drupalcontrib.items.DrupalcontribItemLoader

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+inspect
+os
+unittest
+django.test.runner
+django.test.runner.DebugSQLTextTestResult
+django.test.runner.DiscoverRunner
+django.core.management.commands
+django.core.management.commands.test

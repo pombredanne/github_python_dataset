@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+argparse
+argparse.ArgumentParser
+sqlalchemy
+ipydb
+ipydb.engine
+dbaudit

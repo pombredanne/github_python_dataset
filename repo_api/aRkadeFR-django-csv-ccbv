@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+csv
+django.http
+django.http.HttpResponse

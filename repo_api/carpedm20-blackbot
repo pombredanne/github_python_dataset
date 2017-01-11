@@ -1,0 +1,16 @@
+__future__
+__future__.with_statement
+re
+sys
+os
+requests
+talk
+talk.Talk
+line
+line.LineClient
+random
+inspect
+requests
+xml.dom.minidom
+bot
+bot.Black

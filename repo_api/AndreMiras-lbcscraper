@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+scrapy
+scrapy.Item
+scrapy.Field
+re
+scrapy
+urlparse
+urlparse.urlparse
+scrapy.contrib.spiders
+scrapy.contrib.spiders.CrawlSpider
+scrapy.contrib.spiders.Rule
+scrapy.contrib.linkextractors
+scrapy.contrib.linkextractors.LinkExtractor
+lbcscraper.items
+lbcscraper.items.LbcPropertyItem

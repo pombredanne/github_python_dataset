@@ -1,0 +1,6 @@
+docutils
+docutils.nodes
+sphinx.util
+sphinx.util.caption_ref_re
+sys
+os

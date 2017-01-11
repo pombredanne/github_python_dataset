@@ -1,0 +1,9 @@
+__builtin__
+logging
+pip
+site
+sys
+sys.exc_info
+setuptools
+setuptools.setup
+setuptools.find_packages

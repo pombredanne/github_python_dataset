@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+configparser
+json
+os
+sys
+click
+requests

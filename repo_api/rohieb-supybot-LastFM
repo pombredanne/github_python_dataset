@@ -1,0 +1,15 @@
+csv
+supybot.utils
+supybot.conf
+supybot.commands
+supybot.plugins
+supybot.ircutils
+supybot.callbacks
+urllib
+supybot.test
+supybot
+supybot.world
+config
+plugin
+supybot.conf
+supybot.registry

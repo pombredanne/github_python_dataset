@@ -1,0 +1,7 @@
+cv2
+ctypes
+numpy
+matplotlib.pyplot
+os.path
+cPickle
+pdb

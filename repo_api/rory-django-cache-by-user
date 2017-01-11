@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+hashlib
+random
+django.contrib
+django.contrib.messages
+django.conf
+django.conf.settings
+django.utils.cache
+django.utils.cache.patch_vary_headers

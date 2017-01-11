@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+uuid
+json
+os
+urlparse
+uuid
+docutils
+docutils.nodes
+jinja2
+jinja2.Environment
+jinja2.FileSystemLoader
+sphinx.util.compat
+sphinx.util.compat.Directive

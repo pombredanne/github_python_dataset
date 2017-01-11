@@ -1,0 +1,13 @@
+setuptools
+os
+sys
+time
+argparse
+datetime
+contextlib
+subprocess
+webbrowser
+pelican
+cherrypy
+watchdog.events
+watchdog.observers

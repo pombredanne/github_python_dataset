@@ -1,0 +1,10 @@
+gobject
+gtk
+appindicator
+collections
+collections.namedtuple
+appindicator
+gobject
+gtk
+json
+urllib2

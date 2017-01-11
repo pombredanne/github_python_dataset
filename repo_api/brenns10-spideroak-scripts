@@ -1,0 +1,9 @@
+spideroak
+spideroak.file_changelog
+subprocess
+subprocess.check_output
+subprocess.check_output
+datetime
+datetime.datetime
+re
+os.path

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+docutils.core
+docutils.core.publish_string
+pathlib
+pathlib.Path
+click
+import
+pathlib.Path
+os
+jinja2
+jinja2.Environment
+jinja2.PackageLoader

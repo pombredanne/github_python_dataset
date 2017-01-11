@@ -1,0 +1,16 @@
+json
+urllib
+urllib2
+supybot.conf
+supybot.utils
+supybot.commands
+supybot.plugins
+supybot.ircutils
+supybot.callbacks
+supybot.test
+supybot
+supybot.world
+config
+plugin
+supybot.conf
+supybot.registry

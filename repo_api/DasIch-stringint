@@ -1,0 +1,15 @@
+os
+re
+setuptools
+setuptools.setup
+os
+random
+sys
+pytest
+stringint
+stringint.bytes_to_int
+stringint.int_to_bytes
+stringint.int_to_string
+stringint.string_to_int
+sys
+stringint

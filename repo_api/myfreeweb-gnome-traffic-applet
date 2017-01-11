@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+sys
+gtk
+gtk.gdk
+pygtk
+gnomeapplet
+traffic_applet
+time
+threading
+gtk
+gtk.gdk
+pygtk
+gnomeapplet

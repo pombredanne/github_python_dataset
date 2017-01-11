@@ -1,0 +1,8 @@
+requests
+html2text
+filecmp
+os
+apscheduler.schedulers.background
+apscheduler.schedulers.background.BackgroundScheduler
+time
+logging

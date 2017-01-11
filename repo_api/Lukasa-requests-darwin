@@ -1,0 +1,13 @@
+objc
+requests.adapters
+requests.adapters.BaseAdapter
+requests.models
+requests.models.Response
+requests.structures
+requests.structures.CaseInsensitiveDict
+requests.utils
+requests.utils.get_encoding_from_headers
+Foundation
+Foundation.(
+PyObjCTools.KeyValueCoding
+PyObjCTools.KeyValueCoding.getKey

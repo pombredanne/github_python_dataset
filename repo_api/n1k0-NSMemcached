@@ -1,0 +1,11 @@
+nsmemcached
+distutils.core
+distutils.core.setup
+unittest
+__init__
+__init__.Client
+memcache
+client
+client.NamespacedClient
+memcache
+random

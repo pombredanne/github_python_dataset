@@ -1,0 +1,5 @@
+matplotlib
+matplotlib.pyplot
+numpy
+IPython.core.display
+IPython.core.display.Image

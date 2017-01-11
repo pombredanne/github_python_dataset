@@ -1,0 +1,17 @@
+codecs
+os
+unittest
+bazinga
+bazinga.Bazinga
+nose.plugins
+nose.plugins.Plugin
+nose.plugins.PluginTester
+hashlib
+inspect
+imp
+logging
+nose.plugins.Plugin
+os
+snakefood.find
+snakefood.find.find_dependencies
+sys

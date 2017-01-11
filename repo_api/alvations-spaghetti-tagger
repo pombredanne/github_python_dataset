@@ -1,0 +1,10 @@
+__future__
+__future__.print_function
+sys
+nltk
+nltk.UnigramTagger
+nltk.BigramTagger
+nltk.corpus
+nltk.corpus.cess_esp
+__future__.print_function
+spaghetti

@@ -1,0 +1,11 @@
+subprocess
+sys
+quodlibet.remote
+quodlibet.remote.Remote
+quodlibet.remote.RemoteError
+AppKit
+AppKit.NSKeyUp
+AppKit.NSSystemDefined
+AppKit.NSEvent
+AppKit.NSApp
+Quartz

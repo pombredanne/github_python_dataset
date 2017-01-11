@@ -1,0 +1,10 @@
+PyQt4
+PyQt4.QtCore
+PyQt4.QtGui
+cadnano
+os
+util
+cadnano_api
+PySide
+PySide.QtCore
+PySide.QtGui

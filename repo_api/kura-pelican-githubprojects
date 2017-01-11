@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.unicode_literals
+json
+logging
+operator
+operator.itemgetter
+pelican
+pelican.signals
+pelican_githubprojects.github
+pelican_githubprojects.github.register

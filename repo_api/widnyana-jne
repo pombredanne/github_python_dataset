@@ -1,0 +1,16 @@
+src.boot
+src.boot.main
+src.boot.banner
+argparse
+jne
+lxml
+lxml.etree
+json
+locale
+random
+requests
+tabulate
+tabulate.tabulate
+src.constant
+src.ua
+src.ua.user_agent

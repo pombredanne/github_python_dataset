@@ -1,0 +1,4 @@
+distutils.core
+distutils.core.setup
+setuptools
+setuptools.find_packages

@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+WebElements
+WebElements.Base
+WebElements.Base
+WebElements.Base.Settings
+WebElements.Parser
+WebElements.Parser.WebElementTree
+WebElements.MultiplePythonSupport
+html2Shpaml
+html2Shpaml.ShpamlTree

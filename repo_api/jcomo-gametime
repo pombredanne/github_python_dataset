@@ -1,0 +1,15 @@
+unittest
+gametime.interactors.player
+gametime.interactors.player.register_player
+gametime.interactors.player.login_player
+unittest
+gametime.entities.player
+gametime.entities.player.Player
+gametime.entities.game
+gametime.entities.game.Game
+unittest
+gametime.entities.player.Player
+bcrypt
+gametime.entities.player.Player
+hashlib
+hashlib.md5

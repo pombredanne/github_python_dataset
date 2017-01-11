@@ -1,0 +1,9 @@
+h5py
+setuptools
+setuptools.setup
+os
+h5py
+collections
+collections.namedtuple
+operator
+os

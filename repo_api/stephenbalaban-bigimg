@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+sys
+numpy
+scipy.misc
+math
+random
+string
+bigimg
+bigimg.lossless_random
+bigimg.main

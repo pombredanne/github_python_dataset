@@ -1,0 +1,11 @@
+json
+click
+requests
+bs4
+bs4.BeautifulSoup
+feedgen.feed
+feedgen.feed.FeedGenerator
+apscheduler.schedulers.blocking
+apscheduler.schedulers.blocking.BlockingScheduler
+collections
+collections.OrderedDict

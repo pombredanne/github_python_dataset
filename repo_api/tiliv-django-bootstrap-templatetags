@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+easytag
+easytag.EasyTag
+django
+django.template
+django.template.defaultfilters
+django.template.defaultfilters.slugify
+django.template.loader
+django.template.loader.render_to_string
+django.utils.safestring
+django.utils.safestring.mark_safe
+django.conf
+django.conf.settings

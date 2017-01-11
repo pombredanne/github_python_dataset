@@ -1,0 +1,5 @@
+os
+os.environ
+os.path
+pocketsphinx.pocketsphinx
+sphinxbase.sphinxbase

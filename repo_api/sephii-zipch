@@ -1,0 +1,16 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+zipch
+zipch.__version_str__
+zipcodes
+zipcodes.ZipcodesDatabase
+zipcodes.#
+zipcodes.NOQA
+csv
+os
+sys
+tempfile
+zipfile
+collections
+collections.namedtuple

@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+feedparser
+ludibrio
+ludibrio.Stub
+should_dsl
+should_dsl.should
+getfeed
+getfeed.GetFeed
+sys
+feedparser
+pynotify
+apscheduler.scheduler
+apscheduler.scheduler.Scheduler

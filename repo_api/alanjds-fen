@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+StringIO
+tempfile
+os
+pdb
+PIL
+PIL.Image
+PIL.ImageDraw
+cairo
+rsvg
+argparse
+images
+fen

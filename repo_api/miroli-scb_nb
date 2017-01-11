@@ -1,0 +1,7 @@
+requests
+json
+pandas
+StringIO
+StringIO.StringIO
+IPython.core.display
+IPython.core.display.HTML

@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+sys
+flask
+flask.Flask
+flask_oldsessions
+flask.testsuite
+flask.testsuite.main
+werkzeug.contrib.securecookie
+werkzeug.contrib.securecookie.SecureCookie
+flask.sessions
+flask.sessions.SessionMixin
+flask.sessions.SessionInterface
+flask.sessions.\
+sys
+os
+subprocess

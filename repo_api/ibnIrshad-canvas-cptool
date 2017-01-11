@@ -1,0 +1,11 @@
+cherrypy
+CanvasLMSTool
+memcache
+secretglobals
+requests
+cherrypy
+random
+sys
+simplejson
+mmh3
+mmh3.hash128

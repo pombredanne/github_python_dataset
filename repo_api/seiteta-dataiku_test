@@ -1,0 +1,15 @@
+matplotlib.pyplot
+prettyplotlib
+pandas
+scipy
+numpy
+pydot
+os
+sklearn.feature_extraction
+sklearn.feature_extraction.DictVectorizer
+sklearn.externals.six
+sklearn.externals.six.StringIO
+sklearn
+sklearn.tree
+sklearn.metrics
+sklearn.metrics.confusion_matrix

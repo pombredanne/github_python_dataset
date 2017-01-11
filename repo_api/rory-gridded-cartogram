@@ -1,0 +1,13 @@
+fiona
+shapely.geometry
+shapely.geos
+shapely.ops
+copy
+math
+collections
+collections.defaultdict
+collections.deque
+itertools
+argparse
+csv
+collections

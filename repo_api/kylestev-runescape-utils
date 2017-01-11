@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+runescape
+runescape.hiscores_lookup
+runescape.hiscores
+json
+requests
+itertools
+itertools.izip

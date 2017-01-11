@@ -1,0 +1,14 @@
+requests
+os
+os.environ
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+os
+random
+random.choice
+subprocess
+subprocess.Popen
+os.environ
+urllib2
+urllib2.urlopen
+BeautifulSoup.BeautifulSoup

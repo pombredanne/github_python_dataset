@@ -1,0 +1,12 @@
+os
+random
+re
+shlex
+signal
+string
+pexpect
+pexpect.replwrap
+ipykernel.kernelbase
+ipykernel.kernelbase.Kernel
+ipykernel.kernelapp
+ipykernel.kernelapp.IPKernelApp

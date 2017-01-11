@@ -1,0 +1,13 @@
+__future__
+__future__.print_function
+sys
+locale
+os.path
+subprocess
+tempfile
+distutils.spawn
+distutils.spawn.find_executable
+setuptools
+setuptools.setup
+sys
+editor

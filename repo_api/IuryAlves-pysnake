@@ -1,0 +1,11 @@
+pygame
+sys
+pygame.font
+pygame.font.SysFont
+pygame.font.get_default_font
+pygame.locals
+colors
+snake
+random
+pygame
+colors

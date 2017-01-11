@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+socket
+struct
+enum
+enum.Enum
+logging

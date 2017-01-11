@@ -1,0 +1,13 @@
+__future__
+__future__.division
+re
+json
+requests
+urlparse
+urlparse.urljoin
+html5lib
+html5lib.HTMLParser
+html5lib.treebuilders
+html5lib.treebuilders.getTreeBuilder
+lxml.cssselect
+lxml.cssselect.CSSSelector

@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+pyramid.exceptions
+pyramid.exceptions.ConfigurationError
+re

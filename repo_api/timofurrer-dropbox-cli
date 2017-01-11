@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+dbc
+dbc
+utils
+sys
+os
+sys
+threading
+time
+ConfigParser
+clicore
+dropbox
+dropbox.client
+dropbox.session
+dropbox.rest
+utils

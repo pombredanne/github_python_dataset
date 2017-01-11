@@ -1,0 +1,12 @@
+os
+distutils.core
+distutils.core.setup
+catkin_pkg.python_setup
+catkin_pkg.python_setup.generate_distutils_setup
+os
+time
+rospy
+wiringpi
+rpi_gpio.srv
+rpi_gpio
+rpi_gpio.msg

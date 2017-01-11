@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+diffhelpers
+cStringIO
+re
+zlib
+StringIO
+StringIO.StringIO
+patch
+unittest
+patchtool
+patchtool.apply_patch

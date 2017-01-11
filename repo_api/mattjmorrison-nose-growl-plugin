@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+nose.plugins
+nose.plugins.Plugin
+gntp.notifier

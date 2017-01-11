@@ -1,0 +1,17 @@
+os
+sys
+instapaperlib
+distutils.core
+distutils.core.setup
+re
+sys
+os
+instapaperlib
+optparse
+optparse.OptionParser
+getpass
+getpass.getpass
+urllib
+urllib2
+instapaperlib
+instapaperlib.Instapaper

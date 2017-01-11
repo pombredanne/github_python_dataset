@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.Command
+django_worldbank
+django.db
+django.db.models
+wbpy
+django_data_mirror.models
+django_data_mirror.models.DataSource
+django_data_mirror.models.ForeignKey
+datetime
+south.db
+south.db.db
+south.v2
+south.v2.SchemaMigration
+django.db.models

@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+logging
+os
+stat
+zc.buildout
+zc.recipe.egg.egg
+zc.recipe.egg.egg.Eggs
+sys
+paste.deploy
+paste.deploy.loadapp

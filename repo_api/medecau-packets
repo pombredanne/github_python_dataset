@@ -1,0 +1,12 @@
+json
+json.loads
+random
+random.randint
+socket
+SocketServer
+SocketServer.UDPServer
+SocketServer.BaseRequestHandler
+setuptools
+setuptools.setup
+setuptools.find_packages
+packets

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+logging
+os
+pwd
+nose.plugins
+nose.plugins.Plugin
+lockfile
+lockfile.FileLock

@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+requests
+logging
+os
+socket
+time

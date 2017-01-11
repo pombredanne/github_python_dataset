@@ -1,0 +1,14 @@
+setuptools
+process_torrents.base
+process_torrents.base.Command
+argparse
+datetime
+jsondict
+logging
+os
+shutil
+sys
+yaml
+requests
+transmission
+hardlink

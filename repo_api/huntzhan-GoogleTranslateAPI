@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+unicodedata
+concurrent.futures
+concurrent.futures.ThreadPoolExecutor
+requests
+__future__.unicode_literals
+random
+unittest
+concurrent.futures.ThreadPoolExecutor
+google_translate_api

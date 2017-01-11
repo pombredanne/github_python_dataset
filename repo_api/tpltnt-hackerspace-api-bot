@@ -1,0 +1,11 @@
+configparser
+configparser.ConfigParser
+optparse
+optparse.OptionParser
+logging
+requests
+sleekxmpp
+sys
+time
+urllib.request
+json

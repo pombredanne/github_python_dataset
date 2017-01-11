@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+json
+urllib2
+gzip
+StringIO
+StringIO.StringIO

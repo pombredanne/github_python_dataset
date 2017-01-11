@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+flask
+flask.make_response
+otpauth
+otpauth.OtpAuth
+StringIO
+StringIO.StringIO
+qrcode
+flask.Flask
+flask.flash
+flask.redirect
+flask.request
+flask.render_template
+flask.url_for
+flask_otpauth
+flask_otpauth.OtpAuth

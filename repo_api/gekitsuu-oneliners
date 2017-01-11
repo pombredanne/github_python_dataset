@@ -1,0 +1,5 @@
+shelve
+sys
+os
+optparse
+optparse.OptionParser

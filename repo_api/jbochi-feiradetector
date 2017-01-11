@@ -1,0 +1,7 @@
+sys
+os
+optparse
+optparse.OptionParser
+random
+glib
+gobject

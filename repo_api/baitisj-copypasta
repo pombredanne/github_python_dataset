@@ -1,0 +1,6 @@
+sys
+magic
+gi.repository
+gi.repository.Gtk
+gi.repository.Gdk
+gi.repository.GdkPixbuf

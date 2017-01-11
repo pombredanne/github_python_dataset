@@ -1,0 +1,6 @@
+nose
+quint
+numpy
+numpy.array
+numpy.zeros
+numpy.rot90

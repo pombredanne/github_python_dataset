@@ -1,0 +1,14 @@
+codecs
+os
+setuptools
+setuptools.find_packages
+setuptools.setup
+runprocess
+runprocess.__version__
+os
+subprocess
+subprocess.Popen
+django.contrib.staticfiles.management.commands.runserver
+django.contrib.staticfiles.management.commands.runserver.Command
+django.conf
+django.conf.settings

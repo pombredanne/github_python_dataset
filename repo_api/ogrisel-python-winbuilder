@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+os.path
+os
+sys
+subprocess
+subprocess.check_output
+time
+tarfile
+shutil

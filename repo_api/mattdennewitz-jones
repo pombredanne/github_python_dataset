@@ -1,0 +1,9 @@
+scrapy
+json
+redis
+urlparse
+scrapy
+scrapy.loader
+scrapy.loader.ItemLoader
+items
+items.ArtworkItem

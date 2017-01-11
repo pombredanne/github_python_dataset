@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+pyramid_subscribers_cookiexfer
+unittest
+pyramid
+pyramid.testing
+logging
+pyramid.httpexceptions
+pyramid.httpexceptions.HTTPException
+re
+warnings

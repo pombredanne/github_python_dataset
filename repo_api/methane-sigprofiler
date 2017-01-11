@@ -1,0 +1,14 @@
+__future__
+__future__.with_statement
+os
+optparse
+optparse.OptionParser
+sys
+signal
+collections
+collections.defaultdict
+distutils.core
+distutils.core.setup
+sys
+pprint
+pprint.pprint

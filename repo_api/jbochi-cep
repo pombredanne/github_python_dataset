@@ -1,0 +1,12 @@
+codecs
+os
+os
+unittest
+cep
+cep.Correios
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+cookielib
+re
+urllib
+urllib2

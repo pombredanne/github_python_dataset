@@ -1,0 +1,13 @@
+os
+sys
+logging
+sqlparse
+pygments
+pygments.highlight
+pygments.lexers
+pygments.lexers.SqlLexer
+pygments.formatters
+pygments.formatters.Terminal256Formatter
+setuptools
+setuptools.setup
+os

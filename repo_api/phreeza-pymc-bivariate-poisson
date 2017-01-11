@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+Cython.Build
+Cython.Build.cythonize
+math
+math.factorial
+numpy
+bivpois
+bivpois.bivariate_poisson_like
+pymc
+numpy
+bivariate_poisson_cython

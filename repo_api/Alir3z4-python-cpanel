@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+sys
+cpanel.clients.whm_api_client
+cpanel.clients.whm_api_client.WHMAPIClient
+base64
+base64.b64encode
+inspect
+json
+cpanel.compat
+cpanel.compat.urllib
+cpanel.compat.HTTPSConnection

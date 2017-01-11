@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+django.conf
+django.conf.settings
+django.utils.hashcompat
+django.utils.hashcompat.md5_constructor
+urllib
+urllib.urlencode
+django
+django.template
+gravatar
+gravatar.get_gravatar

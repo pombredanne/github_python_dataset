@@ -1,0 +1,15 @@
+os
+setuptools
+setuptools.setup
+requests
+urllib
+argparse
+pyglance
+pyglance.glance
+pyglance.get_page_data
+search
+search.search_engine
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+requests
+urllib

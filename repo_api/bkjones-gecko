@@ -1,0 +1,13 @@
+pikaclient
+pikaclient.PikaClient
+logging
+yaml
+multiprocessing
+os
+pika
+pika.adapters.tornado_connection
+pika.adapters.tornado_connection.TornadoConnection
+tornado
+logging
+pyrabbit.api
+pyrabbit.api.Server

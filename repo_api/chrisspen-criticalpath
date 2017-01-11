@@ -1,0 +1,9 @@
+os
+urllib
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.Command
+criticalpath
+sys
+unittest

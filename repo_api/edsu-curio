@@ -1,0 +1,9 @@
+os
+sys
+setuptools
+setuptools.setup
+setuptools.Command
+curio
+pytest
+openpyxl
+openpyxl.load_workbook

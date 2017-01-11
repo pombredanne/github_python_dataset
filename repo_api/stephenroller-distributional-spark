@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+sys
+argparse
+pyspark
+pyspark.SparkContext
+sys
+argparse
+operator
+operator.add
+functools
+functools.partial
+pyspark.SparkContext
+pyspark.SparkConf
+depextract
+depextract.parse_corenlp_xml
+depextract.extract_relations

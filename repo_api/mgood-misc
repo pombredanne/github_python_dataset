@@ -1,0 +1,6 @@
+__future__
+__future__.generators
+ConfigParser
+os.path
+fnmatch
+popen2

@@ -1,0 +1,5 @@
+os
+distutils.core
+distutils.core.setup
+distutils.command.install
+distutils.command.install.INSTALL_SCHEMES

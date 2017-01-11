@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+argparse
+sys
+xerox
+zalgo
+zalgo.zalgo
+random
+random.randint
+random.choice

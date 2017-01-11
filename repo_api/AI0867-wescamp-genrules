@@ -1,0 +1,7 @@
+sys
+os.path
+subprocess
+urllib2
+json
+wesnoth.libgithub
+pysvn

@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+django.test.simple
+django.test.simple.DjangoTestSuiteRunner
+django.conf
+django.conf.settings

@@ -1,0 +1,7 @@
+argparse
+requests
+scipy
+scipy.fftpack
+numpy
+PIL
+PIL.Image

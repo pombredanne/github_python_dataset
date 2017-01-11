@@ -1,0 +1,4 @@
+numpy
+matplotlib.pyplot
+scipy.integrate
+scipy.integrate.odeint

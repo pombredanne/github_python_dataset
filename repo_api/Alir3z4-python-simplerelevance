@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+inspect
+base64
+json
+urllib
+urllib2
+simplerelevance.constants.actiontype
+simplerelevance.constants.actiontype.ActionType
+simplerelevance.constants.endpoint
+simplerelevance.constants.endpoint.EndPoint
+simplerelevance.utils
+simplerelevance.utils.pair_required

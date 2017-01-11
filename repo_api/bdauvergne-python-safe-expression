@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.Command
+unittest
+unittest.TextTestRunner
+unittest.TestLoader
+os.path
+os.path.dirname
+os
+unittest.TestCase
+ast
+__builtin__
+compiler
+compiler.InvalidExpression
+compiler.SafeExpression

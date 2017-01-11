@@ -1,0 +1,14 @@
+setuptools
+os
+sys
+os
+shutil
+subprocess
+tempfile
+pbr.version
+runansible
+runansible.rundir
+runansible.tests
+runansible.tests.base
+oslotest
+oslotest.base

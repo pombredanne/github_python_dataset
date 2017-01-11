@@ -1,0 +1,13 @@
+os
+subprocess
+StringIO
+StringIO.StringIO
+fabric.api
+os
+urllib2
+flask
+sparql
+os
+flask
+flask.ext.script
+flask.ext.script.Manager

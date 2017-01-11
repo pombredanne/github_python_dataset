@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.db
+django.db.models
+django.test
+django.test.TestCase
+django
+django.template
+django.contrib.sites.models
+django.contrib.sites.models.Site

@@ -1,0 +1,11 @@
+subprocess
+i3pystatus
+i3pystatus.Status
+i3pystatus.Module
+subprocess
+os
+os.path
+i3pystatus.Status
+i3pystatus.IntervalModule
+i3pystatus.Module
+s_parcel

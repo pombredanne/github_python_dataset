@@ -1,0 +1,6 @@
+sys
+time
+PyQt5
+PyQt5.QtWidgets
+PyQt5.QtGui
+PyQt5.QtCore

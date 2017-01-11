@@ -1,0 +1,7 @@
+os
+sys
+boto.ec2
+pprint
+pprint.pprint
+optparse
+optparse.OptionParser

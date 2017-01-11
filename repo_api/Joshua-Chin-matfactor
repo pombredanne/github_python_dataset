@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.Extension
+_factorize
+_factorize.factorize

@@ -1,0 +1,10 @@
+argparse
+os
+stat
+sys
+time
+pygame
+pygame.locals
+pygame.locals.QUIT
+pygame.locals.KEYDOWN
+pygame.locals.K_ESCAPE

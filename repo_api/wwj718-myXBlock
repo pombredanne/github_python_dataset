@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+pkg_resources
+xblock.core
+xblock.core.XBlock
+xblock.fields
+xblock.fields.Scope
+xblock.fields.Integer
+xblock.fragment
+xblock.fragment.Fragment
+myblock
+myblock.MyXBlock

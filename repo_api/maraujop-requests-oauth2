@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+requests
+urllib
+urllib.quote
+urllib.urlencode
+urlparse
+urlparse.parse_qs
+requests_oauth2.oauth2
+requests_oauth2.oauth2.OAuth2

@@ -1,0 +1,15 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+linkedin2md
+re
+argparse
+argparse.ArgumentParser
+collections
+collections.OrderedDict
+dryscrape
+lxml.html
+bs4
+bs4.BeautifulSoup
+html2text
+html2text.html2text

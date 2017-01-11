@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+urllib
+urllib2
+cookielib
+bs4
+re
+Cookie
+Browser
+Browser.Browser

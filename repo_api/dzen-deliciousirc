@@ -1,0 +1,14 @@
+sys
+re
+os
+optparse
+yaml
+webbrowser
+urlparse
+urlparse.urlparse
+pprint
+threading
+urwid
+urwid.curses_display
+pydelicious
+urllib2

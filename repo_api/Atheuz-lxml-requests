@@ -1,0 +1,5 @@
+unittest
+lxml_requests
+lxml.html
+lxml.etree
+requests

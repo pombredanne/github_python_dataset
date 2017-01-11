@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.template
+django.utils.translation
+django.utils.translation.ugettext_lazy
+django.utils.translation.ugettext_lazy

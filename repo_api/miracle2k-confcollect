@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+pytest
+confcollect
+confcollect.from_object
+confcollect.from_environ
+confcollect.spec
+confcollect.specs_from_dict
+os
+copy

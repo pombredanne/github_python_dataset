@@ -1,0 +1,7 @@
+site
+os
+os.environ
+os.path
+os.path.join
+sys
+sys.version_info

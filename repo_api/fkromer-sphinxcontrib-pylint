@@ -1,0 +1,13 @@
+os.path
+re
+subprocess
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.directives
+sphinx.util.compat
+sphinx.util.compat.Directive
+sphinx.ext.graphviz
+sphinx.ext.graphviz.graphviz
+sys
+os

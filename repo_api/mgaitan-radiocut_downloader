@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+tempfile
+pyquery
+pyquery.PyQuery
+requests
+moviepy.editor
+moviepy.editor.AudioFileClip
+moviepy.editor.concatenate_audioclips

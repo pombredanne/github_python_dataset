@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+urllib2
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+getpass
+getpass.getpass
+urllib
+urllib.urlencode
+sys
+os

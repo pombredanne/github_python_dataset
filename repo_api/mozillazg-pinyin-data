@@ -1,0 +1,17 @@
+collections
+functools
+operator
+re
+merge_unihan
+merge_unihan.parse_pinyins
+merge_unihan.code_to_hanzi
+collections
+collections.namedtuple
+re
+sys
+pyquery
+pyquery.PyQuery
+requests
+re
+sys
+merge_unihan.parse_pinyins

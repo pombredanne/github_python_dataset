@@ -1,0 +1,7 @@
+__future__
+__future__.unicode_literals
+logging
+envparse
+envparse.env
+imapclient
+imapclient.IMAPClient

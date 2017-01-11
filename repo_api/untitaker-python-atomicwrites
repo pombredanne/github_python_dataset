@@ -1,0 +1,17 @@
+ast
+re
+setuptools
+setuptools.find_packages
+setuptools.setup
+contextlib
+os
+sys
+tempfile
+os
+sys
+pkg_resources
+errno
+os
+atomicwrites
+atomicwrites.atomic_write
+pytest

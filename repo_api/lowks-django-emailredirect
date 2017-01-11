@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+django.conf
+django.conf.settings
+django.core.mail
+django.core.mail.send_mail
+django.conf.settings
+django.core.mail.backends.smtp
+django.core.mail.backends.smtp.EmailBackend

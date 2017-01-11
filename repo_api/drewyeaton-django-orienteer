@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+commands
+commands.getstatusoutput
+django
+django.template
+django.conf
+django.conf.settings

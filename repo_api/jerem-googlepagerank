@@ -1,0 +1,7 @@
+os
+os.path
+setuptools
+setuptools.setup
+setuptools.find_packages
+urllib
+re

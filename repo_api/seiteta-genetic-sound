@@ -1,0 +1,7 @@
+numpy
+scipy.io.wavfile
+scipy.io.wavfile.write
+matplotlib.pyplot
+numpy
+numpy
+scipy.io.wavfile.read

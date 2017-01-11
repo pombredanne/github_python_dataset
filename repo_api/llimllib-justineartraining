@@ -1,0 +1,16 @@
+os
+os.mkdir
+pub
+pub.task
+path
+path.path
+codecs
+codecs.open
+os.path
+os.path.isdir
+pystache
+pystache.render
+functools
+functools.partial
+pub.shortcuts
+pub.shortcuts.rm

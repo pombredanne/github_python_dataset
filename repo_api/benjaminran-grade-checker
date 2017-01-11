@@ -1,0 +1,8 @@
+selenium
+selenium.webdriver
+selenium.webdriver.common.keys
+selenium.webdriver.common.keys.Keys
+smtplib
+email.mime.text
+email.mime.text.MIMEText
+time

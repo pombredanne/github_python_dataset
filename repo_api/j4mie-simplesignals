@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+mock
+unittest
+simplesignals.core
+simplesignals.core.Signal
+simplesignals.core.SignalHandler
+simplesignals.core.SignalNamespace
+simplesignals.core.signals
+signal
+logging
+sys
+logging
+simplesignals
+simplesignals.signals

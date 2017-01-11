@@ -1,0 +1,17 @@
+django.conf
+django.conf.settings
+unittest
+override_settings
+override_settings.(
+django.db
+django.db.models
+django.test
+django.test.TestCase
+django.conf.settings
+override_settings.override_settings
+copy
+mock
+functools
+functools.wraps
+django.conf.global_settings
+django.conf.settings

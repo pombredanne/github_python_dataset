@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+django.conf
+django.conf.settings
+django.core.management
+django.core.management.call_command
+django.db
+django.db.models
+django.conf.urls.defaults
+django.contrib
+django.contrib.admin
+django.test
+django.test.TestCase
+django.conf.urls.defaults

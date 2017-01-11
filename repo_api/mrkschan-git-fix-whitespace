@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+git_fix_whitespace
+git_fix_whitespace.git_fix_whitespace
+argparse
+ast
+itertools
+os
+re
+sys
+git
+git.Repo
+git.cmd
+git.cmd.Git

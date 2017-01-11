@@ -1,0 +1,7 @@
+os
+re
+urlparse
+lxml.html
+lxml.html.HTMLParser
+lxml
+lxml.etree

@@ -1,0 +1,6 @@
+json
+lxml
+lxml.html
+urlparse
+urlparse.urlparse
+urlparse.urljoin

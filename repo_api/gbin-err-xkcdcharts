@@ -1,0 +1,11 @@
+io
+typing
+typing.Sequence
+errbot
+errbot.BotPlugin
+errbot.arg_botcmd
+requests
+matplotlib
+matplotlib.pyplot
+threading
+threading.Lock

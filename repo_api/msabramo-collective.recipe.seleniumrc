@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+os
+shutil
+tempfile
+urllib2
+urlparse
+setuptools.archive_util
+pkg_resources
+ConfigParser
+hexagonit.recipe.download
+stat

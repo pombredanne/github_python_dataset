@@ -1,0 +1,16 @@
+gnomepicross.gui
+gnomepicross.gui.Gui
+random
+random.randrange
+zipfile
+zipfile.ZipFile
+StringIO
+StringIO.StringIO
+sys
+game
+timer
+threading
+threading.Thread
+threading.Event
+time
+time.sleep

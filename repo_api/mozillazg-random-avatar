@@ -1,0 +1,11 @@
+avatar.app
+avatar.app.app
+time
+time.time
+cStringIO
+cStringIO.StringIO
+web
+utils.visicon
+utils.visicon.Visicon
+hashlib
+hashlib.md5

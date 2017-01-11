@@ -1,0 +1,15 @@
+gitconfig
+json
+os
+shutil
+subprocess
+sys
+os.path
+os.path.join
+os.path.join
+os.path.dirname
+xstatic.pkg
+xstatic.pkg.{name}
+setuptools
+setuptools.setup
+setuptools.find_packages

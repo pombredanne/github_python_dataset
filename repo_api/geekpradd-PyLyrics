@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+unittest
+requests
+bs4
+bs4.BeautifulSoup
+bs4.Comment
+bs4.NavigableString
+sys
+codecs
+json

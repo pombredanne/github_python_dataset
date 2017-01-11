@@ -1,0 +1,5 @@
+re
+os
+setuptools
+setuptools.setup
+redis

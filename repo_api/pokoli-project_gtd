@@ -1,0 +1,16 @@
+trytond.model
+trytond.model.ModelView
+trytond.model.ModelSQL
+trytond.model.fields
+trytond.pyson
+trytond.pyson.Eval
+project_gtd
+test_project_gtd
+test_project_gtd.suite
+sys
+os
+unittest
+trytond.tests.test_tryton
+trytond.tests.test_tryton
+trytond.tests.test_tryton.test_view
+trytond.tests.test_tryton.test_depends

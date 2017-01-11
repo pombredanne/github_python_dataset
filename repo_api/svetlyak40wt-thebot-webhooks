@@ -1,0 +1,13 @@
+anyjson
+times
+subprocess
+os.path
+thebot
+thebot.Plugin
+thebot.on_command
+thebot.batteries.http
+thebot.batteries.http.HttpRequest
+pytils.translit
+pytils.translit.slugify
+setuptools
+setuptools.setup

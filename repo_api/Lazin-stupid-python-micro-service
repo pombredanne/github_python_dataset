@@ -1,0 +1,7 @@
+cherrypy
+json
+argparse
+jinja2
+jinja2.Template
+numpy
+pandas

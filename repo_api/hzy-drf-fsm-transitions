@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+rest_framework.decorators
+rest_framework.decorators.detail_route
+rest_framework.response
+rest_framework.response.Response

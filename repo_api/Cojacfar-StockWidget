@@ -1,0 +1,5 @@
+gi.repository
+gi.repository.Gtk
+gi.repository.Gdk
+ystockquote
+urllib

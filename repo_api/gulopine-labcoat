@@ -1,0 +1,11 @@
+labcoat
+labcoat.Specimen
+distutils.core
+distutils.core.setup
+labcoat.attributes
+labcoat.attributes.AttributeTester
+labcoat.specimen
+labcoat.specimen.Specimen
+threading
+labcoat.attributes
+labcoat.methods

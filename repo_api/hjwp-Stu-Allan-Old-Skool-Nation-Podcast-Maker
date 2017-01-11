@@ -1,0 +1,5 @@
+requests
+lxml
+lxml.html
+django.contrib
+django.contrib.syndication

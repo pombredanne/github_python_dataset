@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+tablib
+click
+munge
+munge.converter
+munge.writer
+munge.writer.OUTPUT
+tablib.formats
+tablib.formats.available
+munge.reader
+munge.reader.read
+munge.writer.write
+io
+io.TextIOWrapper

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+tempfile
+click
+requests
+requests_cache
+apiclient.discovery
+apiclient.discovery.build
+apiclient.errors
+apiclient.errors.HttpError

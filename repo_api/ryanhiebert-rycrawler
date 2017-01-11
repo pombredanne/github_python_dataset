@@ -1,0 +1,12 @@
+django.test
+django.test.TestCase
+__future__
+__future__.print_function
+django.shortcuts
+django.shortcuts.render_to_response
+crawler
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.url
+views
+views.crawl

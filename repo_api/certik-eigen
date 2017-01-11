@@ -1,0 +1,10 @@
+numpy
+numpy.array
+numpy.dot
+numpy.eye
+scipy.sparse
+scipy.sparse.csc_matrix
+eigen
+eigen.solve_eig_numpy
+eigen.solve_eig_newton
+numpy.array

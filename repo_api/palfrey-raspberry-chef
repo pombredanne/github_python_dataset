@@ -1,0 +1,15 @@
+urllib2
+urlparse
+urlparse.urlparse
+subprocess
+time
+time.sleep
+os.path
+os.path.exists
+os
+os.chdir
+git
+git.Repo
+git.NoSuchPathError
+shutil
+logging

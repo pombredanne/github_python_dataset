@@ -1,0 +1,14 @@
+inspect
+os
+re
+sys
+java.util
+javax.swing
+javax.swing.JMenuItem
+java.awt.event
+java.awt.event.ActionListener
+burp
+burp.IBurpExtender
+burp.IContextMenuFactory
+burp_config
+burp_config.ScopeList

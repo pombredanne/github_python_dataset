@@ -1,0 +1,8 @@
+os
+string
+requests
+bs4
+bs4.BeautifulSoup
+nltk
+cPickle
+matplotlib.pyplot

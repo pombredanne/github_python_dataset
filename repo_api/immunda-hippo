@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+click
+os
+shutil
+subprocess
+subprocess.Popen
+tempfile

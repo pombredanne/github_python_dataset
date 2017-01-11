@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+docopt
+docopt.docopt
+client
+urllib
+urllib2
+client.cli
+client.cli.parser
+check
+cli
+config
+register
+client.cli.parser

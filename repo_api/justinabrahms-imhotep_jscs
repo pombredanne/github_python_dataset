@@ -1,0 +1,13 @@
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+os.path
+re
+imhotep.tools
+imhotep.tools.Tool
+unittest
+unittest.TestCase
+mock
+plugin
+plugin.JSCS

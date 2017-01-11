@@ -1,0 +1,4 @@
+interface
+distutils.core
+distutils.core.setup
+distutils.core.Extension

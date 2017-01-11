@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+logging
+time
+usb
+pyonewire.core
+pyonewire.core.cstruct
+pyonewire.core.util
+pyonewire.master
+pyonewire.master.GenericOneWireMaster
+struct

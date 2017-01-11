@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+filerotate
+filerotate.__version__
+__version__
+optparse
+sys
+os
+__version__

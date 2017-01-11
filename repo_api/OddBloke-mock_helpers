@@ -1,0 +1,15 @@
+distutils.core
+distutils.core.setup
+mock_helpers.assertions
+mock_helpers.assertions.assert_called_once
+mock_helpers.side_effects
+mock
+mock.Mock
+nose.tools
+nose.tools.assert_equal
+nose.tools.assert_raises
+mock_helpers.side_effects
+mock_helpers.side_effects.MultiReturn
+mock.Mock
+nose.tools.assert_raises
+mock_helpers.assertions.assert_called_once

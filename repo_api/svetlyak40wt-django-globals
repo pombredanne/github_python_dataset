@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django_globals
+django_globals.globals
+threading

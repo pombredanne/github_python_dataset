@@ -1,0 +1,12 @@
+os
+re
+setuptools
+setuptools.setup
+setuptools.find_packages
+library
+library.{{PROJECT}}
+sys
+pytest
+cProfile
+pstats
+StringIO

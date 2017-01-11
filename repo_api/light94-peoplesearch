@@ -1,0 +1,15 @@
+ezodf
+xgoogle.search
+xgoogle.search.GoogleSearch
+xgoogle.search.SearchError
+urllib2
+urllib2.Request
+urllib2.urlopen
+urllib2.HTTPError
+urllib2.URLError
+socket
+socket.error
+time
+httplib
+httplib.IncompleteRead
+httplib.BadStatusLine

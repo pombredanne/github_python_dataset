@@ -1,0 +1,8 @@
+codecs
+os
+sys
+base64
+bz2
+tempfile
+shutil
+pip

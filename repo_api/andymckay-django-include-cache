@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+django.core
+django.core.urlresolvers
+django.core.urlresolvers
+django.core.urlresolvers.ResolverMatch
+django.core.urlresolvers.Resolver404
+django.utils.encoding
+django.utils.encoding.smart_str

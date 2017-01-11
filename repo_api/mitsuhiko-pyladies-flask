@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+datetime
+datetime.datetime
+flask
+flask.Flask
+flask.request
+flask.url_for
+flask.redirect
+flask.g
+flask.session
+flask.flash
+flask.\
+flask.ext.sqlalchemy
+flask.ext.sqlalchemy.SQLAlchemy
+flask.ext.oauth
+flask.ext.oauth.OAuth

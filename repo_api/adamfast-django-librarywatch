@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.test
+django.test.TestCase
+pip
+xmlrpclib
+django.conf
+django.conf.settings
+django.core.management.base
+django.core.management.base.BaseCommand
+django.core.management.base.CommandError

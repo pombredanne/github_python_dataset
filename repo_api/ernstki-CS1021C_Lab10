@@ -1,0 +1,15 @@
+sys
+#import
+(executable
+version_info)
+os
+#import
+(system
+name)
+random
+random.randrange
+string
+string.ljust
+string.join
+time
+time.sleep

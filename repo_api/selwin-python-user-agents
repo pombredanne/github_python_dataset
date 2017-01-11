@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+sys
+collections
+collections.namedtuple
+ua_parser
+ua_parser.user_agent_parser
+compat
+compat.string_types
+json
+os
+unittest
+ua_parser.user_agent_parser
+import
+parsers
+parsers.parse
+parsers.parse

@@ -1,0 +1,12 @@
+functools
+sys
+operator
+pytest
+pretend
+pretend.stub
+pretend.raiser
+pretend.call
+pretend.call_recorder
+pretend.PY3K
+setuptools
+setuptools.setup

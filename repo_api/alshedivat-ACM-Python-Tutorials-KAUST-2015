@@ -1,0 +1,11 @@
+matplotlib
+matplotlib.pyplot
+numpy
+scipy.sparse
+scipy.sparse.linalg.dsolve
+scipy.sparse.linalg.dsolve.linsolve
+time
+urllib
+os
+os.getcwd
+numpy.linalg

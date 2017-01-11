@@ -1,0 +1,16 @@
+re
+os
+os.path
+setuptools
+setuptools.setup
+json
+logging
+contextlib
+contextlib.contextmanager
+functools
+functools.wraps
+requests
+requests_cache
+pytest
+jboss
+jboss.APIClient

@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+template_goodies
+copy
+django
+django.template
+django.template.loader
+django.template.loader.render_to_string
+classytags.core
+classytags.core.Tag
+classytags.core.Options
+classytags.arguments
+classytags.arguments.(
+classytags.blocks
+classytags.blocks.BlockDefinition

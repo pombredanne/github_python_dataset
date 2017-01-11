@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+httpie.plugins
+httpie.plugins.AuthPlugin
+requests_oauthlib
+requests_oauthlib.OAuth1

@@ -1,0 +1,8 @@
+sys
+os
+tty
+termios
+fcntl
+struct
+itertools
+operator

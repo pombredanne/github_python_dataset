@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+unittest
+cryptotrade
+urllib
+json
+socket
+urlparse
+urlparse.urljoin
+public_api
+trading_api

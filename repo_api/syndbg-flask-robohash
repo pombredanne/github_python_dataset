@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+hashlib
+hashlib.algorithms_available
+hashlib
+hashlib
+unittest
+unittest.TestCase
+flask
+flask.Flask
+flask.render_template_string
+flask_robohash
+flask_robohash.Robohash

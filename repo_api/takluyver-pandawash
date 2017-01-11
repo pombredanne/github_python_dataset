@@ -1,0 +1,6 @@
+IPython.core.error
+IPython.core.error.UsageError
+IPython.core.magic
+IPython.core.magic.(Magics
+IPython.core.magic.magics_class
+IPython.core.magic.line_magic)

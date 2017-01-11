@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+argparse
+gignore
+gignore.get_version
+gignore.Gignore
+gignore.utils
+gignore.utils.wrapwrite
+gignore.compat
+gignore.compat.urlopen
+gignore.compat.HTTPError
+sys

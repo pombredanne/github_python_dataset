@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+unittest
+gedcom
+six
+tempfile
+os
+os.remove
+sys
+os
+re
+numbers
+os.path
+six
+_version
+_version.__version__

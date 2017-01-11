@@ -1,0 +1,16 @@
+tempfile
+tempfile.mkdtemp
+tensorflow
+numpy
+keras.optimizers
+keras.models
+keras.backend
+keras.backend.tensorflow_backend
+keras.layers
+keras.layers.Dense
+keras.layers.Activation
+keras.layers.Reshape
+keras.optimizers
+keras.optimizers.Adam
+keras.datasets
+keras.datasets.mnist

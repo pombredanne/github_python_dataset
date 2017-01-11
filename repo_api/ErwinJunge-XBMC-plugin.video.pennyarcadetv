@@ -1,0 +1,12 @@
+xbmcplugin
+xbmcgui
+xbmcaddon
+os
+urllib2
+re
+urlparse
+cgi
+cgi.parse_qs
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+BeautifulSoup.BeautifulStoneSoup

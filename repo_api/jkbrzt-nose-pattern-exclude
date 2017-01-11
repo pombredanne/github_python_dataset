@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+os
+logging
+fnmatch
+fnmatch.fnmatch
+nose.plugins
+nose.plugins.Plugin

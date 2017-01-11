@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+functools
+itertools
+utils
+utils.trans
+functools
+functools.partial
+functools.wraps
+operator
+mcoll
+mcoll.t

@@ -1,0 +1,12 @@
+scrapy
+csv
+codecs
+cStringIO
+os
+scrapy
+scrapy.http.request.form
+scrapy.http.request.form.FormRequest
+dateutil.parser
+dateutil.parser.parse
+gty.items
+gty.items.SermonItem

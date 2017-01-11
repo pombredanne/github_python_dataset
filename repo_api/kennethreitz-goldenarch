@@ -1,0 +1,6 @@
+os
+sys
+core
+core.*import
+core.os
+static

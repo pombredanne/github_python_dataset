@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+datetime
+twisted.internet.defer
+twisted.internet.defer.inlineCallbacks
+autobahn.twisted.wamp
+autobahn.twisted.wamp.ApplicationSession
+twisted.internet.defer.inlineCallbacks
+twisted.internet.defer.returnValue
+autobahn.twisted.util
+autobahn.twisted.util.sleep
+autobahn.twisted.wamp.ApplicationSession
+autobahn.wamp.exception
+autobahn.wamp.exception.ApplicationError
+requests
+feedparser

@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.print_function
+os.path
+sys
+django.db.models
+django.db.models.signals
+django.db
+django.db.connections
+django.db.transaction
+django.conf
+django.conf.settings
+django.conf.settings
+django.db.connections
+django.db.DEFAULT_DB_ALIAS

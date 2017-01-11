@@ -1,0 +1,15 @@
+__future__
+__future__.division
+os
+json
+math
+textblob
+textblob.TextBlob
+setuptools
+setuptools.setup
+setuptools.find_packages
+scrapy
+json
+scrapy
+euler.items
+euler.items.EulerItem

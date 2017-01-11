@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+argparse
+BaseHTTPServer
+json
+requests
+sys
+urllib
+urlparse
+uuid
+webbrowser
+oa2
+oa2
+oa2
+sys
+os

@@ -1,0 +1,13 @@
+docutils.parsers.rst
+docutils.parsers.rst.Directive
+docutils.statemachine
+docutils.statemachine.ViewList
+docutils.nodes
+sphinx.addnodes
+textwrap
+re
+sys
+os
+maya.OpenMaya
+maya.OpenMayaMPx
+sys

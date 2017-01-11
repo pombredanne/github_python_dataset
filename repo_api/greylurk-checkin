@@ -1,0 +1,5 @@
+google.protobuf
+google.protobuf.descriptor
+google.protobuf.message
+google.protobuf.reflection
+google.protobuf.descriptor_pb2

@@ -1,0 +1,10 @@
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+openid.message
+openid.message.(
+openid.extension
+openid.extension.Extension
+logging
+six

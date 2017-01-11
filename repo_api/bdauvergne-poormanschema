@@ -1,0 +1,8 @@
+subprocess
+os
+setuptools
+setuptools.setup
+setuptools.command.sdist
+setuptools.command.sdist.sdist
+re
+decimal

@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+xml.etree.cElementTree
+xml.etree.cElementTree.Element
+xml.etree.cElementTree.parse
+os
+bitten.api
+bitten.api.IReportChartGenerator
+bitten.api.IReportSummarizer
+bitten.util
+bitten.util.xmlio
+trac.core
+trac.web.chrome
+trac.web.chrome.ITemplateProvider
+pkg_resources

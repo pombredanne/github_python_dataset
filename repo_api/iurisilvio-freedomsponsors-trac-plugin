@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+genshi.builder
+genshi.builder.tag
+trac.core
+trac.core.Component
+trac.core.implements
+trac.web.api
+trac.web.api.IRequestFilter
+trac.web.chrome
+trac.web.chrome.add_ctxtnav
+freedomsponsors_trac
+freedomsponsors_trac.FreedomSponsorsPlugin

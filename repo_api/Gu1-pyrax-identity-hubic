@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+pyrax
+pyrax.exceptions
+requests
+re
+urlparse
+pyrax.base_identity
+pyrax.base_identity.BaseIdentity
+pyrax.base_identity.Service
+requests.compat
+requests.compat.quote
+requests.compat.quote_plus
+os
+sys
+pyrax

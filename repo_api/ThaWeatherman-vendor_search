@@ -1,0 +1,12 @@
+bs4
+bs4.BeautifulSoup
+fuzzywuzzy
+fuzzywuzzy.fuzz
+requests
+search
+search.search_apmex
+search.search_gainesvillecoins
+search.search_goldeneaglecoins
+search.search_provident
+search.search_shinybars
+search.search_silvertowne

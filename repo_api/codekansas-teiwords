@@ -1,0 +1,10 @@
+eulexistdb
+eulexistdb.db
+localsettings
+xml.etree
+xml.etree.ElementTree
+collections
+collections.Counter
+nltk
+os
+sys

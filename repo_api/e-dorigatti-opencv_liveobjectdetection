@@ -1,0 +1,5 @@
+cv
+cv2
+numpy
+sys
+sys.argv

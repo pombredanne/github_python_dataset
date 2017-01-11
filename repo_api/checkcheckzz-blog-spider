@@ -1,0 +1,17 @@
+urllib2
+urllib2
+urllib2.URLError
+urllib2.HTTPError
+time
+copy
+re
+os
+sys
+logging
+threading
+Queue
+win32com
+win32com.client
+win32com.client.Dispatch
+win32com.client.constants
+socket

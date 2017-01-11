@@ -1,0 +1,9 @@
+__future__
+__future__.absolute_import
+__future__.division
+__future__.print_function
+platform
+setuptools
+setuptools.setup
+psycopg2cffi
+psycopg2cffi.compat

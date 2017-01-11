@@ -1,0 +1,15 @@
+scipy.stats.stats
+scipy.stats.stats.pearsonr
+scipy.spatial.distance
+nltk.stem.porter
+nltk.corpus
+nltk.corpus.wordnet
+math
+numpy
+struct
+nltk.corpus.wordnet_ic
+lexsim
+scipy.stats.stats.pearsonr
+nltk.corpus.stopwords
+math
+codecs

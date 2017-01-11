@@ -1,0 +1,9 @@
+io
+sys
+setuptools
+pkg_resources
+__future__
+__future__.unicode_literals
+__future__.unicode_literals
+__future__.unicode_literals
+six

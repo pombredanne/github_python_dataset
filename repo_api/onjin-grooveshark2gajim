@@ -1,0 +1,10 @@
+os
+sys
+time
+optparse
+optparse.OptionParser
+pyinotify
+pyinotify.WatchManager
+pyinotify.Notifier
+pyinotify.ProcessEvent
+pyinotify.EventsCodes

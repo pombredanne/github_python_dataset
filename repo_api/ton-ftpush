@@ -1,0 +1,7 @@
+ftplib
+getpass
+optparse
+os
+re
+threading
+pyinotify

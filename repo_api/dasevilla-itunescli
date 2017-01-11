@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+sys
+cliff.app
+cliff.app.App
+cliff.commandmanager
+cliff.commandmanager.CommandManager
+logging
+cliff.command
+cliff.command.Command
+cliff.lister
+cliff.lister.Lister
+cliff.show
+cliff.show.ShowOne
+itunes

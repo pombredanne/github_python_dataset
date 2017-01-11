@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+urlparse
+urlparse.urljoin
+json
+requests
+import
+exceptions
+exceptions.(
+requestor
+requestor.rest
+exceptions.(

@@ -1,0 +1,17 @@
+scrapy
+scrapy.Item
+scrapy.Field
+json
+scrapy.signals
+scrapy.exporters
+scrapy.exporters.BaseItemExporter
+scrapy.xlib.pydispatch
+scrapy.xlib.pydispatch.dispatcher
+urllib
+scrapy.selector
+scrapy.selector.Selector
+scrapy.spiders
+scrapy.spiders.CrawlSpider
+scrapy.spiders.Rule
+hatebubot.items
+hatebubot.items.HatebuEntry

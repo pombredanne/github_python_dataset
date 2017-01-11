@@ -1,0 +1,17 @@
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.command.test
+setuptools.command.test.test
+largefile
+os
+tempfile
+random
+cStringIO
+cStringIO.StringIO
+itertools
+itertools.imap
+itertools.chain
+multiprocessing
+multiprocessing.Pool

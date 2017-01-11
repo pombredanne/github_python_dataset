@@ -1,0 +1,12 @@
+ConfigParser
+logging
+mysql.connector
+sys
+PySide.QtCore
+PySide.QtGui
+sys
+os
+sphinx.highlighting
+sphinx.highlighting.lexers
+pygments.lexers.web
+pygments.lexers.web.PhpLexer

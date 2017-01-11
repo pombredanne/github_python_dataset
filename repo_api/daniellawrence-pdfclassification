@@ -1,0 +1,15 @@
+pdfminer.pdfinterp
+pdfminer.pdfinterp.PDFResourceManager
+pdfminer.pdfinterp.PDFPageInterpreter
+pdfminer.converter
+pdfminer.converter.TextConverter
+pdfminer.layout
+pdfminer.layout.LAParams
+pdfminer.pdfpage
+pdfminer.pdfpage.PDFPage
+cStringIO
+cStringIO.StringIO
+collections
+collections.defaultdict
+sys
+yaml

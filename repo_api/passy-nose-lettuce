@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+noselettuce
+noselettuce.__version__
+nose.plugins
+nose.plugins.Plugin
+lettuce
+os

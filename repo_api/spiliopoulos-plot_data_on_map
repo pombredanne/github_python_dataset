@@ -1,0 +1,9 @@
+mpl_toolkits.basemap
+mpl_toolkits.basemap.Basemap
+geopy.geocoders
+geopy.geocoders.Nominatim
+sys
+sys.argv
+matplotlib.pyplot
+numpy
+pickle

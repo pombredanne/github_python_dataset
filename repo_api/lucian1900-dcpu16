@@ -1,0 +1,5 @@
+asm
+asm.disassemble
+asm.assemble
+asm.lex
+re

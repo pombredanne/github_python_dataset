@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+dereferencing
+dereferencing.dereference
+copy
+re
+jsonpointer
+copy
+copy.deepcopy
+unittest
+unittest.TestCase
+json_variable
+json_variable.dereference
+json_variable.dereferencing
+json_variable.dereferencing.(

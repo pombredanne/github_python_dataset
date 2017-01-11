@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+logging
+zc.buildout.easy_install
+pkg_resources

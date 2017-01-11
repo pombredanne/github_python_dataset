@@ -1,0 +1,9 @@
+appindicator
+gio
+glob
+gtk
+os
+os.path
+re
+signal
+subprocess

@@ -1,0 +1,16 @@
+os
+sys
+shells
+sys
+os
+shells
+os
+django.core.management.commands.shell
+django.core.management.commands.shell.Command
+contextlib
+django.core.management.base
+django.core.management.base.CommandError
+django.core.management.commands.dbshell
+django.core.management.commands.dbshell.Command
+django.db
+django.db.connections

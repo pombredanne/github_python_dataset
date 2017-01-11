@@ -1,0 +1,8 @@
+os
+magic
+argparse
+termcolor
+termcolor.colored
+subprocess
+subprocess.Popen
+subprocess.PIPE

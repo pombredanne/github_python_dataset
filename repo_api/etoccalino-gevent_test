@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+gevent_test
+tasks
+related
+logging
+gevent
+gevent.queue
+gevent
+gevent
+unittest

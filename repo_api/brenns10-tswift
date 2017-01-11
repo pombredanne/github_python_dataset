@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+multiprocessing.pool
+multiprocessing.pool.ThreadPool
+tswift
+tswift.Artist
+tswift.Song
+lxml
+lxml.html
+requests
+re
+random
+sys

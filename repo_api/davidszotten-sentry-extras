@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sentry_extras
+sentry_extras.filters
+sentry_extras.filters.LevelAndAboveFilter
+sentry.plugins
+sentry.plugins.Plugin
+django.utils.datastructures
+django.utils.datastructures.SortedDict
+sentry.conf
+sentry.conf.settings
+sentry.filters
+sentry.filters.SentryFilter

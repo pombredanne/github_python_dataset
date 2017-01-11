@@ -1,0 +1,15 @@
+os
+sys
+setuptools
+setuptools.setup
+argparse
+readline
+#
+make
+raw_input
+use
+readline
+sys
+sqlalchemy
+texttable
+texttable.Texttable

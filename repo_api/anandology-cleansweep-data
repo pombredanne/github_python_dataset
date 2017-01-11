@@ -1,0 +1,10 @@
+openpyxl
+openpyxl.load_workbook
+openpyxl.#
+openpyxl.pip
+openpyxl.install
+openpyxl.openpyxl
+sys
+re
+itertools
+unidecode

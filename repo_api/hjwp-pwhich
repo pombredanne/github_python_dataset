@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+os
+sys
+=
+__import__(sys.argv[1])

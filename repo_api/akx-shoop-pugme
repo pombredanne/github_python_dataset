@@ -1,0 +1,13 @@
+setuptools
+shoop.apps
+shoop.apps.AppConfig
+random
+django.http.response
+django.http.response.HttpResponse
+shoop.admin.base
+shoop.admin.base.AdminModule
+shoop.admin.base.MenuEntry
+shoop.admin.utils.urls
+shoop.admin.utils.urls.admin_url
+kennel
+kennel.PUGS

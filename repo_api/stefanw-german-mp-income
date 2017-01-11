@@ -1,0 +1,5 @@
+lxml.etree
+lxml.etree.fromstring
+lxml.etree
+re
+scraperwiki

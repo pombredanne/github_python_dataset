@@ -1,0 +1,13 @@
+pitchfork.pitchfork
+pitchfork.pitchfork.search
+pitchfork.pitchfork.Review
+pitchfork.pitchfork.MultiReview
+json
+unittest
+sys
+json
+re
+difflib
+sys
+bs4
+bs4.BeautifulSoup

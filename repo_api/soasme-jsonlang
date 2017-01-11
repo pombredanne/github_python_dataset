@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+json
+jsonlang
+jsonlang.exec_jsonlang
+jsonlang.exec_jsonlang_code
+jsonlang.undefined

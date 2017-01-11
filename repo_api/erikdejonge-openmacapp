@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+os
+glob
+copy
+arguments
+arguments.Arguments
+consoleprinter
+consoleprinter.doinput
+consoleprinter.console

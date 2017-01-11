@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+StringIO
+StringIO.StringIO
+urllib
+re
+twisted.python
+twisted.python.log
+twisted.web.client
+twisted.web.client.getPage
+wolframalpha
+wolframalpha.Result

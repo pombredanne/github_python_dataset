@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+configparser
+time
+re
+sys
+os
+requests
+gi
+gi.repository
+gi.repository.Notify
+unittest
+libtn

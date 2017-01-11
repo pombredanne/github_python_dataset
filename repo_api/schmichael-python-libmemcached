@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.Extension
+time
+random
+string
+sys
+cmemcached
+unittest

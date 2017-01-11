@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+distutils.core.Extension
+warnings
+_dmumps
+numpy
+mumps

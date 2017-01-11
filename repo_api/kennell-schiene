@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+requests
+json
+datetime
+datetime.datetime
+bs4
+bs4.BeautifulSoup
+schiene
+schiene.Schiene

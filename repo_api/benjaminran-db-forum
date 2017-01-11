@@ -1,0 +1,10 @@
+psycopg2
+time
+forumdb
+cgi
+wsgiref.simple_server
+wsgiref.simple_server.make_server
+wsgiref
+wsgiref.util
+psycopg2
+time

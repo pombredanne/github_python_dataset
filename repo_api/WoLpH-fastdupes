@@ -1,0 +1,12 @@
+fnmatch
+os
+re
+stat
+sys
+functools
+functools.wraps
+hashlib
+sys
+os
+fastdupes
+fastdupes.__version__

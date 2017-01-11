@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+lp_show_my_bugs
+lp_show_my_bugs.LaunchpadShowMyBugs
+argparse
+lp_show_my_bugs.LaunchpadShowMyBugs
+tabulate
+tabulate.tabulate
+launchpadlib.launchpad
+launchpadlib.launchpad.Launchpad
+os

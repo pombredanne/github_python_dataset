@@ -1,0 +1,9 @@
+constant
+requests
+config
+bs4
+bs4.BeautifulSoup
+requests
+bs4.BeautifulSoup
+constant
+wget

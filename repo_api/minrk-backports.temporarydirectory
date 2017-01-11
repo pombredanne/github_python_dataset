@@ -1,0 +1,13 @@
+sys
+distutils.core
+distutils.core.setup
+pkgutil
+pkgutil.extend_path
+warnings
+shutil
+weakref
+tempfile
+tempfile.mkdtemp
+os
+backports.temporarydirectory
+backports.temporarydirectory.TemporaryDirectory

@@ -1,0 +1,16 @@
+sys
+os
+os
+PyKDE4
+PyKDE4.plasmascript
+PyKDE4.kdecore
+PyKDE4.kdecore.KToolInvocation
+PyKDE4.kdeui
+PyKDE4.kdeui.KIcon
+PyKDE4.plasma
+PyKDE4.plasma.Plasma
+PyQt4
+PyQt4.QtGui
+PyQt4.QtCore
+PyQt4.QtCore.Qt
+PyQt4.QtCore.QString

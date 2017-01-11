@@ -1,0 +1,7 @@
+__future__
+__future__.absolute_import
+__future__.unicode_literals
+fnmatch
+os
+subprocess
+weechat

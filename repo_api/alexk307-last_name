@@ -1,0 +1,7 @@
+distutils.core
+distutils.core.setup
+json
+metaphone
+metaphone.doublemetaphone
+name_file
+name_file.names

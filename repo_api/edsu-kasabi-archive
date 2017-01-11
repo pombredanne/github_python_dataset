@@ -1,0 +1,9 @@
+os
+sys
+boto
+gzip
+rdflib
+logging
+requests
+boto.s3.key
+boto.s3.key.Key

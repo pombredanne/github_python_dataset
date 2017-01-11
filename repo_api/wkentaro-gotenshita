@@ -1,0 +1,15 @@
+sys
+subprocess
+setuptools
+setuptools.setup
+setuptools.find_packages
+argparse
+re
+time
+sys
+datetime
+termcolor
+tabulate
+requests
+bs4
+bs4.BeautifulSoup

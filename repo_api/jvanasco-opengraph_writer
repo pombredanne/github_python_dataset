@@ -1,0 +1,13 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+opengraph_writer
+opengraph_writer.OpenGraphItem
+import
+datetime
+re
+types
+metadata_utils
+metadata_utils.html_attribute_escape

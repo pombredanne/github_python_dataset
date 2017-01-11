@@ -1,0 +1,15 @@
+re
+os
+sys
+nbt.nbt
+nbt.nbt.NBTFile
+textwrap
+textwrap.TextWrapper
+collections
+collections.namedtuple
+nbt.world
+nbt.world.AnvilWorldFolder
+argparse
+argparse.Action
+argparse.ArgumentParser
+argparse.ArgumentTypeError

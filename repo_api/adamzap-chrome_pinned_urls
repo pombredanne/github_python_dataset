@@ -1,0 +1,9 @@
+os
+sys
+urllib
+hashlib
+urlparse
+simplejson
+subprocess
+subprocess.Popen
+subprocess.PIPE

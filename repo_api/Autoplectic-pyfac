@@ -1,0 +1,8 @@
+numbers
+operator
+factorial
+factorial.factorial
+numpy
+nose.tools
+nose.tools.assert_equal
+nose.tools.assert_raises

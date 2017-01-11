@@ -1,0 +1,11 @@
+json
+requests
+uuid
+setuptools
+setuptools.setup
+mock
+mock.patch
+unittest
+unittest.TestCase
+kales
+kales.Kales

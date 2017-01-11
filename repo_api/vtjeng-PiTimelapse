@@ -1,0 +1,11 @@
+cv2
+os
+itertools
+cProfile
+matplotlib.pyplot
+subprocess
+smtplib
+socket
+email.mime.text
+email.mime.text.MIMEText
+datetime

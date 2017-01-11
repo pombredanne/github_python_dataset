@@ -1,0 +1,8 @@
+bottle
+bottle.route
+bottle.run
+bottle.template
+urllib2
+numpy
+scipy.sparse
+scipy.sparse.csc_matrix

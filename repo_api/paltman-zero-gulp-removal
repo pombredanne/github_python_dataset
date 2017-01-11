@@ -1,0 +1,12 @@
+os
+sys
+django.apps
+django.apps.AppConfig
+os
+os
+django.core.wsgi
+django.core.wsgi.get_wsgi_application
+django.conf.urls
+django.conf.urls.url
+django.views.generic
+django.views.generic.TemplateView

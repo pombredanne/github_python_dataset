@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+config
+config.BOTO_DEFAULT_REGION
+config.BOTO_ACCESS_KEY
+config.BOTO_SECRET
+boto.sts
+botofun
+botofun.BOTO_DEFAULT_REGION
+botofun.BOTO_ACCESS_KEY
+botofun.BOTO_SECRET
+testtools
+testtools.TestCase
+testtools.matchers
+testtools.matchers.Equals

@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+math
+sys
+decimal

@@ -1,0 +1,15 @@
+django.conf
+django.conf.settings
+os
+mock
+mock.patch
+mock.call
+django.db.models
+django.db.models.Manager
+djangoMock
+djangoMock.DjangoModelObjectsMock
+django.db
+django.db.models
+unittest
+mock.Mock
+test_objects_get

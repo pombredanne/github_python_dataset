@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+django.db
+django.db.models
+django.test
+django.test.TestCase
+django
+django.template
+google_analytics.templatetags
+google_analytics.templatetags.analytics

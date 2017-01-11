@@ -1,0 +1,14 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+django
+django.conf
+django.conf.settings
+django.test.utils
+django.test.utils.get_runner
+django.db
+django.db.models
+django.test
+django.test.TestCase

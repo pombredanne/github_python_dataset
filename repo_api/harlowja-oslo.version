@@ -1,0 +1,10 @@
+setuptools
+inspect
+logging
+six
+oslo_version._i18n
+oslo_version._i18n._
+oslo_version
+oslo_version.releases
+enum
+oslo_i18n

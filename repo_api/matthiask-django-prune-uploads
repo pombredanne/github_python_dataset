@@ -1,0 +1,17 @@
+io
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+collections
+collections.defaultdict
+os
+re
+django.apps
+django.apps.apps
+django.conf
+django.conf.settings
+django.core.management.base
+django.core.management.base.BaseCommand
+django.db.models
+django.db.models.FileField

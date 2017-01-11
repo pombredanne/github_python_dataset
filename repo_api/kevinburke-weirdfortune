@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+pprint
+sys
+HTMLParser
+clint.textui
+clint.textui.colored
+tweepy
+argparse
+tweets

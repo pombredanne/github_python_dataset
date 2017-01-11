@@ -1,0 +1,15 @@
+sys
+re
+setuptools
+setuptools.setup
+semon
+semon.__version__
+os
+rdflib
+sys
+unittest
+semon
+ConfigParser
+rdflib
+kitchen.text.converters
+kitchen.text.converters.to_bytes

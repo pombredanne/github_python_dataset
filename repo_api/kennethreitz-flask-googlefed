@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+os
+functools
+functools.wraps
+flask
+flask.(
+flask_openid
+flask_openid.OpenID

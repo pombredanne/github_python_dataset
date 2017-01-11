@@ -1,0 +1,10 @@
+helpers
+exc
+smartcard.Exceptions
+smartcard.System
+smartcard.System.readers
+datetime
+datetime.datetime
+zlib
+xml.dom.minidom
+xml.dom.minidom.parseString

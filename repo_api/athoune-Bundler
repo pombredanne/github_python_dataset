@@ -1,0 +1,17 @@
+ez_setup
+ez_setup.use_setuptools
+setuptools
+setuptools.setup
+sys
+sys
+os
+__init__
+__init__.Bundle
+Image
+ImageDraw
+Image
+ImageDraw
+glob
+os
+os.path
+mimetypes

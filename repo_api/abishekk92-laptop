@@ -1,0 +1,5 @@
+scipy
+scipy.stats
+pylab
+pylab.plot
+pylab.show

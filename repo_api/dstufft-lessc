@@ -1,0 +1,10 @@
+codecs
+os
+sys
+distutils.util
+distutils.util.convert_path
+fnmatch
+fnmatch.fnmatchcase
+setuptools
+setuptools.setup
+setuptools.find_packages

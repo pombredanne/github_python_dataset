@@ -1,0 +1,15 @@
+datetime
+distutils.command.build
+distutils.command.build.build
+distutils.core
+distutils.core.Command
+distutils.errors
+distutils.errors.DistutilsOptionError
+optparse
+optparse
+optparse.OptionParser
+os
+sys
+distutils.core.setup
+build_manpage
+build_manpage.build_manpage

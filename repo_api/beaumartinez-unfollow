@@ -1,0 +1,7 @@
+sys
+sys.argv
+sys.exit
+requests
+requests.Session
+requests_foauth
+requests_foauth.Foauth

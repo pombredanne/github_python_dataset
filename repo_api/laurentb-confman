@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+__future__.print_function
+os
+os.path
+re
+string
+string.Template
+__future__.absolute_import
+__future__.print_function
+os
+sys
+confman
+confman.ConfigSource

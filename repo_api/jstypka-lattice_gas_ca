@@ -1,0 +1,7 @@
+__future__
+__future__.division
+random
+pygame
+pygame.locals
+matplotlib.pyplot
+numpy

@@ -1,0 +1,6 @@
+os
+setuptools
+setuptools.setup
+collections
+sys
+jprops

@@ -1,0 +1,15 @@
+os
+re
+setuptools
+setuptools.setup
+setuptools.find_packages
+errno
+subprocess
+django.db
+django.db.connections
+django.core.management.commands
+django.core.management.commands.dbshell
+sys
+os
+django_dbshell_plus
+sphinx_rtd_theme

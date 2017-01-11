@@ -1,0 +1,9 @@
+django.conf.urls.defaults
+sys
+os
+django.core.management
+django.core.management.execute_manager
+django.db
+django.db.models
+django.test
+django.test.TestCase

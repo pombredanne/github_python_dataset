@@ -1,0 +1,13 @@
+scrapy.item
+scrapy.item.Item
+scrapy.item.Field
+scrapy.spider
+scrapy.spider.Spider
+scrapy.selector
+scrapy.selector.Selector
+scrapy.http
+scrapy.http.Request
+visions_scrapy.items
+visions_scrapy.items.Product
+visions_scrapy.items.Category
+re

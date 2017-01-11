@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+setuptools
+setuptools.find_packages
+docuit._version
+docuit._version.__version__
+os
+sys
+subprocess
+subprocess.Popen
+_version
+_version.__version__
+docopt
+docopt.docopt

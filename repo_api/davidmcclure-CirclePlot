@@ -1,0 +1,12 @@
+text
+matplotlib.pyplot
+requests
+util
+random
+os
+math
+itertools
+circle
+nltk
+nltk.corpus
+nltk.corpus.stopwords

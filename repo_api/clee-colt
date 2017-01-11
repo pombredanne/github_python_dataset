@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+requests
+sys
+utils
+utils.dictmerge
+import
+hammer
+hammer.Hammer

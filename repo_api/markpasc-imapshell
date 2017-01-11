@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+contextlib
+contextlib.contextmanager
+email.parser
+email.parser.Parser
+getpass
+getpass.getpass
+logging
+pprint
+pprint.pprint
+imapclient
+imapclient.IMAPClient
+termtool
+termtool.Termtool
+termtool.argument
+termtool.subcommand

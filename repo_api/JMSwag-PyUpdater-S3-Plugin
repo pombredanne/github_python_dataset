@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+logging
+os
+sys
+threading
+boto3.session
+boto3.session.Session
+pyupdater.uploader
+pyupdater.uploader.BaseUploader
+pyupdater.utils.exceptions
+pyupdater.utils.exceptions.UploaderError

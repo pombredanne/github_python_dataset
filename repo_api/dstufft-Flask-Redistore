@@ -1,0 +1,13 @@
+sys
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+redis
+flask
+flask._request_ctx_stack
+pytest
+pretend
+flask
+flask.ext.redistore
+flask.ext.redistore.Redistore

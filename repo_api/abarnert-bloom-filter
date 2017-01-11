@@ -1,0 +1,8 @@
+os
+math
+array
+random
+python2x3
+setuptools
+setuptools.setup
+setuptools.find_packages

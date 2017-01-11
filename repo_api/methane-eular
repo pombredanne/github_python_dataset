@@ -1,0 +1,15 @@
+itertools
+sys
+pprint
+pprint.pprint
+datetime
+operator
+operator.mul
+functools
+functools.reduce
+euler
+functools
+operator
+collections
+collections.Counter
+math

@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+unicodedata
+unicodedata.east_asian_width
+django
+django.template
+django.template.defaultfilters
+django.template.defaultfilters.stringfilter

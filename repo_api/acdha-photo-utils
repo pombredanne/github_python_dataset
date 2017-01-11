@@ -1,0 +1,15 @@
+os
+platform
+sys
+warnings
+setuptools
+setuptools.setup
+__future__
+__future__.(absolute_import
+__future__.division
+__future__.print_function
+__future__.import
+__future__.argparse
+logging
+os
+pyexiv2

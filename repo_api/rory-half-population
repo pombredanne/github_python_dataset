@@ -1,0 +1,8 @@
+__future__
+__future__.division
+sys
+fiona
+argparse
+shapely.geometry
+setuptools
+setuptools.setup

@@ -1,0 +1,4 @@
+scrapy
+scrapy
+hnews.items
+hnews.items.HnewsItem

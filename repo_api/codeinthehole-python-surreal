@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+unittest
+surreal
+surreal.dali
+surreal.shorthand
+surreal.Surreal
+re
+exceptions

@@ -1,0 +1,10 @@
+sys
+os
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.directives
+sphinx.directives.code
+sphinx.directives.code.CodeBlock
+sphinx.util.compat
+sphinx.util.compat.make_admonition

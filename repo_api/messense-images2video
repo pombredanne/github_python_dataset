@@ -1,0 +1,15 @@
+__future__
+__future__.with_statement
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__.absolute_import
+__future__.unicode_literals
+cv2
+numpy
+__future__.absolute_import
+__future__.unicode_literals
+cv2
+effects
+effects.OriginalEffect

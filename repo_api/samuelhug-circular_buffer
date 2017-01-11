@@ -1,0 +1,14 @@
+os
+subprocess
+sys
+waflib.TaskGen
+waflib.TaskGen.before
+waflib.TaskGen.after
+waflib.TaskGen.feature
+waflib
+waflib.Options
+waflib.Task
+waflib.Utils
+waflib.Logs
+waflib.Errors
+threading

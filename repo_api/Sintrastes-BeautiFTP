@@ -1,0 +1,17 @@
+gi.repository
+gi.repository.Gtk
+gi.repository.Gdk
+gi.repository.GdkPixbuf
+gi.repository.GObject
+ftplib
+ftplib.FTP
+ftplib
+threading
+os
+socket
+socket.gaierror
+os.path
+os.path.expanduser
+wave
+sys
+pyaudio

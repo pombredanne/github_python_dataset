@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+unittest
+apache_log_parser
+datetime
+doctest
+os.path
+re
+datetime
+datetime.datetime
+datetime.tzinfo
+datetime.timedelta
+user_agents

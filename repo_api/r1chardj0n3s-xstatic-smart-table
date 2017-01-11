@@ -1,0 +1,8 @@
+xstatic.pkg
+xstatic.pkg.angular_smart_table
+setuptools
+setuptools.setup
+setuptools.find_packages
+os.path
+os.path.join
+os.path.dirname

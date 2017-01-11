@@ -1,0 +1,11 @@
+os
+shutil
+sys
+pyrobase
+pyrobase.bencode
+pyrocore.util
+pyrocore.util.metafile
+os
+re
+setuptools
+setuptools.setup

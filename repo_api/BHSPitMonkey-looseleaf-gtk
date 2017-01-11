@@ -1,0 +1,6 @@
+os
+sys
+gi.repository
+gi.repository.Gtk
+gi.repository.Gio
+gi.repository.WebKit

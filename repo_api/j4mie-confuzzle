@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+sys
+argparse
+yaml
+jinja2
+codecs
+codecs.getreader
+codecs.getwriter

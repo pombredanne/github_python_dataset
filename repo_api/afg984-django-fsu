@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+unittest
+re
+django_fsu
+re
+itertools
+django.conf.urls
+django.conf.urls.url

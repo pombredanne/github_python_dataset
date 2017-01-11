@@ -1,0 +1,15 @@
+werkzeug
+werkzeug.Request
+werkzeug.Response
+werkzeug.routing
+werkzeug.routing.Map
+werkzeug.routing.Rule
+werkzeug.exceptions
+werkzeug.exceptions.HTTPException
+imaplib
+imaplib.IMAP4_SSL
+re
+yaml
+rfc822
+StringIO
+StringIO.StringIO

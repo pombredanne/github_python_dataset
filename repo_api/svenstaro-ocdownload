@@ -1,0 +1,12 @@
+bs4
+bs4.BeautifulSoup
+urllib
+urllib.request
+urllib.parse
+urllib.error
+os
+os.path
+os.makedirs
+re
+multiprocessing.pool
+multiprocessing.pool.ThreadPool

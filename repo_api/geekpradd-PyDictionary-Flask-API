@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+flask
+flask.Flask
+json
+PyDictionary
+PyDictionary.PyDictionary
+os
+flaskapp
+flaskapp.app

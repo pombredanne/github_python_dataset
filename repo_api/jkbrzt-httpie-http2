@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+httpie.plugins
+httpie.plugins.TransportPlugin
+hyper.contrib
+hyper.contrib.HTTP20Adapter

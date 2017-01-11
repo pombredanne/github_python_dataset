@@ -1,0 +1,10 @@
+urllib2
+functools
+functools.wraps
+pyquery
+pyquery.PyQuery
+flask
+flask.Flask
+flask.jsonify
+flask.request
+flask.current_app

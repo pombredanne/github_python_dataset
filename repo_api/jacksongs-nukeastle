@@ -1,0 +1,8 @@
+scraperwiki
+requests
+bs4
+bs4.BeautifulSoup
+bs4.CData
+pdfquery
+lxml
+datetime

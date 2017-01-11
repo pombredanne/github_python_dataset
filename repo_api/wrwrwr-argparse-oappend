@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+argparse
+argparse.ArgumentParser
+argparse._AppendAction
+oappend
+oappend.OverrideAppendArgumentParser

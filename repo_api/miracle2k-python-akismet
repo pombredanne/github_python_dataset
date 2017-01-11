@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+akismet
+os
+sys
+socket
+cgi
+os
+sys
+cgitb
+cgiutils
+akismet
+akismet
+akismet.Akismet

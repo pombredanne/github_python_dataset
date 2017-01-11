@@ -1,0 +1,4 @@
+unittest
+unittest.TestCase
+raven.utils.serializer
+raven.utils.serializer.transform

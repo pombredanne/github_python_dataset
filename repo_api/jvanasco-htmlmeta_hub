@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+htmlmeta_hub
+htmlmeta_hub.pyramid_helpers
+htmlmeta_hub.pylons_helpers
+unittest
+re
+pyramid
+pyramid.testing
+import
+pyramid.threadlocal
+pyramid.threadlocal.get_current_request
+metadata_utils
+metadata_utils.html_attribute_escape

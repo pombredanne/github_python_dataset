@@ -1,0 +1,6 @@
+cubric.tasks
+example_app
+example_app.app
+flask
+flask.Flask
+flask.render_template

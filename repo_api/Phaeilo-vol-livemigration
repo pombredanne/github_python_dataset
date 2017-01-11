@@ -1,0 +1,10 @@
+volatility.addrspace
+volatility.debug
+struct
+time
+time.time
+subprocess
+tempfile
+sys
+os
+shutil

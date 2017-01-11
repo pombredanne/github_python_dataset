@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+unittest
+django_template_i18n_lint
+os
+re
+sys
+optparse
+optparse.OptionParser

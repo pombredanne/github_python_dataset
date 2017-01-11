@@ -1,0 +1,8 @@
+opcode
+textwrap
+decompile
+decompile.decompile
+decompile.parse_bytecode
+decompile.Instruction
+contextlib
+opcode

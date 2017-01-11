@@ -1,0 +1,16 @@
+__future__
+__future__.with_statement
+__future__.division
+__future__.absolute_import
+re
+os
+os.path
+time
+functools
+threading
+sublime
+sublime_plugin
+configparser
+urllib.request
+urllib.request.Request
+urllib.request.urlopen

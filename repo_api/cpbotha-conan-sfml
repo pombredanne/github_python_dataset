@@ -1,0 +1,10 @@
+conans
+conans.ConanFile
+os
+conans.tools
+conans.tools.download
+conans.tools.unzip
+conans.tools.check_sha256
+conans.tools.patch
+conans.CMake
+platform

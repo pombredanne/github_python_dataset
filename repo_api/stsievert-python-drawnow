@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+__future__
+__future__.division
+pylab
+scipy.sparse.linalg
+scipy.sparse.linalg.svds
+drawnow
+drawnow
+drawnow.drawnow
+drawnow.figure
+__future__.print_function
+matplotlib
+matplotlib.pyplot
+sys
+pdb

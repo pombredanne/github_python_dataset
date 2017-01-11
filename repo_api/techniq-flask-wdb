@@ -1,0 +1,9 @@
+flask
+flask.Flask
+flask_wdb
+flask_wdb.Wdb
+flask.Flask
+wdb.ext
+wdb.ext.WdbMiddleware
+setuptools
+setuptools.setup

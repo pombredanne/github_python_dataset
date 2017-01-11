@@ -1,0 +1,6 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+httpdns
+requests

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+contextlib
+os
+pkg_resources
+subprocess
+sys
+vendor.dotted_name_resolver
+vendor.dotted_name_resolver.DottedNameResolver
+imp
+os
+pkg_resources
+sys

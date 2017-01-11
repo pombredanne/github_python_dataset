@@ -1,0 +1,17 @@
+unittest
+unittest.TestCase
+pyramid
+pyramid.testing
+webtest
+webtest.TestApp
+__future__
+__future__.unicode_literals
+pyramid.config
+pyramid.config.Configurator
+pyramid.view
+pyramid.view.view_config
+pyramid.view.view_defaults
+pyramid.httpexceptions
+pyramid.httpexceptions.exception_response
+wsgiref.simple_server
+wsgiref.simple_server.make_server

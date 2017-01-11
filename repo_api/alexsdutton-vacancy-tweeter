@@ -1,0 +1,6 @@
+os
+json
+termcolor
+termcolor.colored
+nltk
+requests

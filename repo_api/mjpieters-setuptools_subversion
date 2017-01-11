@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+sys
+re
+locale
+unicodedata
+subprocess
+subprocess.PIPE
+distutils
+distutils.log
+xml
+xml.sax

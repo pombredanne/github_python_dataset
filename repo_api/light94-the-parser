@@ -1,0 +1,12 @@
+pyparsing
+pyparsing.Word
+pyparsing.alphanums
+pyparsing.alphas
+urllib2
+urllib2.urlopen
+pandas
+numpy
+h5py
+os
+h5py
+numpy

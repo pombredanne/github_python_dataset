@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+setuptools
+setuptools.find_packages
+screeps._version
+screeps._version.__version__
+requests
+websocket

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+xml.sax
+math
+tempfile
+urllib
+urllib2
+os
+math
+StringIO

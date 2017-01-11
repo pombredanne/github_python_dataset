@@ -1,0 +1,5 @@
+slacksend
+setuptools
+setuptools.setup
+pathlib
+pathlib.Path

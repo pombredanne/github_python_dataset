@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+sys
+os
+djsms
+djsms.test_settings
+__future__
+__future__.unicode_literals
+django.db
+django.db.models
+__future__.unicode_literals
+__future__.unicode_literals
+djsms.base
+djsms.base.send_text
+__future__.unicode_literals
+__future__.unicode_literals

@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+strif
+string
+string.Template
+re
+os
+random
+shutil
+shlex
+pipes
+tempfile
+hashlib
+contextlib
+contextlib.contextmanager
+datetime
+datetime.datetime

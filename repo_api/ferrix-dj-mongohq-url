@@ -1,0 +1,7 @@
+os
+six
+setuptools
+setuptools.setup
+os
+unittest
+dj_mongohq_url

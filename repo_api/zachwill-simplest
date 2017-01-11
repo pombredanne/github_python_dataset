@@ -1,0 +1,4 @@
+core
+core.Redis
+redis
+redis.StrictRedis

@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.command.test
+setuptools.command.test.test
+sys
+uuid
+taskwarrior_EXAMPLE_capsule
+taskwarrior_EXAMPLE_capsule.__version__
+taskwarrior_capsules.capsule
+taskwarrior_capsules.capsule.CommandCapsule

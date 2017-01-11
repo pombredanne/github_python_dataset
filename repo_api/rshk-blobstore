@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+hashlib
+os
+shutil
+subprocess
+unittest
+hashlib
+optparse
+os
+sys
+zerorpc
+optparse
+sys
+zerorpc

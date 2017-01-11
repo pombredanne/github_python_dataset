@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+django
+django.template
+django.template.defaultfilters
+django.template.defaultfilters.stringfilter
+django.utils.safestring
+django.utils.safestring.mark_safe
+urlwrapper.utils
+urlwrapper.utils.Parser

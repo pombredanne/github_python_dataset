@@ -1,0 +1,8 @@
+os
+sys
+trello
+trello.TrelloClient
+trello.util
+trello.util.create_oauth_token
+github3
+github3.login

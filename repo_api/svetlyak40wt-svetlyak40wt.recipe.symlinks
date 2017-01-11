@@ -1,0 +1,10 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+os
+zc.buildout
+pkg_resources
+zc.recipe.egg
+zc.recipe.egg.Egg

@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+os
+setuptools
+shutil
+subprocess
+sys
+tarfile
+zipfile
+tempfile

@@ -1,0 +1,11 @@
+metadata
+setuptools
+setuptools.setup
+setuptools.find_packages
+celery.backends.redis
+celery.backends.redis.RedisBackend
+celery.utils
+celery.utils.cached_property
+kombu.transport
+kombu.transport.redis
+redis

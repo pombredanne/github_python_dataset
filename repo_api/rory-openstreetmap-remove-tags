@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+unittest
+six
+six.StringIO
+xml.etree.ElementTree
+tempfile
+os
+osmrmtags
+osmwriter
+imposm.parser
+imposm.parser.OSMParser
+osmwriter
+osmwriter.OSMWriter

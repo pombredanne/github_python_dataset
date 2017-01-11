@@ -1,0 +1,16 @@
+os
+os.geteuid
+os.devnull
+logging
+scapy.all
+sys
+sys.exit
+argparse
+signal
+base64
+base64.b64decode
+urllib
+urllib.unquote
+subprocess
+subprocess.Popen
+subprocess.PIPE

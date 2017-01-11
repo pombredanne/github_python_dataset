@@ -1,0 +1,8 @@
+django.db
+django.db.models
+django.conf
+django.conf.settings
+django.contrib.contenttypes.fields
+django.contrib.contenttypes.fields.GenericForeignKey
+django.db.models
+import

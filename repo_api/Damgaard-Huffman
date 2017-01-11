@@ -1,0 +1,17 @@
+collections
+collections.Counter
+collections.namedtuple
+bitstring
+bitstring.BitArray
+bitstring.BitStream
+bitstring.ReadError
+heapq
+heapq.heapify
+heapq.heappop
+heapq.heappush
+bitstring.BitArray
+huffman
+huffman.(Node
+huffman._bits_to_chars
+huffman._chars_to_bits
+huffman._get_freq

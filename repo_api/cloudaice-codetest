@@ -1,0 +1,6 @@
+cmd
+urllib
+sys
+chardet
+chardet.universaldetector
+chardet.universaldetector.UniversalDetector

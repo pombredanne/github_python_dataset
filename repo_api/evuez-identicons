@@ -1,0 +1,7 @@
+PIL
+PIL.Image
+PIL.ImageDraw
+hashlib
+hashlib.md5
+base64
+StringIO

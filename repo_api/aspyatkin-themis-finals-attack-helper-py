@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+io
+os
+__future__
+__future__.unicode_literals
+sys
+logging
+os
+requests
+re
+themis.finals.attack.result
+themis.finals.attack.result.Result

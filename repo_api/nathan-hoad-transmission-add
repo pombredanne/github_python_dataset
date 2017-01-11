@@ -1,0 +1,7 @@
+pygtk
+gtk
+sys
+os
+transmissionrpc
+time
+threading

@@ -1,0 +1,11 @@
+xbmcswift2
+xbmcswift2.Plugin
+xbmcswift2.actions
+urllib
+urllib2
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+json
+re
+os
+collections

@@ -1,0 +1,8 @@
+argparse
+argparse.ArgumentParser
+cairo
+gtk
+os
+pango
+pangocairo
+subprocess

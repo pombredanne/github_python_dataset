@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+codecs
+codecs.open
+os
+os.path
+django.db
+django.db.connections
+docker

@@ -1,0 +1,14 @@
+collections
+collections.namedtuple
+getpass
+os
+struct
+subprocess
+sys
+warnings
+warnings.warn
+Crypto.Cipher.AES
+Crypto.Hash.HMAC
+Crypto.Hash.SHA
+pbkdf2
+pbkdf2.PBKDF2

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+pygments.lexer
+pygments.lexer.RegexLexer
+pygments.lexer.include
+pygments.lexer.bygroups
+pygments.lexer.using
+pygments.lexer.this
+pygments.token

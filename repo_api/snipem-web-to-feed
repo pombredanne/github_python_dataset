@@ -1,0 +1,9 @@
+bs4
+bs4.BeautifulSoup
+bs4.Tag
+requests
+sys
+argparse
+feedgen.feed
+feedgen.feed.FeedGenerator
+webtofeed

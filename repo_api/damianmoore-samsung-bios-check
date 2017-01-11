@@ -1,0 +1,16 @@
+sys
+os
+argparse
+struct
+contextlib
+contextlib.closing
+pefile
+re
+re.findall
+subprocess
+subprocess.Popen
+subprocess.PIPE
+time
+time.sleep
+urllib
+urllib.urlopen

@@ -1,0 +1,17 @@
+os
+codecs
+setuptools
+setuptools.setup
+os
+re
+time
+os.path
+fnmatch
+hashlib
+tempfile
+subprocess
+pyvirtualdisplay
+pytest
+os
+pytest
+pytest_xvfb

@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+unittest
+ukmodulus
+ukmodulus.validate_number
+ukmodulus._clean_input
+ukmodulus._get_weightings
+ukmodulus.ModulusWeight
+ukmodulus._run_check
+ukmodulus._sc_subs
+os
+re
+collections
+collections.namedtuple

@@ -1,0 +1,15 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+re
+txctools.tools
+txctools.tools.parsePyLintWarningsfrom
+txctools.tools.txctools.reports.hotspot
+txctools.tools.import
+txctools.tools.HotspotReportfrom
+txctools.tools.__future__
+txctools.tools.import
+txctools.tools.division
+txctools
+txctools.tools
+math

@@ -1,0 +1,16 @@
+django.db
+django.db.models
+django.test
+django.test.TestCase
+getpass
+copy
+copy.copy
+tumblr
+tumblr.Api
+dateutil
+dateutil.parser
+django.core.management.base
+django.core.management.base.BaseCommand
+django.core.management.base.CommandError
+django.db.models
+django.db.models.get_model

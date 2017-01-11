@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+os
+asyncio
+aiohttp
+aiohttp.web
+whoosh.fields
+whoosh.fields.Schema
+whoosh.fields.TEXT
+whoosh.index
+whoosh.index.create_in
+whoosh.index.open_dir

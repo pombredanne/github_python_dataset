@@ -1,0 +1,14 @@
+functools
+http.client
+flask
+flask.Flask
+flask.request
+flask_cors
+flask_cors.CORS
+flask_restful
+flask_restful.Resource
+flask_restful.Api
+flask_sqlalchemy
+flask_sqlalchemy.SQLAlchemy
+sqlalchemy.exc
+sqlalchemy.exc.DataError

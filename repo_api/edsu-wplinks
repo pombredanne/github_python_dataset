@@ -1,0 +1,14 @@
+re
+json
+urllib
+urlparse
+sys
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+wplinks
+wplinks.extlinks
+wplinks.links
+urlparse
+urlparse.urlparse

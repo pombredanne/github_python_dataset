@@ -1,0 +1,17 @@
+sys
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+__future__
+__future__.print_function
+unittest
+__future__.print_function
+os
+re
+sys
+getopt
+xinput.operate_xinput_device
+xinput.operate_xinput_device.(

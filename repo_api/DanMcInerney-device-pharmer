@@ -1,0 +1,14 @@
+gevent
+gevent.monkey
+warnings
+gevent
+argparse
+mechanize
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+cookielib
+socket
+socket.setdefaulttimeout
+re
+sys
+sys.exit

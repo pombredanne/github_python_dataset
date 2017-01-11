@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+collections
+collections.Counter
+pathlib
+pathlib.Path
+shlex
+subprocess
+sys
+click

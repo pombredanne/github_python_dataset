@@ -1,0 +1,11 @@
+numpy
+sklearn
+sklearn.cross_validation
+sklearn.neighbors
+sklearn.neighbors.KNeighborsClassifier
+pylab
+csv
+numpy
+sklearn.neighbors.KNeighborsClassifier
+pylab
+csv

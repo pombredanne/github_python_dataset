@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+multiprocessing
+logging
+macchiato
+macchiato.percolate
+sys
+ast
+cStringIO
+os
+ast
+inspect
+StringIO
+macchiato.compiler
+macchiato.compiler.Compiler

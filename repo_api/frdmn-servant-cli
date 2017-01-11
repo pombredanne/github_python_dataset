@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+click
+os
+json
+sys
+subprocess
+subprocess.call
+urllib2

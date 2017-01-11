@@ -1,0 +1,13 @@
+webapp2
+__future__
+__future__.with_statement
+urllib
+json
+webapp2
+hashlib
+google.appengine.api
+google.appengine.api.files
+google.appengine.ext
+google.appengine.ext.blobstore
+google.appengine.ext.webapp
+google.appengine.ext.webapp.blobstore_handlers

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.print_function
+__future__.print_function
+logging.config
+struct
+time
+astropy
+astropy.units
+astropy.coordinates
+config
+serial

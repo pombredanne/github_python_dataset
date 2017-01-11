@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+os
+sys
+optparse
+ConfigParser
+ConfigParser.ConfigParser
+bitlyapi

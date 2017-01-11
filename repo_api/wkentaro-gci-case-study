@@ -1,0 +1,17 @@
+sys
+csv
+config
+MySQLdb
+collections
+numpy
+sklearn
+sklearn.cluster
+sklearn.preprocessing
+pandas
+requests
+bs4
+bs4.BeautifulSoup
+collections
+collections.namedtuple
+MySQLdb
+config

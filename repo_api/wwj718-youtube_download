@@ -1,0 +1,11 @@
+fabric.api
+fabric.api.local
+fabric.api.cd
+fabric.api.run
+fabric.api.env
+fabric.api.sudo
+fabric.api.settings
+fabric.api.prefix
+settings
+settings.hosts
+settings.password

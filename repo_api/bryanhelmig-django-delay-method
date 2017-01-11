@@ -1,0 +1,9 @@
+django.db
+django.db.models
+django.db.models
+django.test
+django.test.TestCase
+delay_method.models
+delay_method.models.DelayedMethodModel
+celery.task
+celery.task.Task

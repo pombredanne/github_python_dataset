@@ -1,0 +1,12 @@
+__future__
+__future__.with_statement
+sublime
+sublime_plugin
+os.path
+os.path.basename
+os.path.splitext
+os.path.join
+os.path.dirname
+os
+glob
+json

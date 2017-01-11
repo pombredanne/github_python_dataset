@@ -1,0 +1,13 @@
+sys
+time
+time.sleep
+ctypes
+ctypes.util
+ctypes.util.find_library
+time.time
+struct
+struct.pack
+peylogger
+peylogger.struct_format
+struct.unpack
+struct.calcsize

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+copy
+calendar
+calendar.timegm
+datetime
+datetime.date
+datetime.datetime
+datetime.time
+decimal
+decimal.Decimal
+time
+time.strptime
+time.struct_time

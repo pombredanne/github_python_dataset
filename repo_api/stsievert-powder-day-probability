@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib.pyplot
+seaborn
+pandas
+datetime
+easyplot
+easyplot.EasyPlot
+scipy.signal
+scipy.signal.savgol_filter
+scipy.stats
+scipy.stats.poisson

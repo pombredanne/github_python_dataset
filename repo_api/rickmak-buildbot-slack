@@ -1,0 +1,8 @@
+os
+json
+requests
+buildbot.status.base
+buildbot.status.base.StatusReceiverMultiService
+buildbot.status.builder
+buildbot.status.builder.Results
+buildbot.status.builder.SUCCESS

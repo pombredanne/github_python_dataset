@@ -1,0 +1,8 @@
+codecs
+re
+rdflib
+rdflib.ConjunctiveGraph
+rdflib.Namespace
+rdflib.URIRef
+rdflib.Literal
+rdflib.RDF

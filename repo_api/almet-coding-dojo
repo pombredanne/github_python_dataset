@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+cornice
+cornice.Service
+colander
+colander.MappingSchema
+colander.SchemaNode
+colander.Int
+pyramid.config
+pyramid.config.Configurator
+unittest2
+unittest2.TestCase
+webtest
+scores
+scores.views

@@ -1,0 +1,15 @@
+boilerplate
+boilerplate.Configuration
+random
+random.choice
+os
+site
+sys
+django.utils.importlib
+django.utils.importlib.import_module
+django.core.management
+django.core.management.setup_environ
+django.core.management.execute_manager
+os
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns

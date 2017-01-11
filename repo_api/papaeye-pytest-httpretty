@@ -1,0 +1,11 @@
+os.path
+setuptools
+setuptools.setup
+sys
+httpretty
+pytest
+requests
+pytest_httpretty
+pytest_httpretty.stub_get
+functools
+httpretty

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+pyramid.scaffolds
+pyramid.scaffolds.PyramidTemplate
+pyramid.config
+pyramid.config.Configurator
+pyramid.response
+pyramid.response.Response
+pyramid.view
+pyramid.view.view_config

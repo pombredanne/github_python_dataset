@@ -1,0 +1,10 @@
+telnetlib
+ts3utils
+setuptools
+setuptools.setup
+collections
+collections.OrderedDict
+ts3utils
+sys
+os
+shlex

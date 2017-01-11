@@ -1,0 +1,12 @@
+BaseHTTPServer
+urlparse
+urlparse.urlparse
+urlparse.parse_qs
+crawler
+crawler.crawler
+SocketServer
+SocketServer.ThreadingMixIn
+bs4
+bs4.BeautifulSoup
+requests
+base64

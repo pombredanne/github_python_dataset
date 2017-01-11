@@ -1,0 +1,14 @@
+setuptools
+os
+sys
+argparse
+json
+logging
+os
+sys
+pbr.version
+yaml
+explode.tests
+explode.tests.base
+oslotest
+oslotest.base

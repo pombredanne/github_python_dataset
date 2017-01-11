@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.conf
+django.conf.settings
+django.db
+django.db.models
+django.contrib
+django.contrib.admin
+solve_threesixty.models
+solve_threesixty.models.(ThreeSixtyContact
+solve_threesixty.models.ThreeSixtyField
+solve_threesixty.models.import
+solve_threesixty.models.base64
+httplib
+json
+logging

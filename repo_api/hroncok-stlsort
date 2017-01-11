@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.print_function
+sys

@@ -1,0 +1,16 @@
+os.path
+os.path.join
+os.path.dirname
+os.path.realpath
+itertools
+itertools.permutations
+operator
+operator.itemgetter
+docopt
+docopt.docopt
+docopt.docopt
+os.path.join
+os.path.dirname
+os.path.realpath
+sys
+re

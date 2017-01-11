@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+statsd
+statsd.statsd
+celery.events.snapshot
+celery.events.snapshot.Polaroid

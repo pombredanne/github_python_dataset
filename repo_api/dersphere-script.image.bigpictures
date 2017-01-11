@@ -1,0 +1,16 @@
+sys
+urlparse
+xbmc
+xbmcgui
+xbmcplugin
+thebigpictures
+thebigpictures.ScraperManager
+os
+re
+sys
+urllib
+xbmc
+xbmcaddon
+xbmcgui
+thebigpictures.ScraperManager
+thebigpictures.ALL_SCRAPERS

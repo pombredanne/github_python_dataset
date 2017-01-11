@@ -1,0 +1,10 @@
+sys
+PyQt4
+PyQt4.QtCore
+PyQt4.QtGui
+PyQt4.QtWebKit
+PyQt4.QtWebKit.QWebView
+PyQt4.QtWebKit.QWebSettings
+PyQt4.QtWebKit.QWebPage
+PyQt4.QtNetwork
+PyQt4.QtNetwork.QNetworkProxyFactory

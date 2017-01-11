@@ -1,0 +1,11 @@
+codecs
+os
+setuptools
+hardlink.base
+hardlink.base.Command
+argparse
+errno
+logging
+os
+shutil
+sys

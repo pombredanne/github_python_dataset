@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+sys
+datetime
+email
+mimetypes
+os
+time
+gzip
+subprocess
+argparse
+cStringIO
+cStringIO.StringIO
+boto.s3.connection
+boto.s3.connection.S3Connection

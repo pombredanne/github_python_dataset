@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+os
+shutil
+bitcpy
+bitly_api
+xerox
+re
+ConfigParser

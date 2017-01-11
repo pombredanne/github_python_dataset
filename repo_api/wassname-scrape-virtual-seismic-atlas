@@ -1,0 +1,7 @@
+bs4
+requests
+re
+gdshortener
+PIL
+PIL.Image
+os

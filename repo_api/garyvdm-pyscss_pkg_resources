@@ -1,0 +1,8 @@
+setuptools
+unittest
+scss.compiler
+pyscss_pkg_resources
+os.path
+pkg_resources
+scss.extension
+scss.source

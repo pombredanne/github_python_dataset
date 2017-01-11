@@ -1,0 +1,6 @@
+mpi4py
+mpi4py.MPI
+scipy.integrate
+scipy.integrate.quad
+scipy.special
+scipy.special.jv

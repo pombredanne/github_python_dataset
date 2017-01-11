@@ -1,0 +1,10 @@
+numpy
+scipy
+scipy.stats
+matplotlib.pyplot
+emcee
+scipy.optimize
+astroML.resample
+astroML.resample.bootstrap
+astroML.plotting
+astroML.plotting.plot_mcmc

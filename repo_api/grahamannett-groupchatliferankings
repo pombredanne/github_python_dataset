@@ -1,0 +1,9 @@
+sqlite3
+pandas
+nltk
+re
+textblob
+textblob.TextBlob
+itertools
+twitter
+twitterkeys

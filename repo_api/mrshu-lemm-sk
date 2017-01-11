@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+lemmsk
+unittest
+__future__
+__future__.division
+__future__.print_function
+__future__.unicode_literals
+marisa_trie
+codecs
+os
+os.path
+sys

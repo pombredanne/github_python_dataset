@@ -1,0 +1,10 @@
+re
+random
+itertools
+collections
+collections.defaultdict
+nltk.corpus
+nltk.corpus.gutenberg
+textgen
+textgen.TextGenerator
+textgen.TextGenerator

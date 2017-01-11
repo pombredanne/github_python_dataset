@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+os
+random
+re
+string
+subprocess
+pytest

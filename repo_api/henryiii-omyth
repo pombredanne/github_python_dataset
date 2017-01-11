@@ -1,0 +1,11 @@
+json
+plumbum
+plumbum.local
+plumbum.cli
+card
+card.UnitCard
+json
+plumbum.local
+plumbum.cmd
+plumbum.cmd.inkscape
+tempfile

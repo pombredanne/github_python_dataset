@@ -1,0 +1,14 @@
+os
+anki.hooks
+anki.hooks.addHook
+PyQt4.QtCore
+PyQt4.QtCore.SIGNAL
+PyQt4.QtGui
+PyQt4.QtGui.QAction
+aqt
+aqt.mw
+aqt.utils
+aqt.utils.showInfo
+aqt.browser
+os
+zipfile

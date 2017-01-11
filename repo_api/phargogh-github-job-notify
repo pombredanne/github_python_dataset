@@ -1,0 +1,9 @@
+json
+os
+urllib2
+smtplib
+sys
+argparse
+warnings
+bs4
+bs4.BeautifulSoup

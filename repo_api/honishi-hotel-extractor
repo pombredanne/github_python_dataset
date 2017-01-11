@@ -1,0 +1,13 @@
+flask
+flask.Flask
+flask.request
+flask.render_template
+scrape
+scrape
+re
+urllib2
+requests
+pyquery
+pyquery.PyQuery
+pytest
+scrape

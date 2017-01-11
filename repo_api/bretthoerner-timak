@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+datetime
+__future__
+__future__.absolute_import
+pkg_resources
+timelines
+timelines.Timeline
+datetime
+datetime.datetime
+datetime.timedelta
+unittest2
+riak
+timak.timelines
+timak.timelines.Timeline

@@ -1,0 +1,5 @@
+re
+fileinput
+collections
+collections.namedtuple
+sys

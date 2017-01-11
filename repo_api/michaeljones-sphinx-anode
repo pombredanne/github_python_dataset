@@ -1,0 +1,12 @@
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.directives
+docutils.parsers.rst.Directive
+os
+hashlib
+posixpath
+distutils.core
+distutils.core.setup
+sys
+os

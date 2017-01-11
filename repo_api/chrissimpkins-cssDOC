@@ -1,0 +1,6 @@
+sublime
+sublime_plugin
+webbrowser
+sys
+sys.version_info
+urllib

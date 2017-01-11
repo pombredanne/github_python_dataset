@@ -1,0 +1,13 @@
+gevent
+gevent.monkey
+functools
+functools.partial
+os
+os.path
+flask
+flask.Flask
+flask.ext.assets
+flask.ext.assets.Environment
+flask.ext.assets.Bundle
+flask.ext.socketio
+flask.ext.socketio.SocketIO

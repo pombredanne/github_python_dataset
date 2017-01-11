@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+sys
+sys
+html5lib
+collections
+collections.defaultdict
+unittest
+microdata
+microdata.get_items
+microdata.Item
+microdata.URI

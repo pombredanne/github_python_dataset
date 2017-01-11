@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+os
+urllib2
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+sys
+argparse
+re

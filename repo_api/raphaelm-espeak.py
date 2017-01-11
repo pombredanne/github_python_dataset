@@ -1,0 +1,4 @@
+subprocess
+os
+sys
+pyespeak

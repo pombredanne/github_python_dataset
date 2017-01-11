@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+base
+base.rgb
+base.rgb
+base.rgb
+base
+colorsys
+random

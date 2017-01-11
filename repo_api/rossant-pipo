@@ -1,0 +1,9 @@
+os.path
+re
+setuptools
+setuptools.setup
+os
+os.path
+re
+click
+requests

@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+json
+itertools
+lxml
+lxml.etree
+lxml.html
+requests
+exceptions
+scraper
+scraper.Scraper

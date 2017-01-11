@@ -1,0 +1,4 @@
+asyncio
+os
+aiohttp
+aiohttp.ClientSession

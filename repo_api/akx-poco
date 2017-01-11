@@ -1,0 +1,13 @@
+poco
+poco.translate
+subprocess
+subprocess.Popen
+subprocess.PIPE
+poco.translator
+poco.translator.Translator
+poco.stream
+poco.stream.CodeStream
+poco.stream.StdoutCodeStream
+ast
+json
+operator

@@ -1,0 +1,14 @@
+socket
+sys
+threading
+imp
+signal
+config
+sys
+gopher
+traceback
+gopher.entries
+gopher.getters
+subprocess
+subprocess.Popen
+subprocess.PIPE

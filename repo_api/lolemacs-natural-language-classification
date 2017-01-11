@@ -1,0 +1,5 @@
+nltk
+sklearn.svm
+sys
+nltk.corpus
+nltk.corpus.wordnet

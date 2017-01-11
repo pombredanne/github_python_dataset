@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+django_dev
+django_dev.VERSION
+argparse
+logging
+os
+shutil
+shutil.copytree
+shutil.rmtree
+subprocess
+subprocess.Popen
+subprocess.PIPE
+import
+os
+sys

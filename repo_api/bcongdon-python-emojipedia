@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+emojipedia
+emojipedia.Emojipedia
+nose.tools
+emojipedia.Emojipedia
+__future__
+__future__.unicode_literals
+bs4
+bs4.BeautifulSoup
+requests
+emoji
+emoji.Emoji
+emojipedia.Emojipedia

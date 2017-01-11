@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.extension
+setuptools.extension.Extension
+fcntl
+socket
+struct
+ioctl_requests
+array

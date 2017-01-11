@@ -1,0 +1,10 @@
+io
+sys
+setuptools
+jaraco
+jaraco.xkcd
+jaraco.timing
+pkg_resources
+urllib.parse
+random
+requests

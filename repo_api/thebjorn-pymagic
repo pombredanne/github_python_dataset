@@ -1,0 +1,3 @@
+setuptools
+distutils.core
+distutils.core.setup

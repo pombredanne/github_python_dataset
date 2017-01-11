@@ -1,0 +1,8 @@
+directapi
+directapi.DirectApi
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+json
+urllib2

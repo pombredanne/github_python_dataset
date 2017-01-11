@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+requests.adapters
+requests.adapters.BaseAdapter
+requests.adapters.HTTPAdapter
+requests.compat
+requests.compat.urlparse

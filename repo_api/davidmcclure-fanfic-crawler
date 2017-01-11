@@ -1,0 +1,11 @@
+scrapy
+scrapy.Item
+scrapy.Field
+scrapy.Spider
+scrapy.Request
+fanfic.items
+fanfic.items.BookIdItem
+re
+scrapy.Spider
+scrapy.Request
+fanfic.items.ChapterItem

@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+__future__
+__future__.absolute_import
+datetime
+os
+django.core.mail.backends
+django.core.mail.backends.filebased

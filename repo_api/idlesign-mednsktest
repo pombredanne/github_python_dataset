@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+mednsktest
+mednsktest.VERSION
+os
+re
+sys
+argparse
+random
+random.shuffle
+random.choice

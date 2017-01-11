@@ -1,0 +1,4 @@
+pyPdf
+pyPdf.PdfFileWriter
+pyPdf.PdfFileReader
+sys

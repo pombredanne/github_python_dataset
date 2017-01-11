@@ -1,0 +1,11 @@
+easywebdav
+socket
+__future__
+__future__.print_function
+sklearn.feature_extraction.text
+sklearn.feature_extraction.text.TfidfVectorizer
+sklearn.metrics.pairwise
+sklearn.metrics.pairwise.linear_kernel
+codecs
+fnmatch
+os

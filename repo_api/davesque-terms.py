@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+terms
+__future__
+__future__.unicode_literals
+unittest
+__future__.unicode_literals
+unittest
+eval
+eval.RuleBase
+eval.Rule
+eval.Symbol
+eval.Add
+eval.Expression

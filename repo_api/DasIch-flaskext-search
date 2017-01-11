@@ -1,0 +1,15 @@
+re
+json
+sys
+optparse
+optparse.OptionParser
+functools
+functools.partial
+httplib
+httplib.HTTPConnection
+string
+string.Template
+itertools
+itertools.ifilter
+lxml.html
+lxml.html.fromstring

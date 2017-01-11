@@ -1,0 +1,10 @@
+__future__
+__future__.absolute_import
+__future__.print_function
+__future__.unicode_literals
+fabric.api
+fabric.contrib.console
+fabric.contrib.console.confirm
+ConfigParser
+fabric.api
+fabric.contrib.console.confirm

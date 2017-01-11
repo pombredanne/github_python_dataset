@@ -1,0 +1,4 @@
+urllib
+codecs
+bs4
+bs4.BeautifulSoup

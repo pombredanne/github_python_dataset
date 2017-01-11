@@ -1,0 +1,9 @@
+optparse
+daemon
+logging
+sys
+feedparser
+urllib
+urllib2
+time
+os

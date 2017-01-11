@@ -1,0 +1,11 @@
+pyspark
+pyspark.SparkContext
+pyspark.#
+pyspark.pylint:
+pyspark.disable=import-error
+pyspark.mllib.recommendation
+pyspark.mllib.recommendation.ALS
+pyspark.mllib.recommendation.Rating
+pyspark.mllib.recommendation.#
+pyspark.mllib.recommendation.pylint:
+pyspark.mllib.recommendation.disable=import-error

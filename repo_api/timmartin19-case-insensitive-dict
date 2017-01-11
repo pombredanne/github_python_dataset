@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+__future__.division
+__future__.print_function
+collections
+__future__.absolute_import
+__future__.division
+__future__.print_function
+__future__.unicode_literals
+unittest2
+insensitive_dict
+insensitive_dict.CaseInsensitiveDict
+sys
+os
+insensitive_dict

@@ -1,0 +1,12 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+parrot
+parrot.__version__
+http.server
+http.server.HTTPServer
+http.server.BaseHTTPRequestHandler
+magic
+sys
+os.path
+parrot.__version__

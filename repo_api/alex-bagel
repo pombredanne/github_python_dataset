@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+rply
+rply.LexerGenerator
+rply.token
+rply.token.Token
+rply.ParserGenerator
+bagel
+bagel.ast
+bagel.lexer
+textwrap
+rply.token.Token
+bagel.lexer
+textwrap
+bagel.ast
+bagel.parser

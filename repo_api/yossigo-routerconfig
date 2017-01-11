@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+py2exe
+hashlib
+requests
+re
+telnetlib
+sys
+time
+socket

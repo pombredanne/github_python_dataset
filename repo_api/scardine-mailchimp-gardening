@@ -1,0 +1,7 @@
+mailsnake
+mailsnake.MailSnake
+logging
+argparse
+datetime
+sys
+requests

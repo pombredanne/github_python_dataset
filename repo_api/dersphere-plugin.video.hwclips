@@ -1,0 +1,15 @@
+xbmcswift
+xbmcswift.Plugin
+xbmcswift.xbmc
+xbmcswift.xbmcplugin
+xbmcswift.xbmcgui
+xbmcswift.clean_dict
+resources.lib.hwclips
+resources.lib.cache
+time
+os
+simplejson
+simplejson
+urllib2
+datetime
+datetime.datetime

@@ -1,0 +1,15 @@
+os
+sys
+tempfile
+optparse
+optparse.OptionParser
+pexpect
+lxml.etree
+lxml.etree.parse
+lxml.etree.SubElement
+lxml.etree.Element
+lxml.etree.ElementTree
+lxml.etree.Comment
+lxml.etree.dump
+lxml.builder
+lxml.builder.E

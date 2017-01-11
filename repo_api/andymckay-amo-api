@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+logging
+unittest
+api
+mock
+logging
+re
+string
+urlparse
+requests
+config
+config.servers
+config.urls

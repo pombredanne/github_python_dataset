@@ -1,0 +1,12 @@
+os
+sys
+naverdic
+codecs
+codecs.open
+dictionary
+dictionary.Dictionary
+curses.ascii
+curses.ascii.isprint
+requests
+requests
+rsa

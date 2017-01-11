@@ -1,0 +1,17 @@
+os
+sys
+info
+version
+datetime
+datetime.datetime
+datetime.date
+datetime.time
+mewcalc
+mewcalc.MewCalc
+random
+unittest
+lib.mewcalc.mewcalc
+lib.mewcalc.mewcalc.MewCalc
+datetime.datetime
+datetime.date
+datetime.time

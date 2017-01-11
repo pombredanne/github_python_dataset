@@ -1,0 +1,3 @@
+time
+celery.task
+celery.task.task

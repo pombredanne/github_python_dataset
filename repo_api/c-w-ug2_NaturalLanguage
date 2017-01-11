@@ -1,0 +1,15 @@
+nltk
+nltk.data
+nltk.ChartParser
+nltk.pos_tag
+nltk.corpus
+nltk.corpus.inaugural
+nltk.pos_tag
+nltk
+re
+nonVBG
+nltk.corpus.inaugural
+nltk.corpus.stopwords
+nltk.FreqDist
+nltk.ConditionalFreqDist
+re

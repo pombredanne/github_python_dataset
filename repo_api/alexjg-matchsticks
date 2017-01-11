@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+matchsticks
+matchsticks.Matcher
+matchsticks.SubDictMatches
+unittest
+operator
+operator.eq

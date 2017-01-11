@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+urllib
+urllib2
+exceptions
+settings
+wrappers
+exceptions
+exceptions.SagePayTransactionError
+settings
+settings.ACCEPTED_CARD_TYPES

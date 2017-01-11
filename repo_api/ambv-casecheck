@@ -1,0 +1,6 @@
+configparser
+configparser.ConfigParser
+configparser.ExtendedInterpolation
+hashlib
+os
+sys

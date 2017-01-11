@@ -1,0 +1,3 @@
+copy
+distutils.core
+distutils.core.setup

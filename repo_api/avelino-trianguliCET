@@ -1,0 +1,4 @@
+pymongo
+pymongo.Connection
+pymongo.binary
+pymongo.binary.Binary

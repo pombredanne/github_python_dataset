@@ -1,0 +1,7 @@
+AppKit
+Foundation
+objc
+ctypes
+distutils.core
+distutils.core.setup
+py2app

@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+sitecat_py
+datetime
+hashlib
+json
+requests
+time
+pprint
+pprint.pprint
+base64
+base64.b64encode
+datetime
+pandas
+python_api
+python_api.SiteCatPy

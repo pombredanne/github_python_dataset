@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+re
+oauth2
+traceback
+cgi
+cgi.parse_qsl
+urllib
+urllib.urlencode
+logging
+logging.Handler
+logging.Formatter

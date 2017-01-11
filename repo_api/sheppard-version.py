@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+PIL
+PIL.Image
+PIL.ImageDraw
+sys

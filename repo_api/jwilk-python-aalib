@@ -1,0 +1,9 @@
+distutils.core
+distutils.command.build_py
+ctypes
+os
+sys
+PIL
+PIL.Image
+PIL.ImageOps
+aalib

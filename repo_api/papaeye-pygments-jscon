@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+re
+pygments.lexer
+pygments.lexer.Lexer
+pygments.lexer.do_insertions
+pygments.lexers.agile
+pygments.lexers.agile.line_re
+pygments.lexers.web
+pygments.lexers.web.JavascriptLexer
+pygments.token
+pygments.token.Generic

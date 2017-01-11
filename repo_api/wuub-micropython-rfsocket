@@ -1,0 +1,15 @@
+sys
+setuptools
+setuptools.setup
+machine
+utime
+usocket
+machine
+machine.Pin
+machine.freq
+machine.reset
+rfsocket
+rfsocket.Esp8266Timings
+rfsocket.RFSocket
+webrepl
+webrepl.start

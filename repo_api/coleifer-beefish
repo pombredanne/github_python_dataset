@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+getpass
+optparse
+os
+struct
+sys
+unittest
+random
+random.randrange
+Crypto.Cipher
+Crypto.Cipher.Blowfish
+Crypto
+Crypto.Random

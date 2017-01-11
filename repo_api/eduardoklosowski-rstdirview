@@ -1,0 +1,15 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+__future__
+__future__.unicode_literals
+import
+__future__.unicode_literals
+bottle
+bottle
+bottle.run
+bottle.view
+cgi
+docutils.core
+docutils.core.publish_string
+os

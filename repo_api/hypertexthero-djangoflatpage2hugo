@@ -1,0 +1,11 @@
+django.core.management.base
+django.core.management.base.BaseCommand
+django.contrib.flatpages.models
+django.contrib.flatpages.models.FlatPage
+os
+re
+django.utils.text
+django.utils.text.slugify
+django.utils.encoding
+django.utils.encoding.smart_str
+django.utils.encoding.smart_unicode

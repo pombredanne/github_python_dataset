@@ -1,0 +1,7 @@
+django.test
+django.test.TestCase
+os
+django.core.management.base
+django.core.management.base.BaseCommand
+django.db.models
+django.db.models.get_app

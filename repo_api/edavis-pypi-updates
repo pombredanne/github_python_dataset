@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+os
+time
+postmark
+pkgtools.pypi
+pkgtools.pypi.PyPIXmlRpc
+jinja2
+jinja2.Environment
+jinja2.PackageLoader
+email.utils
+email.utils.formatdate

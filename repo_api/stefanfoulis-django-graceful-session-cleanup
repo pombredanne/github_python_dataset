@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+optparse
+optparse.make_option
+django.core.management.base
+django.core.management.base.BaseCommand

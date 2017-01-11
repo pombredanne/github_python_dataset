@@ -1,0 +1,9 @@
+lookups
+lookups.TemplateLookup
+lookups.TemplateTransform
+lookups.#
+lookups.noqa
+django.db.models
+django.db.models.Lookup
+django.db.models.Transform
+re

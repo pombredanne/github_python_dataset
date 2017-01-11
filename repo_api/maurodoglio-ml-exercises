@@ -1,0 +1,5 @@
+numpy
+sklearn.neighbors
+sklearn.neighbors.KNeighborsClassifier
+sklearn.svm
+sklearn.svm.SVC

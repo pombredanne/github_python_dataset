@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+telnetlib
+easytel
+easytel.Easytel
+telnetcontroller
+telnetcontroller.TelnetController
+telnetcontroller.ConnectionFailed
+argparse
+getpass

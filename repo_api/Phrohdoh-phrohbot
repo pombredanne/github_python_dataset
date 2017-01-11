@@ -1,0 +1,16 @@
+bot
+__future__
+__future__.print_function
+twisted.internet
+twisted.internet.reactor
+twisted.internet.protocol
+twisted.words.protocols
+twisted.words.protocols.irc
+sys
+guts
+os
+logging
+later
+time
+os
+time

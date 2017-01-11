@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+numpy
+ijroi
+ijroi.read_roi
+ijroi.read_roi_zip
+version
+version.__version__
+os
+numpy
+py
+pytest
+ijroi

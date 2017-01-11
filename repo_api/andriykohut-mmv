@@ -1,0 +1,12 @@
+setuptools
+sys
+shutil
+argparse
+pathlib
+pathlib.Path
+string
+string.Formatter
+collections
+collections.namedtuple
+tinytag
+tinytag.TinyTag

@@ -1,0 +1,11 @@
+socket
+time
+Tkinter
+threading
+PIL
+PIL.ImageTk
+curses
+socket
+os
+threading
+subprocess

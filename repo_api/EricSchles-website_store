@@ -1,0 +1,16 @@
+requests
+lxml.html
+time
+datetime
+datetime.datetime
+random
+os
+unidecode
+unidecode.unidecode
+hashlib
+shutil
+requests.adapters
+requests.adapters.HTTPAdapter
+urllib3.poolmanager
+urllib3.poolmanager.PoolManager
+ssl

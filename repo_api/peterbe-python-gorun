@@ -1,0 +1,15 @@
+os
+setuptools
+#
+for
+zip_safe
+and
+install_requires
+distutils.core
+distutils.core.setup
+os
+subprocess
+subprocess.Popen
+threading
+threading.Lock
+threading.Thread

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+requests
+json
+logging
+fieldbook_py.fieldbook
+fieldbook_py.fieldbook.FieldbookClientimport
+fieldbook_py.fieldbook.os
+sys
+fieldbook_py
+fieldbook_py.fieldbookfrom
+fieldbook_py.context
+fieldbook_py.import
+fieldbook_py.fieldbook

@@ -1,0 +1,10 @@
+datetime
+urlparse
+urllib
+types
+decimal
+decimal.Decimal
+xml.sax.saxutils
+xml.sax.saxutils.XMLGenerator
+distutils.core
+distutils.core.setup

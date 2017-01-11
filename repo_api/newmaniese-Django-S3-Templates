@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+django.conf
+django.conf.settings
+django.template.base
+django.template.base.TemplateDoesNotExist
+django.template.loader
+django.template.loader.BaseLoader
+boto.s3.connection
+boto.s3.connection.S3Connection

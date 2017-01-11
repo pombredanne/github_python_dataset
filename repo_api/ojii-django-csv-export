@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+datetime
+datetime.datetime
+django.contrib
+django.contrib.admin
+django.contrib.admin.views.main
+django.contrib.admin.views.main.ChangeList
+django.http
+django.http.HttpResponse
+django.utils.functional
+django.utils.functional.update_wrapper
+csv
+re

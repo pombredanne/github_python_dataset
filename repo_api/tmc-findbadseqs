@@ -1,0 +1,14 @@
+os
+re
+logging
+django.conf
+django.conf.settings
+django.db
+django.db.connection
+django.db.transaction
+django.db.models.loading
+django.db.models.loading.get_models
+django.db.models.fields
+django.db.models.fields.AutoField
+django.db.utils
+django.db.utils.DatabaseError

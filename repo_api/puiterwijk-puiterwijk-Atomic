@@ -1,0 +1,10 @@
+os
+libcomps
+librepo
+sys
+json
+tempfile
+hawkey
+__future__
+__future__.print_function
+boto3

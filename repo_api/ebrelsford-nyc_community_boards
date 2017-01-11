@@ -1,0 +1,8 @@
+scraperwiki
+bs4
+bs4.BeautifulSoup
+re
+sqlite3
+string
+traceback
+urlparse

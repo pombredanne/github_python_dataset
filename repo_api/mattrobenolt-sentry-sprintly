@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.forms
+django.utils
+django.utils.simplejson
+django.utils.translation
+django.utils.translation.ugettext_lazy
+django.utils.encoding
+django.utils.encoding.force_str
+sentry.plugins.bases
+sentry.plugins.bases.issue
+sentry_sprintly
+urllib
+urllib2
+base64

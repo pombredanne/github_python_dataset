@@ -1,0 +1,17 @@
+__future__
+__future__.absolute_import
+shlex
+sys
+setuptools
+setuptools.find_packages
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+messages
+messages.version
+sphinx_rtd_theme
+messages.version
+messages.version.__version__
+__future__.absolute_import
+version
+version.__version__

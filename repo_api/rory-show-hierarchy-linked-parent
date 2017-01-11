@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+fiona
+sys
+collections
+collections.defaultdict
+operator
+argparse
+logging

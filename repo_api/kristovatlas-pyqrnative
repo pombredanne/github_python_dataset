@@ -1,0 +1,6 @@
+PyQRNative
+PyQRNative.*
+math
+PIL
+PIL.Image
+PIL.ImageDraw

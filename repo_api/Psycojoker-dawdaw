@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+dawdaw.utils
+dawdaw.utils.salt_render
+sys
+inspect
+types
+types.ModuleType
+magic
+magic.global_state
+magic.global_state
+sys
+types.ModuleType
+magic.global_state
+contextlib
+contextlib.contextmanager
+magic.global_state

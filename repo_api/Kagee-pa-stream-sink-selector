@@ -1,0 +1,10 @@
+gtk
+gobject
+appindicator
+os
+dbus
+dbus.mainloop.glib
+dbus.mainloop.glib.DBusGMainLoop
+subprocess
+subprocess.call
+subprocess.check_call

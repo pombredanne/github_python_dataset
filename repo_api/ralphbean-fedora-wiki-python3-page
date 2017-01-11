@@ -1,0 +1,13 @@
+collections
+collections.namedtuple
+cStringIO
+difflib
+os
+pprint
+pprint.pprint
+re
+subprocess
+sys
+urllib2
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

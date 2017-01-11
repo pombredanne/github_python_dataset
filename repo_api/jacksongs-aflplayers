@@ -1,0 +1,7 @@
+scraperwiki
+requests
+bs4
+bs4.BeautifulSoup
+datetime
+dateutil.parser
+re

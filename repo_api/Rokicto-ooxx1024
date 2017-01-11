@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+core
+core.*import
+core.os
+re
+threading
+time
+time.sleep
+configparser
+configparser.ConfigParser
+requests
+bs4
+bs4.BeautifulSoup

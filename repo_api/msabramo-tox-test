@@ -1,0 +1,4 @@
+distutils.core
+distutils.core.setup
+foo
+foo.add

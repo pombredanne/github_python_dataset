@@ -1,0 +1,15 @@
+os
+sys
+distutils.command.install_data
+distutils.command.install_data.install_data
+distutils.command.install
+distutils.command.install.INSTALL_SCHEMES
+sys
+os
+unittest
+django.core.management.base
+django.core.management.base.NoArgsCommand
+django.conf
+django.conf.settings
+optparse
+optparse.make_option

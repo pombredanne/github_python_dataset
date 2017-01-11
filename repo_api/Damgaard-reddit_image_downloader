@@ -1,0 +1,17 @@
+os
+pytest
+authentication
+authentication.IMGUR_CLIENT_ID
+authentication.REDDIT_USERAGENT
+reddit_image_downloader
+__future__
+__future__.unicode_literals
+sys
+traceback
+docopt
+docopt.docopt
+praw
+pyimgur
+requests
+authentication.IMGUR_CLIENT_ID
+authentication.REDDIT_USERAGENT

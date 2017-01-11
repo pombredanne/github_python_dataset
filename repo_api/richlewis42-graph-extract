@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+PIL
+PIL.Image
+pandas
+numpy
+matplotlib
+matplotlib.pyplot
+graph_extract
+graph_extract.Graph

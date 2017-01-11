@@ -1,0 +1,12 @@
+matplotlib.pyplot
+random
+time
+insertion_sort
+selection_sort
+merge_sort
+random
+random.randint
+itertools
+itertools.combinations
+time
+time.clock

@@ -1,0 +1,6 @@
+webob.exc
+webob.exc.HTTPException
+pyramid.httpexceptions
+pyramid.httpexceptions.HTTPFound
+pyramid
+logging

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+requests
+translate.exceptions
+translate.exceptions.ServiceFailure
+translate.exceptions.TextTooLong
+translate.exceptions.LanguageNotDetected
+requests
+translate.exceptions.TranslationError
+translate.exceptions.ServiceFailure
+translate.exceptions.TextTooLong
+translate.exceptions.LanguageNotDetected
+translate.exceptions.LanguageNotSupported
+translate.exceptions.TranslationError
+translate.exceptions.TranslationChainFailure

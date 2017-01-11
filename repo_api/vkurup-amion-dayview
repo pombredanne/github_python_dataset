@@ -1,0 +1,7 @@
+mechanize
+string
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+operator
+operator.itemgetter
+operator.attrgetter

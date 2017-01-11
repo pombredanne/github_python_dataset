@@ -1,0 +1,16 @@
+re
+setuptools
+setuptools.setup
+testtube.helpers
+testtube.helpers.pep8_all
+testtube.helpers.pyflakes_all
+testtube.helpers.nosetests_all
+sys
+os
+sphinx_bootstrap_theme
+pyconza2014
+pyconza2014
+pyconza2014.pyconza2014
+pyconza2014.cli
+logging
+click

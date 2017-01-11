@@ -1,0 +1,8 @@
+__future__
+__future__.with_statement
+argparse
+os
+subprocess
+Image
+lxml.etree
+tempfile

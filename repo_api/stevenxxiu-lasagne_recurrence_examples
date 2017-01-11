@@ -1,0 +1,12 @@
+argparse
+sys
+lasagne
+theano
+theano.tensor
+lasagne
+lasagne.init
+lasagne.init
+lasagne.layers
+lasagne.nonlinearities
+theano.sandbox.rng_mrg
+theano.sandbox.rng_mrg.MRG_RandomStreams

@@ -1,0 +1,7 @@
+sys
+os
+shutil
+string
+re
+mutagen.easyid3
+mutagen.easyid3.EasyID3

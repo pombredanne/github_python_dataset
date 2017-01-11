@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+BaseHTTPServer
+urllib
+re
+sys
+lolcommits
+lolcommits.commit
+lolcommits.InvalidSHA
+subprocess

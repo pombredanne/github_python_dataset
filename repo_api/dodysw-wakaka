@@ -1,0 +1,12 @@
+sys
+base64
+datetime
+traceback
+signal
+threading
+time
+config
+Yowsup.connectionmanager
+Yowsup.connectionmanager.YowsupConnectionManager
+Yowsup.Common.debugger
+Yowsup.Common.debugger.Debugger

@@ -1,0 +1,13 @@
+bs4
+bs4.BeautifulSoup
+contextlib
+contextlib.closing
+urllib
+simplenote
+simplenote.Simplenote
+sys
+time
+weechat
+weechat
+subprocess
+re

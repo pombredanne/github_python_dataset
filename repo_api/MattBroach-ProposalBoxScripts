@@ -1,0 +1,6 @@
+pyomxplayer
+pyomxplayer.OMXPlayer
+RPi.GPIO
+subprocess
+subprocess.call
+time

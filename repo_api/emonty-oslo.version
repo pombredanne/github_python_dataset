@@ -1,0 +1,15 @@
+setuptools
+os
+sys
+os
+sys
+pkg_resources
+os
+fixtures
+oslo.version
+oslo.version.tests
+oslo.version.version
+os
+fixtures
+testresources
+testtools

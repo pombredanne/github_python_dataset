@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+httplib2
+socket
+re
+tinfoilhat
+socket
+nose.tools
+nose.tools.raises

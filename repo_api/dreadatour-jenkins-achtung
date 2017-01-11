@@ -1,0 +1,13 @@
+os
+sys
+time
+serial
+jenkinsapi.jenkins
+jenkinsapi.jenkins.Jenkins
+jenkinsapi.exceptions
+jenkinsapi.exceptions.JenkinsAPIException
+__future__
+__future__.print_function
+os
+sys
+serial

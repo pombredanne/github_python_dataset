@@ -1,0 +1,13 @@
+setuptools
+re
+markdown.preprocessors
+markdown.preprocessors.Preprocessor
+markdown.postprocessors
+markdown.postprocessors.Postprocessor
+markdown.extensions
+markdown.extensions.Extension
+re
+unittest
+textwrap
+markdown
+mkdcomments

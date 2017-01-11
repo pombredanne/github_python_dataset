@@ -1,0 +1,6 @@
+os
+scrapy.cmdline
+scrapy.cmdline.execute
+scrapy.item
+scrapy.item.Item
+scrapy.item.Field

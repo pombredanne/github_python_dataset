@@ -1,0 +1,11 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+pytest
+click.testing
+click.testing.CliRunner
+screenshot
+screenshot.cli
+subprocess
+click
+requests

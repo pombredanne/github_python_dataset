@@ -1,0 +1,7 @@
+tweepy
+twitter
+twitter.Twitter
+os
+re
+matplotlib.pyplot
+numpy

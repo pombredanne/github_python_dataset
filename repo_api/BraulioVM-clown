@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+codecs.open
+os
+os.path
+sys
+urllib2
+os
+logging
+flask
+flask.Flask
+flask.request

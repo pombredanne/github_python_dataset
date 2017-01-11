@@ -1,0 +1,7 @@
+os
+sys
+shutil
+shutil.copyfile
+rdio.player.version
+setuptools
+setuptools.setup

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+protorpc.net.proto
+protorpc.net.proto.ProtocolBuffer
+logging
+struct
+array
+string
+re
+httplib
+protorpc.net.proto.ProtocolBuffer

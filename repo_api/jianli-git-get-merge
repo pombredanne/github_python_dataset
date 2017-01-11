@@ -1,0 +1,6 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+git
+os
+sys

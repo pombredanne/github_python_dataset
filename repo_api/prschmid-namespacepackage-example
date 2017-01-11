@@ -1,0 +1,11 @@
+sys
+mypackage.module1
+mypackage.module2
+mypackage.module3
+pkgutil
+pkgutil.extend_path
+bar
+baz
+pkgutil.extend_path
+foo
+bar

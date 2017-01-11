@@ -1,0 +1,7 @@
+gi.repository
+gi.repository.Gtk
+gi.repository.Gdk
+sys
+pygtk
+gtk
+sys

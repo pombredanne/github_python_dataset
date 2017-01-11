@@ -1,0 +1,11 @@
+rules
+nose.tools
+nose.tools.eq_
+logging
+json
+functools
+functools.partial
+operator
+operator.itemgetter
+os
+sys

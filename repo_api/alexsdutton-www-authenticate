@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+itertools
+unittest
+www_authenticate
+collections
+collections.OrderedDict
+re

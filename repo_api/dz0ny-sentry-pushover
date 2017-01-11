@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.forms
+logging
+sentry.conf
+sentry.conf.settings
+sentry.plugins
+sentry.plugins.Plugin
+sentry_pushover
+requests

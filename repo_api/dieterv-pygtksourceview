@@ -1,0 +1,16 @@
+os
+sys
+glob
+distutils.command.build
+distutils.command.build.build
+distutils.core
+distutils.core.setup
+sys
+os
+os.path
+sys
+gtk
+gtksourceview2
+gio
+pango
+gobject

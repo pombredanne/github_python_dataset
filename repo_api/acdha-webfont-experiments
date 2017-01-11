@@ -1,0 +1,10 @@
+__future__
+__future__.unicode_literals
+__future__.print_function
+__future__.absolute_import
+itertools
+itertools.groupby
+argparse
+os
+sys
+fontforge

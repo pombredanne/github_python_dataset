@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+distutils.version
+distutils.version.LooseVersion
+django.conf
+django.conf.settings
+django.db
+django.db.connections
+django.db.models
+django.db.models.QuerySet
+django.db.models.Manager
+django
+sphinx_me
+sphinx_me.setup_conf;
+sphinx_me.setup_conf(globals())

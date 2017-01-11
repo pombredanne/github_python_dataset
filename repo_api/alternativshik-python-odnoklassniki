@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+odnoklassniki.api
+odnoklassniki.api.Odnoklassniki
+odnoklassniki.api.OdnoklassnikiError
+hashlib
+hashlib.md5
+requests
+json

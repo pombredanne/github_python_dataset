@@ -1,0 +1,9 @@
+datetime
+datetime.datetime
+flask
+flask.Flask
+flask.ext.sqlalchemy
+flask.ext.sqlalchemy.SQLAlchemy
+flask.ext.script
+flask.ext.script.Manager
+flask.ext.script.Shell

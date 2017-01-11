@@ -1,0 +1,17 @@
+platform
+codecs
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+email.mime.text
+email.mime.text.MIMEText
+jinja2
+jinja2.FileSystemLoader
+jinja2.Environment
+smtplib
+kinto.core.listeners
+kinto.core.listeners.ListenerBase
+pyramid.settings
+pyramid.settings.aslist
+pyramid.settings.asbool

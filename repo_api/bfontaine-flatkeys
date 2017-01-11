@@ -1,0 +1,13 @@
+setuptools
+distutils.core
+distutils.core.setup
+re
+collections
+platform
+flatkeys
+flatkeys.flatkeys
+sys
+platform
+os.path
+os.path.dirname
+flatkeys

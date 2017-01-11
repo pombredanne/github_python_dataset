@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+noxious
+pytest
+xml.etree.ElementTree

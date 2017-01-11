@@ -1,0 +1,11 @@
+setuptools
+base64
+binascii
+docopt
+nacl.secret
+nacl.signing
+nacl.utils
+six
+six.print_
+sys
+umsgpack

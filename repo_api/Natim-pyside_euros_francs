@@ -1,0 +1,8 @@
+sys
+PySide.QtCore
+PySide.QtGui
+dialog
+dialog.Ui_Dialog
+PySide
+PySide.QtCore
+PySide.QtGui

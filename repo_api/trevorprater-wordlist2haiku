@@ -1,0 +1,17 @@
+os
+sys
+random
+sys
+string
+curses
+curses.ascii
+curses.ascii.isdigit
+pprint
+pprint.pprint
+nltk
+nltk.corpus
+nltk.corpus.cmudict
+os
+sys
+string
+nltk.corpus.stopwords

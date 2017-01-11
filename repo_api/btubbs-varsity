@@ -1,0 +1,14 @@
+os
+re
+setuptools
+setuptools.setup
+os
+attrdict
+attrdict.AttrDict
+json
+decimal
+decimal.Decimal
+pytest
+varsity
+varsity.Loader
+varsity.nice_bool

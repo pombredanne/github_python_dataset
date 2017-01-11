@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+inspect
+collections
+os.path
+django.core.management.base
+django.core.management.base.BaseCommand
+django.conf
+django.conf.settings
+django.test
+django.test.Client
+django.db
+django.db.connection

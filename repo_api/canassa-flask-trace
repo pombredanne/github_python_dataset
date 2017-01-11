@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+codecs
+os
+flask_trace
+__future__
+__future__.absolute_import
+functools
+functools.wraps
+inspect
+logging
+sys
+uuid

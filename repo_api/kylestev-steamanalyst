@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+steamanalyst
+steamanalyst.entities
+steamanalyst.queries
+re
+json
+os
+requests
+steamanalyst.errors
+steamanalyst.settings
+steamanalyst.settings

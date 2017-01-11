@@ -1,0 +1,11 @@
+django.utils
+django.utils.simplejson
+logging
+google.appengine.ext
+google.appengine.ext.webapp
+google.appengine.ext.webapp.util
+google.appengine.ext.webapp.util.run_wsgi_app
+google.appengine.api
+google.appengine.api.urlfetch
+urllib
+urllib.urlencode

@@ -1,0 +1,16 @@
+distutils.core
+distutils.core.setup
+doctest
+unittest
+chess
+chess
+chess.Game
+chess.BoardSquare
+chess.InvalidSquareException
+chess.BasicMove
+chess.NoPieceAtSquareException
+chess.MoveMissingPromotionException
+chess.InvalidPromotionDataException
+chess
+copy
+pieces

@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+json
+csgoprices
+csgoprices.utils
+csgoprices.errors
+functools
+requests_futures.sessions
+requests_futures.sessions.FuturesSession
+csgoprices.responses
+csgoprices.scraper
+csgoprices.scraper.Scraper
+csgoprices.entities

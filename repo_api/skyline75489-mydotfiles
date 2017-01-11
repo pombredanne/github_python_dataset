@@ -1,0 +1,6 @@
+os.path
+pkgutil
+shutil
+sys
+struct
+tempfile

@@ -1,0 +1,9 @@
+__future__
+__future__.division
+sys
+os.path
+gobject
+pygst
+gst
+optparse
+optparse.OptionParser

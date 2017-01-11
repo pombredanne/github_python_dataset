@@ -1,0 +1,17 @@
+django.conf.urls.defaults
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager
+django.db
+django.db.models
+django.test
+django.test.TestCase
+bughouse.models
+bughouse.models.Bug
+django.db.models
+django.db.models.Count
+datetime
+django.contrib.admin
+bughouse.models.Bug
+bughouse.models.Patch

@@ -1,0 +1,17 @@
+__future__
+__future__.absolute_import
+__future__.division
+__future__.unicode_literals
+contextlib
+os
+shelve
+urlparse
+collections
+collections.defaultdict
+ConfigParser
+ConfigParser.NoOptionError
+ConfigParser.NoSectionError
+ConfigParser.RawConfigParser
+click
+lxml.html
+requests

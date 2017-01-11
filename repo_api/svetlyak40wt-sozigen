@@ -1,0 +1,12 @@
+sys
+sozigen
+distutils.core
+distutils.core.setup
+os
+os.path
+urllib2
+math
+shelve
+PIL.Image
+StringIO
+StringIO.StringIO

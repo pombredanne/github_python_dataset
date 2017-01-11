@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+pyramid.scaffolds
+pyramid.scaffolds.PyramidTemplate
+pyramid.scaffolds.#
+pyramid.scaffolds.pyramid
+pyramid.scaffolds.1.1+
+unittest
+pyramid
+pyramid.testing
+meta
+meta.Session
+meta.metadata
+objects

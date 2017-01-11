@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+sys
+os
+sphinx_rtd_theme
+layerz
+layerz.Layers
+noseOfYeti.tokeniser.support
+noseOfYeti.tokeniser.support.noy_sup_setUp
+noseOfYeti.tokeniser.support.noy_sup_tearDown
+delfick_error
+delfick_error.DelfickErrorTestMixin
+unittest
+unittest.TestCase
+mock
+six
+nose

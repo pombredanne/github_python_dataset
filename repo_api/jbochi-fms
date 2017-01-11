@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+requests
+xml_dict
+xml_dict.xml_to_dict
+xml.etree
+xml.etree.ElementTree

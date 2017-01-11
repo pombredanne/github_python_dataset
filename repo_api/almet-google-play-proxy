@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+cornice
+cornice.Service
+pyramid.config
+pyramid.config.Configurator
+pyramid.events
+pyramid.events.NewRequest
+redis
+redis.Redis
+rq
+rq.Queue
+gplaycli.gplaycli
+gplaycli.gplaycli.GPlaycli

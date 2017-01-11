@@ -1,0 +1,13 @@
+cfn_resource
+setuptools
+setuptools.setup
+codecs
+codecs.open
+os
+os.path
+json
+logging
+urllib2
+json
+mock
+cfn_resource

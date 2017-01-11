@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+nose.tools
+weixin.Weixin
+weixin.Weixin.Weixin
+hashlib
+time
+hashlib
+weixin.Weixin.Weixin

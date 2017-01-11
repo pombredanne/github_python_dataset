@@ -1,0 +1,12 @@
+__future__
+__future__.unicode_literals
+flask
+flask.Flask
+flask.request
+bootstrap
+pywikibot
+wsgiref.handlers
+wsgiref.handlers.CGIHandler
+werkzeug.debug
+werkzeug.debug.DebuggedApplication
+__future__.unicode_literals

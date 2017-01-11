@@ -1,0 +1,13 @@
+urlparse
+urllib
+thrift.protocol.TBinaryProtocol
+thrift.transport.THttpClient
+evernote.edam.userstore.UserStore
+evernote.edam.notestore.NoteStore
+oauth2
+flask
+flask.Flask
+flask.session
+flask.redirect
+flask.url_for
+flask.request

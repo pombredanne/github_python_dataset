@@ -1,0 +1,8 @@
+site
+os.path
+sys
+pyramid.config
+pyramid.config.Configurator
+pyramid.response
+pyramid.response.Response
+vendor

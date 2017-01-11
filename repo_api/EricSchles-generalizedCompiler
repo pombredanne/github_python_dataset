@@ -1,0 +1,11 @@
+subprocess
+subprocess.call
+sys
+sys.argv
+core.global_obj
+core.lang_wrappers
+core.execute_code
+core.parser
+os
+subprocess.call
+os

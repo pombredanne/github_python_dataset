@@ -1,0 +1,10 @@
+os
+re
+dpkt
+sys
+socket
+cStringIO
+collections
+collections.defaultdict
+httplib
+httplib.HTTPResponse

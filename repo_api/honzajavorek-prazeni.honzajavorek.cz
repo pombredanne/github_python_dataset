@@ -1,0 +1,5 @@
+platform
+danube_delta.settings
+danube_delta.settings.*
+danube_delta.settings.#
+danube_delta.settings.NOQA

@@ -1,0 +1,14 @@
+MeCab
+romkan
+pdb
+xml.etree.ElementTree
+xml.etree.ElementTree.iterparse
+bottle
+bottle.route
+bottle.run
+bottle.view
+bottle.request
+urllib.request
+urllib.request.urlopen
+gzip
+gzip.GzipFile

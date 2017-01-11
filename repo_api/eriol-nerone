@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+os
+click
+PyInstaller.building.build_main
+import
+spec
+spec.mkspec
+os
+ast
+inspect
+os
+PyInstaller.building.makespec
+PyInstaller.building.makespec.(
+sys

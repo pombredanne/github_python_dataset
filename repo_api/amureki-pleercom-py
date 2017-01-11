@@ -1,0 +1,7 @@
+pleer_api
+pleer_api.PleerApi
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+requests

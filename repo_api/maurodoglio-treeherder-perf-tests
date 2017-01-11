@@ -1,0 +1,12 @@
+sys
+os
+argparse
+gevent
+gevent.monkey
+cProfile
+json
+collections
+collections.defaultdict
+gevent
+treeherder.log_parser.artifactbuildercollection
+treeherder.log_parser.artifactbuildercollection.ArtifactBuilderCollection

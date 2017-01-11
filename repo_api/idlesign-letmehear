@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+letmehear
+letmehear.VERSION
+os
+re
+logging
+argparse
+collections
+collections.defaultdict
+subprocess
+subprocess.Popen
+subprocess.PIPE
+hashlib
+hashlib.md5

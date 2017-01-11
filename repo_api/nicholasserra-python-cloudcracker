@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+urllib2
+mimetypes
+mimetools
+codecs
+io
+io.BytesIO

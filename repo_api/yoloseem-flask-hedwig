@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+hedwig.backends
+hedwig.backends.BaseEmailBackend
+werkzeug.utils
+werkzeug.utils.import_string

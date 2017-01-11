@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+os.path
+unittest
+mandrill_inbound
+mandrill_inbound.MandrillInbound
+json
+re
+base64
+base64.b64decode
+datetime
+datetime.datetime
+email.utils
+email.utils.mktime_tz
+email.utils.parsedate_tz

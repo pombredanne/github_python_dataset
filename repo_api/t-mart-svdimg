@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+math
+functools
+operator
+numpy
+scipy.linalg
+scipy.misc
+PIL
+PIL.Image
+click

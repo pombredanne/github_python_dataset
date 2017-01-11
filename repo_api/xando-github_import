@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+github_import
+github.com.kennethreitz.requests
+github.com.kennethreitz.requests.requests
+sys
+imp
+os
+new
+subprocess

@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+shutil
+sys
+tempfile
+optparse
+optparse.OptionParser
+setuptools
+pkg_resources
+subprocess
+zc.buildout.buildout
+os
+sys
+subprocess

@@ -1,0 +1,5 @@
+argparse
+usb.core
+usb.util
+struct
+sys

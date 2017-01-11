@@ -1,0 +1,16 @@
+argparse
+collections
+collections.namedtuple
+logging
+numpy
+os
+pyaudio
+queue
+sys
+threading
+time
+zmq
+zmq.eventloop
+zmq.eventloop.ioloop
+zmq.eventloop.zmqstream
+zmq.utils.jsonapi

@@ -1,0 +1,16 @@
+os
+setuptools
+setuptools.setup
+ipython_notebook_open
+ipython_notebook_open.ipno
+__future__
+__future__.print_function
+subprocess
+subprocess.Popen
+subprocess.PIPE
+subprocess.STDOUT
+pty
+os
+re
+sys
+webbrowser

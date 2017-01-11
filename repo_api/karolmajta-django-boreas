@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+django.core.management.base
+django.core.management.base.BaseCommand
+boreas.commands

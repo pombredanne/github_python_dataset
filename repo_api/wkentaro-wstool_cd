@@ -1,0 +1,9 @@
+os
+sys
+platform
+subprocess
+setuptools
+setuptools.setup
+setuptools.find_packages
+distutils.core
+distutils.core.Command

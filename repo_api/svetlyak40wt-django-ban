@@ -1,0 +1,13 @@
+ipcalc
+django.db
+django.db.models
+django.utils.translation
+django.utils.translation.ugettext_lazy
+logging
+django.http
+django.http.HttpResponseForbidden
+django.conf
+django.conf.settings
+models
+models.DenyIP
+models.AllowIP

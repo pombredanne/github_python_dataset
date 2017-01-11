@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+favssh
+favssh.__version__
+favssh.config
+favssh.config.Configuration
+os
+os

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+sys
+cassandra.cluster
+cassandra.cluster.Cluster
+cassandra.cluster.Session
+cassandra.protocol
+cassandra.protocol.SyntaxException
+sys
+casscache
+casscache.Client
+cassandra.cluster.Cluster

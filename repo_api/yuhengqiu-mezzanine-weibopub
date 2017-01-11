@@ -1,0 +1,10 @@
+__future__
+__future__.unicode_literals
+django.utils.safestring
+django.utils.safestring.mark_safe
+django.utils.translation
+django.utils.translation.ugettext_lazy
+django.template.defaultfilters
+django.template.defaultfilters.truncatechars
+mezzanine.weibopub
+mezzanine.weibopub.get_auth_settings

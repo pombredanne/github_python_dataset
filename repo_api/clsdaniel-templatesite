@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+os
+jinja2
+optparse
+optparse.OptionParser

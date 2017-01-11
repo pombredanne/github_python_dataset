@@ -1,0 +1,8 @@
+__future__
+__future__.division
+itertools
+itertools.product
+shapely.geometry
+shapely.geometry.Polygon
+shapely.affinity
+shapely.affinity.rotate

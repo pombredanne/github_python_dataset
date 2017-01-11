@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+functools
+anillo.http.responses
+anillo.http.responses.Response
+raven
+raven.Client

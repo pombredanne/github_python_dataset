@@ -1,0 +1,6 @@
+functools
+functools.singledispatch
+functools.total_ordering
+inspect
+collections
+collections.abc

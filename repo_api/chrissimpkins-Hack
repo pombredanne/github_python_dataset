@@ -1,0 +1,15 @@
+sys
+fontTools
+fontTools.ttLib
+sys
+os
+os.path
+hashlib
+fontTools.ttLib
+sys
+os.path
+codecs
+unicodedata
+fontTools.ttLib
+yaml
+yaml.load

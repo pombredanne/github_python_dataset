@@ -1,0 +1,7 @@
+numpy
+matplotlib.pyplot
+scipy
+scipy.stats
+matplotlib.pyplot
+sklearn.datasets.samples_generator
+sklearn.datasets.samples_generator.make_blobs

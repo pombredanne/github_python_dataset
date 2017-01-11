@@ -1,0 +1,8 @@
+clipboard
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+pyperclip
+pyperclip.copy
+pyperclip.paste

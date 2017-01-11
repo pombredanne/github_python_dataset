@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+PIL
+PIL.Image
+PIL.ImageDraw
+PIL.ImageFont
+PIL.ImageEnhance
+os
+copy
+watermark
+watermark.Watermark
+argparse
+os
+sys

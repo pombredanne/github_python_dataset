@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+Crypto.Cipher
+Crypto.Cipher.AES
+random
+string
+redis
+os
+unittest
+redicrypt
+redicrypt.redicrypt
+os

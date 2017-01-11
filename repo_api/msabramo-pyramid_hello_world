@@ -1,0 +1,6 @@
+wsgiref.simple_server
+wsgiref.simple_server.make_server
+pyramid.config
+pyramid.config.Configurator
+pyramid.response
+pyramid.response.Response

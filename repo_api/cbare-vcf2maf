@@ -1,0 +1,17 @@
+vcf2maf
+vcf2maf.list_samples
+vcf2maf.vcf2maf
+argparse
+itertools
+itertools.ifilter
+re
+sys
+re
+sys
+argparse
+uuid
+vcf
+time
+time.time
+maf_spec
+vcf.filters

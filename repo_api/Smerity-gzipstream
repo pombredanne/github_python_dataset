@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+io
+zlib
+gzipstreamfile
+gzipstreamfile.GzipStreamFile
+import
+unittest
+boto
+boto.s3.key
+boto.s3.key.Key
+gzipstream
+gzipstream.GzipStreamFile
+warc

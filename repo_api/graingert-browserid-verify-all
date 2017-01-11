@@ -1,0 +1,9 @@
+string
+cgi
+time
+os
+os.curdir
+os.sep
+BaseHTTPServer
+BaseHTTPServer.BaseHTTPRequestHandler
+BaseHTTPServer.HTTPServer

@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+web
+jinja2
+jinja2.Environment
+jinja2.FileSystemLoader

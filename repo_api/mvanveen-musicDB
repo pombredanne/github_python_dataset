@@ -1,0 +1,15 @@
+sqlalchemy
+sqlalchemy.Table
+sqlalchemy.Column
+sqlalchemy.Integer
+sqlalchemy.String
+sqlalchemy.ForeignKey
+sqlalchemy.orm
+sqlalchemy.orm.relation
+sqlalchemy.orm.backref
+sqlalchemy.ext.declarative
+sqlalchemy.ext.declarative.declarative_base
+sys
+os
+json
+hashlib

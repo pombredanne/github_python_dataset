@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+six
+container
+container.ImmutableContainer
+re
+six
+unittest
+immut
+immut.ImmutableContainer

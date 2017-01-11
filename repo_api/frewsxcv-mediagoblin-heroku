@@ -1,0 +1,5 @@
+os
+mediagoblin.app
+mediagoblin.app.MediaGoblinApp
+configobj
+configobj.ConfigObj

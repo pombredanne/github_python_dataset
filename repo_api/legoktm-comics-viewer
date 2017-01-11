@@ -1,0 +1,11 @@
+jinja2
+json
+logging
+webapp2
+re
+google.appengine.api
+google.appengine.api.mail
+google.appengine.api.memcache
+google.appengine.api.urlfetch
+google.appengine.ext
+google.appengine.ext.ndb

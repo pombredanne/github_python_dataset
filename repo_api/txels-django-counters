@@ -1,0 +1,5 @@
+djcounter
+djcounter.*
+djcounter.#
+djcounter.NOQA
+redis

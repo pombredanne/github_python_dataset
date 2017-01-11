@@ -1,0 +1,12 @@
+os
+re
+subprocess
+weakref
+tempfile
+tempfile.NamedTemporaryFile
+winereg
+os
+sys
+unittest
+test
+test.test_support

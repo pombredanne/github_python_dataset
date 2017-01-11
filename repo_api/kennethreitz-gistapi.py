@@ -1,0 +1,16 @@
+os
+sys
+distutils.core
+distutils.core.setup
+unittest
+gistapi
+gistapi
+gistapi.Gist
+gistapi.Gists
+core
+cStringIO
+os.path
+requests
+urllib2
+datetime
+datetime.datetime

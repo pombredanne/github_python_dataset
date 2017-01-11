@@ -1,0 +1,13 @@
+scrapy.item
+scrapy.item.Item
+scrapy.item.Field
+sqlite3
+scrapy.selector
+scrapy.selector.HtmlXPathSelector
+scrapy.contrib.linkextractors.sgml
+scrapy.contrib.linkextractors.sgml.SgmlLinkExtractor
+scrapy.contrib.spiders
+scrapy.contrib.spiders.CrawlSpider
+scrapy.contrib.spiders.Rule
+hscraper.items
+hscraper.items.HscraperItem

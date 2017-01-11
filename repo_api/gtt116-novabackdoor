@@ -1,0 +1,8 @@
+pprint
+eventlet
+kombu
+functools
+nova
+nova.flags
+nova.rpc
+nova.rpc.impl_kombu

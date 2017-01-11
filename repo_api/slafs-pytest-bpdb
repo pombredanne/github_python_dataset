@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+bpdb
+sys
+pytest
+py

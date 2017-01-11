@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+alert_grid.exceptions
+alert_grid.exceptions.AlertGridURLError
+alert_grid.exceptions.UnknownError
+alert_grid.exceptions.ERRORS
+urllib
+urllib2

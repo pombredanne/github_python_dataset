@@ -1,0 +1,13 @@
+itertools
+requests
+setuptools
+setuptools.setup
+logging
+sys
+flask
+flask.Flask
+jinja2
+simple_lp
+os
+ironic_bug_dashboard
+ironic_bug_dashboard.app

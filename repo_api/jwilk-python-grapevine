@@ -1,0 +1,7 @@
+distutils.core
+itertools
+operator
+re
+sys
+types
+os

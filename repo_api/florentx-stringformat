@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+sys
+unittest
+stringformat
+stringformat.FormattableString
+re
+re

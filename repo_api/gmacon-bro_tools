@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+codecs
+datetime
+ipaddress
+re
+datetime
+ipaddress
+itertools
+itertools.chain
+pathlib
+pathlib.Path
+sqlite3
+log_reader
+log_reader.BroLogReader

@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+py2exe
+wx
+math
+serial
+sys
+glob

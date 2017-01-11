@@ -1,0 +1,9 @@
+os
+time
+PIL
+PIL.Image
+sys
+colorsys
+numpy
+images2gif
+images2gif.writeGif

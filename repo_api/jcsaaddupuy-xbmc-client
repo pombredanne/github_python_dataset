@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+version
+os
+optparse
+optparse.OptionParser
+shutil
+re
+xbmcjson
+xbmcjson.XBMC
+xbmcjson.PLAYER_VIDEO
+xbmc_client

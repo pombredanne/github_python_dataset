@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+sys
+jsplit
+jsplit.main
+argparse
+json
+os
+sys

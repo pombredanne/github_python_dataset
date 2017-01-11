@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+rot13bot
+rot13bot.rot13bot
+string
+pytest
+mock
+rot13bot.rot13bot
+rot13bot.rot13bot.Rot13Bot
+__future__
+__future__.print_function
+itertools
+re
+ConfigParser
+logging
+tweepy

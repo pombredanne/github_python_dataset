@@ -1,0 +1,9 @@
+distutils.core
+sys
+morfeusz
+__future__
+__future__.with_statement
+collections
+ctypes
+os
+sys

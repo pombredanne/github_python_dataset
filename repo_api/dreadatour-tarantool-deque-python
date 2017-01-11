@@ -1,0 +1,17 @@
+codecs
+os
+re
+setuptools
+setuptools.find_packages
+setuptools.setup
+threading
+unittest
+tarantool
+tarantool_deque
+tarantool_deque.Deque
+time
+unittest
+tarantool_deque.Deque
+threading
+tarantool
+tarantool_deque.Deque

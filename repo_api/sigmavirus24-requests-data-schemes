@@ -1,0 +1,5 @@
+unittest
+requests_data_schemes
+requests_data_schemes.multipart_formdata
+requests.packages.urllib3.filepost
+requests.packages.urllib3.filepost.encode_multipart_formdata

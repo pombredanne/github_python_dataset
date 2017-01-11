@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+sys
+re
+socket
+select
+traceback
+paramiko
+paramiko_expect
+paramiko_expect.SSHClientInteraction
+traceback
+paramiko
+paramiko_expect.SSHClientInteraction

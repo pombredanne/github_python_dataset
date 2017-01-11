@@ -1,0 +1,9 @@
+math
+math.asin
+math.cos
+math.radians
+math.sin
+math.sqrt
+sys
+sys.argv
+sys.exit

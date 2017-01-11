@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+distutils.core
+distutils.core.Extension
+multiprocessing
+multiprocessing.util
+_shmdict
+unittest
+shmdict
+tests.utils
+tests.utils.IPCS
+subprocess

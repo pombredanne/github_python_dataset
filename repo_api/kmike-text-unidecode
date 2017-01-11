@@ -1,0 +1,13 @@
+codecs
+sys
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+__future__.unicode_literals
+text_unidecode
+text_unidecode.unidecode
+pytest
+__future__.absolute_import
+__future__.unicode_literals
+os

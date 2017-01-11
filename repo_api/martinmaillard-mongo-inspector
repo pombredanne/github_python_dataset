@@ -1,0 +1,12 @@
+os
+re
+os
+collections
+collections.namedtuple
+pymongo
+bson.code
+bson.code.Code
+mongo_inspector
+mongo_inspector.extract_schema
+mongo_inspector.Attribute
+mongo_inspector.__doc__

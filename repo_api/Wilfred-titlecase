@@ -1,0 +1,16 @@
+os
+sys
+ez_setup
+ez_setup.use_setuptools
+setuptools
+setuptools.setup
+setuptools.find_packages
+titlecase
+titlecase.__version__
+sys
+sys
+os
+os
+sys
+titlecase.titlecase
+re

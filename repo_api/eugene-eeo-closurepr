@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+sys
+functools
+functools.wraps
+re
+re.search
+unittest
+unittest.TestCase
+closurepr
+closurepr.rich_repr

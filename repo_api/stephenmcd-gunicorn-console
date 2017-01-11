@@ -1,0 +1,15 @@
+re
+curses
+itertools
+itertools.count
+subprocess
+subprocess.Popen
+subprocess.PIPE
+sys
+sys.platform
+sys.exit
+setuptools
+setuptools.setup
+sphinx_me
+sphinx_me.setup_conf;
+sphinx_me.setup_conf(globals())

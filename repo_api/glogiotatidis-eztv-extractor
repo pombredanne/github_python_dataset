@@ -1,0 +1,10 @@
+ConfigParser
+os
+re
+shutil
+ConfigParser
+re
+requests
+pyquery
+pyquery.PyQuery
+transmissionrpc

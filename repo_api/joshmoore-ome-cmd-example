@@ -1,0 +1,10 @@
+ez_setup
+ez_setup.use_setuptools
+setuptools
+setuptools.setup
+setuptools.find_packages
+omero_version
+omero_version.omero_version
+sys
+sys
+os

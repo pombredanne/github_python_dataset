@@ -1,0 +1,4 @@
+struct
+sys
+locale
+locale.getpreferredencoding

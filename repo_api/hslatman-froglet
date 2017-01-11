@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+froglet
+froglet.Frogletfrom
+froglet.__future__
+froglet.import
+froglet.print_function
+__future__
+__future__.unicode_literals
+__future__.division
+__future__.absolute_import
+sys
+sys.version
+json
+socket

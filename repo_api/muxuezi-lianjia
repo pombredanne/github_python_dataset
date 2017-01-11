@@ -1,0 +1,15 @@
+requests
+lxml
+lxml.html
+tqdm
+tqdm.tqdm
+pandas
+asyncio
+aiohttp
+requests
+lxml.html
+ast
+tqdm.tqdm
+pandas
+asyncio
+aiohttp

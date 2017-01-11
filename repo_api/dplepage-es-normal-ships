@@ -1,0 +1,11 @@
+bpy
+bpy
+sys
+PIL
+PIL.Image
+numpy
+sys
+tempfile
+contextlib
+bpy
+sys

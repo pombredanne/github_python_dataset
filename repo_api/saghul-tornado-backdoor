@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+signal
+tornado.ioloop
+tornado.ioloop.IOLoop
+tornado_backdoor
+tornado_backdoor.BackdoorServer
+functools
+sys
+code
+code.InteractiveConsole
+cStringIO
+cStringIO.StringIO
+tornado.netutil
+tornado.netutil.TCPServer

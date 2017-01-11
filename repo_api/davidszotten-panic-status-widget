@@ -1,0 +1,16 @@
+desk
+desk.app
+rauth
+rauth.OAuth1Session
+desk.environment
+desk.environment.CREDENTIALS
+desk.environment.URL
+flask
+flask.render_template
+desk.app
+desk.connection
+desk.connection.get_data
+flask.Flask
+desk.reverse_proxy
+desk.reverse_proxy.ReverseProxied
+desk.views

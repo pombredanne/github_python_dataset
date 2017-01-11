@@ -1,0 +1,8 @@
+os
+re
+socket
+sys
+subprocess
+subprocess.PIPE
+subprocess.STDOUT
+subprocess.Popen

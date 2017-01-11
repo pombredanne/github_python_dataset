@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+functools
+functools.wraps
+inspect
+logging
+logging
+unittest
+coverage
+merry
+merry.Merry

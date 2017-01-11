@@ -1,0 +1,15 @@
+logging
+urlparse
+urlparse.parse_qsl
+sipgateapi
+xmlrpclib
+__future__
+__future__.absolute_import
+os
+sys
+resource
+errno
+signal
+socket
+atexit
+xmlrpclib

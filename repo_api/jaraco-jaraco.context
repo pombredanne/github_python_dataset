@@ -1,0 +1,15 @@
+io
+sys
+setuptools
+setuptools_scm
+os
+argparse
+subprocess
+contextlib
+shlex
+logging
+functools
+tempfile
+shutil
+jaraco.apt
+yg.lockfile

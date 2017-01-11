@@ -1,0 +1,14 @@
+sys
+readline
+solver
+solver.solutions
+parser
+parser.SATSyntaxError
+parser.SATEndOfFileError
+solver.solutions
+ply.yacc
+tokens
+tokens.tokens
+ply.lex
+parser.parse
+parser.SATSyntaxError

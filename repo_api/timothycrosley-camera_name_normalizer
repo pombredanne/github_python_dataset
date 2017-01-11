@@ -1,0 +1,4 @@
+tempfile
+tempfile.NamedTemporaryFile
+camera_name_normalizer
+camera_name_normalizer.CameraNameNormalizer

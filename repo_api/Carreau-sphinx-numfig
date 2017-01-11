@@ -1,0 +1,11 @@
+docutils.nodes
+sphinx.roles
+sphinx.roles.XRefRole
+sphinx.roles.XRefRole
+numfig
+sys
+os
+sphinx-numfig
+unittest
+sphinx_numfig
+sphinx_numfig.sphinx_numfig

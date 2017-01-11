@@ -1,0 +1,12 @@
+argparse
+cStringIO
+errno
+itertools
+json
+os
+re
+shutil
+sys
+zipfile
+bs4
+requests

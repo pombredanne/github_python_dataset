@@ -1,0 +1,15 @@
+os
+sys
+codecs
+setuptools
+setuptools.setup
+__future__
+__future__.absolute_import
+__future__.division
+__future__.print_function
+__future__.unicode_literals
+os
+sys
+time
+html5lib
+lxml.html

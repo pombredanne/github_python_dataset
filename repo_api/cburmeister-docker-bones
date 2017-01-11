@@ -1,0 +1,10 @@
+flask
+flask.Flask
+flask.jsonify
+redis
+redis.StrictRedis
+werkzeug.contrib.cache
+werkzeug.contrib.cache.MemcachedCache
+flask.ext.sqlalchemy
+flask.ext.sqlalchemy.SQLAlchemy
+os

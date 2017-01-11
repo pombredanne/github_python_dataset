@@ -1,0 +1,9 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+{{cookiecutter.app_name}}
+{{cookiecutter.app_name}}.__version__
+jirafs.plugin
+jirafs.plugin.(

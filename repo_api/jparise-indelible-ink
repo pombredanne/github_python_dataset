@@ -1,0 +1,7 @@
+docutils
+docutils.nodes
+docutils.core
+docutils.core.publish_cmdline
+docutils.core.default_description
+docutils.parsers.rst
+docutils.parsers.rst.directives

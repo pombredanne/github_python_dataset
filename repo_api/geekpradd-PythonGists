@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+PythonGists
+PythonGists.GitHubGist
+requests
+getpass
+json
+random
+random.randint
+requests

@@ -1,0 +1,9 @@
+urllib
+bs4
+bs4.BeautifulSoup
+pprint
+pprint.pprint
+cvfgenerator
+cvfgenerator.cvpr2014
+cvfgenerator.iccv2013
+cvfgenerator.cvpr2013

@@ -1,0 +1,6 @@
+os
+unittest
+rose
+rose.build_version
+rose.load_version
+rose.VersionError

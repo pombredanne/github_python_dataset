@@ -1,0 +1,6 @@
+os
+sys
+doctest
+webassets.filter
+webassets.filter.ExternalTool
+webassets.filter.register_filter

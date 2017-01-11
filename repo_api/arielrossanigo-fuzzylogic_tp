@@ -1,0 +1,15 @@
+math
+random
+fuzzy
+ply
+ply.lex
+ply.yacc
+collections
+collections.defaultdict
+parser_fuzzy
+Tkinter
+threading
+simulacion_pendulo
+simulacion_pendulo.Pendulum
+math
+fuzzy

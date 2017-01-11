@@ -1,0 +1,15 @@
+re
+sys
+time
+pyglet
+functools
+random
+random.randint
+threading
+threading.Thread
+pyglet.gl
+pyglet.gl.glRectf
+pyglet.window
+pyglet.window.key
+pyglet
+pyglet.clock

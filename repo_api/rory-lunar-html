@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+lunar_html
+re
+urlparse
+csv
+lxml.html.soupparser
+cssselect
+unittest
+unittest.TestCase
+test_case
+test_case.BaseLunarHTMLTestCase
+django.test
+django.test.TestCase

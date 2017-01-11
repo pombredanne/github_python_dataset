@@ -1,0 +1,16 @@
+bs4
+bs4.BeautifulSoup
+requests
+collections
+collections.OrderedDict
+bs4.BeautifulSoup
+requests
+collections.OrderedDict
+gspread
+getpass
+sys
+python_colors
+re
+gspread
+getpass
+sys

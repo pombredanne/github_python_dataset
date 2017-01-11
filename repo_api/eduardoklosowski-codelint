@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+mimetypes
+os
+re
+shlex
+sys
+optparse
+optparse.OptionParser
+subprocess
+subprocess.PIPE
+subprocess.Popen
+tempfile
+tempfile.NamedTemporaryFile

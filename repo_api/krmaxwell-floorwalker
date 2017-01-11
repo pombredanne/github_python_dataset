@@ -1,0 +1,12 @@
+bs4
+bs4.BeautifulSoup
+sys
+urllib2
+re
+logging
+pymongo
+dateutil.parser
+dateutil.tz
+datetime
+time
+time.sleep

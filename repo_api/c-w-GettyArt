@@ -1,0 +1,17 @@
+distutils.core
+distutils.core.setup
+os
+tempfile
+__future__
+__future__.absolute_import
+itertools
+os
+re
+urllib
+getty_art
+getty_art.util
+__future__.absolute_import
+getty_art.getty_art
+getty_art.getty_art.Scraper
+getty_art.getty_art.#
+getty_art.getty_art.noqa

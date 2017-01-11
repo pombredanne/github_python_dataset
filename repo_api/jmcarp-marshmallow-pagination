@@ -1,0 +1,17 @@
+re
+setuptools
+setuptools.setup
+setuptools.find_packages
+six
+marshmallow
+abc
+collections
+six
+abc
+math
+six
+sqlalchemy
+marshmallow_sqlalchemy.convert
+marshmallow_sqlalchemy.convert.ModelConverter
+marshmallow_pagination
+marshmallow_pagination.pages

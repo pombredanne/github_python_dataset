@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+os
+optparse
+lxml
+lxml.etree
+ptree
+ptree.id2ptree

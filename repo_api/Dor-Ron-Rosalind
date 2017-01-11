@@ -1,0 +1,6 @@
+itertools
+itertools.permutations
+os
+os.system
+Bio.Seq
+Bio.Seq.Seq

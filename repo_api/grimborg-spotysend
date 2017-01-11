@@ -1,0 +1,6 @@
+os
+setuptools
+setuptools.setup
+sys
+opster
+opster.command

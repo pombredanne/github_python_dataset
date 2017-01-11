@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+sys
+gang
+gang.subclass_object
+gang.GangDict
+gang.GangList
+gang.GangTuple

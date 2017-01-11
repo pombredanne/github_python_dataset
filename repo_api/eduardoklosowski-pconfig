@@ -1,0 +1,5 @@
+ansible.module_utils.basic
+ansible.module_utils.basic.AnsibleModule
+subprocess
+subprocess.PIPE
+subprocess.Popen

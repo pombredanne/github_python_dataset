@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+optparse
+subprocess
+tempfile
+shelve
+datetime
+sys
+os
+os.path
+mako.template
+didit

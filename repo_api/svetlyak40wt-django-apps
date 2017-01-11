@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.db
+django.db.models
+re
+django.utils.translation
+django.utils.translation.ugettext_lazy
+re
+django
+django.template
+django.conf
+django.conf.settings
+django.utils.translation.ugettext_lazy
+django_apps.descriptions
+django_apps.descriptions.get_description

@@ -1,0 +1,5 @@
+argparse
+hashlib
+os
+re
+jinja2

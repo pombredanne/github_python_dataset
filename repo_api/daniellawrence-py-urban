@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+json
+logging
+requests
+bs4

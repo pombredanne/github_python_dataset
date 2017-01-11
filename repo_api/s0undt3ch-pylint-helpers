@@ -1,0 +1,17 @@
+os
+subprocess
+setuptools
+setuptools.setup
+distutils
+distutils.log
+distutils.command
+distutils.command.clean
+distutils.command.build
+distutils.extension
+distutils.extension.Extension
+pylinthelpers
+astroid
+astroid.MANAGER
+astroid.nodes
+astroid.builder
+astroid.builder.AstroidBuilder

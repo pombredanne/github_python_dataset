@@ -1,0 +1,11 @@
+os
+pprint
+bs4
+bs4.BeautifulSoup
+flask
+flask.Flask
+flask.render_template
+flask.request
+flask.flash
+flask.redirect
+requests

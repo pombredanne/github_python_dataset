@@ -1,0 +1,17 @@
+pysqlite2
+pysqlite2.dbapi2
+os
+tagpy
+time
+bz2
+pickle
+gtk
+gobject
+time
+os
+shutil
+sys
+statvfs
+subprocess
+threading
+simplesync_db

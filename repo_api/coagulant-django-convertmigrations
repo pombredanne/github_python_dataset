@@ -1,0 +1,16 @@
+glob
+optparse
+optparse.make_option
+os
+django.apps
+django.apps.apps
+django.core.management
+django.core.management.call_command
+django.core.management.base
+django.core.management.base.BaseCommand
+django.db.migrations.loader
+django.db.migrations.loader.MigrationLoader
+django.utils.importlib
+django.utils.importlib.import_module
+django.core.management.commands.makemigrations
+django.core.management.commands.makemigrations.Command

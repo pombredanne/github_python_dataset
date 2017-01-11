@@ -1,0 +1,6 @@
+django.db
+django.db.models
+django.contrib
+django.contrib.admin
+django_pronouns.models
+django_pronouns.models.Pronoun

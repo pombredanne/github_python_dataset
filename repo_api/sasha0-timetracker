@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+datetime
+sqlalchemy
+sqlalchemy.ext.declarative
+sqlalchemy.ext.declarative.declarative_base
+sqlalchemy.orm
+sqlalchemy.orm.relationship
+sqlalchemy.orm.sessionmaker
+tkinter
+tkinter
+tkinter.messagebox
+models
+models.session
+models.Project
+models.Task
+models.TimeEntry

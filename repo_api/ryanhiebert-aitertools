@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+pytest
+operator
+aitertools
+asyncio
+itertools
+functools
+operator

@@ -1,0 +1,12 @@
+rest_get_refs
+codecs
+json
+os
+re
+sys
+functools
+functools.partial
+itertools
+itertools.takewhile
+optparse
+optparse.OptionParser

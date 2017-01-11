@@ -1,0 +1,8 @@
+re
+jinja2.ext
+jinja2.ext.Extension
+jinja2.lexer
+jinja2.lexer.Token
+jinja2.lexer.describe_token
+jinja2
+jinja2.TemplateSyntaxError

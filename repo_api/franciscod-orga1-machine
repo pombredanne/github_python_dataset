@@ -1,0 +1,17 @@
+sys
+insns
+insns.InvalidInstruction
+machine
+machine.Orga1Machine
+asm
+asm.parse
+insns.(AddressingModes
+insns.Operand
+insns.UnknownInstruction
+insns.InvalidInstruction
+insns.from
+insns.insns
+insns.import
+insns.(Operand
+insns.AddressingModes
+insns.CondJmpInsn

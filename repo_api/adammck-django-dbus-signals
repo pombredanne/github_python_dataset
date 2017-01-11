@@ -1,0 +1,14 @@
+django.core.management
+django.core.management.execute_manager
+settings
+django.db
+django.db.models
+dbus_signals
+dbus.mainloop.glib
+dbus.mainloop.glib.DBusGMainLoop
+dbus
+dbus.service
+django.db.models
+django.db.models.signals
+django.conf
+django.conf.settings

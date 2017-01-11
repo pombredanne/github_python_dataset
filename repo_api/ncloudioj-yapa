@@ -1,0 +1,14 @@
+os
+__future__
+__future__.division
+abc
+abc.ABCMeta
+abc.abstractmethod
+itertools
+itertools.chain
+itertools.combinations
+operator
+operator.itemgetter
+unittest
+yapa
+yapa.apriori

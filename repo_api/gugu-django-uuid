@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.db.models
+django.db.models.CharField
+south.modelsinspector
+south.modelsinspector.add_introspection_rules

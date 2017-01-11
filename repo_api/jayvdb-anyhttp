@@ -1,0 +1,16 @@
+os
+sys
+setuptools
+setuptools.setup
+anyhttp
+sys
+types
+io
+io.BytesIO
+warnings
+warnings.warn
+anyhttp
+codecs
+os
+sys
+anyhttp

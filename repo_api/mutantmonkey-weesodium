@@ -1,0 +1,6 @@
+base64
+hashlib
+libnacl.secret
+shlex
+sys
+weechat

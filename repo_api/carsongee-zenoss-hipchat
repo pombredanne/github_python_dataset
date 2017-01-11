@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+datetime
+requests
+zenoss_hipchat
+zenoss_hipchat.config
+__future__
+__future__.print_function
+argparse
+sys
+zenoss_hipchat.config
+zenoss_hipchat.hipchat
+zenoss_hipchat.hipchat.HipChatEvent
+os

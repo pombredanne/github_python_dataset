@@ -1,0 +1,15 @@
+unittest
+functools
+operator
+itertools
+bloomfilter
+bloomfilter
+bloomfilter.bloom_hash
+bloomfilter.BloomFilter
+bloomfilter.bloom_hash
+bloomfilter.BloomFilterException
+bloomfilter.\
+bitarray
+bitarray.bitarray
+functools
+functools.update_wrapper

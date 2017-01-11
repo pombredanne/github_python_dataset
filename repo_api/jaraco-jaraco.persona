@@ -1,0 +1,8 @@
+io
+sys
+setuptools
+setuptools_scm
+json
+pkg_resources
+browserid
+cherrypy

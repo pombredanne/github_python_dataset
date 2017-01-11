@@ -1,0 +1,17 @@
+__future__
+__future__.print_function
+__future__.unicode_literals
+datetime
+json
+random
+re
+sys
+smtplib
+time
+email.mime.multipart
+email.mime.multipart.MIMEMultipart
+email.mime.text
+email.mime.text.MIMEText
+requests
+bs4
+bs4.BeautifulSoup

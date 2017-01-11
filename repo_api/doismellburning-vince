@@ -1,0 +1,16 @@
+os
+sys
+os
+django12factor
+os
+django.core.wsgi
+django.core.wsgi.get_wsgi_application
+whitenoise.django
+whitenoise.django.DjangoWhiteNoise
+django.conf.urls
+django.conf.urls.include
+django.conf.urls.url
+django.contrib
+django.contrib.admin
+django.test
+django.test.TestCase

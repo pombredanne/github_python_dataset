@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+slimmer
+slimmer.css_slimmer
+slimmer.js_slimmer
+webassets.filter
+webassets.filter.Filter
+webassets.filter.register_filter

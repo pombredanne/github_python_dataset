@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+re
+parsley
+parsley.makeGrammar
+twisted.trial.unittest
+twisted.trial.unittest.TestCase
+tcite.citer
+tcite.citer.Citer

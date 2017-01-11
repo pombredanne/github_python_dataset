@@ -1,0 +1,4 @@
+itertools
+itertools.chain
+string
+string.ascii_lowercase

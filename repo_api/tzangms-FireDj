@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+firedj
+firedj.__version__
+sys
+os.path
+django.template.loader
+django.template.loader.add_to_builtins
+django.template
+django.template.Template
+django.template.Context
+django.conf
+django.conf.settings

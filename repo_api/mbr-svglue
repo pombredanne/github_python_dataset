@@ -1,0 +1,10 @@
+svglue
+cairosvg
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+uuid.uuid4
+lxml
+lxml.etree

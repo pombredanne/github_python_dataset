@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+logging
+django
+django.forms
+sentry.plugins
+sentry.plugins.Plugin
+sentry_redflash
+sentry_redflash.client
+sentry_redflash.client.RedFlashClient
+urllib

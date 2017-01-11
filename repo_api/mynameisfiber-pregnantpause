@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+wave
+struct
+numpy
+sys
+progressbar
+progressbar.ProgressBar
+progressbar.ETA
+progressbar.Bar
+argparse

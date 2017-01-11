@@ -1,0 +1,16 @@
+os
+pprint
+gi.repository
+gi.repository.GObject
+gi.repository.TelepathyGLib
+cmd
+inspect
+sys
+string
+gi.repository.GObject
+gi.repository.TelepathyGLib
+dbus
+dbus.mainloop.glib
+dbus.mainloop.glib.DBusGMainLoop
+pprint
+inspect

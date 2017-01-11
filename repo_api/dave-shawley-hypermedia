@@ -1,0 +1,8 @@
+codecs
+setuptools
+sys
+hypermedia
+hypermedia.__version__
+sphinx_rtd_theme
+hypermedia.__version__
+hypermedia.version_info

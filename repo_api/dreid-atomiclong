@@ -1,0 +1,13 @@
+cffi
+cffi.FFI
+functools
+functools.total_ordering
+sys
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+atomiclong
+atomiclong.AtomicLong
+atomiclong.ffi
+atomiclong.lib

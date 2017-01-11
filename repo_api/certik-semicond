@@ -1,0 +1,10 @@
+numpy
+numpy.arange
+numpy.pi
+numpy.arctan
+numpy.array
+numpy.zeros
+pylab
+pylab.plot
+pylab.savefig
+pylab.legend

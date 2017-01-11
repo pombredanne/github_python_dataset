@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+django.contrib
+django.contrib.admin
+django.contrib.messages
+django.contrib.auth.models
+django.contrib.auth.models.User
+django.contrib.auth.admin
+django.contrib.auth.admin.UserAdmin
+django.http
+django.http.HttpResponseRedirect

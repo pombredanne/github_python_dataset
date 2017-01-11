@@ -1,0 +1,8 @@
+httplib2
+apiclient.discovery
+apiclient.http
+apiclient.errors
+oauth2client.client
+sys
+pprint
+os

@@ -1,0 +1,9 @@
+sqlite3
+nodes.lib
+nodes.lib.db
+robograph.datamodel.base
+robograph.datamodel.base.node
+sqlite3
+pytest
+nodes.lib.db
+nodes.lib.sqlite_3

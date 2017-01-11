@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+guppy
+guppy.hpy
+django
+unittest
+profile
+profile.ProfileTestCase

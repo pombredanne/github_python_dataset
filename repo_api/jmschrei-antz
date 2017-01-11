@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+numpy
+numpy
+matplotlib.pyplot
+itertools
+yahmm
+itertools
+string
+numpy
+seq
+io
+seq
+alignment

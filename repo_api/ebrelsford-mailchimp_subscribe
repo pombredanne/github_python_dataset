@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+mailchimp_subscribe
+requests
+subscribe
+subscribe.subscribe

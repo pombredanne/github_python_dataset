@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+easywatch
+easywatch.watch
+functools
+time
+watchdog.observers
+watchdog.observers.Observer
+watchdog.events
+watchdog.events.FileSystemEventHandler

@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+django.db
+django.db.connection
+django.contrib.humanize.templatetags.humanize
+django.contrib.humanize.templatetags.humanize.intcomma
+django.contrib.humanize.templatetags.humanize.intword
+__future__
+__future__.unicode_literals
+django.db.migrations
+os.path

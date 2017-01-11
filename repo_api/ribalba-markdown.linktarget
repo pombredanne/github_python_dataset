@@ -1,0 +1,6 @@
+distutils.core
+distutils.core.setup
+markdown.treeprocessors
+markdown.treeprocessors.Treeprocessor
+markdown.extensions
+markdown.extensions.Extension

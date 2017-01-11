@@ -1,0 +1,17 @@
+setuptools
+distutils.core
+distutils.core.setup
+re
+platform
+webbrowser
+p7doi
+p7doi
+p7doi.sys
+sys
+platform
+os.path
+os.path.dirname
+__future__
+__future__.print_function
+webbrowser
+sys

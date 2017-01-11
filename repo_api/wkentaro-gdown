@@ -1,0 +1,16 @@
+__future__
+__future__.print_function
+sys
+subprocess
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__.unicode_literals
+argparse
+codecs
+os
+pkg_resources
+re
+subprocess
+sys
+tempfile

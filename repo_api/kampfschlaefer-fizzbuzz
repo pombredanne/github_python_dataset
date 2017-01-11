@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+pytest
+fizzbuzz.basic
+fizzbuzz.basic.fizzbuzz
+fizzbuzz.no_if
+fizzbuzz.no_if.fizzbuzz_ternary
+fizzbuzz.no_if.fizzbuzz_list

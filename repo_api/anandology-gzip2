@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+gzip
+gzip.WRITE
+gzip.READ
+gzip.write32u
+gzip.GzipFile
+zlib
+gzip2
+gzip
+cStringIO
+cStringIO.StringIO

@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+selector
+json
+json.dumps
+db
+os
+socket
+os.path
+os.path.getsize
+hashlib
+pymongo
+pymongo.objectid
+pymongo.objectid.ObjectId
+utils
+utils.md5Checksum

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+os
+sys
+django.test.simple
+django.test.simple.run_tests
+os
+os
+django.test
+django.test.TestCase

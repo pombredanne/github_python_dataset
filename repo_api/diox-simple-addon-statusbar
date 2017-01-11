@@ -1,0 +1,8 @@
+os
+os.path
+cStringIO
+cStringIO.StringIO
+PIL
+PIL.Image
+zipfile
+zipfile.ZipFile

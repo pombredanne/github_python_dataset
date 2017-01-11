@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+__future__
+__future__.print_function
+os.path
+urlparse
+urllib2
+bs4
+datetime
+PyRSS2Gen
+re

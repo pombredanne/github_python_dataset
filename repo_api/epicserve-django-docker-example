@@ -1,0 +1,17 @@
+os
+sys
+django.views
+django.views.generic
+django.core.cache
+django.core.cache.cache
+os
+os
+django.core.wsgi
+django.core.wsgi.get_wsgi_application
+django.conf.urls
+django.conf.urls.include
+django.conf.urls.url
+django.contrib
+django.contrib.admin
+core.views
+core.views.IndexView

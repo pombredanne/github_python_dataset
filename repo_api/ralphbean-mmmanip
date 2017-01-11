@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+os
+core
+core.ListManipulator
+twill.browser
+twill.browser.TwillBrowser
+BeautifulSoup
+BeautifulSoup.BeautifulSoup
+urllib
+urllib.unquote
+sys

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+unittest
+pubsub
+six.moves.queue
+six.moves.queue.Queue
+threading
+threading.Lock
+functools
+functools.partial

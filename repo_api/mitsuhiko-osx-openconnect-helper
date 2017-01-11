@@ -1,0 +1,15 @@
+os
+re
+sys
+errno
+shutil
+tempfile
+toml
+click
+urlparse
+urlparse.urlparse
+subprocess
+subprocess.Popen
+subprocess.PIPE
+setuptools
+setuptools.setup

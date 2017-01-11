@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+distutils.core.Extension
+ctypes
+ctypes.util
+CoreFoundation
+Foundation
+objc
+keycode
+sys

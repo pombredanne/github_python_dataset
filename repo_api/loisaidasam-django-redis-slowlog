@@ -1,0 +1,15 @@
+os
+setuptools
+setuptools.setup
+django.db
+django.db.models
+django.shortcuts
+django.shortcuts.render
+djangoredisslowlog.management.commands.redisslowlog
+djangoredisslowlog.management.commands.redisslowlog.Command
+datetime
+django.conf
+django.conf.settings
+django.core.management.base
+django.core.management.base.BaseCommand
+pytz

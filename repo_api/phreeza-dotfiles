@@ -1,0 +1,9 @@
+sys
+gobject
+gnomekeyring
+gtk
+gnomekeyring
+getpass
+random
+re
+string

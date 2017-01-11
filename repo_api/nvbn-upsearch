@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+itertools
+itertools.chain
+pathlib
+pathlib.Path

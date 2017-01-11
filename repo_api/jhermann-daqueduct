@@ -1,0 +1,10 @@
+os
+re
+sys
+paver.easy
+paver.setuputils
+paver.setuputils.setup
+setuptools
+setuptools.find_packages
+cobblestones
+cobblestones.tools

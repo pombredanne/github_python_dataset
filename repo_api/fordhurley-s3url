@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+re
+s3url.s3
+s3url.s3.parse_keys
+s3url.s3.parse_obj
+s3url.s3.connect
+s3url.s3.get_s3_url
+s3url.time
+s3url.version
+s3url.version.__version__
+urlparse
+boto

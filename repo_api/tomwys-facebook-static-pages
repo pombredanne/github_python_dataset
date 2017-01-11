@@ -1,0 +1,6 @@
+simplejson
+urlparse
+google.appengine.ext
+google.appengine.ext.webapp
+google.appengine.ext.webapp.util
+google.appengine.ext.webapp.util.run_wsgi_app

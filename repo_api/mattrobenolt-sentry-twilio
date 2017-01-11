@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+phonenumbers
+django
+django.forms
+django.utils.translation
+django.utils.translation.ugettext_lazy
+sentry
+sentry.http
+sentry.plugins.bases.notify
+sentry.plugins.bases.notify.NotificationPlugin
+sentry_twilio

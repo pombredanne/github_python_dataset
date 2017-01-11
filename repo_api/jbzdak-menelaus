@@ -1,0 +1,15 @@
+distutils.core
+distutils.core.setup
+shutil
+copy
+copy.deepcopy
+unittest
+menelaus.scatter_frame
+menelaus.scatter_frame.ScatterGatherFrame
+tempfile
+tempfile.mkdtemp
+os
+uuid
+pandas
+pandas.io.pytables
+pandas.io.pytables.HDFStore

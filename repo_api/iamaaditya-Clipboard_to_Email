@@ -1,0 +1,5 @@
+sys
+smtplib
+email.mime.text
+email.mime.text.MIMEText
+ctypes

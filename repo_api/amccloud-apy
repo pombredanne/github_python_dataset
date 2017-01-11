@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+requests
+apy
+re
+unittest
+apy
+apy.Apy
+apy.ValidationException
+apy.utils
+unittest
+apy.utils

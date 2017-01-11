@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+sendwithus
+flask
+flask.current_app
+flask._app_ctx_stack
+pytest
+flask.Flask
+flask_sendwithus
+flask_sendwithus.Sendwithus

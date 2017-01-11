@@ -1,0 +1,14 @@
+logging
+pika
+pika.adapters
+pika.adapters.TwistedProtocolConnection
+twisted.internet
+twisted.internet.reactor
+twisted.internet.task
+twisted.internet.defer
+twisted.internet.protocol
+time
+logging
+pika
+sys
+pika

@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+os
+flask
+flask.ext.sqlalchemy
+flask.ext.sqlalchemy.SQLAlchemy
+flask
+flask.request
+sqlalchemy.exc
+sqlalchemy.exc.IntegrityError

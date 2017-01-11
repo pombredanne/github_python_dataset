@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest.mock
+unittest.mock.Mock
+pytest
+rbtr.robot
+rbtr.robot.Robot
+rbtr.table
+rbtr.table.Table
+pytest
+rbtr.table.Table
+robot
+robot.Robot
+table
+table.Table
+numpy

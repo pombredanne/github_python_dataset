@@ -1,0 +1,17 @@
+os
+django.http
+django.http.HttpResponse
+django.contrib.auth.models
+django.contrib.auth.models.User
+django.forms
+django.forms.ModelForm
+django.template
+django.template.Template
+django.template.Context
+django.views.generic.simple
+django.views.generic.simple.direct_to_template
+django.conf.urls.defaults
+django.contrib
+django.contrib.admin
+django.core.management
+django.core.management.execute_manager

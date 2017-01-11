@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+atexit
+os
+signal
+sys
+threading
+time
+signal
+signal.SIGTERM
+subprocess
+subprocess.Popen
+subprocess.PIPE
+os
+sys
+wine_deamonizer
+wine_deamonizer.WineDaemon

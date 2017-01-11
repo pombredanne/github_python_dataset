@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+unittest.TestCase
+webassets.filter
+webassets.filter.register_filter
+webassets.test
+webassets.test.TempEnvironmentHelper
+webassets_elm
+webassets_elm.Elm
+sys
+sys.platform
+tempfile
+tempfile.NamedTemporaryFile
+tempfile.TemporaryFile
+webassets.filter.ExternalTool

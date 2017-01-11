@@ -1,0 +1,10 @@
+os
+github
+github.Github
+github.AuthenticatedUser
+bottle
+binascii
+rauth
+rauth.OAuth2Service
+beaker.middleware
+beaker.middleware.SessionMiddleware

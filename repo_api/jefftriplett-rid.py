@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+invoke
+invoke.run
+invoke.task
+getopt
+re
+StringIO
+sys

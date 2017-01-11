@@ -1,0 +1,15 @@
+simplejson
+django
+django.forms
+django.core
+django.core.serializers
+django.utils.html
+django.utils.html.mark_safe
+django.db
+django.db.models
+django.test
+django.test.TestCase
+django.shortcuts
+django.shortcuts.render
+django.contrib
+django.contrib.admin

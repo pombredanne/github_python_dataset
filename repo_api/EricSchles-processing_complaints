@@ -1,0 +1,9 @@
+pandas
+shapefile
+glob
+glob.glob
+shapely.geometry
+shapely.geometry.Point
+shapely.geometry.MultiPoint
+geopy.geocoders
+geopy.geocoders.Nominatim

@@ -1,0 +1,16 @@
+numpy
+matplotlib.pyplot
+sklearn.cluster
+sklearn.cluster.KMeans
+sklearn.metrics
+sklearn.metrics.pairwise_distances_argmin
+sklearn.datasets
+sklearn.datasets.load_sample_image
+sklearn.utils
+sklearn.utils.shuffle
+time
+time.time
+sklearn.neighbors
+sklearn.neighbors.KNeighborsClassifier
+numpy
+matplotlib.pyplot

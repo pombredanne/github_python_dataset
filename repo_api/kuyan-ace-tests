@@ -1,0 +1,15 @@
+bs4
+bs4.BeautifulSoup
+definitions
+definitions.BOOKS
+json
+requests
+os
+jinja2
+jinja2.Environment
+jinja2.FileSystemLoader
+jinja2.Template
+json
+re
+subprocess
+definitions

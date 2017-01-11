@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+monitor
+re
+sys
+urlparse
+optparse
+optparse.OptionParser

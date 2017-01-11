@@ -1,0 +1,15 @@
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.include
+django.conf.urls.defaults.url
+django.conf.urls.static
+django.conf.urls.static.static
+django.contrib.staticfiles.urls
+django.contrib.staticfiles.urls.staticfiles_urlpatterns
+django.contrib
+django.contrib.admin
+django.conf
+django.conf.settings
+project
+os
+defaults

@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+mqrpc
+mqrpc
+re
+SimpleXMLRPCServer
+re
+xmlrpclib
+unittest
+mqrpc
+logging
+pickle
+pyactivemq

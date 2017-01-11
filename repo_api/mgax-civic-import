@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sparql
+rdflib.term
+rdflib.term._PythonToXSD
+sys
+json
+re
+unidecode
+unidecode.unidecode
+dump_n3
+dump_n3.NsIRI
+dump_n3.N3Dumper
+dump_n3.new_blank_node
+dump_n3.make_literal

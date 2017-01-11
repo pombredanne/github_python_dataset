@@ -1,0 +1,12 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.forms
+django.template
+django.conf
+django.conf.settings
+djangobench.utils
+djangobench.utils.run_benchmark
+formrenderbench.base_settings

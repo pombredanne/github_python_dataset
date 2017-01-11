@@ -1,0 +1,8 @@
+__future__
+__future__.with_statement
+setuptools
+setuptools.setup
+nose.plugins.base
+nose.plugins.base.Plugin
+faulthandler
+logging

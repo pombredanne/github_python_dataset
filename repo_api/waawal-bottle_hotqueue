@@ -1,0 +1,13 @@
+distutils.core
+distutils.core.setup
+unittest
+os
+bottle
+hotqueue
+bottlehotqueue
+bottlehotqueue.Plugin
+inspect
+functools
+functools.wraps
+hotqueue
+redis

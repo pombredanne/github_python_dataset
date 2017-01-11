@@ -1,0 +1,9 @@
+os
+sys
+setuptools
+setuptools.setup
+inspect
+os
+unittest
+ansible.inventory
+ansibleinventorygrapher

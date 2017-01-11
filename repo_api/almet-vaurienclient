@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+json
+contextlib
+contextlib.contextmanager
+urlparse
+urlparse.urlparse
+requests
+urlparse.urlparse
+marteau.fixtures
+marteau.fixtures.MarteauFixture
+vaurienclient
+vaurienclient.Client

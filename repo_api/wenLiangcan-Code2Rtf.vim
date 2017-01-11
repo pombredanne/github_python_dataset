@@ -1,0 +1,9 @@
+os
+pygments
+pygments.highlight
+pygments.formatters
+pygments.formatters.RtfFormatter
+pygments.lexers
+pygments.lexers.get_lexer_by_name
+vim
+win32clipboard

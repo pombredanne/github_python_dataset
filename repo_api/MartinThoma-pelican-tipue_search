@@ -1,0 +1,11 @@
+__future__
+__future__.unicode_literals
+os.path
+json
+bs4
+bs4.BeautifulSoup
+codecs
+codecs.open
+pelican
+pelican.signals
+tipue_search

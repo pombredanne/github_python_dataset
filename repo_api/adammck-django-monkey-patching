@@ -1,0 +1,15 @@
+django.core.management
+django.core.management.execute_manager
+settings
+unittest
+utils
+utils
+utils.monkey_patch
+django.db
+django.db.models
+django.db.models
+person.models
+person.models.Person
+monkeypatch
+monkeypatch.decorator
+django.db.models

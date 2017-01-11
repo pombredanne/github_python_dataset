@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+sys
+os
+functools
+functools.wraps
+hotqueue
+hotqueue.HotQueue

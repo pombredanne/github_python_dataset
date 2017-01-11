@@ -1,0 +1,16 @@
+rhyme_detect
+rhyme_detect.utils
+pytest
+rhyme_detect.syllables
+rhyme_detect.rhymes
+rhyme_detect.scheme
+rhyme_detect.rhymes
+rhyme_detect.utils
+rhyme_detect.utils.get_nth_word
+rhyme_detect.utils.last_word
+rhyme_detect.utils.possible_phones
+rhyme_detect.utils.possible_phones
+nltk
+nltk.tokenize
+nltk.tokenize.RegexpTokenizer
+nltk

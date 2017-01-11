@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+duckducknow
+argparse
+urllib2
+webbrowser

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+unittest
+unittest.TestCase
+django
+django.forms
+django.conf
+django.conf.settings
+templatetags
+templatetags.jquery_validate
+import
+django.forms
+django.template
+django.forms
+copy

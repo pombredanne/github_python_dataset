@@ -1,0 +1,16 @@
+os
+urllib
+django.conf
+django.conf.settings
+django.core.cache
+django.core.cache.cache
+django.conf.urls.defaults
+django.conf.urls.defaults.patterns
+django.conf.urls.defaults.url
+django.http
+django.http.Http404
+django.http.HttpResponseRedirect
+pyquery
+pyquery.PyQuery
+django_wsgi
+django_wsgi.wsgi_application

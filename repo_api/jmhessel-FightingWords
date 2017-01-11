@@ -1,0 +1,4 @@
+numpy
+sklearn.feature_extraction.text
+sklearn.feature_extraction.text.CountVectorizer
+string

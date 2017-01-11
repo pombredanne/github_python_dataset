@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.unicode_literals
+sys
+os
+urllib2
+argparse
+ConfigParser
+traceback
+BeautifulSoup
+BeautifulSoup.BeautifulSoup

@@ -1,0 +1,8 @@
+shapely.geometry
+sys
+os
+csv
+collections
+collections.defaultdict
+fiona
+fiona.crs

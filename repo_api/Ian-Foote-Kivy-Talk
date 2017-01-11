@@ -1,0 +1,17 @@
+kivy
+kivy.app
+kivy.app.App
+kivy.core.window
+kivy.core.window.Window
+kivy.factory
+kivy.factory.Factory
+kivy.lang
+kivy.lang.Builder
+kivy.lang.Parser
+kivy.lang.ParserException
+kivy.properties
+kivy.properties.StringProperty
+kivy.uix.boxlayout
+kivy.uix.boxlayout.BoxLayout
+kivy.uix.screenmanager
+kivy.uix.screenmanager.Screen

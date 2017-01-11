@@ -1,0 +1,10 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+sys
+setuptools.command.test
+setuptools.command.test.test
+dprj
+dprj.say
+re
+unicodedata

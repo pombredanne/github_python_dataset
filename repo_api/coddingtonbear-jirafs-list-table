@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+uuid
+jirafs_list_table
+jirafs_list_table.__version__
+jirafs.exceptions
+jirafs.exceptions.MacroContentError
+jirafs.plugin
+jirafs.plugin.(

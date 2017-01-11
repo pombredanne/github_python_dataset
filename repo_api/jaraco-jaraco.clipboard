@@ -1,0 +1,17 @@
+io
+sys
+itertools
+setuptools
+pytest
+jaraco
+jaraco.clipboard
+platform
+setuptools_scm
+functools
+richxerox
+pyperclip
+pyperclip.copy
+platform
+importlib
+itertools
+jaraco.windows.clipboard

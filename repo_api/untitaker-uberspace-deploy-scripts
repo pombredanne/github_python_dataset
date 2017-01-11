@@ -1,0 +1,17 @@
+fabric.api
+fabric.contrib.project
+fabric.contrib.project.rsync_project
+fabric.contrib.files
+fabric.contrib.files.exists
+os.path
+os.path.join
+os.path.dirname
+os.path.abspath
+StringIO
+StringIO.StringIO
+os
+logging
+logging.handlers
+logging.handlers.SMTPHandler
+werkzeug.contrib.fixers
+werkzeug.contrib.fixers.ProxyFix

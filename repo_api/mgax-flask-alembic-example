@@ -1,0 +1,10 @@
+argparse
+flask
+flask.ext.script
+flask.ext.script.Manager
+flask.ext.sqlalchemy
+flask.ext.sqlalchemy.SQLAlchemy
+alembic
+alembic.context
+myapp
+myapp.db

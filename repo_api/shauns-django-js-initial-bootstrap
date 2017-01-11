@@ -1,0 +1,8 @@
+distutils.core
+distutils.core.setup
+os
+json
+django.utils.safestring
+django.utils.safestring.mark_safe
+rest_framework.serializers
+rest_framework.serializers.ModelSerializer

@@ -1,0 +1,12 @@
+os.path
+codecs
+setuptools
+setuptools.setup
+setuptools.find_packages
+django
+django.template
+django.conf
+django.conf.settings
+sys
+django.utils.safestring
+django.utils.safestring.mark_safe

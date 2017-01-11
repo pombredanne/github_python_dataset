@@ -1,0 +1,8 @@
+os
+json
+requests
+lxml.html
+lxml.etree
+bs4
+bs4.BeautifulSoup
+pypandoc

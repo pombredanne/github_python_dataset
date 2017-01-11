@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+distutils.core
+distutils.core.Command
+os
+sys
+os

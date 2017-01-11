@@ -1,0 +1,8 @@
+sublime
+sublime_plugin
+binascii
+functools
+os
+plistlib
+shutil
+struct

@@ -1,0 +1,17 @@
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.print_function
+argparse
+datetime
+logging
+json
+time
+elasticsearch
+__future__.print_function
+argparse
+logging
+json
+elasticsearch

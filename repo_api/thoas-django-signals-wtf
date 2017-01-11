@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+sys
+django.db
+django.db.models
+django.db.models
+django.db.models.signals
+os
+django.test
+django.test.TestCase
+signals_wtf.models
+signals_wtf.models.Poll
+signals_wtf.models.Answer

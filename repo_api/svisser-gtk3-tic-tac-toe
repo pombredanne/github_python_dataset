@@ -1,0 +1,17 @@
+tictactoe.game
+tictactoe.game.GameState
+tictactoe.game.Player
+pytest
+gi
+gi.repository
+gi.repository.Gtk
+tictactoe.game.GameState
+tictactoe.gui
+tictactoe.gui.TicTacToeWindow
+enum
+math
+gi.repository.Gdk
+gi.repository.Gtk
+tictactoe.game.Cell
+tictactoe.game.GameState
+tictactoe.game.GameStatus

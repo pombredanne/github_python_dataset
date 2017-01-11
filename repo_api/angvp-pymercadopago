@@ -1,0 +1,14 @@
+os
+setuptools
+setuptools.setup
+unittest
+urlparse
+urlparse.urlparse
+api
+mpexceptions
+mpexceptions
+api
+mpexceptions
+requests
+json
+time

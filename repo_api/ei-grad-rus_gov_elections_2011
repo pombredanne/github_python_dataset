@@ -1,0 +1,13 @@
+codecs
+sys
+locale
+locale.getpreferredencoding
+functools
+functools.partial
+logging
+lxml.etree
+lxml.etree.HTMLParser
+lxml.html
+lxml.html.parse
+numpy
+matplotlib.pyplot

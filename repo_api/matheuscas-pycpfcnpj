@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+sys
+os
+socket
+unittest
+pycpfcnpj
+pycpfcnpj.cpf
+sys
+unittest
+unittest
+pycpfcnpj.cpfcnpj
+unittest
+pycpfcnpj.cnpj
+import
+string
+random

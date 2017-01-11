@@ -1,0 +1,7 @@
+os
+distutils.core
+distutils.core.setup
+pytunkrank
+pytunkrank.__version__
+urllib
+urllib.FancyURLopener

@@ -1,0 +1,8 @@
+otrs.client
+otrs.client.GenericTicketConnector
+otrs.objects
+otrs.objects.Ticket
+otrs.objects.Article
+otrs.objects.DynamicField
+otrs.objects.Attachment
+yaml

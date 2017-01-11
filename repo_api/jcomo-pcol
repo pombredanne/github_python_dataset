@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+pcol
+pcol.pcol
+pcol.ModifierNode
+pcol.TokenNode
+pcol.render_with

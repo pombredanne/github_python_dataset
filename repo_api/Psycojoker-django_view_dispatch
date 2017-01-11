@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+django.http
+django.http.HttpResponseNotAllowed
+django_view_dispatch
+django_view_dispatch.dispatch
+django_view_dispatch.dispatch_strict
+django.http.HttpResponseNotAllowed
+weirdict.examples
+weirdict.examples.CaseInsensitiveDict

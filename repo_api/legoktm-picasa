@@ -1,0 +1,12 @@
+sys
+re
+os
+urllib
+urllib2
+gdata.photos
+gdata.photos.service
+setuptools
+setuptools.setup
+setuptools.find_packages
+picasa
+picasa.main

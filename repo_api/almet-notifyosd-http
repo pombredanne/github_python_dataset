@@ -1,0 +1,10 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+subprocess
+json
+cornice
+cornice.Service
+pyramid.config
+pyramid.config.Configurator

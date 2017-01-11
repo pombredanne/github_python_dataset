@@ -1,0 +1,17 @@
+os
+random
+twitter
+poems
+poems.Haiku
+utils
+utils.get_line
+collections
+itertools
+pickle
+os
+random
+re
+nltk.collocations
+nltk.corpus
+nltk.corpus
+nltk.corpus.wordnet

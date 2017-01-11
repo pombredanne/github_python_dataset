@@ -1,0 +1,10 @@
+scrapy.cmdline
+time
+scrapy
+scrapy.conf
+scrapy.conf.settings
+pymongo
+scrapy
+json
+lagou.items
+lagou.items.LagouItem

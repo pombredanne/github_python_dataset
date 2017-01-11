@@ -1,0 +1,10 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+os
+asyncio
+aiohttp
+click
+lxml.html
+urllib.parse
+urllib.parse.unquote

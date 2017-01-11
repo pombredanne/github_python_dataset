@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+dropbox_index
+__future__
+__future__.print_function
+__future__.division
+sys
+os
+time
+locale
+optparse
+optparse.OptionParser

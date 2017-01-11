@@ -1,0 +1,12 @@
+numpy
+numpy.tile
+collections
+collections.Counter
+yMLLib.preparation.data2matrix
+yMLLib.preparation.data2matrix.from_img
+yMLLib.classification.kNN
+yMLLib.classification.kNN.classify
+os
+os.listdir
+numpy.zeros
+numpy.zeros

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+argparse
+lolcat
+atexit
+math
+os
+random
+re
+sys
+time

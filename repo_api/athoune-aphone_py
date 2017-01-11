@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+cStringIO
+cStringIO.StringIO
+unittest
+sys
+os
+json
+aphone_py
+aphone_py.Filter
+aphone_py.Phonet

@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+csvfilter
+csvfilter.VERSION
+unittest
+envoy
+csvfilter.VERSION
+unittest
+csvfilter.Processor
+csv
+sys

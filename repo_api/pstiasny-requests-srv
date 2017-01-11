@@ -1,0 +1,15 @@
+urlparse
+urlparse.urlparse
+urlparse.urlunparse
+dns.resolver
+dns.exception
+requests
+requests.Session
+requests.ConnectionError
+requests.adapters
+requests.adapters.HTTPAdapter
+setuptools
+consul
+pytest
+requests
+requests_srv

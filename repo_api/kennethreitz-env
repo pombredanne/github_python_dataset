@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+env
+os
+os.environ
+urlparse
+urlparse.urlparse
+os.environ
+urlparse.urlparse

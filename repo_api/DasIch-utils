@@ -1,0 +1,9 @@
+re
+sys
+optparse
+optparse.OptionParser
+itertools
+itertools.izip_longest
+itertools.takewhile
+colormath.color_objects
+colormath.color_objects.RGBColor

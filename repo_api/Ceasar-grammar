@@ -1,0 +1,14 @@
+pytest
+grammar
+grammar.Grammar
+grammar.Production
+pytest
+grammar.regular
+automata.fsm
+automata.fsm.Transition
+automata.fsm.FiniteStateAutomaton
+grammar
+itertools
+pytest
+fsm
+fsm.FiniteStateAutomaton

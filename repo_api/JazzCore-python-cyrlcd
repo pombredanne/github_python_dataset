@@ -1,0 +1,12 @@
+distutils.core
+distutils.core.setup
+cyrlcd
+unittest
+os
+sys
+cyrlcd
+api
+api.hex2str
+api.str2hex
+cyrlcd
+cyrlcd.CyrLCD

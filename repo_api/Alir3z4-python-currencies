@@ -1,0 +1,17 @@
+unittest
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.Command
+currencies.config
+currencies.config.MONEY_FORMATS
+currencies.exceptions
+currencies.exceptions.CurrencyDoesNotExist
+unittest
+unittest.TestCase
+currencies
+currencies.Currency
+currencies.get_version
+currencies.__VERSION__
+currencies.exceptions.CurrencyDoesNotExist

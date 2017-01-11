@@ -1,0 +1,13 @@
+config
+Classes
+colors
+sys
+pygame.sprite
+pygame.sprite.Sprite
+pygame.sprite.RenderUpdates
+pygame
+pygame.locals
+pygame.sprite.RenderUpdates
+pygame.locals
+pygame.sprite.Sprite
+colors

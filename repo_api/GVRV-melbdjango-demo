@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+multiprocessing
+sh
+thejoke
+thejoke.punchline
+unittest
+unittest.TestCase
+thejoke.punchline

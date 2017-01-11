@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+datetime
+re
+collections
+itertools
+datetime
+nose.tools
+nose.tools.eq_
+ctab
+ctab.ctab

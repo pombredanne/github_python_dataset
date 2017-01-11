@@ -1,0 +1,15 @@
+sys
+uuid
+omniORB
+omniORB.CORBA
+chat
+chat__POA
+CosNaming
+sys
+uuid
+omniORB.CORBA
+chat
+chat__POA
+CosNaming
+threading
+threading.Thread

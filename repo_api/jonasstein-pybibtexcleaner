@@ -1,0 +1,8 @@
+bibtexparser
+os
+re
+sys
+string
+shutil
+unidecode
+configparser

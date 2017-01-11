@@ -1,0 +1,16 @@
+os
+sys
+sys.stderr
+sys.exit
+smtplib
+smtplib.SMTP
+email.MIMEMultipart
+email.MIMEMultipart.MIMEMultipart
+email.MIMEText
+email.MIMEText.MIMEText
+email.Utils
+email.Utils.formatdate
+optparse
+optparse.OptionParser
+ConfigParser
+ConfigParser.SafeConfigParser

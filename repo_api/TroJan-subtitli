@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+sys
+os
+hashlib
+sys
+requests

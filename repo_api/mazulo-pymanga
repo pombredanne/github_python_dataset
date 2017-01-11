@@ -1,0 +1,11 @@
+argparse
+os
+re
+time
+requests
+shutil
+bs4
+bs4.BeautifulSoup
+conf
+conf.BASE_URL_ONE_PIECE
+conf.HEADER_ONE_PIECE

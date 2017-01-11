@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+docutils
+docutils.nodes
+docutils.utils
+functools
+functools.wraps
+inspect
+logging
+imp
+os
+sphinx.util.nodes
+sphinx.util.nodes.split_explicit_title

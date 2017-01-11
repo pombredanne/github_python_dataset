@@ -1,0 +1,9 @@
+os
+re
+sys
+shlex
+subprocess
+docopt
+docopt.docopt
+tripme
+tripme.__version__

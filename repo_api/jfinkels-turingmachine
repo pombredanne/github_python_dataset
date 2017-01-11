@@ -1,0 +1,13 @@
+collections
+collections.defaultdict
+logging
+unittest
+turingmachine
+turingmachine.BadSymbol
+turingmachine.L
+turingmachine.logger
+turingmachine.R
+turingmachine.TuringMachine
+turingmachine.UnknownSymbol
+turingmachine.UnknownState
+logging

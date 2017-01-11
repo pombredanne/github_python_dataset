@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.Command
+os
+pytest
+summoner
+summoner.Summon
+hmac
+base64
+hashlib
+datetime
+requests
+os
+sys
+time
+summoner.Summon

@@ -1,0 +1,12 @@
+os.path
+collections
+string
+datetime
+operator
+subprocess
+xml.sax.saxutils
+xml.sax.saxutils.escape
+dulwich.repo
+dulwich.repo.Repo
+setuptools
+setuptools.setup

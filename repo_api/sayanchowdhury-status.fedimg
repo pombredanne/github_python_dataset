@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+socket
+flask
+flask.Flask
+flask.request
+flask.render_template
+tinydb
+tinydb.TinyDB
+tinydb.Query
+copy
+fedmsg.consumers
+tinydb.TinyDB
+tinydb.Query
+logging

@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+magpy.Magma
+magpy.Magma.Magma
+pymonad
+pymonad.Maybe
+pymonad.Just
+pymonad.Nothing
+math
+math.log

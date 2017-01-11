@@ -1,0 +1,8 @@
+codecs
+setuptools
+setuptools.Extension
+setuptools.setup
+meta
+osxnotify
+osxnotify.notify
+_osxnotify

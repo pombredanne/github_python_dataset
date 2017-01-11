@@ -1,0 +1,13 @@
+fabric.api
+fabric.api.run
+fabric.api.env
+boto.ec2
+time
+fabric.api.prompt
+fabric.api.execute
+fabric.api.sudo
+fabric.api.local
+fabric.contrib
+fabric.contrib.files
+setuptools
+setuptools.setup

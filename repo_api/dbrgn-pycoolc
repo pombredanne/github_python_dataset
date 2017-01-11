@@ -1,0 +1,11 @@
+nose.tools
+nose.tools.assert_equal
+nose.tools.assert_is
+pycoolc.parser
+ply.lex
+collections
+collections.namedtuple
+ply.yacc
+import
+utils
+utils.print_ast

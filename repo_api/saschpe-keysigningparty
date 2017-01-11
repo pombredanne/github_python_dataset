@@ -1,0 +1,8 @@
+os
+re
+sys
+subprocess
+tempfile
+dbus
+optparse
+optparse.OptionParser

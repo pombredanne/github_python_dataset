@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+simplesignals.process
+simplesignals.process.WorkerProcessBase
+hotqueue
+hotqueue.HotQueue
+redis.exceptions
+redis.exceptions.ConnectionError
+time
+time.sleep
+time.time

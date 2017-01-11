@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+unittest
+flask
+flask_pbkdf2
+flask_pbkdf2.Pbkdf2
+__future__
+__future__.absolute_import
+os
+binascii
+hashlib
+pbkdf2
+pbkdf2.pbkdf2_hex

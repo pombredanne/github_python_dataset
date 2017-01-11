@@ -1,0 +1,6 @@
+ctypes_termkey
+ctypes_termkey.TermKey
+ctypes_termkey.Result
+ctypes_termkey.KeyType
+ctypes_termkey.KeyModifier
+ctypes

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+sys
+arrow
+lxml
+lxml.html
+urllib2
+urlparse
+arrow
+pkg_resources
+summonses
+summonses.parser
+unittest

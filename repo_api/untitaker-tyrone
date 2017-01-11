@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.print_function
+yaml
+sys
+os
+itertools
+tempfile
+traceback
+shutil
+subprocess

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+unittest
+codecs
+atomicfile
+atomicfile.AtomicFile
+errno
+os
+tempfile
+codecs

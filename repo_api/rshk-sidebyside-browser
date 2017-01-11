@@ -1,0 +1,7 @@
+sys
+functools
+urlparse
+PySide.QtGui
+PySide.QtGui.(
+PySide.QtWebKit
+PySide.QtWebKit.QWebView

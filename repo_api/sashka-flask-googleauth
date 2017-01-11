@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+functools
+logging
+urllib
+urlparse
+blinker
+requests
+flask
+flask.Blueprint
+flask.request
+flask.session
+flask.redirect
+flask.url_for
+flask.abort
+flask.g
+flask.current_app

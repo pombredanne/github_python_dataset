@@ -1,0 +1,17 @@
+sys
+distutils.core
+ocropy
+os
+shutil
+urllib
+logging
+tempfile
+urlparse
+cStringIO
+subprocess
+Image
+re
+unittest
+ocropy
+sys
+ocropy

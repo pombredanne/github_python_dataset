@@ -1,0 +1,7 @@
+re
+sys
+imaplib
+pprint
+sqlite3
+email.parser
+email.parser.HeaderParser

@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+argparse
+matplotlib.pyplot
+PIL
+PIL.Image
+phantast.phantast
+phantast.phantast.phantast
+phantast.version
+phantast.version.__version__
+phantast
+version
+version.__version__
+numpy
+scipy.ndimage.filters
+scipy.ndimage.filters.gaussian_filter

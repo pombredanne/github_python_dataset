@@ -1,0 +1,14 @@
+bottle
+bottle_rauth
+bottle_rauth.RAuthPlugin
+re
+os
+os.path
+setuptools
+setuptools.setup
+rauth
+bottle
+bottle.request
+bottle.redirect
+copy
+copy.copy

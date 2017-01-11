@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+django.conf
+django.conf.settings
+django.utils.importlib
+django.utils.importlib.import_module
+django.utils.importlib.import_module
+django.conf.settings

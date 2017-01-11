@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+keras.engine
+keras.engine.Layer
+keras.engine.InputSpec
+keras
+keras.initializations
+keras.backend

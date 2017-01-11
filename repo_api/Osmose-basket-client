@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+base
+base.subscribe
+json
+django.conf
+django.conf.settings
+requests

@@ -1,0 +1,7 @@
+os
+sys
+setuptools
+setuptools.setup
+re
+bson
+pymongo

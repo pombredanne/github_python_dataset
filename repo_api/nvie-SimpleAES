@@ -1,0 +1,17 @@
+os
+setuptools
+setuptools.setup
+random
+struct
+base64
+hashlib
+warnings
+StringIO
+StringIO.StringIO
+Crypto.Cipher
+Crypto.Cipher.AES
+version
+version.VERSION
+exceptions
+exceptions.EncryptionError
+exceptions.DecryptionError

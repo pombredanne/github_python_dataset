@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+json
+click
+requests
+bs4
+bs4.BeautifulSoup
+werkzeug.urls
+werkzeug.urls.url_quote_plus
+collections
+collections.OrderedDict

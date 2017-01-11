@@ -1,0 +1,17 @@
+bs4
+bs4.BeautifulSoup
+cfscrape
+irc3.plugins.command
+irc3.plugins.command.command
+irc3.plugins.cron
+irc3.plugins.cron.cron
+irc3
+nplstatus
+time
+re
+requests
+requests.adapters
+requests.adapters.HTTPAdapter
+execjs
+irc3.plugins.command.command
+irc3

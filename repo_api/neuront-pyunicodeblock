@@ -1,0 +1,14 @@
+os.path
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+bisect
+blocks
+unittest
+unicodeblock.lower
+string
+unittest
+unicodeblock.blocks
+unittest
+unicodeblock.sequence

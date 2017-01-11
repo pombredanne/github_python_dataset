@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+thread
+traceback
+time
+cStringIO
+cStringIO.StringIO
+sys
+sys._current_frames
+zope.publisher.browser
+zope.publisher.browser.BrowserView

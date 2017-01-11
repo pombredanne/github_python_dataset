@@ -1,0 +1,10 @@
+nltk
+nltk.PunktWordTokenizer
+collections
+collections.defaultdict
+numpy
+random
+sys
+string
+unittest
+markov

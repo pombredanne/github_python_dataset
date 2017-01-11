@@ -1,0 +1,16 @@
+re
+struct
+usb.core
+usb.util
+time
+time.sleep
+random
+random.randint
+distutils.core
+distutils.core.setup
+os
+sys
+usb.core
+psutil
+blink1
+time.sleep

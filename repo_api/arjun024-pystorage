@@ -1,0 +1,4 @@
+wsgiref.handlers
+google.appengine.api
+google.appengine.api.urlfetch
+webapp2

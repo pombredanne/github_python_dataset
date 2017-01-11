@@ -1,0 +1,15 @@
+xbmcswift2
+xbmcswift2.Plugin
+resources.lib.api
+resources.lib.api.ShoutcastApi
+resources.lib.api.NetworkError
+urllib
+urllib.urlencode
+urllib2
+urllib2.urlopen
+urllib2.Request
+urllib2.HTTPError
+urllib2.URLError
+random
+simplejson
+xmltodict

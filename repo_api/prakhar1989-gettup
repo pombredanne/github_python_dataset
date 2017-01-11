@@ -1,0 +1,10 @@
+requests
+json
+sys
+argparse
+os
+signal
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages

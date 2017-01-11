@@ -1,0 +1,9 @@
+mercurial
+mercurial.hg
+mercurial.node
+mercurial.revlog
+mercurial.filelog
+mercurial.ui
+mercurial.ui.ui
+mercurial.mdiff
+mercurial.mdiff.textdiff

@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+email.header
+email.header.Header
+email.mime.multipart
+email.mime.multipart.MIMEMultipart
+email.mime.text
+email.mime.text.MIMEText
+smtplib

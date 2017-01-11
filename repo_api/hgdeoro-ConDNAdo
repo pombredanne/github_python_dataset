@@ -1,0 +1,13 @@
+logging
+time
+multiprocessing
+multiprocessing.Process
+multiprocessing.Queue
+Queue
+Queue.Empty
+Tkinter
+Tkconstants
+tkFileDialog
+tkMessageBox
+Bio
+Bio.SeqIO

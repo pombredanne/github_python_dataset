@@ -1,0 +1,7 @@
+bs4
+bs4.BeautifulSoup
+requests
+time
+os
+urllib.parse
+csv

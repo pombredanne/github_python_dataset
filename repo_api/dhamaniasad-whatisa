@@ -1,0 +1,11 @@
+requests
+bs4
+bs4.BeautifulSoup
+re
+random
+pygments
+pygments.highlight
+pygments.lexers
+pygments.lexers.guess_lexer
+pygments.formatters
+pygments.formatters.TerminalFormatter

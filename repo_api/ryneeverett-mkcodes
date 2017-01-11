@@ -1,0 +1,11 @@
+setuptools
+os
+re
+glob
+warnings
+click
+os
+shutil
+textwrap
+unittest
+subprocess

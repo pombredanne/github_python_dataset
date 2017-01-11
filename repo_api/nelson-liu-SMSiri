@@ -1,0 +1,13 @@
+flask
+flask.Flask
+flask.request
+flask.redirect
+flask.url_for
+microsofttranslator
+microsofttranslator.Translator
+requests
+json
+random
+twilio.twiml
+twitter
+wolframalpha

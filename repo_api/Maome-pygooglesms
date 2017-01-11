@@ -1,0 +1,10 @@
+distutils.core
+distutils.core.setup
+sys
+unittest
+pygooglesms
+pygooglesms
+pygooglesms.GoogleSMS
+bs4
+bs4.BeautifulSoup
+requests

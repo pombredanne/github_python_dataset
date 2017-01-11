@@ -1,0 +1,15 @@
+codecs
+codecs.open
+os
+os.path
+setuptools
+setuptools.setup
+setuptools.find_packages
+xstatic_release
+xstatic_release.__version__
+importlib
+os
+subprocess
+sys
+xstatic.pkg
+xstatic.pkg.{0.NAME}

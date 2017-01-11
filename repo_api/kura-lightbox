@@ -1,0 +1,9 @@
+__future__
+__future__.unicode_literals
+uuid
+uuid.uuid4
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.directives
+docutils.parsers.rst.Directive

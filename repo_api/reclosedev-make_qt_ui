@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+os
+fnmatch
+sys
+time
+optparse
+distutils.sysconfig
+distutils.sysconfig.get_python_lib
+converter
+converter.main

@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+hashlib
+hmac
+json
+urllib2
+logging

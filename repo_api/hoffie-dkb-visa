@@ -1,0 +1,12 @@
+re
+csv
+sys
+logging
+mechanize
+mechanize._response
+mechanize._response.closeable_response
+mechanize._response.response_seek_wrapper
+StringIO
+StringIO.StringIO
+bs4
+unittest

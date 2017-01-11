@@ -1,0 +1,13 @@
+imp
+io
+os
+setuptools
+setuptools.find_packages
+setuptools.setup
+pip2pkgbuild
+pip2pkgbuild.main
+argparse
+json
+logging
+os
+sys

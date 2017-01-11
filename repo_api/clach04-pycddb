@@ -1,0 +1,11 @@
+distutils.core
+distutils.core.setup
+urllib
+os
+getpass
+string
+re
+socket
+os
+PyCDDB
+sys

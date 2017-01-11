@@ -1,0 +1,13 @@
+requests
+bs4
+bs4.BeautifulSoup
+calibre
+calibre.as_unicode
+calibre.utils.date
+calibre.utils.date.parse_only_date
+calibre.ebooks.metadata
+calibre.ebooks.metadata.check_isbn
+calibre.ebooks.metadata.book.base
+calibre.ebooks.metadata.book.base.Metadata
+calibre.ebooks.metadata.sources.base
+calibre.ebooks.metadata.sources.base.Source

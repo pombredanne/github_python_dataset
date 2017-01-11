@@ -1,0 +1,17 @@
+eve_blackmagic
+os
+twisted.internet
+twisted.internet.reactor
+eve
+twisted.words.protocols
+twisted.words.protocols.irc
+twisted.internet.reactor
+twisted.internet.protocol
+twisted.internet.ssl
+twisted.application
+twisted.application.internet
+twisted.application.service
+twisted.python
+twisted.python.log
+os
+time

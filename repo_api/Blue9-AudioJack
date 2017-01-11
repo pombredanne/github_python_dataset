@@ -1,0 +1,13 @@
+__future__
+__future__.unicode_literals
+os
+re
+youtube_dl
+musicbrainzngs
+mutagen.id3
+mutagen.id3.TPE1
+mutagen.id3.TIT2
+mutagen.id3.TALB
+mutagen.id3.APIC
+mutagen.mp3
+mutagen.mp3.MP3

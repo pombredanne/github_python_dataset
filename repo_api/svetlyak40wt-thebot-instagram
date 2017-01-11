@@ -1,0 +1,11 @@
+__future__
+__future__.absolute_import
+__future__.unicode_literals
+random
+instagram.client
+instagram.client.InstagramAPI
+thebot
+thebot.ThreadedPlugin
+thebot.on_command
+setuptools
+setuptools.setup

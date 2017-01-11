@@ -1,0 +1,10 @@
+itertools
+itertools.chain
+re
+os
+shutil
+subprocess
+subprocess
+subprocess.Popen
+subprocess.PIPE
+subprocess.DEVNULL

@@ -1,0 +1,5 @@
+sys
+argparse
+magento
+magento.MagentoAPI
+xmlrpclib

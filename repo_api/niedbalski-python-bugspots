@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+__future__
+__future__.print_function
+argparse
+datetime
+math
+re
+sys
+vcstools
+vcstools.vcs_abstraction

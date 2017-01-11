@@ -1,0 +1,8 @@
+os
+setuptools
+setuptools.setup
+setuptools.find_packages
+panels.ajax
+panels.ajax.AjaxDebugPanel
+pyramid_debugtoolbar.panels
+pyramid_debugtoolbar.panels.DebugPanel

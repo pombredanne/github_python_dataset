@@ -1,0 +1,15 @@
+os
+setuptools
+setuptools.setup
+os
+socket
+zipfile
+base64
+tempfile
+io
+distutils
+distutils.log
+distutils.command.upload
+distutils.command.upload.upload
+distutils.errors
+distutils.errors.DistutilsOptionError

@@ -1,0 +1,15 @@
+__future__
+__future__.print_function
+os
+json
+subprocess
+re
+time
+gdata
+gdata.spreadsheets.client
+gdata.spreadsheets.data
+gdata.gauth
+oauth2client
+oauth2client.client
+oauth2client.tools
+oauth2client.file

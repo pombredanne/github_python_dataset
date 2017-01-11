@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+django
+django.template
+sys
+os

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+wvbox
+wvbox.WVBox
+wvbox.WVBoxException
+logging
+functools
+functools.wraps
+logging
+numpy

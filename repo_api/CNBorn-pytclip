@@ -1,0 +1,10 @@
+cv2
+cv2
+cv2.resize
+surf
+surf.detect_character
+argparse
+numpy
+math
+math.ceil
+cv2

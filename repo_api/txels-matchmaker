@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+matchmaker.decorators
+matchmaker.decorators.matcher
+inspect
+inspect.getargspec
+hamcrest.core.base_matcher
+hamcrest.core.base_matcher.BaseMatcher
+hamcrest
+hamcrest.(assert_that
+hamcrest.is_not
+matchmaker
+matchmaker.matcher
+sys
+os
+matchmaker.__version__

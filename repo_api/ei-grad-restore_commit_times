@@ -1,0 +1,10 @@
+codecs
+codecs.open
+os
+os.path
+setuptools
+setuptools.setup
+logging
+os
+sys
+git

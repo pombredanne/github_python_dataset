@@ -1,0 +1,12 @@
+sys
+os
+setuptools
+setuptools.setup
+setuptools.command.test
+setuptools.command.test.test
+__future__
+__future__.absolute_import
+__future__.absolute_import
+__future__.unicode_literals
+__future__.absolute_import
+__future__.unicode_literals

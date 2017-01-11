@@ -1,0 +1,16 @@
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages
+setuptools.command.test
+setuptools.command.test.test
+asyncio
+pifacedigitalio
+pifacedigitalio.(
+statemachine
+statemachine.StateMachine
+logging
+pytest
+asyncio
+watering.statemachine
+watering.statemachine.StateMachine

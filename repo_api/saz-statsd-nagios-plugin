@@ -1,0 +1,7 @@
+pynagios
+pynagios.Plugin
+pynagios.Response
+pynagios.make_option
+pynagios.CRITICAL
+pynagios.UNKNOWN
+socket

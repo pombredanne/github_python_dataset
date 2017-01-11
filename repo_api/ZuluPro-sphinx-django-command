@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+djcommanddoc
+unittest
+djcommanddoc
+importlib
+importlib.import_module
+docutils
+docutils.nodes
+docutils.parsers.rst
+docutils.parsers.rst.Directive

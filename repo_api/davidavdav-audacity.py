@@ -1,0 +1,9 @@
+distutils.core
+distutils.core.setup
+argparse
+import
+xml.etree.ElementTree
+wave
+os
+numpy
+struct

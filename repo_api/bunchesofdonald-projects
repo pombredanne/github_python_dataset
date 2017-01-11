@@ -1,0 +1,16 @@
+unittest
+piglatin
+piglatin.piglatin
+unittest
+palindrome
+palindrome.is_palindrome
+stringreverse.reverse_string
+stringreverse.reverse_string.reverse_string
+unittest
+vowelcount
+vowelcount.vowelcount
+collections
+collections.defaultdict
+unittest
+reverse_string
+reverse_string.reverse_string

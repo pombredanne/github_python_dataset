@@ -1,0 +1,10 @@
+configparser
+logging
+logging.config
+time
+urllib.parse
+lxml.html
+redis
+requests
+slackclient
+slackclient.SlackClient

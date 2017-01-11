@@ -1,0 +1,6 @@
+django
+django.VERSION
+os.path
+os.path.dirname
+os.path.join
+os.path.abspath

@@ -1,0 +1,15 @@
+setuptools
+scrapefm
+argparse
+collections
+config
+config.options
+datetime
+datetime.datetime
+logging
+peewee
+pylast
+os
+random
+re
+urlparse

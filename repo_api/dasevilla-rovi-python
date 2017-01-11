@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+base
+base.RoviDataApi
+base.RoviApi
+hashlib
+time
+requests
+requests.auth
+requests.auth.AuthBase

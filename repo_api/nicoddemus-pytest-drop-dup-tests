@@ -1,0 +1,4 @@
+os
+codecs
+setuptools
+setuptools.setup

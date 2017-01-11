@@ -1,0 +1,6 @@
+os
+setuptools
+setuptools.setup
+bcrypt
+version
+version.VERSION

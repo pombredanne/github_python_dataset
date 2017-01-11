@@ -1,0 +1,10 @@
+__future__
+__future__.unicode_literals
+random
+collections
+collections.defaultdict
+json
+re
+markov
+markov.markov
+markov.generate_text

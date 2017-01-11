@@ -1,0 +1,10 @@
+os
+setuptools
+setuptools.find_packages
+setuptools.setup
+collections
+collections.namedtuple
+re
+types
+classdirectory
+classdirectory.ClassDirectory

@@ -1,0 +1,14 @@
+time
+os
+plugins
+plugins.GajimPlugin
+plugins.plugin
+plugins.plugin.GajimPluginException
+plugins.helpers
+plugins.helpers.log
+plugins.helpers.log_calls
+common
+common.ged
+common.gajim
+plugin
+plugin.UbuntuIntegrationPlugin

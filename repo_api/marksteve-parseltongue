@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+collections
+json
+logging
+os
+jinja2
+jinja2.Environment
+jinja2.FileSystemLoader
+jinja2.exceptions
+jinja2.exceptions.TemplateNotFound
+markdown2
+markdown2.markdown

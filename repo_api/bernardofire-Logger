@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+unittest
+subprocess
+should_dsl
+should_dsl.should
+logger
+logger.Logger
+logger.InvalidOperation
+sys

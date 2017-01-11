@@ -1,0 +1,7 @@
+requests
+json
+Crypto.PublicKey
+Crypto.PublicKey.RSA
+Crypto.Util
+Crypto.Util.asn1
+base64

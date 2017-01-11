@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+goslate
+polib
+os
+clint.textui
+clint.textui.colored
+clint.textui.puts
+clint.textui.prompt
+clint.textui.progress
+clint.textui.validators
+clint.textui.validators.RegexValidator
+clint.textui.validators.ValidationError

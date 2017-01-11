@@ -1,0 +1,7 @@
+setuptools
+setuptools.setup
+hashlib
+logging
+json
+requests
+time

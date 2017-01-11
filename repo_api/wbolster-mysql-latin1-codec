@@ -1,0 +1,11 @@
+os
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+codecs
+encodings.cp1252
+sys
+__future__.unicode_literals
+pytest
+mysql_latin1_codec

@@ -1,0 +1,15 @@
+settings
+re
+logging
+os
+os.path
+scrape
+scrape.Session
+scrape.RAW
+urlparse
+urlparse.urlsplit
+urlparse.urljoin
+htmlentitydefs
+htmlentitydefs.name2codepoint
+sys
+re

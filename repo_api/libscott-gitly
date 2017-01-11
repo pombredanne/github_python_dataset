@@ -1,0 +1,12 @@
+pygit2
+distutils.core
+distutils.core.setup
+os
+os.path
+unittest
+shutil
+pygit2
+gitly
+gitly.Tree
+gitly.empty_tree
+gitly

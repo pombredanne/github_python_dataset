@@ -1,0 +1,14 @@
+struct
+sys
+threading
+threading.Lock
+client
+client.Client
+asyncio
+functools
+itertools
+logging
+ssl
+struct
+zlib
+delugeaio.error

@@ -1,0 +1,8 @@
+flask
+flask.Flask
+requests
+bs4
+bs4.BeautifulSoup
+helpers.general_function
+helpers.general_function.strip_html
+bs4.NavigableString

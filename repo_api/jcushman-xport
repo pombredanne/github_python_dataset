@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+datetime
+datetime.datetime
+struct
+xport
+xport.XportReader

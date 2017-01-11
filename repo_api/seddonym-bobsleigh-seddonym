@@ -1,0 +1,14 @@
+distutils.core
+distutils.core.setup
+setuptools
+setuptools.find_packages
+bobsleigh.conf.handlers
+bobsleigh.conf.handlers.InstallationHandler
+collections
+collections.OrderedDict
+socket
+bobsleigh.conf.handlers.InstallationHandler
+django.conf.global_settings
+os
+sys
+re

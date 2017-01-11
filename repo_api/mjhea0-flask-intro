@@ -1,0 +1,12 @@
+flask
+flask.*
+functools
+functools.wraps
+sqlite3
+sqlite3
+sys
+os
+mysite.routes
+mysite.routes.app
+sqlite3
+sys

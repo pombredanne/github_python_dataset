@@ -1,0 +1,14 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+socket
+securetransport.low_level
+securetransport.low_level.(
+cffi
+cffi.FFI
+ssl
+re
+enum
+_securetransport
+_securetransport.ffi
+_securetransport.lib

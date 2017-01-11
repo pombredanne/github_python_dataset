@@ -1,0 +1,7 @@
+pyscreenshot
+os
+time
+win32api
+win32con
+PIL
+PIL.ImageChops

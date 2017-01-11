@@ -1,0 +1,17 @@
+setuptools
+setuptools.setup
+wdocker
+nose.tools
+nose.tools.eq_
+nose.tools.raises
+collections
+collections.OrderedDict
+wdocker
+collections
+os
+string
+subprocess
+sys
+sys
+os
+sphinx_rtd_theme

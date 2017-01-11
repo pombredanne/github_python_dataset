@@ -1,0 +1,10 @@
+setuptools
+setuptools.find_packages
+setuptools.setup
+genshi.template
+genshi.template.MarkupTemplate
+trac.core
+trac.web.chrome
+trac.web.chrome.Chrome
+trac.wiki.macros
+trac.wiki.macros.WikiMacroBase

@@ -1,0 +1,6 @@
+setuptools
+setuptools.setup
+zonepull
+sys
+socket
+optparse

@@ -1,0 +1,17 @@
+twisted.internet
+twisted.internet.reactor
+twisted.internet.interfaces
+twisted.internet.interfaces.IReadDescriptor
+os
+nfqueue
+logging
+scapy.all
+argparse
+threading
+threading.Thread
+threading.Lock
+signal
+selenium
+selenium.webdriver
+selenium.webdriver.common.keys
+selenium.webdriver.common.keys.Keys

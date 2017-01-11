@@ -1,0 +1,10 @@
+matplotlib.pyplot
+seaborn
+pxl.styleplot
+pxl.styleplot.set_sns
+requests
+bs4
+bs4.BeautifulSoup
+re
+pandas
+os

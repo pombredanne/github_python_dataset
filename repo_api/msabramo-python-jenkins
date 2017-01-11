@@ -1,0 +1,17 @@
+distutils.core
+distutils.core.setup
+os
+sys
+unittest
+mock
+mock.patch
+helper
+helper.jenkins
+os
+sys
+jenkins
+urllib2
+urllib
+base64
+json
+httplib

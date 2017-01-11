@@ -1,0 +1,16 @@
+setuptools
+setuptools.setup
+isitup
+__future__
+__future__.absolute_import
+isitup.main
+isitup.main.check
+pytest
+__future__.absolute_import
+requests
+__future__.absolute_import
+click
+isitup.main.check
+isitup
+isitup.__version__
+__future__.absolute_import

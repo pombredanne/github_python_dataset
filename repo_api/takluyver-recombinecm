@@ -1,0 +1,14 @@
+copy
+copy.deepcopy
+difflib
+os.path
+notebook.services.contents.filemanager
+notebook.services.contents.filemanager.FileContentsManager
+notebook.services.contents.filecheckpoints
+notebook.services.contents.filecheckpoints.FileCheckpoints
+nbformat.v4
+nbformat.v4.new_notebook
+nbformat.v4.new_code_cell
+nbformat.v4.new_output
+nbformat.v4.new_markdown_cell
+recombinecm

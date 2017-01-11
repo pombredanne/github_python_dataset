@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+re
+discorddj
+discorddj.config
+discord.ext
+discord.ext.commands
+argparse
+discord
+logging
+pyyaml
+queue

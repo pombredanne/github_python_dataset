@@ -1,0 +1,14 @@
+flask
+flask.Flask
+flask.request
+plumbum
+plumbum.local
+plumbum.cmd
+plumbum.cmd.ls
+plumbum.cmd.mkdir
+plumbum.cmd.wc
+plumbum.cmd.wget
+shorten
+shorten.dehydrate
+math
+sys

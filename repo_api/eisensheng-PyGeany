@@ -1,0 +1,9 @@
+os
+socket
+gi.repository
+gi.repository.GLib
+gi.repository.Gdk
+sys
+setuptools
+setuptools.setup
+setuptools.find_packages

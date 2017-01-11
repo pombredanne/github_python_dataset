@@ -1,0 +1,12 @@
+integer
+integer.Integer
+unittest
+fixedinteger
+fixedinteger.rectify
+fixedinteger.u8
+fixedinteger.u32
+fixedinteger.u64
+fixedinteger.i8
+fixedinteger.i32
+fixedinteger.i64
+fixedinteger.fixed_int

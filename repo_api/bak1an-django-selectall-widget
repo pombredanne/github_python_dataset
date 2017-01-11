@@ -1,0 +1,10 @@
+django
+django.forms
+django.template
+django.template.Context
+django.template.loader
+django.template.loader.get_template
+django.utils.safestring
+django.utils.safestring.mark_safe
+django.core.exceptions
+django.core.exceptions.FieldError

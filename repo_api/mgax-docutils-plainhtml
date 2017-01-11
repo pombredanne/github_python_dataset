@@ -1,0 +1,7 @@
+docutils.writers
+docutils.writers.html4css1
+docutils
+docutils.nodes
+setuptools
+setuptools.setup
+setuptools.find_packages

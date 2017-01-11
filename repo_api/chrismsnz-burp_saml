@@ -1,0 +1,8 @@
+burp
+burp.IBurpExtender
+burp.IMessageEditorTabFactory
+burp.IMessageEditorTab
+re
+urllib
+xml.dom.minidom
+zlib

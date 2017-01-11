@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+sys
+django.core.management.base
+django.core.management.base.BaseCommand
+django.core.management
+django.core.management.call_command
+django.core.cache
+django.core.cache.cache
+south.management.commands.migrate
+south.management.commands.migrate.Command

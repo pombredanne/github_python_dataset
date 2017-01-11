@@ -1,0 +1,17 @@
+matplotlib
+sys
+numpy
+PyQt4
+PyQt4.QtGui
+PyQt4.QtCore
+config
+time
+PyPore.parsers
+PyPore.database
+PyPore.DataTypes
+PyPore.hmm
+PyPore.alignment
+matplotlib.backends.backend_qt4agg
+matplotlib.backends.backend_qt4agg.FigureCanvasQTAgg
+matplotlib.backends.backend_qt4agg.NavigationToolbar2QTAgg
+matplotlib.pyplot

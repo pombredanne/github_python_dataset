@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+sys
+import
+parser
+parser.parse_patch_sets
+parser.#
+parser.noqa
+itertools
+re
+attr

@@ -1,0 +1,7 @@
+os
+sys
+setuptools
+setuptools.setup
+__future__
+__future__.with_statement
+unittest2

@@ -1,0 +1,5 @@
+urllib2
+urllib2.urlopen
+urllib2.HTTPError
+socket
+socket.timeout

@@ -1,0 +1,12 @@
+sys
+os
+signal
+optparse
+re
+subprocess
+locale
+pyinotify
+pyinotify.WatchManager
+pyinotify.Notifier
+pyinotify.ProcessEvent
+pyinotify.EventsCodes

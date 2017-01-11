@@ -1,0 +1,8 @@
+bs4
+bs4.BeautifulSoup
+csv
+Queue
+requests
+sys
+threading
+threading.Thread

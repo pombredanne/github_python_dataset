@@ -1,0 +1,12 @@
+html5lib
+html5lib.HTMLParser
+html5lib.treebuilders
+html5lib.treebuilders._base
+import
+_compat
+_compat.iteritems
+xml.parsers
+xml.parsers.expat
+_compat.unicode
+_compat.basestring
+_compat.iteritems

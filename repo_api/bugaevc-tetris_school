@@ -1,0 +1,6 @@
+pygame
+pygame.locals
+pygame.locals.*
+random
+math
+math.floor

@@ -1,0 +1,15 @@
+setuptools
+setuptools.setup
+commen5
+commen5.__version__
+django.db
+django.db.models
+django.template
+django.template.Context
+django.template.Template
+django.test
+django.test.TestCase
+django
+django.template
+django.template.defaulttags
+django.template.defaulttags.CommentNode

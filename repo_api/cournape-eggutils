@@ -1,0 +1,8 @@
+setuptools
+setuptools.setup
+zipfile
+re
+os
+sys
+distutils.util
+distutils.util.rfc822_escape

@@ -1,0 +1,5 @@
+setuptools
+setuptools.setup
+markdown
+markdown.treeprocessors
+markdown.treeprocessors.Treeprocessor

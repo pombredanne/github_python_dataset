@@ -1,0 +1,7 @@
+os
+os.getenv
+MySQLdb
+MySQLdb
+MySQLdb.cursors
+MySQLdb.MySQLError
+redis

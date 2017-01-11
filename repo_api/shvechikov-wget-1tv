@@ -1,0 +1,12 @@
+re
+datetime
+itertools
+subprocess
+times
+requests
+docopt
+docopt.docopt
+lxml
+lxml.etree
+pytils.dt
+pytils.dt.ru_strftime

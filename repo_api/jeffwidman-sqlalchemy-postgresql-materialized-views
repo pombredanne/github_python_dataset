@@ -1,0 +1,17 @@
+sqlalchemy.ext
+sqlalchemy.ext.compiler
+sqlalchemy.schema
+sqlalchemy.schema.DDLElement
+sqlalchemy
+sqlalchemy.ext.declarative
+sqlalchemy.ext.declarative.declarative_base
+sqlalchemy.ext.hybrid
+sqlalchemy.ext.hybrid.hybrid_property
+app
+app.db
+app.models.view_factory
+app.models.view_factory.MaterializedView
+app.models.view_factory.create_mat_view
+sqlalchemy.ext.compiler
+sqlalchemy.schema.DDLElement
+app.db

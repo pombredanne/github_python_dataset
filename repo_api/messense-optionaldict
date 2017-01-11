@@ -1,0 +1,14 @@
+__future__
+__future__.with_statement
+os
+setuptools
+setuptools.setup
+__future__.absolute_import
+__future__.unicode_literals
+pickle
+unittest
+optionaldict
+optionaldict.optionaldict
+__future__.absolute_import
+__future__.unicode_literals
+sys

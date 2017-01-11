@@ -1,0 +1,8 @@
+datetime
+functools
+logging
+mwparserfromhell
+pywikibot
+re
+requests
+time

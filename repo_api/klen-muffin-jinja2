@@ -1,0 +1,17 @@
+re
+os
+os.path
+setuptools
+setuptools.setup
+asyncio
+pprint
+jinja2
+muffin.plugins
+muffin.plugins.BasePlugin
+muffin.plugins.PluginException
+muffin.utils
+muffin.utils.to_coroutine
+ujson
+ujson.dumps
+muffin
+pytest

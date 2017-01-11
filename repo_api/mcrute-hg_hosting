@@ -1,0 +1,16 @@
+repolib
+re
+os
+repolib
+mercurial
+mercurial.demandimport;
+mercurial.demandimport.enable()
+mercurial.dispatch
+os.path
+logging
+StringIO
+StringIO.StringIO
+ConfigParser
+ConfigParser.SafeConfigParser
+os
+repolib

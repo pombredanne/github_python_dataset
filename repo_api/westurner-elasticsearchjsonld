@@ -1,0 +1,15 @@
+sys
+os
+elasticsearchjsonld
+os
+unittest
+elasticsearchjsonld
+elasticsearchjsonld.elasticsearchjsonld
+__future__
+__future__.print_function
+collections
+codecs
+json
+logging
+optparse
+sys

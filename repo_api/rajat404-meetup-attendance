@@ -1,0 +1,13 @@
+flask
+flask.Flask
+flask.ext.classy
+flask.ext.classy.FlaskView
+flask.ext.classy.route
+json
+requests
+ConfigParser
+ConfigParser.SafeConfigParser
+attendance
+attendance.app
+werkzeug.serving
+werkzeug.serving.run_simple

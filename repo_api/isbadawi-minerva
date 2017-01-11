@@ -1,0 +1,9 @@
+setuptools
+setuptools.setup
+client
+transcript
+itertools
+bs4
+os
+requests
+import

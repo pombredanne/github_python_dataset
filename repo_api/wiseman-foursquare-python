@@ -1,0 +1,12 @@
+unittest
+time
+getpass
+getpass.getpass
+foursquare
+httplib
+urllib
+string
+sys
+logging
+base64
+oauth

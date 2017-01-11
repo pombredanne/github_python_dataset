@@ -1,0 +1,13 @@
+setuptools
+setuptools.setup
+__future__
+__future__.unicode_literals
+sys
+os
+logging
+io
+io.open
+io.BytesIO
+optparse
+optparse.make_option
+optparse.OptionParser

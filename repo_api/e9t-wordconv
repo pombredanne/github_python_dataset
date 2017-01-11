@@ -1,0 +1,16 @@
+wordconv_app.app
+wordconv_app.app.create_app
+wordconv_app
+wordconv_app.settings
+werkzeug
+werkzeug.DebuggedApplication
+__future__
+__future__.unicode_literals
+flask
+flask.Flask
+flask.render_template
+flask.redirect
+flask.url_for
+settings
+settings.DICS
+settings.SERVER_SETTINGS

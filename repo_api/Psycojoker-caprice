@@ -1,0 +1,8 @@
+pwd
+caprice.core.logging
+caprice.core.logging.log
+caprice.core.shell
+caprice.core.shell.command
+subprocess
+caprice.core.logging.log
+sys

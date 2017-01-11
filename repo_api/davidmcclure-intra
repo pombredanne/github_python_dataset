@@ -1,0 +1,14 @@
+intra
+matplotlib.pyplot
+requests
+re
+math
+numpy
+stemming.porter2
+stemming.porter2.stem
+nltk.corpus
+nltk.corpus.wordnet
+operator
+operator.itemgetter
+copy
+re

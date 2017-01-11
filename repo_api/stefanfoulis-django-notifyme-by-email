@@ -1,0 +1,12 @@
+setuptools
+setuptools.setup
+setuptools.find_packages
+os
+django.core.mail.message
+django.core.mail.message.EmailMultiAlternatives
+django.conf
+django.conf.settings
+django.template.loader
+django.template.loader.render_to_string
+notifyme.delivery_backends.base
+notifyme.delivery_backends.base.BaseDeliveryBackend

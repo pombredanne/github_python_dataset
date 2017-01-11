@@ -1,0 +1,15 @@
+__future__
+__future__.print_function
+__future__.unicode_literals
+argparse
+gettext
+gettext.gettext
+json
+os
+shutil
+subprocess
+sys
+tempfile
+xml.etree
+xml.etree.ElementTree
+xml

@@ -1,0 +1,10 @@
+tensorflow.models.rnn
+tensorflow.models.rnn.rnn_cell
+tensorflow.models.rnn.rnn
+tensorflow
+numpy
+input_data
+gzip
+os
+urllib
+numpy

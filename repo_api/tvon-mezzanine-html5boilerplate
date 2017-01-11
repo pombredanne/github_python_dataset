@@ -1,0 +1,8 @@
+django.db
+django.db.models
+django.test
+django.test.TestCase
+mezzanine.pages.models
+mezzanine.pages.models.Page
+mezzanine
+mezzanine.template

@@ -1,0 +1,7 @@
+collections
+collections.OrderedDict
+opcode
+opcode.(
+dis
+instruction
+instruction.StackInstruction

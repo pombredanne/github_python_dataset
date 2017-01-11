@@ -1,0 +1,10 @@
+setuptools
+setuptools.setup
+telnetlib
+datetime
+prettytable
+prettytable.PrettyTable
+os
+time
+sys
+getopt

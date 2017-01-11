@@ -1,0 +1,16 @@
+io
+re
+sys
+football.base
+football.base.get_games
+football.base.get_teams_to_conference
+football.base.in_and_cross_conference_edges
+itertools
+math
+numpy
+collections
+collections.defaultdict
+collections.namedtuple
+csv
+io
+numpy

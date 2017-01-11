@@ -1,0 +1,10 @@
+docopt
+docopt.docopt
+prettytable
+prettytable.PrettyTable
+api
+api.LeClient
+re
+re.search
+re.IGNORECASE
+requests

@@ -1,0 +1,11 @@
+setuptools
+setuptools.setup
+py
+pytest
+iniconfig
+iniconfig.IniConfig
+iniconfig.ParseError
+iniconfig.__all__
+iniconfig.iscommentline
+textwrap
+textwrap.dedent

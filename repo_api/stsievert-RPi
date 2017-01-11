@@ -1,0 +1,9 @@
+sys
+re
+webbrowser
+ast
+threading
+threading.Thread
+IPython.external.qt
+IPython.external.qt.QtGui
+IPython.external.qt.QtCore

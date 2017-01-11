@@ -1,0 +1,10 @@
+flask
+flask.Flask
+flask.request
+hashlib
+memcache
+pywikibot
+simplejson
+wdapi
+wsgiref.handlers
+wsgiref.handlers.CGIHandler
