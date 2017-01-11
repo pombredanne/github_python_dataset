@@ -12,10 +12,10 @@ The metadata (modules/packages information) of each repository is also included 
 3. user_repo_commit.txt
    
     - Format : [user_index] [repo_index] [number of commits]
-        a) user_index: each index i corresponds to the i-th user in list_user_3895.txt.
-        b) repo_index: each index j corresponds to the j-th repository in list_repo_21631.txt.
-        c) number of commits: the number of commits of user i on repository j.
-    - Each field is split by a single space.
+        + user_index: each index i corresponds to the i-th user in list_user_3895.txt.
+        + repo_index: each index j corresponds to the j-th repository in list_repo_21631.txt.
+        + number of commits: the number of commits of user i on repository j.
+        + Each field is split by a single space.
 
 4. repo_api (a directory)
     - Each file name corresponds to a repository listed in list_repo_21631.txt.
